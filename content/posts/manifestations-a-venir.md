@@ -1,6 +1,7 @@
 ---
 title: "Manifestations à venir"
-date: 
+description: ""
+date: 2022-04-10
 tags:
 - 
 - 

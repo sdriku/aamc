@@ -1,4 +1,10 @@
 <footer id="footer" class="main-content-wrap">
+  <span style="margin-right: 10%;" class="copyrights">
+    <a href="mailto:{{ .Site.Params.Author.gravatarEmail }}">aamcevreux@gmail.com</a>
+  </span>
+  <span style="margin-right: 10%;" class="copyrights">
+    <a href="{{ .Site.BaseURL }}mentionslegales">Mentions Légales</a>
+  </span>
   <span class="copyrights">
     &copy; {{ now.Format "2006" }} {{ with .Site.Params.footer.copyright }}{{ . | safeHTML }}{{ else }}{{ with .Site.Author.name }}{{ . }}{{ else }}{{ with .Site.Title }}{{ . }}{{ end }}{{ end }}{{ end }}. {{ i18n "footer.all_rights_reserved" }}
   </span>

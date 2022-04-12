@@ -1,6 +1,31 @@
 {{ partial "head.html" . }}
+<style>
+  .form-control {
+    border-radius: 5px;
+    padding: 0 15px 2px;
+    height: 40px;
+    width: 80%;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: black;
+  }
+  
+  .btn_custom {
+    border-radius: 20px;
+    padding: 0 15px 2px;
+    height: 100px;
+    color: blue;
+  }
+
+  #message {
+    padding-top: 3%;
+  }
+</style>
   <body>
-    <div id="blog">
+    <div>
       {{ partial "header.html" . }}
       {{ partial "sidebar.html" . }}
       {{ partial "post/header-cover.html" . }}
@@ -9,40 +34,40 @@
                {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
 
-               <div class="container">
-                <div class="row">
-                  <div class="col-12 col-md-8 mt-5 ml-6">
+               <div>
+                <div style="margin-left:5%">
+                  <h1>{{ .Title }}</h1>
+                  <div>
                     {{ .Content }}
                     <ul>
-                      <li class="mb-2"><img height="80" width="80" src="{{ .Params.iconPhone | relURL }}" alt="{{ .Params.altPhone }}" class="mr-2"/>{{ .Params.phone }}</li>
-                      <li><img height="80" width="80" src="{{ .Params.iconEmail | relURL }}" alt="{{ .Params.altEmail }}" class="mr-2"/><a href="mailto:{{ .Site.Data.contact.email }}">
-                          {{ .Params.email }}</a></li>
+                      <ul style="display:flex; align-items:center"><img style="margin-right: 5%;" height="60" width="60" src="{{ .Params.iconEmail | relURL }}" alt="{{ .Params.altEmail }}" /><a href="mailto:{{ .Site.Data.contact.email }}">
+                          {{ .Params.email }}</a></ul>
                     </ul>
                   </div>
                 </div>
               </div>
-              <div class="container">
-                 <div class="row">
-                    <div class="col-lg-12 col-md-8 my-5 p-5">
+              <div style="margin-left:5%; margin-top: 5%;">
+                 <div>
+                    <div>
                     <form action="https://formspree.io/f/mayvdvop" method="POST" accept-charset="UTF-8">
-                      <div class="col-lg-12 my-1">
+                      <div>
                         <input type="text" name="name" id="name" class="form-control" placeholder="Votre Nom" required>
                       </div>
-                      <div class="col-lg-12 my-1">
+                      <div>
                         <input type="email" class="form-control" name="email" id="email" placeholder="Votre Adresse Email" required>
                       </div>
-                      <div class="col-lg-12 my-1">
+                      <div>
                         <input type="tel" class="form-control" name="phone" id="email" placeholder="Votre Téléphone (facultatif)">
                       </div>
-                      <div class="col-lg-12 my-1">
+                      <div>
                         <input type="text" name="subject" id="subject" class="form-control" placeholder="Sujet" required>
                       </div>
-                      <div class="col-lg-12 my-1">
-                        <textarea class="form-control p-2" name="message" id="message" placeholder="Parlez-moi ici de vos besoins actuels" required
+                      <div>
+                        <textarea class="form-control" name="message" id="message" placeholder="Plus d'informations, Adhésion, Donation ?" required
                           style="height: 150px;"></textarea>
                       </div>
-                      <div class="col-lg-12 my-2">
-                        <button class="button" type="submit">Envoyer</button>
+                      <div>
+                        <button class="btn--medium btn--primary" type="submit">Envoyer</button>
                       </div>
                    </form>
                   </div>

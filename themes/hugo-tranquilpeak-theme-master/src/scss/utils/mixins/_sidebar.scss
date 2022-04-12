@@ -100,7 +100,7 @@
                 // Description (name) of a link
                 .sidebar-button-desc {
                     display:        inline-block;
-                    width:          200px;
+                    width:          auto;
                     height:         35px;
                     line-height:    35px;
                     font-size:      1.5rem;
@@ -185,7 +185,7 @@
                 }
                 // Description (name) of a link
                 .sidebar-button-desc {
-                    display:        block;
+                    display:        inline-block;
                     width:          auto;
                     height:         35px;
                     line-height:    35px;
@@ -196,7 +196,7 @@
                 }
             }
             &:nth-child(odd) {
-                padding-right: 10px;
+                padding-right: 5px;
             }
         }
     }

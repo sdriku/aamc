@@ -1,6 +1,7 @@
 ---
 title: Le mot du Président
-date: 
+description: ""
+date: 2022-04-11
 thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/video-integration-showcase/peak-140.jpg
 categories:
