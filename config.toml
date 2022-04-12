@@ -29,6 +29,11 @@ canonifyurls = true
   ##tag = "tags"
   category = "categories"
   archive = "archives"
+  
+ [sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
 
 # ------
 # Markup
@@ -45,14 +50,14 @@ canonifyurls = true
 # ------
 [author]
   name = "AAMC"
-  bio = "Association Arménienne Mémoire Culture"
+  bio = "Asso Arménienne Mémoire Culture"
   job = "Association culturelle"
   location = "Evreux, France"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "email de l'association"
-  # Your profile picture
-  # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  gravatarEmail = "aamcevreux@gmail.com"
+  # Your logo
+  logodesktop = "img/logo-aamc-desktop.jpg"
+  logomobile = "img/logo-aamc-mobile.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -222,7 +227,7 @@ canonifyurls = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  #  favicon = "/favicon.png"
+  favicon = "/img/favicon.png"
 
   # ------------------
   # External resources
@@ -393,14 +398,14 @@ canonifyurls = true
   #  url: /#search
   #  icon: search
   #  class: st-search-show-outputs
-  [params.header.rightLink]
-    class = ""
-    icon = ""
-    url = "/#about"
+  ##[params.header.rightLink]
+    ##class = ""
+    ##icon = ""
+    ##url = "/#about"
 
   # --------------------
   # Footer configuration
   # --------------------
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
-  #  [params.footer]
-  #    copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+  [params.footer]
+  copyright = "<a href=\"https://\">AAMC</a>"

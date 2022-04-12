@@ -15,9 +15,7 @@
       <i class="fa fa-lg fa-{{ .icon }}"></i>
     {{ end }}
     {{ if not $.Site.Params.header.rightLink.icon }}
-      {{ with ($.Scratch.Get "authorPicture") }}
-        <img class="header-picture" src="{{ . }}{{ if in . "//www.gravatar.com/avatar/" }}?s=90{{ end }}" alt="{{ i18n "global.author_picture" }}" />
-      {{ end }}
+      <picture><source id="about-card-picture" srcset="{{ .Site.Author.logodesktop | relURL }}" media="(min-width: 800px)"><img id="about-card-picture" src="{{ .Site.Author.logomobile | relURL }}" alt="logo AAMC"></picture>
     {{ end }}
     </a>
   {{ end }}

@@ -100,7 +100,7 @@
                 // Description (name) of a link
                 .sidebar-button-desc {
                     display:        inline-block;
-                    width:          auto;
+                    width:          200px;
                     height:         35px;
                     line-height:    35px;
                     font-size:      1.5rem;
@@ -192,13 +192,11 @@
                     font-size:      1.5rem;
                     letter-spacing: 0.3px;
                     vertical-align: middle;
-                    overflow:       hidden;
                     white-space:    nowrap;
-                    text-overflow:  ellipsis;
                 }
             }
             &:nth-child(odd) {
-                padding-right: 20px;
+                padding-right: 10px;
             }
         }
     }

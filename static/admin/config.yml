@@ -1,0 +1,164 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+
+site_url: https://site-en-developpement-aamc.netlify.app/
+display_url: https://www.assist-secretariat.com
+logo_url: https://www.assist-secretariat.com/images/aogw-logo-400w.png
+locale: 'fr'
+
+media_folder: themes/hugo-hero-theme-master/assets/img
+public_folder: /img
+collections:
+  - name: 'sectionprestations'
+    label: 'Section Prestations'
+    description: 'Modifiez ici la page principale nommée Prestations'
+    folder: 'content/prestations'
+    create: false
+    editor:
+      preview: true
+    filter: {field: "mainsection", value: "true"}
+    fields:
+      - { label: 'Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est le Titre SEO qui apparait depuis Google lors dune recherche mais napparait nulle part sur votre site' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparait depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
+      - { label: 'Sous-titre de la Page', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Sous-titre qui apparait juste au dessous du Titre' }
+  - name: 'mesprestations'
+    label: 'Mes Prestations'
+    description: 'Modifiez ici la page dédiée à chacune de vos prestations'
+    folder: 'content/prestations'
+    create: true
+    editor:
+      preview: true
+    filter: {field: "mainsection", value: "false"}
+    fields:
+      - { label: 'Intitulé sous-section et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de votre prestation sur le site + le titre SEO de votre page' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Ordre', name: 'weight', widget: 'number', hint: 'ordre dans lequel vos prestations sont listées depuis la page principale Prestations' }
+      - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
+      - { label: 'Résumé', name: 'summary', widget: 'string', hint: 'Résumé de quelques lignes qui apparait sur la page principale Prestations ' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
+
+  - name: 'sectionavantages'
+    label: 'Section Avantages'
+    description: 'Modifiez ici la page principale nommée Avantages'
+    folder: 'content/avantages'
+    create: false
+    editor:
+      preview: true
+    filter: {field: "mainsection", value: "true"}
+    fields:
+      - { label: 'Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est le Titre SEO qui apparait depuis Google lors dune recherche mais napparait nulle part sur votre site' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparait depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
+      - { label: 'Sous-titre de la Page', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Sous-titre qui apparait juste au dessous du Titre' }
+  - name: 'mesavantages'
+    label: 'Mes Avantages'
+    description: 'Modifiez ici la page dédiée à chacun de vos avantages'
+    folder: 'content/avantages'
+    create: true
+    editor:
+      preview: true
+    filter: {field: "mainsection", value: "false"}
+    fields:
+      - { label: 'Intitulé sous-section et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de votre prestation sur le site + le titre SEO de votre page' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Ordre', name: 'weight', widget: 'number', hint: 'ordre dans lequel vos prestations sont listées depuis la page principale Prestations' }
+      - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
+      - { label: 'Sous-titre de la Page', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Sous-titre qui apparait juste au dessous du Titre' }
+      - { label: 'Résumé', name: 'summary', widget: 'string', hint: 'Résumé de quelques lignes qui apparait sur la page principale Prestations ' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre avantage + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
+      
+  - name: 'sectiontarifs'
+    label: 'Section Tarifs'
+    description: 'Modifiez ici la page principale nommée Tarifs'
+    folder: 'content/pages/tarifs'
+    create: false
+    editor:
+      preview: true
+    filter: {field: "mainsection", value: "true"}
+    fields:
+      - { label: 'Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est le Titre SEO qui apparait depuis Google lors dune recherche mais napparait nulle part sur votre site' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparait depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
+      - { label: 'Sous-titre de la Page', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Sous-titre qui apparait juste au dessous du Titre' }
+  - name: 'tarifs'
+    label: 'Tarifs'
+    description: 'Modifiez ici les sous-sections de votre page Tarifs'
+    folder: 'content/pages/tarifs'
+    create: true
+    editor:
+      preview: true
+    filter: {field: "mainsection", value: "false"}
+    fields:
+      - { label: 'Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est le Titre SEO qui apparait depuis Google lors dune recherche mais napparait nulle part sur votre site' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparait depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Ordre', name: 'weight', widget: 'number', hint: 'ordre dans lequel vos sections apparaissent sur la page Tarifs' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la sous-section + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
+
+  - name: 'sectionquisuisje'
+    label: 'Section Qui suis-je'
+    description: 'Modifiez ici la page principale nommée Qui suis-je'
+    folder: 'content/pages/quisuisje'
+    create: false
+    editor:
+      preview: true
+    filter: {field: "mainsection", value: "true"}
+    fields:
+      - { label: 'Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est le Titre SEO qui apparait depuis Google lors dune recherche mais napparait nulle part sur votre site' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparait depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
+      - { label: 'Sous-titre de la Page', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Sous-titre qui apparait juste au dessous du Titre' }
+  - name: 'quisuisje'
+    label: 'Qui suis-je'
+    description: 'Modifiez ici les sous-sections de votre page Qui suis-je'
+    folder: 'content/pages/quisuisje'
+    create: true
+    editor:
+      preview: true
+    filter: {field: "mainsection", value: "false"}
+    fields:
+      - { label: 'Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est le Titre SEO qui apparait depuis Google lors dune recherche mais napparait nulle part sur votre site' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparait depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Ordre', name: 'weight', widget: 'number', hint: 'ordre dans lequel vos sections apparaissent sur la page Qui suis-je' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la sous-section + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
+
+  - name: 'contact'
+    label: 'Contact'
+    description: 'Modifiez ici votre page Contact'
+    folder: 'content/contact'
+    create: false
+    editor:
+      preview: true
+    fields:
+      - { label: 'Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est le Titre SEO qui apparait depuis Google lors dune recherche mais napparait nulle part sur votre site' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparait depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
+      - { label: 'Sous-titre de la Page', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Sous-titre qui apparait juste au dessous du Titre' }
+
+  - name: 'mentionslegales'
+    label: 'Mentions légales'
+    description: 'Modifiez ici vos Mentions Légales'
+    folder: 'content/mentionslegales'
+    create: false
+    editor:
+      preview: true
+    fields:
+      - { label: 'Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est le Titre SEO qui apparait depuis Google lors dune recherche mais napparait nulle part sur votre site' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparait depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Titre de la Page', name: 'heroHeading', widget: 'string', hint: 'Titre qui apparait en haut de la page dédiée' }
+      - { label: 'Sous-titre de la Page', name: 'heroSubHeading', widget: 'string', required: false, hint: 'Sous-titre qui apparait juste au dessous du Titre' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + listez ici vos Mentions Légales' }
+
+  - name: "fichierdonnées"
+    label: "Fichier Données"
+    files:
+      - name: 'fichiercontact'
+        label: 'Fichier Contact'
+        description: 'Modifiez ici les contacts de votre entreprise'
+        file: 'data/contact.yaml'
+        editor:
+          preview: true
+        fields:
+          - { label: 'Adresse email', name: 'email', widget: 'string', hint: 'Modifiez si nécessaire adresse email de la page Contact' }
+          - { label: 'Numéro de téléphone', name: 'phone', widget: 'string', hint: 'Modifiez si nécessaire numéro de téléphone de la page Contact' }
