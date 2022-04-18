@@ -7,7 +7,7 @@ display_url:
 logo_url: 
 locale: 'fr'
 
-media_folder: themes/hugo-tranquilpeak-theme-master/assets/img
+media_folder: assets/img
 public_folder: /img
 collections:
   - name: 'articles'
@@ -20,6 +20,7 @@ collections:
     fields:
       - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
       - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Résumé article', name: 'summary', widget: 'string', hint: 'Ceci est le Résumé de votre article qui apparaitra en première page du site + soyez bref et donnez envie au lecteur de cliquer et ouvrir article' }
       - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
 
   - name: "pagesprincipales"
@@ -32,8 +33,9 @@ collections:
         editor:
           preview: true
         fields:
-          - { label: 'Adresse email', name: 'email', widget: 'string', hint: 'Modifiez si nécessaire adresse email de la page Contact' }
-          - { label: 'Numéro de téléphone', name: 'phone', widget: 'string', hint: 'Modifiez si nécessaire numéro de téléphone de la page Contact' }
+      - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
       - name: 'activites'
         label: 'Activités'
         description: 'Modifiez ici la page Activités'
@@ -41,8 +43,9 @@ collections:
         editor:
           preview: true
         fields:
-          - { label: 'Adresse email', name: 'email', widget: 'string', hint: 'Modifiez si nécessaire adresse email de la page Contact' }
-          - { label: 'Numéro de téléphone', name: 'phone', widget: 'string', hint: 'Modifiez si nécessaire numéro de téléphone de la page Contact' }
+      - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
       - name: 'gallerie'
         label: 'Gallerie'
         description: 'Modifiez ici la page Gallerie'
@@ -50,8 +53,9 @@ collections:
         editor:
           preview: true
         fields:
-          - { label: 'Adresse email', name: 'email', widget: 'string', hint: 'Modifiez si nécessaire adresse email de la page Contact' }
-          - { label: 'Numéro de téléphone', name: 'phone', widget: 'string', hint: 'Modifiez si nécessaire numéro de téléphone de la page Contact' }
+      - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
       - name: 'contact'
         label: 'Contact'
         description: 'Modifiez ici la page Contact'
@@ -59,8 +63,9 @@ collections:
         editor:
           preview: true
         fields:
-          - { label: 'Adresse email', name: 'email', widget: 'string', hint: 'Modifiez si nécessaire adresse email de la page Contact' }
-          - { label: 'Numéro de téléphone', name: 'phone', widget: 'string', hint: 'Modifiez si nécessaire numéro de téléphone de la page Contact' }
+      - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
+      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
       - name: 'mentionslegales'
         label: 'Mentions Légales'
         description: 'Modifiez ici la page Mentions Légales'
@@ -68,5 +73,7 @@ collections:
         editor:
           preview: true
         fields:
+          - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
+          - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
           - { label: 'Adresse email', name: 'email', widget: 'string', hint: 'Modifiez si nécessaire adresse email de la page Contact' }
-          - { label: 'Numéro de téléphone', name: 'phone', widget: 'string', hint: 'Modifiez si nécessaire numéro de téléphone de la page Contact' }
+          - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }

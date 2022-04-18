@@ -5,7 +5,7 @@
 baseURL = "/"
 languageCode = "fr-fr"
 defaultContentLanguage = "fr"
-title = "AAMC - Association Arménienne Mémoire Culture"
+title = "Association Arménienne Mémoire Culture"
 theme = "hugo-tranquilpeak-theme-master"
 ## disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -40,7 +40,7 @@ canonifyurls = true
 # ------
 [author]
   name = "AAMC"
-  bio = "Asso Arménienne Mémoire Culture"
+  bio = "Association Arménienne Mémoire Culture"
   job = "Association culturelle"
   location = "Evreux, France"
   # Your Gravatar email
