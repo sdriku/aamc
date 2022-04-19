@@ -3,8 +3,8 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 
 site_url: https://site-en-developpement-aamc.netlify.app/
-display_url: 
-logo_url: 
+display_url: https://site-en-developpement-aamc.netlify.app/
+logo_url: https://site-en-developpement-aamc.netlify.app/img/logo-aamc-desktop.jpg
 locale: 'fr'
 
 media_folder: assets/img
@@ -27,7 +27,7 @@ collections:
     label: "Pages Principales"
     files:
       - name: 'raisondetre'
-        label: 'Raison d'être'
+        label: 'Raison d´être'
         description: 'Modifiez ici la page Raison dêtre'
         file: 'content/raison-detre.md'
         editor:
