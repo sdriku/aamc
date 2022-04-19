@@ -2,9 +2,6 @@
 title: "Welcome to Tranquilpeak 0.5.3-BETA"
 description: ""
 date: 2022-04-12
-categories:
-- tranquilpeak
-- releases
 tags:
 - hexo theme
 - responsive

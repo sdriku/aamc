@@ -4,7 +4,7 @@
 
 baseURL = "/"
 languageCode = "fr-fr"
-defaultContentLanguage = "fr"
+defaultContentLanguage = "fr-fr"
 title = "Association Arménienne Mémoire Culture"
 theme = "hugo-tranquilpeak-theme-master"
 ## disqusShortname = "hugo-tranquilpeak-theme"
@@ -31,7 +31,7 @@ canonifyurls = true
 #[markup]
   # Set startLevel = 1 to support # title (<h1>title</h1>) otherwise table of content is blank/empty
   #[markup.tableOfContents]
-    #endLevel = 3
+    #endLevel = 4
     #ordered = false
     #startLevel = 1
 
@@ -150,7 +150,7 @@ canonifyurls = true
   # You must use date format used by Go Time package https://golang.org/pkg/time/
   # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
   # Default format is: January 2, 2006
-  dateFormat = "2 January 2006"
+  dateFormat = "2 January, 2006"
 
   # ---------------------------
   # Posts related configuration
@@ -220,8 +220,8 @@ canonifyurls = true
   # ------------------
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
-  [[params.customCSS]]
-    href = "css/mystyle.css"
+  #[[params.customCSS]]
+  #  href = "css/mystyle.css"
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example

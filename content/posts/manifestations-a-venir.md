@@ -110,35 +110,6 @@ Read documentation to know how to use [Image tag](https://github.com/kakawait/hu
 
 <p></p>
 
-{{< image classes="fancybox fig-100" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-15.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-15-750.jpg" >}}
-{{< image classes="fancybox nocaption fig-50" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-4.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-4-375.jpg" title="Ferrari" >}}
-{{< image classes="fancybox nocaption fig-50" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-12.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-12-375.jpg" title="BMW i8 Concept" >}}
-{{< image classes="fancybox nocaption fig-33" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-14.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-14-250.jpg" >}}
-{{< image classes="fancybox nocaption fig-33" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-9.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-9-250.jpg" >}}
-{{< image classes="fancybox nocaption fig-33" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-2.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-2-250.jpg" >}}
-{{< image classes="right fancybox fig-75" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-11.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-11-560.jpg" >}}
-{{< image classes="right fancybox fig-25" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-8.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-8-185.jpg" >}}
-{{< image classes="right fancybox fig-25" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-10.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-10-185.jpg" >}}
-{{< image classes="right fancybox fig-25" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-5.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-5-185.jpg" >}}
-{{< image classes="fancybox fig-50" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-13.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-13-375.jpg" >}}
-{{< image classes="fancybox fig-25" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-17.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-17-185.jpg" >}}
-{{< image classes="fancybox fig-25" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18-185.jpg" >}}
-{{< image classes="fancybox fig-25" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-19.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-19-185.jpg" >}}
-{{< image classes="clear fancybox fig-25" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-20.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-20-185.jpg" >}}
-{{< image classes="fancybox fig-25" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-21.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-21-185.jpg" >}}
-{{< image classes="fancybox fig-25" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-22.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-22-185.jpg" >}}
-{{< image classes="fancybox fig-25" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-23.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-23-185.jpg" >}}
-{{< image classes="clear fancybox fig-25" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-24.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-24-185.jpg" >}}
-{{< image classes="fig-20" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-25.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-25-150.jpg" >}}
-{{< image classes="fig-20" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-26.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-26-150.jpg" >}}
-{{< image classes="fig-20" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-27.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-27-150.jpg" >}}
-{{< image classes="fig-20" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-28.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-28-150.jpg" >}}
-{{< image classes="clear fig-20" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-29.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-29-150.jpg" >}}
-{{< image classes="fig-20" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-35.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-35-150.jpg" >}}
-{{< image classes="fig-20" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-30.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-30-150.jpg" >}}
-{{< image classes="fig-20" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31-150.jpg" >}}
-{{< image classes="fig-20" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-32.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-32-150.jpg" >}}
-{{< image classes="clear fig-20" src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-34.jpg" thumbnail="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-34-150.jpg" >}}
 
 # jsFiddle
 
