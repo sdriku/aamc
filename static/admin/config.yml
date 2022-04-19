@@ -23,8 +23,8 @@ collections:
       - { label: 'Résumé article', name: 'summary', widget: 'string', hint: 'Ceci est le Résumé de votre article qui apparaitra en première page du site + soyez bref et donnez envie au lecteur de cliquer et ouvrir article' }
       - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
 
-  - name: 'pagesprincipales'
-    label: 'Pages Principales'
+  - name: "pagesprincipales"
+    label: "Pages Principales"
     files:
       - name: 'raisondetre'
         label: 'Raison d'être'
@@ -33,9 +33,9 @@ collections:
         editor:
           preview: true
         fields:
-      - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
-      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
-      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
+          - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
+          - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+          - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
       - name: 'activites'
         label: 'Activités'
         description: 'Modifiez ici la page Activités'
@@ -43,9 +43,9 @@ collections:
         editor:
           preview: true
         fields:
-      - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
-      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
-      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
+          - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
+          - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+          - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
       - name: 'gallerie'
         label: 'Gallerie'
         description: 'Modifiez ici la page Gallerie'
@@ -53,9 +53,9 @@ collections:
         editor:
           preview: true
         fields:
-      - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
-      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
-      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
+          - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
+          - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+          - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
       - name: 'contact'
         label: 'Contact'
         description: 'Modifiez ici la page Contact'
@@ -63,9 +63,9 @@ collections:
         editor:
           preview: true
         fields:
-      - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
-      - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
-      - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
+          - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
+          - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+          - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
       - name: 'mentionslegales'
         label: 'Mentions Légales'
         description: 'Modifiez ici la page Mentions Légales'
