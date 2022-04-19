@@ -23,8 +23,8 @@ collections:
       - { label: 'Résumé article', name: 'summary', widget: 'string', hint: 'Ceci est le Résumé de votre article qui apparaitra en première page du site + soyez bref et donnez envie au lecteur de cliquer et ouvrir article' }
       - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
 
-  - name: "pagesprincipales"
-    label: "Pages Principales"
+  - name: 'pagesprincipales'
+    label: 'Pages Principales'
     files:
       - name: 'raisondetre'
         label: 'Raison d'être'
