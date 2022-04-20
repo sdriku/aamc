@@ -1,14 +1,15 @@
 ---
-title: 'Contactez-nous'
-description: ""
-date: 2022-04-12
-iconPhone: ""
+iconEmail: img/icon-email.png
 altPhone: ""
+layout: contact
 phone: ""
-iconEmail: "img/icon-email.png"
-altEmail: "adresse email AAMC"
-email: "aamcevreux@gmail.com"
-layout: "contact"
+date: 2022-04-12
+altEmail: adresse email AAMC
+iconPhone: ""
+title: Contactez-nous
+email: aamcevreux@gmail.com
+description: Vous pouvez ici nous contacter pour obtenir plus d'informations,
+  pour devenir adhérent, ou pour effectuer une donation hors ligne.
 ---
 
 Vous pouvez ici nous contacter pour obtenir plus d'informations, pour devenir adhérent, ou pour effectuer une donation hors ligne.
