@@ -1,13 +1,13 @@
 ---
-title: "Manifestations à venir"
-description: ""
-summary: "Voici les manifestations à venir."
+title: Manifestations à venir
+description: Voici les manifestations à venir.
+summary: Voici les manifestations à venir.
 date: 2022-04-10
 tags:
-- 
-- 
+  - null
+  - null
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-6-140.jpg
+thumbnailImage: /img/img_6180.jpg
 ---
 
 This post is used to show how tag plugins are displayed. See [docs](https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags) for more info.
