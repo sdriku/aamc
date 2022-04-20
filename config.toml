@@ -39,7 +39,8 @@ canonifyurls = true
 # Author
 # ------
 [author]
-  name = "AAMC - Evreux-Arménie"
+  name = "Evreux-Arménie"
+  surname = "AAMC"
   bio = "Association Arménienne Mémoire Culture"
   job = "Association culturelle"
   location = "Evreux, France"
