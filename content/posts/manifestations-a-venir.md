@@ -7,7 +7,7 @@ tags:
   - null
   - null
 thumbnailImagePosition: left
-thumbnailImage: /img/img_6180.jpg
+thumbnailImage: /img/icon-email.png
 ---
 
 This post is used to show how tag plugins are displayed. See [docs](https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags) for more info.
