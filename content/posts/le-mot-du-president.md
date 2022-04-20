@@ -4,7 +4,7 @@ description: ""
 summary: "Voici le mot du Président."
 date: 2022-04-11
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/video-integration-showcase/peak-140.jpg
+thumbnailImage: "img/icon-email.png"
 tags:
 - 
 - 
