@@ -18,7 +18,7 @@ description: Voici quelques photos prises lors de nos derniers rassemblements.
 {{< image classes="fig-33" src="/img/ecole-cours-2022.jpg" title="Cours de Français 2022" >}} 
 {{< image classes="fig-33" src="/img/ecole-cours-2022-2.jpg" title="Cours de Français 2022" >}}
 {{< image classes="fig-33" src="/img/ecole-cours-2022-3.jpg" title="Cours de Français 2022" >}} 
-{{< image classes="fig-50" src="/img/cours-2022.jpg" title="Cours de Français 2022" >}}
+{{< image classes="fig-50 clear" src="/img/cours-2022.jpg" title="Cours de Français 2022" >}}
 
 
 
