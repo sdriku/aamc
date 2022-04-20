@@ -1,13 +1,13 @@
 <nav id="sidebar" data-behavior="{{ .Scratch.Get "sidebarBehavior" }}">
   <div class="sidebar-container">
       <div class="sidebar-profile">
-        <h4 style="font-size:30px !important;" class="sidebar-profile-name">{{ $.Site.Author.name }}</h4>
+        <h4 style="font-size:30px !important; margin-bottom: -10% !important;" class="sidebar-profile-name">{{ $.Site.Author.name }}</h4>
         <h4 style="font-size:30px !important;" class="sidebar-profile-name">{{ $.Site.Author.surname }}</h4>
         {{ with $.Site.Author.bio }}
           <h5 class="sidebar-profile-bio">{{ . | markdownify }}</h5>
         {{ end }}
         <a style="margin-top: -50px;" href="{{ if $.Site.Params.sidebar.profile.url }}{{ $.Site.Params.sidebar.profile.url }}{{ else }}{{ "/#about" }}{{ end }}" aria-label="{{ i18n "global.read_more_about_author"}}">
-          <picture><source class="sidebar-profile-picture" srcset="{{ .Site.Author.logodesktop | relURL }}" media="(min-width: 800px)"><img style="margin-top: -10%; margin-bottom: 10%;" class="sidebar-profile-picture" src="{{ .Site.Author.logomobile | relURL }}" alt="logo AAMC"></picture>
+          <picture><source class="sidebar-profile-picture" srcset="{{ .Site.Author.logodesktop | relURL }}" media="(min-width: 800px)"><img style="margin-top: -15%; margin-bottom: 10%;" class="sidebar-profile-picture" src="{{ .Site.Author.logomobile | relURL }}" alt="logo AAMC"></picture>
         </a>
       </div>
     <ul class="sidebar-buttons">
