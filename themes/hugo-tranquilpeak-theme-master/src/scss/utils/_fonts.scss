@@ -1,9 +1,8 @@
-@font-face {
+/*@font-face {
     font-family: 'Open Sans';
     font-style:  normal;
     font-weight: 400;
     src:         local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/opensans/v10/cJZKeOuBrn4kERxqtaUH3SZ2oysoEQEeKwjgmXLRnTc.ttf) format('truetype');
-    font-display: optional;
 }
 
 @font-face {
@@ -11,10 +10,9 @@
     font-style:  normal;
     font-weight: 700;
     src:         local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzJS3E-kSBmtLoNJPDtbj2Pk.ttf) format('truetype');
-    font-display: optional;
 }
 
-/*@font-face {
+@font-face {
     font-family: 'Merriweather';
     font-style:  normal;
     font-weight: 300;
@@ -49,4 +47,6 @@
     src:         local('Merriweather Bold Italic'), local('Merriweather-BoldItalic'), url(https://fonts.gstatic.com/s/merriweather/v8/EYh7Vl4ywhowqULgRdYwII1kRdeHIFWYEsp6A2f99b0.ttf) format('truetype');
 }*/
 
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,700&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,700&display=swap');
