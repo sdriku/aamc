@@ -26,9 +26,11 @@ description: Voici quelques photos prises lors de nos derniers rassemblements.
 
 
 {{< image classes="fig-50" src="/img/gouter-noel-2022.jpg" title="Goûter de Noël 2021" >}}
-{{< image classes="fig-100 center" src="/img/gouter-noel-2022-2.jpg" title="Goûter de Noël 2021" >}}
+
 {{< image classes="fig-20" src="/img/gouter-noel-2022-3.jpg" title="Goûter de Noël 2021" >}} 
 {{< image classes="fig-20" src="/img/gouter-noel-2022-4.jpg" title="Goûter de Noël 2021" >}}
+{{< image classes="fig-100 center clear" src="/img/gouter-noel-2022-2.jpg" title="Goûter de Noël 2021" >}}
+
 
 
 
