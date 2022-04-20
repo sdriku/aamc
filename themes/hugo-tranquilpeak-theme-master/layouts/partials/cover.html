@@ -1,6 +1,14 @@
+<style>
+      @media (max-width: 601px) {
+      #cover {
+      background-image: url('/img/coverImageMobile.jpg') !important;
+      }
+    }
+</style>
+
 {{ with .Site.Params.coverImage }}
   {{ if (in . "://") }}
-    <div id="cover" style="background-image:url('{{ . | absURL }}');"></div>
+    <div id="cover" style="background-image:url('{{ . | absURL }}');" role="img" aria-label="Mont Ararat"></div>
   {{ else }}
     {{ if (fileExists (printf "static/images/%s" .)) }}
       {{ $cover := (printf "/images/%s" .) }}
