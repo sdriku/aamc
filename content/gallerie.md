@@ -11,29 +11,24 @@ categories:
   - features
 description: Voici quelques photos prises lors de nos derniers rassemblements.
 ---
+{{< toc >}}
+
+
+
 ## Cours de Français 2022
-
-
 
 {{< image classes="fig-50" src="/img/ecole-cours-2022.jpg" title="Cours de Français 2022" >}} 
 {{< image classes="fig-50" src="/img/ecole-cours-2022-2.jpg" title="Cours de Français 2022" >}}
 {{< image classes="fig-50" src="/img/ecole-cours-2022-3.jpg" title="Cours de Français 2022" >}} 
 {{< image classes="fig-50 clear" src="/img/cours-2022.jpg" title="Cours de Français 2022" >}}
 
-
-
 ## Goûter de Noël 2021
-
 
 {{< image classes="fig-50" src="/img/gouter-noel-2022.jpg" title="Goûter de Noël 2021" >}}
 
 {{< image classes="fig-20" src="/img/gouter-noel-2022-3.jpg" title="Goûter de Noël 2021" >}} 
 {{< image classes="fig-20" src="/img/gouter-noel-2022-4.jpg" title="Goûter de Noël 2021" >}}
 {{< image classes="fig-100 center clear" src="/img/gouter-noel-2022-2.jpg" title="Goûter de Noël 2021" >}}
-
-
-
-
 
 {{< image classes="fig-20" src="/img/PHOTO-2022-04-11-16-03-45.jpg" title="Diplôme AAMC" >}} 
 {{< image classes="fig-20" src="/img/photo-de-classe-2022.jpg" title="Photo de classe 2022" >}}
