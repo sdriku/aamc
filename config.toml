@@ -396,4 +396,4 @@ canonifyurls = true
   # --------------------
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   [params.footer]
-  copyright = "<a href=\"https://\">AAMC</a>"
+  copyright = "<a href=\"https://www.evreux-armenie.com\">AAMC</a>"

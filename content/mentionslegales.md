@@ -1,9 +1,9 @@
 ---
-title: Mentions Légales
-description: Voici les Mentions légales de AAMC - Association Arménienne Mémoire Culture.
+title: "Mentions Légales"
+description: "Voici les Mentions légales de AAMC - Association Arménienne Mémoire Culture."
 date: 2015-05-13
 layout: mentionslegales
-email: aamcevreux@gmail.com
+email: "aamcevreux@gmail.com"
 ---
 ## Editeur du site Internet
 

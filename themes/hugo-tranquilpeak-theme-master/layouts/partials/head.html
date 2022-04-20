@@ -34,10 +34,10 @@
       <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ .RelPermalink }}">
     {{ end }}
 
-    {{ with .Site.Author.googleplus }}
-      <link rel="publisher" href="https://plus.google.com/{{ . | urlize }}">
-    {{ end }}
-
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com/" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
     <link rel="canonical" href="{{ .Permalink }}">
 
     <!--EXTERNAL STYLES-->
