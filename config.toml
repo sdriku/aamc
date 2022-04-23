@@ -142,7 +142,7 @@ canonifyurls = true
   # ------------------
   # Syntax highlighter, possible choice between: "highlight.js" and "prism.js"
   # You can comment it to disable syntax highlighting
-  # syntaxHighlighter = "highlight.js"
+  syntaxHighlighter = "highlight.js"
 
   # -----------
   # Date format

@@ -11,8 +11,7 @@ module.exports = function(grunt) {
         mangle: {
           reserved: [
             'jQuery',
-            'fancybox'
-          ]
+            ]
         }
       },
       files: website
