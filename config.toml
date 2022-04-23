@@ -61,37 +61,37 @@ canonifyurls = true
   weight = 1
   identifier = "home"
   name = "Accueil"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon\" aria-hidden=\"true\"><img src=\"img/icons8-home-24.png\" alt=\"Accueil\"></i>"
   url = "/"
 [[menu.main]]
   weight = 2
   identifier = "raison-detre"
   name = "Raison d'être"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bullseye\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon\" aria-hidden=\"true\"><img src=\"img/icons8-goal-24.png\" alt=\"Raison dêtre\"></i>"
   url = "/raison-detre"
 [[menu.main]]
   weight = 3
   identifier = "activites"
   name = "Activités"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-handshake\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon\" aria-hidden=\"true\"><img src=\"img/icons8-people-24.png\" alt=\"Activités\"></i>"
   url = "/activites"
 [[menu.main]]
   weight = 4
   identifier = "image-gallery"
   name = "Gallerie"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-camera\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon\" aria-hidden=\"true\"><img src=\"img/icons8-picture-24.png\" alt=\"Gallerie Photos\"></i>"
   url = "/gallerie"
-  [[menu.main]]
+[[menu.main]]
   weight = 5
   identifier = "contact"
   name = "Contact"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-at\" aria-hidden=\"true\"></i>"
-  url = "/contact"  
-  [[menu.main]]
+  pre = "<i class=\"sidebar-button-icon\" aria-hidden=\"true\"><img src=\"img/icons8-mail-24.png\" alt=\"Contact\"></i>"
+  url = "/contact" 
+[[menu.main]]
   weight = 6
   identifier = "archives"
   name = "Archives"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon\" aria-hidden=\"true\"><img src=\"img/icons8-filing-cabinet-24.png\" alt=\"Archives\"></i>"
   url = "/archives"
 
 ##[[menu.main]]
@@ -198,7 +198,6 @@ canonifyurls = true
   # Put your image, for example `cover.jpg` in folder `static/images/`,
   # and use relative url : `images/cover.jpg`
   coverImage = "images/cover.jpg"
-  coverImageMobile = "img/icon-email.png"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
