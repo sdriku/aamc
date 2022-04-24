@@ -28,12 +28,12 @@ canonifyurls = true
 # ------
 # Markup
 # ------
-#[markup]
+[markup]
   # Set startLevel = 1 to support # title (<h1>title</h1>) otherwise table of content is blank/empty
-  #[markup.tableOfContents]
-    #endLevel = 4
-    #ordered = false
-    #startLevel = 1
+  [markup.tableOfContents]
+    endLevel = 5
+    ordered = false
+    startLevel = 2
 
 # ------
 # Author
@@ -61,37 +61,37 @@ canonifyurls = true
   weight = 1
   identifier = "home"
   name = "Accueil"
-  pre = "<i class=\"sidebar-button-icon\" aria-hidden=\"true\"><img src=\"img/icons8-home-24.png\" alt=\"Accueil\"></i>"
+  pre = "img/icons8-home-24.png"
   url = "/"
 [[menu.main]]
   weight = 2
   identifier = "raison-detre"
   name = "Raison d'être"
-  pre = "<i class=\"sidebar-button-icon\" aria-hidden=\"true\"><img src=\"img/icons8-goal-24.png\" alt=\"Raison dêtre\"></i>"
+  pre = "img/icons8-goal-24.png"
   url = "/raison-detre"
 [[menu.main]]
   weight = 3
   identifier = "activites"
   name = "Activités"
-  pre = "<i class=\"sidebar-button-icon\" aria-hidden=\"true\"><img src=\"img/icons8-people-24.png\" alt=\"Activités\"></i>"
+  pre = "img/icons8-activities.png"
   url = "/activites"
 [[menu.main]]
   weight = 4
   identifier = "image-gallery"
   name = "Gallerie"
-  pre = "<i class=\"sidebar-button-icon\" aria-hidden=\"true\"><img src=\"img/icons8-picture-24.png\" alt=\"Gallerie Photos\"></i>"
+  pre = "img/icons8-picture-24.png"
   url = "/gallerie"
 [[menu.main]]
   weight = 5
   identifier = "contact"
   name = "Contact"
-  pre = "<i class=\"sidebar-button-icon\" aria-hidden=\"true\"><img src=\"img/icons8-mail-24.png\" alt=\"Contact\"></i>"
+  pre = "img/icons8-mail-24.png"
   url = "/contact" 
 [[menu.main]]
   weight = 6
   identifier = "archives"
   name = "Archives"
-  pre = "<i class=\"sidebar-button-icon\" aria-hidden=\"true\"><img src=\"img/icons8-filing-cabinet-24.png\" alt=\"Archives\"></i>"
+  pre = "img/icons8-filing-cabinet-24.png"
   url = "/archives"
 
 ##[[menu.main]]
