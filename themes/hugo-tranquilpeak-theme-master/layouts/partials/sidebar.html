@@ -19,7 +19,7 @@
   <div class="sidebar-container">
       <div class="sidebar-profile">
         <h4 style="font-size:30px !important; margin-bottom: -10% !important;" class="sidebar-profile-name">{{ $.Site.Author.name }}</h4>
-        <h4 style="font-size:30px !important; text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;" class="sidebar-profile-name">{{ $.Site.Author.surname }}</h4>
+        <h4 style="font-size:30px !important;" class="sidebar-profile-name">{{ $.Site.Author.surname }}</h4>
         {{ with $.Site.Author.bio }}
           <h5 class="sidebar-profile-bio">{{ . | markdownify }}</h5>
         {{ end }}
