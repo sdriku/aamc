@@ -4,7 +4,7 @@ description: Culture, France, Arménie, Pluriculturel, AAMC, Franco-Arménienne,
 summary: "Voici le mot du Président. Travail, Mémoire, Culture "
 date: 2022-04-11
 thumbnailImagePosition: left
-thumbnailImage: "assets/img/image-2.png"
+thumbnailImage: /img/20220101_174505.jpg
 ---
 ### <!--StartFragment-->
 
