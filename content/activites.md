@@ -1,14 +1,8 @@
 ---
-coverImage: ""
-keywords: null
-date: 2022-04-12
-thumbnailImage: ""
-thumbnailImagePosition: top
 title: Activités
-tags: null
 description: Voici les Activités de notre association AAMC
+date: 2022-04-12
 metaAlignment: center
-autoThumbnailImage: false
 ---
 \
 \
