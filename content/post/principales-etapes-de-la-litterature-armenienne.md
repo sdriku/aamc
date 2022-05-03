@@ -5,7 +5,7 @@ summary: "La littérature arménienne et ses principaux auteurs - source : livre
   de HENRI SIRANYAN (Edition MCA Décines) "
 date: 2022-05-02
 thumbnailImagePosition: left
-thumbnailImage: "assets/img/coverImageMobile.jpg"
-coverimage: "assets/img/coverImageMobile.jpg"
+thumbnailImage: assets/img/hovhannes-toumanyan-statue.jpg
+coverimage: assets/img/hovhannes-toumanyan-statue.jpg
 ---
-Histoire des principaux auteurs arméniens
+HOVHANNES TOUMANYAN
