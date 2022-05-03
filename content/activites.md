@@ -3,6 +3,7 @@ title: Activités
 description: Voici les Activités de notre association AAMC
 date: 2022-04-12
 metaAlignment: center
+coverimage: ""
 ---
 \
 \

@@ -23,7 +23,8 @@ collections:
       - { label: 'Résumé article', name: 'summary', widget: 'string', hint: 'Ceci est le Résumé de votre article qui apparaitra en première page du site + soyez bref et donnez envie au lecteur de cliquer et ouvrir article' }
       - { label: 'Date du jour', name: 'date', widget: 'datetime', default: '2022-05-02', date_format: 'YYYY-MM-DD', time_format: false, hint: 'Insérez la date du jour selon le format suivant 2022-05-02 pour 2 mai 2022.'}
       - { label: 'Position image', name: 'thumbnailImagePosition', widget: 'select', options: ['left'], hint: 'Détermine la position de l´illustration sur la Page Principale. Sélectionnez left.'}
-      - { label: 'Photo illustration', name: 'thumbnailImage', widget: 'image', hint: 'Ceci est la photo qui pparaitra en première page du site afin dillustrer votre article' }
+      - { label: 'Photo illustration', name: 'thumbnailImage', widget: 'image', hint: 'Ceci est la photo qui apparaitra en première page du site afin dillustrer votre article' }
+      - { label: 'Photo Principale en haut de l´article', name: 'coverimage', widget: 'image', required: false, hint: 'Ceci est la photo qui apparaitra en haut de la page du site hébergeant l´article' }
       - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
 
   - name: "pagesprincipales"
@@ -38,6 +39,7 @@ collections:
         fields:
           - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
           - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+          - { label: 'Photo Principale en haut de cette section', name: 'coverimage', widget: 'image', required: false, hint: 'Ceci est la photo qui apparaitra en haut de la page' }
           - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
       - name: 'activites'
         label: 'Activités'
@@ -48,6 +50,7 @@ collections:
         fields:
           - { label: 'Intitulé Article et Titre SEO', name: 'title', widget: 'string', hint: 'Ceci est lintitulé de cet article sur le site + le titre SEO de votre page' }
           - { label: 'Description SEO', name: 'description', widget: 'string', hint: 'Ceci est la Description SEO qui apparaitra depuis Google lors dune recherche + pensez à y introduire vos mots-clés + napparaitra nulle part sur votre site' }
+          - { label: 'Photo Principale en haut de cette section', name: 'coverimage', widget: 'image', required: false, hint: 'Ceci est la photo qui apparaitra en haut de la page' }
           - { label: 'Contenu', name: 'body', widget: 'markdown', hint: 'Contenu de la page + parlez de votre prestation + ajoutez une ou deux photos si nécessaire + soyez concis mais percutant + pensez à introduire vos mots clés' }
       - name: 'gallerie'
         label: 'Gallerie'
