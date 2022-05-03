@@ -13,7 +13,7 @@ collections:
   - name: 'articles'
     label: 'Mes Articles'
     description: 'Modifiez des articles existants, ou en créer de nouveaux'
-    folder: 'content/posts'
+    folder: 'content/post'
     create: true
     editor:
       preview: true
