@@ -12,10 +12,10 @@ La Ville d'Evreux et ses alentours, située dans le département de l'Eure compt
 \
 \
 \
-Néanmoins, depuis une vingtaine d'année et particulièrement depuis 2010, un nombre croissant d'arméniens, essentiellement des couples avec enfants, arrivent dans notre département depuis l'Arménie. Notre département compte désormais une centaine de nouveaux arrivants. Depuis ce chiffre s'est stabilisé.\
+Néanmoins, depuis une vingtaine d'année et particulièrement depuis 2010, un nombre croissant d'arméniens, essentiellement des couples avec enfants, arrivent dans notre département depuis l'Arménie. Notre département compte désormais une centaine de nouveaux arrivants. Depuis, ce chiffre s'est stabilisé.\
 \
 \
-Cette nouvelle situation, parfois compliquée, exige de nouveaux efforts d'adaptation de la part de tous. En 2013, AAMC nouvellement fondée, a mis en place avec une équipe neuve, dynamique et qualifiée, une école le samedi, qui apporte un soutien inestimable dans de différents domaines, tout particulièrement dans la transmission de l'héritage d'une culture arménienne millénaire, aux enfants soumis à une double appartenance. C'est un contexte nouveau, qui demande un grand respect, attention et apprentissage de la culture du pays d'accueil, et assurer la transmission de l'héritage culturel d'origine. L'école du samedi, dispense des cours à trois niveaux, par une enseignante diplômée, afin de palier ce besoin dans les meilleures conditions.\
+Cette nouvelle situation, parfois compliquée, exige de nouveaux efforts d'adaptation de la part de tous. En 2013, AAMC nouvellement fondée, a mis en place, avec une équipe neuve, dynamique et qualifiée, une école le samedi, qui apporte un soutien inestimable dans de différents domaines, tout particulièrement dans la transmission de l'héritage d'une culture arménienne millénaire, aux enfants soumis à une double appartenance. C'est un contexte nouveau, qui demande un grand respect, attention et apprentissage de la culture du pays d'accueil, et assurer la transmission de l'héritage culturel d'origine. L'école du samedi, dispense des cours à trois niveaux, par une enseignante diplômée, afin de palier ce besoin dans les meilleures conditions.\
 \
 \
 L'objectif principal de l'association AAMC à travers l'école est de préparer des futurs citoyens français, totalement épanouis, amoureux de la France, tout en préservant la richesse culturelle de ses parents.
