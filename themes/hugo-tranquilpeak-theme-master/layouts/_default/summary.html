@@ -73,8 +73,11 @@
   </div>
   {{ if and (.Scratch.Get "thumbnailImage") (ne (.Scratch.Get "thumbnailImagePosition") "top")}}
     <a href="{{ .Permalink }}" aria-label="{{ if i18n "global.open_post" }}{{ i18n "global.open_post" }}: {{ .Title }}{{ end }}">
+      {{ $path := printf "%s" .Params.thumbnailImage }}
+      {{ $res := resources.Get $path }}
+      {{ $resized := $res.Fill "110x110" }}
       <div class="postShorten-thumbnailimg">
-        <img alt="" src="{{ .Scratch.Get "thumbnailImage" }}"/>
+        <img alt="" src="{{ $resized.RelPermalink }}"/>
       </div>
     </a>
   {{ end }}

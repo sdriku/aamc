@@ -6,7 +6,8 @@ summary: "Guy Soudjian, proviseur de lycées dans notre département, puis au Ma
   et à Tours.  "
 date: 2022-05-02
 thumbnailImagePosition: left
-thumbnailImage: assets/img/guy-soudjian.jpg
+thumbnailImage: "assets/img/guy-soudjian.jpg"
+coverimage: "assets/img/guy-soudjian.jpg"
 ---
 ###### **GUY SOUDJIAN HISTORIEN ET CONFERENCIER FUT LE FONDATEUR ET PROPULSEUR DE LA VIE ASSOCIATIVE DE LA COMMUNAUTE ARMENIENNE NORMANDE DANS L'EURE, SUITE AU SEISME EN ARMENIE DE 1988.**\
 \

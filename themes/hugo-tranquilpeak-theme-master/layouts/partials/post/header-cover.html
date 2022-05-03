@@ -1,8 +1,13 @@
 {{ if .Params.coverimage }}
+
+{{ $path := printf "%s" .Params.coverimage }}
+{{ $res := resources.Get $path }}
+{{ $resized := $res.Resize "1100x q70" }}
+
   <div class="post-header-cover
               {{ if .Params.metaalignment }}text-{{ .Params.metaalignment }}{{ else }}text-left{{ end }}
               {{ with .Params.coversize }}post-header-cover--{{ . }}{{ end }}"
-       style="background-image:url('{{ .Params.coverimage | relURL }}')"
+       style="background-image:url('{{ $resized.RelPermalink }}'); background-repeat:no-repeat; background-size: 100vh"
        data-behavior="{{ $.Scratch.Get "sidebarBehavior" }}">
     {{ if or (eq .Params.covermeta "in") (not .Params.covermeta) }}
       {{ partial "post/header.html" . }}

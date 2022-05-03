@@ -17,6 +17,7 @@
           {{ end }}
           <div class="post-content markdown">
             <div class="main-content-wrap">
+              <h1 style="text-align: center; margin-bottom:10%;">{{ .Title }}</h1>
               {{ .Content }}
               {{ partial "post/gallery.html" . }}
             </div>

@@ -4,7 +4,7 @@ backend:
 
 site_url: https://evreux-armenie.com/
 display_url: https://evreux-armenie.com/
-logo_url: https://evreux-armenie.com/img/logo-aamc-desktop.jpg
+logo_url: https://evreux-armenie.com/assets/img/logo-aamc-desktop.jpg
 locale: 'fr'
 
 media_folder: static/assets/img
