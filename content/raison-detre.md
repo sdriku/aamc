@@ -3,7 +3,7 @@ title: Raison d'être
 description: Voici la raison d'être de notre Association, ses objectifs.
 date: 2022-04-12
 metaAlignment: center
-coverimage: ""
+coverimage: assets/img/ecole-cours-2022.jpg
 ---
 AAMC entend défendre et consolider la mémoire et la culture arménienne dans notre département de L'Eure. Créer de la convivialité entre les familles d'origine arménienne, créer des passerelles entre les deux cultures, faciliter une intégration réussie en France.\
 \
