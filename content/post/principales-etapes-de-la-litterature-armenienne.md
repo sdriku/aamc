@@ -1,5 +1,5 @@
 ---
-title: "PRINCIPALES ETAPES DE LA LITTERATURE ARMENIENNE "
+title: "PRINCIPALES ETAPES DE LA LITTERATURE ARMENIENNE (pages en travaux) "
 description: "L'histoire de la littérature arménienne et ses principaux auteurs
   - (enrichissement continuel des pages littéraires) "
 summary: "La littérature arménienne et ses principaux auteurs - source : livre
