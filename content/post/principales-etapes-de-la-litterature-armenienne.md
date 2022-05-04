@@ -1,7 +1,7 @@
 ---
 title: "PRINCIPALES ETAPES DE LA LITTERATURE ARMENIENNE (pages en travaux) "
-description: "L'histoire de la littérature arménienne et ses principaux auteurs
-  - (enrichissement continuel des pages littéraires) "
+description: "Littérature arménienne - Evreux ville culturelle - communauté
+  arménienne à Evreux - école arménienne à Evreux Normandie "
 summary: "La littérature arménienne et ses principaux auteurs - source : livre
   de HENRI SIRANYAN (Edition MCA Décines) "
 date: 2022-05-02
