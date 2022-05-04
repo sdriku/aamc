@@ -23,7 +23,7 @@ Guy SOUDJIAN est chevalier dans l’Ordre de la Légion d’Honneur, Officier da
 
 **GUY SOUDJIAN FUT LE FONDATEUR ET PROPULSEUR DE LA VIE ASSOCIATIVE DE LA COMMUNAUTE ARMENIENNE NORMANDE DANS L'EURE, SUITE AU SEISME EN ARMENIE DE 1988.** \
 \
-Une rubrique spéciale sur son œuvre sera publiée sur notre site **EVREUX-ARMENIE** de l'association AAMC dans les semaines avenir. Guy SOUDJIAN nous fera l'honneur et à la demande de notre association AAMC de venir à EVREUX présenter une conférence sur l'histoire (projet promis mais reste à définir, il sera question également des débuts de la vie associative arménienne en Normandie. \
+Une rubrique spéciale sur son œuvre sera publiée sur notre site **EVREUX-ARMENIE** de l'association AAMC dans les semaines avenir. Guy SOUDJIAN nous fera l'honneur et à la demande de notre association AAMC de venir à EVREUX présenter une conférence sur l'histoire (projet restant à définir, il sera question également des débuts de la vie associative arménienne en Normandie). \
 \
 **Guy Soudjian, est né le 30 novembre 1952 à Paris, très attaché à ses origines arméniennes.**\
 **\> Fervent défenseur de la laïcité, il dévoile, par ailleurs, sa récente découverte de la foi.**\
