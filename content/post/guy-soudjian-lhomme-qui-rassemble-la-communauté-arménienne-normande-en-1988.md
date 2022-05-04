@@ -1,7 +1,8 @@
 ---
 title: "GUY SOUDJIAN : l'homme qui rassemble la communauté arménienne normande
   en 1988 "
-description: "Guy SOUDJIAN - Séisme en Arménie - 1988 - Aide à l'Arménie "
+description: Guy SOUDJIAN - Séisme en Arménie - 1988 - Aide à l'Arménie - Les
+  arméniens à Evreux - Commémoration Evreux
 summary: "Guy Soudjian, proviseur de lycées dans notre département, puis au Mans
   et à Tours.  "
 date: 2022-05-02
