@@ -9,6 +9,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/image-2.png
 coverimage: assets/img/image-2.png
 ---
+\
 Allocution du 24 avril 2022 parc Marcel Baudot Evreux - Lu par le président de AAMCS\
 \
 Mesdames et Messieurs,\
@@ -46,4 +47,10 @@ Je crois intimement, que notre peuple, par son courage, son modèle et sa perspi
 Merci pour votre écoute\
 \
 Serge Tateossian\
-Président de AAMC
+Président de AAMC\
+\
+<!--StartFragment-->
+
+[Le 24 Avril 2022 à Evreux - Nouvelles d'Arménie en Ligne (armenews.com)](https://armenews.com/spip.php?page=article&id_article=92220)
+
+<!--EndFragment-->
