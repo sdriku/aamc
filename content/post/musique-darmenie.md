@@ -4,7 +4,7 @@ description: "Festival en Arménie - Jazz arménien - tourisme en Arménie -
   Musique internationale à Erevan "
 summary: "Festival de Jazz à Erevan - Festival de Jazz en Arménie - Musique Rapp
   en Arménie - Rappeur américain en Arménie "
-date: 2022-05-02T22:00:00.000Z
+date: 2022-04-30T22:00:00.000Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/rappeur-50-cent.jpg
 coverimage: assets/img/rappeur-50-cent.jpg
