@@ -1,5 +1,5 @@
 ---
-title: "MUSIQUE D'ARMENIE "
+title: "MUSIQUE EN ARMENIE "
 description: "Festival en Arménie - Jazz arménien - tourisme en Arménie -
   Musique internationale à Erevan "
 summary: "Festival de Jazz à Erevan - Festival de Jazz en Arménie - Musique Rapp
