@@ -89,7 +89,7 @@ unsafe = true
 [[menu.main]]
   weight = 4
   identifier = "image-gallery"
-  name = "Gallerie"
+  name = "Galerie"
   pre = "assets/img/icons8-picture-24.png"
   url = "/gallerie"
 [[menu.main]]
