@@ -7,8 +7,8 @@ summary: Le Barreau de Paris commémore chaque année les avocats victimes du
   génocide arménien. Une stèle à la mémoire de Krikor ZOHRAB
 date: 2022-05-07T22:00:00.000Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/barreau-de-paris-commémoration-stèle-krikor-zohrab.jpeg
-coverimage: assets/img/krikor-zohrab.jpg
+thumbnailImage: assets/img/krikor-zohrab.jpg
+coverimage: assets/img/barreau-de-paris-commémoration-stèle-krikor-zohrab.jpeg
 ---
 KRIKOR ZOHRAB Avocat et écrivain arménien victime du génocide (Une plaque commémorative en sa mémoire, dans l'enceinte du Barreau de Paris) \
 \
