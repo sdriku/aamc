@@ -1,7 +1,6 @@
 ---
 title: "Album photo AAMC"
 description: "Voici quelques photos prises lors de nos derniers rassemblements."
-slug: "galerie-photos"
 date: 2022-04-12
 ---
 {{< toc >}}

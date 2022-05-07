@@ -55,7 +55,7 @@ collections:
       - name: 'gallerie'
         label: 'Gallerie'
         description: 'Modifiez ici la page Gallerie'
-        file: 'content/gallerie.md'
+        file: 'content/galerie.md'
         editor:
           preview: true
         fields:
