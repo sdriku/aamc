@@ -91,7 +91,7 @@ unsafe = true
   identifier = "image-gallery"
   name = "Galerie"
   pre = "assets/img/icons8-picture-24.png"
-  url = "/gallerie"
+  url = "/galerie"
 [[menu.main]]
   weight = 5
   identifier = "contact"
