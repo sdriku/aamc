@@ -24,8 +24,8 @@ Guy SOUDJIAN est chevalier dans l’Ordre de la Légion d’Honneur, Officier da
 
 **GUY SOUDJIAN FUT LE FONDATEUR ET PROPULSEUR DE LA VIE ASSOCIATIVE DE LA COMMUNAUTE ARMENIENNE NORMANDE DANS L'EURE, SUITE AU SEISME EN ARMENIE DE 1988.** \
 \
-**Guy Soudjian, est né le 30 novembre 1952 à Paris, très attaché à ses origines arméniennes.**\
-**\> Fervent défenseur de la laïcité, il dévoile, par ailleurs, sa récente découverte de la foi.**\
-**\> Il se partage entre la Sarthe, où se trouve sa demeure familiale, et la Touraine, où vivent deux de ses filles.**\
-**\> Instituteur puis professeur des collèges, il a dirigé de nombreux établissements secondaires. Le dernier en date fut le lycée Montesquieu du Mans, avec ses 1.400 élèves, avant de prendre la direction du lycée Descartes, 1.800 élèves.**\
-**\> Historien, il a soutenu une thèse sur la population parisienne sous le Second Empire préfacée par Emmanuel Leroy-Ladurie. Il travaille actuellement sur les conscrits de la Sarthe au XIXe siècle et sur les inscrits maritimes en Corse au XIXe siècle.**
+"***Guy Soudjian, est né le 30 novembre 1952 à Paris, très attaché à ses origines arméniennes.***\
+***\> Fervent défenseur de la laïcité, il dévoile, par ailleurs, sa récente découverte de la foi.***\
+***\> Il se partage entre la Sarthe, où se trouve sa demeure familiale, et la Touraine, où vivent deux de ses filles.***\
+***\> Instituteur puis professeur des collèges, il a dirigé de nombreux établissements secondaires. Le dernier en date fut le lycée Montesquieu du Mans, avec ses 1.400 élèves, avant de prendre la direction du lycée Descartes, 1.800 élèves.***\
+***\> Historien, il a soutenu une thèse sur la population parisienne sous le Second Empire préfacée par Emmanuel Leroy-Ladurie. Il travaille actuellement sur les conscrits de la Sarthe au XIXe siècle et sur les inscrits maritimes en Corse au XIXe siècle."***
