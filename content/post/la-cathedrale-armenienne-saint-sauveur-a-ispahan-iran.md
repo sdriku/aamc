@@ -7,8 +7,8 @@ summary: "Les fresques de la cathédrale Vank, plus connue sous le nom de
   Amenaprgitch Vank), est la cathédrale la plus visitée d'Iran."
 date: 2022-05-07T22:00:00.000Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/vank-ispahan.jpg
-coverimage: assets/img/vank-ispahan-7.jpg
+thumbnailImage: assets/img/vank-ispahan-7.jpg
+coverimage: assets/img/vank-ispahan.jpg
 ---
 Vank signifie monastère en arménien. Elle se situe dans le quartier arménien d'Ispahan appelé La Nouvelle-Djolfa. Elle est dédiée au saint Sauveur (Jésus-Christ) et a été construite entre 1655 et 1664, après que les Arméniens de Djoulfa eurent été déportés à la Nouvelle-Djolfa par le chah Abbas Ier. D'abord appelée "Hovsep Armatatsi", du nom de l'homme qui a descendu le corps du Christ de la croix Joseph d'Arimatée, l'église prit le nom de Vank quand l'ensemble architectonique a été réalisé sous le nom de "Sourp Amena Perguitch Vank" signifiant "le monastère qui défend le peuple"1.
 Cette cathédrale abrite également aujourd'hui un musée consacré à l'histoire des Arméniens de la Nouvelle-Djolfa, une imprimerie ancienne, ainsi qu'une grande bibliothèque de manuscrits arméniens (au nombre de sept cents).
