@@ -1,8 +1,5 @@
 ---
-title: CONFUCIUS   Philosophe (551-479 av, J-C), fondateur de l « humanisme
-  chinois », ayant marqué comme aucun autre la civilisation chinoise, source du
-  « Confucianisme », doctrine politique et sociale érigée en « religion d'état »
-  dès la dynastie Han et Bannie – officiellement au moins – en 1911,
+title: CONFUCIUS   Philosophe (551-479 av, J-C), fondateur de l « humanisme chinois »
 description: "Confucius - philosophie chinoise - AAMC Evreux Arménie "
 summary: "hilosophe (551-479 av, J-C), fondateur de l « humanisme chinois », "
 date: 2022-05-08T22:00:00.000Z
