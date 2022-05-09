@@ -4,8 +4,8 @@ description: "Confucius - philosophie chinoise - AAMC Evreux Arménie "
 summary: "hilosophe (551-479 av, J-C), fondateur de l « humanisme chinois », "
 date: 2022-05-08T22:00:00.000Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/confucius.jpg
-coverimage: assets/img/confucius.jpg
+thumbnailImage: assets/img/icon-email.png
+coverimage: assets/img/icon-email.png
 ---
 **CONFUCIUS**\
 \
