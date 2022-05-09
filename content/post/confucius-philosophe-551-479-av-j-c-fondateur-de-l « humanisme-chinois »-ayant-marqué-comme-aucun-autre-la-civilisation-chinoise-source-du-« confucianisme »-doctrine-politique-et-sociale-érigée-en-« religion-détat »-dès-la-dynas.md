@@ -5,7 +5,7 @@ title: CONFUCIUS   Philosophe (551-479 av, J-C), fondateur de l « humanisme
   dès la dynastie Han et Bannie – officiellement au moins – en 1911,
 description: "Confucius - philosophie chinoise - AAMC Evreux Arménie "
 summary: "hilosophe (551-479 av, J-C), fondateur de l « humanisme chinois », "
-date: 2022-05-09T20:27:18.913Z
+date: 2022-05-07T22:00:00.000Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/confucius.jpg
 coverimage: assets/img/confucius.jpg
