@@ -5,8 +5,8 @@ description: "Charles Aznavour - Le roman d'une vie - Arménie  et France -
 summary: "La vie de Charles AZNAVOUR, des témoignages "
 date: 2022-05-05T22:00:00.000Z
 thumbnailImagePosition: left
-thumbnailImage: ''
-coverimage: ''
+thumbnailImage: assets/img/aznavour.jpg
+coverimage: assets/img/aznavour.jpg
 ---
 <!--StartFragment-->
 
