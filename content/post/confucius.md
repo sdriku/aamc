@@ -3,7 +3,7 @@ title: "Confucius "
 description: "Confucius fondateur de l'Humanisme chinois "
 summary: Philosophe (551-479 av, J-C), fondateur de l « humanisme chinois »,
   ayant marqué comme aucun autre la civilisation chinoise,
-date: 2022-05-09T22:00:00.000Z
+date: 2022-05-10T14:01:55.014Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/confucius-libre-de-droit.jpeg
 coverimage: assets/img/confucius-libre-de-droit.jpeg
