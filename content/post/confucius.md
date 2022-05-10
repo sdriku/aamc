@@ -5,8 +5,8 @@ summary: Philosophe (551-479 av, J-C), fondateur de l « humanisme chinois »
   ayant marqué comme aucun autre la civilisation chinoise,
 date: 2022-05-08T22:00:00.000Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/confucius-portrait-temple-beijing-was-great-educationist-ancient-china-also-famous-all-over-world-141610990.jpg
-coverimage: assets/img/confucius-portrait-temple-beijing-was-great-educationist-ancient-china-also-famous-all-over-world-141610990.jpg
+thumbnailImage: assets/img/confucius-libre-de-droit.jpeg
+coverimage: assets/img/confucius-libre-de-droit.jpeg
 ---
 **CONFUCIUS**\
 \
