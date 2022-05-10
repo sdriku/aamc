@@ -4,7 +4,7 @@ description: "Technologie à EREVAN - Centre technologique à EREVAN - Erevan
   Building Moderne  "
 summary: Un nouveau centre technologique sera construit à Erevan, un
   investissement de 110 millions de dollars
-date: 2022-05-09T22:00:00.000Z
+date: 2022-05-10T14:17:26.615Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/centre-technologique-arménie.jpg
 coverimage: assets/img/centre-technologique-arménie.jpg
