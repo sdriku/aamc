@@ -17,6 +17,4 @@ Toute donation sera la bienvenue.\
 \
 Si vous désirez adhérer à notre association, le montant annuel s'élève à la somme de 10 € (règlement par chèque libellé au nom de AAMC ou Association Arménienne Mémoire et Culture.\
 \
-Adresse : 13, le vieux terrier 27930 Guichainville \
-\
-L'Adhésion donne droit à la gratuité des cours de langue et culture arméniennes destinées aux élèves âgés de 5 à 14 ans.
+Adresse : 13, le vieux terrier 27930 Guichainville
