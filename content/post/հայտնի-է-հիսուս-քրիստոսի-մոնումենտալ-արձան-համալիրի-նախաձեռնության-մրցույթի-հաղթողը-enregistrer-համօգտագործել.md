@@ -1,6 +1,6 @@
 ---
-title: Հայտնի է Հիսուս Քրիստոսի մոնումենտալ արձան-համալիրի նախաձեռնության
-  մրցույթի հաղթողը    Enregistrer Համօգտագործել
+title: "Հայտնի է Հիսուս Քրիստոսի մոնումենտալ արձան-համալիրի նախաձեռնության
+  մրցույթի հաղթողը    "
 description: "Statue de Jésus le Christ en Arménie - Le projet du plus grand
   monument de Jésus - Le gagnant du concours pour l’initiative de la statue
   monumentale de Jésus-Christ en Arménie est connu   "
@@ -14,9 +14,11 @@ coverimage: assets/img/jésus-en-arménie.jpg
 
 [Հայտնի է Հիսուս Քրիստոսի մոնումենտալ արձան-համալիրի նախաձեռնության մրցույթի հաղթողը | ԱՐՄԵՆՊՐԵՍ Հայկական լրատվական գործակալություն (armenpress.am)](https://armenpress.am/arm/news/1082905/)
 
-<!--EndFragment-->\
+<!--EndFragment-->
+
 \
-TEXTE EN FRANCAIS \
+TEXTE EN FRANCAIS 
+
 <!--StartFragment-->
 
 [Le gagnant du concours pour l’initiative de la statue monumentale de Jésus-Christ en Arménie est connu | ARMENPRESS Armenian News Agency](https://armenpress.am/fre/news/1082905/)
