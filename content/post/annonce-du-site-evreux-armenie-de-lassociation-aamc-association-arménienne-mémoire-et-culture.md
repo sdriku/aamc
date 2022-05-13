@@ -3,7 +3,7 @@ title: "Annonce du site EVREUX-ARMENIE de l'association AAMC Association
   Arménienne Mémoire et Culture "
 description: "Les Grands de l'éducation "
 summary: "AAMC association présentera les Grands Noms de l'EDUCATION "
-date: 2022-05-13T23:11:14.690Z
+date: 2022-05-13T23:16:49.418Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/montesquieu.jpg
 coverimage: assets/img/montesquieu.jpg
