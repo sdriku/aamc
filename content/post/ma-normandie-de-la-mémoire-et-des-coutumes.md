@@ -15,8 +15,8 @@ coverimage: assets/img/normandie-corneuil-eure.jpg
 **Doit être gai,                                                   Parce que j'y ai mes racines,**                          \
 **S'il gèle en terre,                                            Ces profondes et délicates racines**\
 **C'est la misère**                                                **Qui attachent un homme à la terre**\
- **\    Où sont nés et morts ses aïeux."**\
-\
+    **\    Où sont nés et morts ses aïeux."**\
+                                                                         ***Guy de Maupassant 1887***\
 \
 **Coutumes et croyances** \
 **Les amours. Les rivalités locales en Normandie faisaient courir certains bruits sur la beauté des filles et leur vertu. C'est ainsi qu'un dicton nous apprend que bien souvent les rapports amoureux survenaient avant le mariage, comme à Carolles : C'est à Carolles en Carollais - Que les femmes accouchent au bout de treis meis  - Mais seulement la première fois!**\
