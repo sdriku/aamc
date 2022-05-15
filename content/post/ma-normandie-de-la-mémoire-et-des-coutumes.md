@@ -11,13 +11,12 @@ coverimage: assets/img/normandie-corneuil-eure.jpg
 #### **Ma Normandie au mois de mai : Dicton** \
 
 \
-**Le mois de mai                                               "J'aime ce pays et j'aime à y vivre**\
-**Doit être gai,                                                   Parce que j'y ai mes racines,**                          \
-**S'il gèle en terre,                                            Ces profondes et délicates racines**\
-**C'est la misère**                                                **Qui attachent un homme à la terre**\
-    **\    Où sont nés et morts ses aïeux."**\
-                                                                         ***Guy de Maupassant 1887***\
-\
+**Le mois de mai**                                               \
+**Doit être gai,**                                                                     \
+**S'il gèle en terre,**                                           \
+**C'est la misère**                                                \
+    \
+                                                                         \
 **Coutumes et croyances** \
 **Les amours. Les rivalités locales en Normandie faisaient courir certains bruits sur la beauté des filles et leur vertu. C'est ainsi qu'un dicton nous apprend que bien souvent les rapports amoureux survenaient avant le mariage, comme à Carolles : C'est à Carolles en Carollais - Que les femmes accouchent au bout de treis meis  - Mais seulement la première fois!**\
 \
@@ -29,4 +28,12 @@ coverimage: assets/img/normandie-corneuil-eure.jpg
 **Au cours des veillées, les jeunes gens aimaient organiser un petit jeu qui, assurait-on, donnait la preuve qu'une jeune fille  était encore vierge ou non, jeu auquel elle , n'hésitait pas à se livrer pour amuser ses compagnes et compagnons. Une bougie allumée était placée devant une jeune fille à une certaine distance. Si elle parvenait à la souffler, on déduisait qu'elle n'était plus vierge. Par contre, celle qui de son souffle parvenait presque à éteindre la bougie dont la flamme se rallumait aussitôt, faisait de sa virginité un aveu, ce qui généralement la rendait confuse !**\
 \
 **Serge Tateossian** \
-**Source : De la mémoire et coutume - Ma Normandie**
+**Source : De la mémoire et coutume - Ma Normandie**\
+\
+**"J'aime ce pays et j'aime à y vivre**\
+ **Parce que j'y ai mes racines,**       \
+ **Ces profondes et délicates racines**\
+**Qui attachent un homme à la terre**\
+ **Où sont nés et morts ses aïeux."**\
+\
+***Guy de Maupassant 1887***
