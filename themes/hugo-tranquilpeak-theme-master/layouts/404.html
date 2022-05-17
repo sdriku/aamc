@@ -1,9 +1,32 @@
 {{ partial "head.html" . }}
+
+<style>
+  .button-404 {
+    white-space: nowrap;
+    display: inline-block;
+    padding: 7px 15px;
+    margin: 20px;
+    background: red;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.025em;
+    color: #fff;
+    text-decoration: none;
+  }
+.button-white-404 {
+  background: none;
+  background-color: red;
+  color: #fff;
+  border: 2px solid #fff;
+  }
+</style>
+
 <main class="posts">
-  <article class="post">
-    <h1>404 Not Found</h1>
-    <p>Sorry, but we couldn't find the page you're looking for.</p>
-    <p>Please head back <a href="/">home</a>.</p>
+  <article class="post" style="color:white">
+    <h1>Oh oh !</h1>
+    <p>Désolé mais cette page est introuvable.</p>
+		<a href="{{ site.BaseURL | relLangURL }}" class="button-404"> <i class="ti-angle-double-left"></i>Retour à l'accueil</a>
   </article>
 </main>
 {{ partial "foot.html" . }}

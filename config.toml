@@ -10,7 +10,6 @@ theme = "hugo-tranquilpeak-theme-master"
 ## disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
-canonifyurls = true
 
 [markup.goldmark.renderer]
 unsafe = true
