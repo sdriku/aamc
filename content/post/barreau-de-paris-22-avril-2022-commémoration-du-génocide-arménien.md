@@ -7,8 +7,8 @@ summary: la bâtonnière Julie Couturier et le vice-bâtonnier Vincent Nioré on
   avocats victimes de ce génocide.
 date: 2022-05-07T22:00:00.000Z
 thumbnailImagePosition: left
-thumbnailImage: ''
-coverimage: ''
+thumbnailImage: assets/img/barreau-de-paris-commémoration-génocide-arménien-2022.jpeg
+coverimage: assets/img/krikor-zohrab.jpg
 ---
 <!--StartFragment-->
 
