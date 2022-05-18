@@ -4,7 +4,7 @@ description: "Cathédrale d'Evreux - Notre Dame d'Evreux "
 summary: La Cathédrale d'Evreux vraisemblablement reconstruit au XIe siècle
 date: 2022-05-18T23:24:21.872Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/cathédrale-d-evreux.jfif
+thumbnailImage: assets/img/cathédrale-d-evreux-2.jpg
 coverimage: assets/img/cathédrale-d-evreux-2.jpg
 ---
 <!--StartFragment-->
