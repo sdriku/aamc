@@ -3,7 +3,7 @@ title: "TRONC COMMUN D'UNE HUMANITE EN GENERAL ET LANGUE INDO-EUROPEENNE EN
   PARTICULIER "
 description: "Langue indo-européen - Le tronc commun des langues - langue arménienne "
 summary: "La famille indo-européenne avec ses ramifications de l'antiquité à nos jours "
-date: 2022-05-19T16:02:32.785Z
+date: 2022-05-19T16:03:59.410Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/mesrob-machtots.jfif
 coverimage: assets/img/haygagan-lezou.jpg
