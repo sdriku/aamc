@@ -3,9 +3,9 @@ title: "TRONC COMMUN D'UNE HUMANITE EN GENERAL ET LANGUE INDO-EUROPEENNE EN
   PARTICULIER "
 description: "Langue indo-européen - Le tronc commun des langues - langue arménienne "
 summary: "La famille indo-européenne avec ses ramifications de l'antiquité à nos jours "
-date: 2022-05-19T13:28:00.997Z
+date: 2022-05-19T16:02:32.785Z
 thumbnailImagePosition: left
-thumbnailImage: https://www.bing.com/images/search?view=detailV2&ccid=PeYruQgD&id=B145CD1434EE1DB706C6D69FF0BD0444106EA532&thid=OIP.PeYruQgDiPhpnapI-kD7VgHaJ3&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3de62bb9080388f8699daa48fa40fb56%3frik%3dMqVuEEQEvfCf1g%26riu%3dhttp%253a%252f%252fwww.acam-france.org%252fcontacts%252fimg1%252feglises-apostoliques-69-decines2.jpg%26ehk%3dSdZxhH1VXn%252bo7mpCuDoJxH8CK0Iz9bbCXzNa%252fpkzwvQ%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=767&expw=576&q=mesrop+machtots+images&simid=608035771639350698&FORM=IRPRST&ck=07D51E72E458366F1CD54969922820DB&selectedIndex=75&ajaxhist=0&ajaxserp=0
+thumbnailImage: assets/img/mesrob-machtots.jfif
 coverimage: assets/img/haygagan-lezou.jpg
 ---
 L'arbre généalogique de la langue indo-européenne est si riche, qu'il contient plus de 9 branches et au total plus de 40 langues, et pas des moindres.\
