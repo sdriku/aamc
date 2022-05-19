@@ -5,7 +5,7 @@ description: "Langue indo-européen - Le tronc commun des langues - langue armé
 summary: "La famille indo-européenne avec ses ramifications de l'antiquité à nos jours "
 date: 2022-05-19T16:03:59.410Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/mesrob-machtots.jfif
+thumbnailImage: assets/img/alphabet-arménien.jpg
 coverimage: assets/img/haygagan-lezou.jpg
 ---
 L'arbre généalogique de la langue indo-européenne est si riche, qu'il contient plus de 9 branches et au total plus de 40 langues, et pas des moindres.\
