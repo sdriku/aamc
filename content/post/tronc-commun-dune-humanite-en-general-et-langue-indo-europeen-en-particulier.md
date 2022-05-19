@@ -1,5 +1,5 @@
 ---
-title: "TRONC COMMUN D'UNE HUMANITE EN GENERAL ET LANGUE INDO-EUROPEEN EN
+title: "TRONC COMMUN D'UNE HUMANITE EN GENERAL ET LANGUE INDO-EUROPEENNE EN
   PARTICULIER "
 description: "Langue indo-européen - Le tronc commun des langues - langue arménienne "
 summary: "La famille indo-européenne avec ses ramifications de l'antiquité à nos jours "
