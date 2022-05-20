@@ -6,7 +6,7 @@ summary: L'œuvre de PLATON est immense, elle se présente sous forme de dialogu
   où fréquemment l'interlocuteur est SOCRATE
 date: 2022-05-20T23:00:18.786Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/platon.jfif
+thumbnailImage: assets/img/platon-2.jpg
 coverimage: assets/img/platon-2.jpg
 ---
 PLATON (427 - 347 av.J.C.)\
