@@ -13,4 +13,4 @@ coverimage: assets/img/charles-aznavour-3.jpg
 
 <!--EndFragment-->
 
-![](assets/img/charles.jpg)
+![]()
