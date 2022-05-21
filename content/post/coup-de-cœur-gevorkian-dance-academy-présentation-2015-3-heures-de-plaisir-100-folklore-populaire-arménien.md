@@ -4,7 +4,7 @@ title: "Coup de cœur : Gevorkian Dance Academy. Présentation 2015 - 3 Heures d
 description: Dance Academy - Gevorkian Dance Academy - Dolby Theatre 2015
 summary: "Plus de 3 heures de bonheur, dance pour tous les âges - 100% folklore
   populaire arménien "
-date: 2022-05-21T21:39:41.363Z
+date: 2022-05-21T21:48:04.894Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/gevorkian-dance-academy.jpg
 coverimage: assets/img/gevorkian-dance-academy.jpg
