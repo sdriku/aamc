@@ -35,7 +35,7 @@ Après les Mémoires d’Aram Andonian et de Mgr. Krikoris Balakian, les *Mémoi
 
 Le conférencier – un spécialiste internationalement reconnu du sujet – explique la marche de la « *Nation fidèle* » vers le premier génocide du 20e siècle. Il raconte le règne d’Abdul-Hamid II, la naissance des partis politiques arméniens, l’incapacité du Palais à protéger les Arméniens des incursions des Kurdes. Ce désamour entre l’Arménie ottomane et la dynastie régnante crée un terrain favorable pour ceux qui rêvent de l’effondrement de l’Empire. Une erreur historique lourde de conséquences, les Arméniens applaudissent la chute d’Abdul-Hamid II et votent pour les candidats du **Parti Union et Progrès** (*Ittihad ve Terakki*), les futurs bourreaux de leur peuple. Une approche lucide, l’occasion d’une réécriture nécessaire de l’histoire arménienne.
 
-![](assets/img/onnik-6-avril-2019-aamcs.png)
+![https://armenopole.com/la-fin-de-l-armenie-ottomane.html](assets/img/onnik-6-avril-2019-aamcs.png "https://armenopole.com/la-fin-de-l-armenie-ottomane.html")
 
 ![]()
 
