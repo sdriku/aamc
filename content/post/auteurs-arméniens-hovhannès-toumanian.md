@@ -30,4 +30,7 @@ Hovhannes TOUMANIAN laisse un héritage littéraire d'une richesse exceptionnell
 Ses œuvres seront traduites en dix langues européennes. \
 Hovhannes Toumanian est le fondateur de ce que l'on a appelé "la nouvelle épopée arménienne" grâce à la publication en 1902 des textes du vieux poème **"David de Sassoun"** dans une version de prospective dans laquelle la figure de David roi-berger, héros du combat contre l'oppresseur, reprenait au 19e siècle une actualité brulante.\
 \
-Aragon écrira : ***"....constamment, David fait chez l'envahisseur le départ entre le crime des grands et l'innocence du peuple qui a pu s'y associer. Tout cela fait que, dégagée des complexités, l'épopée de David a gardé sa valeur mobilisatrice par le patriotisme arménien à travers dix siècles....".***
+Aragon écrira : ***"....constamment, David fait chez l'envahisseur le départ entre le crime des grands et l'innocence du peuple qui a pu s'y associer. Tout cela fait que, dégagée des complexités, l'épopée de David a gardé sa valeur mobilisatrice par le patriotisme arménien à travers dix siècles....".***\
+\
+Serge Tateossian \
+source (Henri Siranyan. Edition MCA Décines)
