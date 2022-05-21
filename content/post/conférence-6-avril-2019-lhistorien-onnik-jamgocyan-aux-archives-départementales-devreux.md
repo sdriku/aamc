@@ -33,9 +33,15 @@ Il s’agit d’une initiative de l’Association Arménienne Mémoire Culture S
 
 Après les Mémoires d’Aram Andonian et de Mgr. Krikoris Balakian, les *Mémoires* inédits de Karabet Devletyan, déporté de la Nuit du 24 avril 1915, ont été publiés par *Les Editions du Bosphore*. A la lumière de ce document majeur, Onnik Jamgocyan affine notre connaissance de la grande rafle de Constantinople, de la déportation et de la vie à Tchankiri. On apprend des détails inconnus sur **Komitas Vartabed, Daniel Varoujan et Rouben Sévag**.
 
-Le conférencier – un spécialiste internationalement reconnu du sujet – explique la marche de la « *Nation fidèle* » vers le premier génocide du 20e siècle. Il raconte le règne d’Abdul-Hamid II, la naissance des partis politiques arméniens, l’incapacité du Palais à protéger les Arméniens des incursions des Kurdes. Ce désamour entre l’Arménie ottomane et la dynastie régnante crée un terrain favorable pour ceux qui rêvent de l’effondrement de l’Empire. Une erreur historique lourde de conséquences, les Arméniens applaudissent la chute d’Abdul-Hamid II et votent pour les candidats du **Parti Union et Progrès** (*Ittihad ve Terakki*), les futurs bourreaux de leur peuple. Une approche lucide, l’occasion d’une réécriture nécessaire de l’histoire arménienne.
+Le conférencier – un spécialiste internationalement reconnu du sujet – explique la marche de la « *Nation fidèle* » vers le premier génocide du 20e siècle. Il raconte le règne d’Abdul-Hamid II, la naissance des partis politiques arméniens, l’incapacité du Palais à protéger les Arméniens des incursions des Kurdes. Ce désamour entre l’Arménie ottomane et la dynastie régnante crée un terrain favorable pour ceux qui rêvent de l’effondrement de l’Empire. Une erreur historique lourde de conséquences, les Arméniens applaudissent la chute d’Abdul-Hamid II et votent pour les candidats du **Parti Union et Progrès** (*Ittihad ve Terakki*), les futurs bourreaux de leur peuple. Une approche lucide, l’occasion d’une réécriture nécessaire de l’histoire arménienne.\
+\
+<!--StartFragment-->
 
-![https://armenopole.com/la-fin-de-l-armenie-ottomane.html](assets/img/onnik-6-avril-2019-aamcs.png "https://armenopole.com/la-fin-de-l-armenie-ottomane.html")
+[La fin de l’Arménie ottomane (armenopole.com)](https://armenopole.com/la-fin-de-l-armenie-ottomane.html)
+
+<!--EndFragment-->
+
+![](assets/img/onnik-6-avril-2019-aamcs.png)
 
 ![]()
 
