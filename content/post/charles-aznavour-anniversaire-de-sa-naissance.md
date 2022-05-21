@@ -25,8 +25,6 @@ En parallèle de son parcours musical, Charles Aznavour mène une carrière d'ac
 Sans renier sa [culture française](https://fr.wikipedia.org/wiki/Culture_fran%C3%A7aise "Culture française"), il représente l'[Arménie](https://fr.wikipedia.org/wiki/Arm%C3%A9nie "Arménie") dans plusieurs instances [diplomatiques](https://fr.wikipedia.org/wiki/Diplomatie "Diplomatie") internationales à partir de 1995[a](https://fr.wikipedia.org/wiki/Charles_Aznavour#cite_note-6) et obtient la nationalité arménienne en 2008.\
 \
 
-<!--StartFragment-->
+
 
 [Charles Aznavour — Wikipédia (wikipedia.org)](https://fr.wikipedia.org/wiki/Charles_Aznavour)
-
-<!--EndFragment-->\
