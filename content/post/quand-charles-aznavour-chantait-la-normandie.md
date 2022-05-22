@@ -6,11 +6,14 @@ summary: Aznavour a aussi chanté la Normandie dans une chanson, Les galets
   d'Étretat, composée en 1971 par Georges Garvarentz. Cette chanson est issue de
   la bande originale du film du même nom, réalisé par Sergio Gobbi et sorti en
   1972.
-date: 2022-05-22T12:29:41.384Z
+date: 2022-05-22T12:40:00.273Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/l-étretat.jfif
 coverimage: assets/img/l-étretat.jfif
 ---
+https://france3-regions.francetvinfo.fr/normandie/seine-maritime/quand-charles-aznavour-chantait-normandie-5-choses-savoir-chanteur-notre-region-1550868.html
+
+
 Quand Charles Aznavour chantait la Normandie... 5 choses à savoir sur le chanteur et notre région
 
 Charles Aznavour vient de nous quitter à l'âge de 94 ans. Le chanteur qui vivait dans le Sud de la France avait tissé au fil des années de sa très longue carrière de nombreux liens avec la Normandie. Nous en avons retenu cinq... 
