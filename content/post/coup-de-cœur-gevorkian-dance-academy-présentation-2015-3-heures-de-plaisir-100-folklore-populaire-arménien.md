@@ -6,7 +6,7 @@ summary: "Plus de 3 heures de bonheur, dance pour tous les âges - 100% folklore
   populaire arménien "
 date: 2022-05-21T21:59:35.318Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/dance-academy-gevorkian.jfif
+thumbnailImage: assets/img/gevorkian-dance-academy.jpg
 coverimage: assets/img/gevorkian-dance-academy.jpg
 ---
 <!--StartFragment-->\
