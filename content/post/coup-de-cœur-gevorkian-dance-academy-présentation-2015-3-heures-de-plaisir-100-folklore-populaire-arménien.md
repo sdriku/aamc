@@ -11,7 +11,7 @@ coverimage: assets/img/gevorkian-dance-academy.jpg
 ---
 <!--StartFragment-->\
 20ème anniversaire de l'académie de dance Gevorkian - Los Angeles 
-
+(Vidéo)
 [Gevorkian Dance Academy - 20th Anniversary Concert , Dolby Theatre 2015 - Bing video](https://www.bing.com/videos/search?q=Gevorkian+Dance+Academy+Dolby+theatre+2015&view=detail&mid=80F8C7D1135DD1D9785080F8C7D1135DD1D97850&FORM=VIRE)
 
 <!--EndFragment-->
