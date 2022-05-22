@@ -6,7 +6,7 @@ summary: Aznavour a aussi chanté la Normandie dans une chanson, Les galets
   d'Étretat, composée en 1971 par Georges Garvarentz. Cette chanson est issue de
   la bande originale du film du même nom, réalisé par Sergio Gobbi et sorti en
   1972.
-date: 2022-05-22T12:21:39.357Z
+date: 2022-05-22T12:29:41.384Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/l-étretat.jfif
 coverimage: assets/img/l-étretat.jfif
