@@ -1,15 +1,16 @@
 ---
-title: "Quand Charles Aznavour chantait la Normandie... "
+title: Quand Charles Aznavour chantait la Normandie... (spéciale anniversaire
+  Aznavour)
 description: Aznavour chante la Normandie - association arméniens Evreux -
   arméniens Evreux -
-summary: "Aznavour a aussi chanté la Normandie dans une chanson, Les galets
+summary: Aznavour a aussi chanté la Normandie dans une chanson, Les galets
   d'Étretat, composée en 1971 par Georges Garvarentz. Cette chanson est issue de
   la bande originale du film du même nom, réalisé par Sergio Gobbi et sorti en
-  1972."
+  1972.
 date: 2022-05-22T12:40:00.273Z
 thumbnailImagePosition: left
-thumbnailImage: "assets/img/aznavour.jpg"
-coverimage: "assets/img/aznavour.jpg"
+thumbnailImage: assets/img/aznavour.jpg
+coverimage: assets/img/aznavour.jpg
 ---
 https://france3-regions.francetvinfo.fr/normandie/seine-maritime/quand-charles-aznavour-chantait-normandie-5-choses-savoir-chanteur-notre-region-1550868.html
 
