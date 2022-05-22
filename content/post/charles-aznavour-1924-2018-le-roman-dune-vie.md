@@ -1,5 +1,6 @@
 ---
-title: "CHARLES AZNAVOUR (1924 - 2018) LE ROMAN D'UNE VIE "
+title: CHARLES AZNAVOUR (1924 - 2018) LE ROMAN D'UNE VIE (spéciale anniversaire
+  Aznavour)
 description: "Charles Aznavour - Le roman d'une vie - Arménie  et France -
   Charles Aznavour - Charles Aznavour - Charles AZNAVOUR "
 summary: "La vie de Charles AZNAVOUR, des témoignages "
