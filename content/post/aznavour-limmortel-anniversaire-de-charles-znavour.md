@@ -2,7 +2,7 @@
 title: Aznavour l'immortel - Anniversaire de Charles ZNAVOUR
 description: "Anniversaire de Charles AZNAVOUR - Arméniens Evreux "
 summary: La vie de Charles AZNAVOUR
-date: 2022-05-02
+date: 2022-05-22T12:09:33.532Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/charles-aznavour-à-cannes-1999.jpg
 coverimage: assets/img/charles-aznavour-3.jpg
