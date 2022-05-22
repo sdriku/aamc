@@ -5,8 +5,8 @@ summary: "Hovhannes TOUMANIAN laisse un héritage littéraire d'une richesse
   exceptionnelle "
 date: 2022-05-21T00:05:47.796Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/toumanian.jfif
-coverimage: assets/img/toumanian-hovhannes.jfif
+thumbnailImage: assets/img/montesquieu.jpg
+coverimage: assets/img/montesquieu.jpg
 ---
 **Hovhannes TOUMANIAN** \
 \
