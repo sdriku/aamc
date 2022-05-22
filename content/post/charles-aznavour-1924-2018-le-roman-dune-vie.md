@@ -9,7 +9,7 @@ thumbnailImage: assets/img/aznavour.jpg
 coverimage: assets/img/aznavour.jpg
 ---
 <!--StartFragment-->
-
+(Document Audio)
 [Charles Aznavour (1924-2018), le roman d'une vie](https://www.franceculture.fr/emissions/toute-une-vie/charles-aznavour-1924-2018-le-roman-d-une-vie "Charles Aznavour (1924-2018), le roman d'une vie")
 
 [TOUTE UNE VIE](https://www.franceculture.fr/emissions/une-vie-une-oeuvre "Toute une vie")
