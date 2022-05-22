@@ -3,7 +3,7 @@ title: "Auteurs arméniens : Hovhannès TOUMANIAN "
 description: "TOUMANIAN Hovhannes - Auteurs arménien - poète et écrivain arménien "
 summary: "Hovhannes TOUMANIAN laisse un héritage littéraire d'une richesse
   exceptionnelle "
-date: 2022-05-21T00:05:47.796Z
+date: 2022-05-22T13:48:05.200Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/toumanian-jpeg.jfif
 coverimage: assets/img/toumanian-jpeg.jfif
