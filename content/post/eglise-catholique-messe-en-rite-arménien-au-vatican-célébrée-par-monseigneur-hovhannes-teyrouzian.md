@@ -13,3 +13,6 @@ coverimage: assets/img/cartholiques-arméniens-avec-le-pape.jpg
 
 (Vidéo) Messe en rite arménien célébrée par Monseigneur Jean Teyrouzian  
 https://youtu.be/wafXv4xrVC4
+
+Serge Tateossian
+Source : KTO Télévision 
