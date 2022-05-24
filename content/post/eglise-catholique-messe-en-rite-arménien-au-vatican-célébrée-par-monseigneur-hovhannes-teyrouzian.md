@@ -11,5 +11,5 @@ thumbnailImage: assets/img/cartholiques-arméniens-avec-le-pape.jpg
 coverimage: assets/img/cartholiques-arméniens-avec-le-pape.jpg
 ---
 
-(Vidéo) Messe en rite arménien co-célébrée par le Pape au Vatican 
+(Vidéo) Messe en rite arménien célébrée par Monseigneur Jean Teyrouzian  
 https://youtu.be/wafXv4xrVC4
