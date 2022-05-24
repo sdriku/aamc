@@ -1,10 +1,10 @@
 ---
 title: l'Eglise Catholique en France - Conférence des évêques de France et le
-  Haut-Karabakh - L'église fait corps avec le êu^le arménien
+  Haut-Karabakh - L'église fait corps avec le peuple arménien
 description: "Eglise catholique et l'Arménie - Haut-Karabakh et l'église catholique "
 summary: "Le conflit du Haut-Karabakh : « L’Église catholique fait corps avec le
   peuple arménien »"
-date: 2022-05-24T22:15:37.430Z
+date: 2022-05-24T22:57:36.151Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/conférence-des-évêques-de-france.png
 coverimage: assets/img/karabagh-conférence-des-évêques-de-france.jpg
