@@ -4,7 +4,7 @@ title: "Premier satellite spatial arménien lancé en orbite depuis Cap Canavera
 description: "Satellite spatial arménien -  Satellite spatial arménien - Evreux Arméniens "
 summary: Le premier satellite spatial arménien a été lancé sur l’orbite
   terrestre par SpaceX, jeudi soir 25 mai 2022
-date: 2022-05-26T15:37:59.629Z
+date: 2022-05-26T15:47:00.281Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/satelitte-arménien.jpg
 coverimage: assets/img/satelitte-arménien-1.jpg
@@ -26,9 +26,13 @@ D’ici la fin de 2023, une station de réception de centre de contrôle par sat
 Serge Tateossian - Source : Panorama.com
 
 <!--EndFragment-->\
----------------------------------------------\
+
+\---------------------------------------------\
+
 <!--StartFragment-->
 
-[Premier satellite arménien mis en orbite depuis Cap Canaveral avec SpaceX Falcon 9 | Artsakhpress.am | Agence d’information indépendante de l’Artsakh](https://artsakhpress.am/eng/news/164075/first-armenian-satellite-launched-into-orbit-from-cape-canaveral-with-spacex-falcon-9.html#:~:text=First%20Armenian%20satellite%20launched%20into%20orbit%20from%20Cape,Minister%20Nikol%20Pashinyan%20announced%20at%20the%20Cabinet%20meeting.)
+<!--StartFragment-->
+
+[Երկիր մոլորակի ուղեծիր է դուրս բերվել Հայաստանի առաջին տիեզերական արբանյակը | Artsakhpress.am | Արցախի անկախ լրատվական գործակալություն](https://artsakhpress.am/arm/news/164075/first-armenian-satellite-launched-into-orbit-from-cape-canaveral-with-spacex-falcon-9.html)
 
 <!--EndFragment-->
