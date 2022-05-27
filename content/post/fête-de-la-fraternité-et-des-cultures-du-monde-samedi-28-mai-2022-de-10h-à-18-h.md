@@ -1,6 +1,6 @@
 ---
-title: Fête de la Fraternité et des cultures du monde SAMEDI 28 MAI 2022 - De
-  10H à 18 H
+title: Fête de la Fraternité et des cultures du monde à EVREUX - SAMEDI 28 MAI
+  2022 - De 10H à 18 H
 description: "Fête de la Fraternité - Evreux arméniens - Arménie fête de la
   fraternité - Evreux "
 summary: Fête de la Fraternité et des cultures du monde SAMEDI 28 MAI 2022 - De
