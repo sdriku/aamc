@@ -7,7 +7,7 @@ summary: "Une vraie Fraternité à Evreux - Les couleurs du Monde se mélangent 
 date: 2022-06-01T19:39:04.392Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/img-20220529-wa0005.jpg
-coverimage: assets/img/img-20220528-wa0025.jpg
+coverimage: assets/img/img-20220529-wa0005.jpg
 ---
 **EVREUX LA GRATITUDE - 28 mai 2022**\
 **Fête de la Fraternité et des Cultures du Monde à Evreux - Samedi 28 mai 2022**\
