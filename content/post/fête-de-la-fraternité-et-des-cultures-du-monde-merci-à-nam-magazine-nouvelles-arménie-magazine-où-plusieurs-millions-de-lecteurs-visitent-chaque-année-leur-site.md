@@ -14,8 +14,6 @@ coverimage: assets/img/aamc-fête-de-la-fraternité-2.jpg
 
 # Fête de la Fraternité et des Cultures du Monde
 
-
-
 ![](https://armenews.com/IMG/arton93153.png)
 
 Fête de la Fraternité et des Cultures du Monde à Evreux -\
@@ -23,7 +21,7 @@ Samedi 28 mai 2022
 
 Ce fut une journée pleine de surprises et des rencontres, la Générosité, la Tolérance et la Gratitude la résument !
 
-Une journée, où 36 pays, présentés par leurs ressortissants ou communautés qui s’identifient dans telle culture ou tel pays. Dans chaque pavillon, des hommes et des femmes, donnaient de leur mieux pour animer leur stand et faire rayonner la culture dont ils se considèrent les héritiers.
+Une journée, où 36 pays, représentés par leurs ressortissants ou communautés qui s’identifient dans telle culture ou tel pays. Dans chaque pavillon, des hommes et des femmes, donnaient de leur mieux pour animer leur stand et faire rayonner la culture dont ils se considèrent les héritiers.
 
 L’Arménie, comme quelques d’autres pays, était représentée par deux associations : AAMC “Association Arménienne Mémoire et Culture” et l’association sœur ANSA.
 
