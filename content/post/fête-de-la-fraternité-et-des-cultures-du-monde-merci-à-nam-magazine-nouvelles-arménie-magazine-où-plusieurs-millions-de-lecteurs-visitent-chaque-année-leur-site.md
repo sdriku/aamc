@@ -1,7 +1,7 @@
 ---
 title: "Fête de la Fraternité et des Cultures du Monde  - Merci à NAM Magazine
-  (Nouvelles Arménie Magazine) où plusieurs millions de lecteurs visitent chaque
-  année leur site. "
+  (Nouvelles Arménie Magazine) où plusieurs millions de lecteurs, chaque année,
+  visitent leur site. "
 description: "Fête de la Fraternité et des cultures du monde - Evreux - Evreux
   fête de la Fraternité - Arméniens Evreux "
 summary: Fête de la Fraternité et des Cultures du Monde à Evreux - Samedi 28 mai 2022
