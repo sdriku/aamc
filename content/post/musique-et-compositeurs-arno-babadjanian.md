@@ -5,8 +5,8 @@ summary: Babadjanian fut l'heureux témoin de l'occidentalisation de la musique
   d'Arménie, grâce à la création de la Philharmonie Arménienne
 date: 2022-06-02T22:19:07.595Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/babadjanian-arno.jfif
-coverimage: assets/img/babadjanian-arno.jfif
+thumbnailImage: assets/img/babadjanian-arno-2.jpg
+coverimage: assets/img/babadjanian-arno-2.jpg
 ---
 Compositeur et pianiste - Né à Erevan le 22/1/1921, mort à Moscou le 15/11/83
 
