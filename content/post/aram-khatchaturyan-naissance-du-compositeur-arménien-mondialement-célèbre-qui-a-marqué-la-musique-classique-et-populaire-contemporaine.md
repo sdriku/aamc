@@ -10,7 +10,6 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/aram-khatchadurian.jpg
 coverimage: assets/img/aram-khatchaturyan-3.jpg
 ---
-<!--StartFragment-->\\
 Vidéo - La Danse du Sabre \
 https://youtu.be/mUQHGpxrz-8  
 
