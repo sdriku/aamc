@@ -5,7 +5,7 @@ description: "ARAM KHATCHATURYAN - Aram Khatchadurian - Aram Khatchaturian -
   Musique classique - Musique populaire - Arménie EZvreux "
 summary: L’œuvre attachante de Khatchaturian a été occultée par une seule pièce,
   la Danse du Sabre extraite du ballet Gayaneh.
-date: 2022-06-06T18:53:51.978Z
+date: 2022-06-06T19:33:28.671Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/aram-khatchadurian.jpg
 coverimage: assets/img/aram-khatchaturyan-3.jpg
