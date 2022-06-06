@@ -10,9 +10,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/aram-khatchadurian.jpg
 coverimage: assets/img/aram-khatchaturyan-3.jpg
 ---
-<!--StartFragment-->\
-
-\
+<!--StartFragment-->\\
 Vidéo - La Danse du Sabre \
 https://youtu.be/mUQHGpxrz-8  
 
@@ -47,6 +45,6 @@ Le style de Khatchaturian, qui s’inspire tant des musiques folkloriques, sédu
 \
 Le ballet, genre remis au goût du jour grâce à Tchaïkovski, fascine les compositeurs russes du XXe siècle Grâce à ses ballets composés dès la Seconde Guerre mondiale, Khatchaturian est célébré en URSS. Il devient un musicien officiel du régime soviétique. Le ballet Gayaneh est plus qu’un succès : un triomphe ! Créé en 1942, au Théâtre de Perm, il célèbre l’héroïsme de personnages d’une ferme collective de l’Union Soviétique. Gayaneh, fille d’Avanes, le responsable du kolkhoze, participe à l’arrestation d’un espion. On y célèbre la force collective et l’amitié entre les peuples d’URSS. A la fin de l’œuvre, la Danse du Sabre devient un morceau d’anthologie qui va occulter, hélas, la qualité des autres numéros du ballet et devenir à lui seul la “carte de visite” du compositeur.
 
-![](assets/img/aram-khatchadurian.jpg-2.png)
+![](assets/img/aram-khatchadurian.jpg-2.png "Aram Khatchaturyan à Londres 1959.")
 
 ![](assets/img/aram-khatchaturyan-3.jpg)
