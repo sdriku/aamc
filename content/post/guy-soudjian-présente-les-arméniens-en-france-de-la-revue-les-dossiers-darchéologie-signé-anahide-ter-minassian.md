@@ -9,6 +9,7 @@ thumbnailImage: assets/img/guy-soudjian.jpg
 coverimage: assets/img/guy-soudjian-jardin.jpg
 ---
 \
+
 <!--StartFragment-->
 
 Les Arméniens en France
@@ -37,5 +38,5 @@ La longue querelle qui a opposé autour de la question arménienne, les dachnaks
 
 Une famille de réfugiés arrivés à Marseille dans les années 1920.
 
-PHOTO COLLECTION ARAM.\
+\
 GUY SOUDJIAN 11/juin/2022  Source : Dossiers d'archéologie no 177, signé Anahide TER MINASSIAN Décembre  1992
