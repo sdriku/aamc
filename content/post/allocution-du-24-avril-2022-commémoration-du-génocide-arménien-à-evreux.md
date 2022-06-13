@@ -1,10 +1,11 @@
 ---
 title: "Allocution du 24 avril 2022 commémoration du génocide arménien à Evreux "
-description: "Joseph Kessel - Génocide des arméniens à Evreux - Origine de la
-  stèle Parc Marcel Baudot - Commémoration à Evreux "
+description: "Evreux Arménie -  Les Arméniens de Normandie commémorent le
+  génocide des arméniens - Joseph Kessel - Génocide des arméniens à Evreux -
+  Origine de la stèle Parc Marcel Baudot - Commémoration à Evreux "
 summary: Témoigner de notre humanité en disant plus jamais la barbarie -
   Génocide arménien perpétré par l'empire turco-ottoman
-date: 2022-05-02
+date: 2022-06-13T16:53:38.815Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/image-2.png
 coverimage: assets/img/image-2.png
