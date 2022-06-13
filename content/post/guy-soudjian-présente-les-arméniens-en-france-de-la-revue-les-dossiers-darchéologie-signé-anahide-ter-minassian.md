@@ -36,7 +36,5 @@ En 70 ans, les Arméniens se sont parfaitement intégrés à la société franç
 
 La longue querelle qui a opposé autour de la question arménienne, les dachnaks (militants de la FRA) au front de ses détracteurs (hintchaks communistes, rarngavars "neutres") ne s'est pas éteinte, alors que la base sociale des partis arméniens s'est effritée. Malgré cela, il existe depuis 1965 un "mouvement arménien" en France. La reconnaissance du génocide arménien par la Turquie et les organismes internationaux est un thème mobilisateur lancé par le Comité de Défense de la Cause Arménienne. Le terrorisme arménien dont le sanctuaire est à Beyrouth, mais le terrain d'action en Occident, réveille les Arméniens de France et les oblige durant dix ans à se déterminer (1975-1985). Depuis 1988, ils ont réagi à tous les événements qui se sont déroulés en Arménie. Séisme, crises politiques, disparition de l'URSS, indépendance de l'Arménie, lutte dans le Haut-Kharabagh ont suscité des élans de solidarité, des échanges, des engagements et de nouvelles ruptures qui à leur tour ont démontré que la diaspora est une réalité destinée à durer pour ces Français d'origine arménienne.
 
-Une famille de réfugiés arrivés à Marseille dans les années 1920.
-
 \
 GUY SOUDJIAN 11/juin/2022  Source : Dossiers d'archéologie no 177, signé Anahide TER MINASSIAN Décembre  1992
