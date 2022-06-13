@@ -6,9 +6,9 @@ description: "Evreux Arménien - Culture et Arménie - Evreux et Corinne
 summary: Corinne ZARZAVATDJIAN présente à la Télévision publique Arménienne
   @armtv1 de m’avoir donné l’opportunité de présenter notre livre « l’Armenie
   et les Arméniens de À à Z »
-date: 2022-06-13T17:11:12.660Z
+date: 2022-06-13T17:15:38.904Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/corinne-zarzavatdjian.jfif
+thumbnailImage: assets/img/corinne-zarzavatdjian2.jpg
 coverimage: assets/img/corinne-zarzavatdjian2.jpg
 ---
 Vidéo cliquez-ici \
