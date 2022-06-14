@@ -10,8 +10,8 @@ summary: Le préfet de Seine-Maritime contraint de réexaminer la situation
   հայերի վիճակը
 date: 2022-06-14T19:32:41.040Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/ofpra-5.jfif
-coverimage: assets/img/ofpra-5.jfif
+thumbnailImage: assets/img/tribunal.jpg
+coverimage: assets/img/tribunal.jpg
 ---
 <!--StartFragment-->
 
