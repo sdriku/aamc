@@ -1,12 +1,14 @@
 ---
 title: "Réfugiés Arméno-Ukrainiens : le Tribunal de Rouen leur donne raison -
-  Հայ-ուկրաինացի փախստականներ. Ռուանի դատարանը պատճառաբանում է նրանց"
+  Հայ-ուկրաինացի փախստականներ. Ռուանի դատարանը պատճառաբանում է նրանց - A Evreux,
+  notre association AAMC a été contacté pour nous signaler le cas  d'un arménien
+  venu d'Ukraine récemment. Nous sommes en contact. "
 description: "Réfugié Arméniens d'Ukraine - Evreux Arménie - Tribunal
   administratif de Rouen "
 summary: Le préfet de Seine-Maritime contraint de réexaminer la situation
   d’Arméniens d’Ukraine - Սեն-Մարիթիմի պրեֆեկտը ստիպել է վերանայել Ուկրաինայում
   հայերի վիճակը
-date: 2022-06-14T19:16:44.627Z
+date: 2022-06-14T19:25:39.231Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/ofpra-5.jfif
 coverimage: assets/img/ofpra-5.jfif
