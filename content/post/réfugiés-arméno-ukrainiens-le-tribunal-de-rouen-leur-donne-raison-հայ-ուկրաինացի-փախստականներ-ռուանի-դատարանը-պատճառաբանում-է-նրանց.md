@@ -17,9 +17,7 @@ coverimage: assets/img/ofpra-5.jfif
 
 # Le préfet de Seine-Maritime contraint de réexaminer la situation d’Arméniens d’Ukraine
 
-
-
-![](https://www.armenews.com/IMG/arton93496.jpg)
+![]()
 
 Huit Arméniens vivant en Ukraine et réfugiés en France, qui contestaient le refus d’octroi de la protection temporaire par le préfet de Seine-Maritime, ont obtenu gain de cause lundi devant le tribunal administratif de Rouen.\
 Le juge des référés du tribunal administratif de Rouen a rendu lundi huit ordonnances séparées, dans lesquelles il enjoint le préfet de statuer de nouveau sur la situation de ces Arméniens vivant en Ukraine « dans un délai de trois semaines » avec la mise à disposition d’un titre provisoire de séjour d’ici au réexamen de leur situation.\
@@ -38,6 +36,7 @@ par [Ara Toranian](https://www.armenews.com/spip.php?page=auteur&id_auteur=4) 
 © armenews.com 2022
 
 <!--EndFragment-->\
+
 \
 Երկուշաբթի օրը Ռուանի վարչական դատարանի ժամանակավոր դատավորը ութ առանձին հրամաններ է արձակել, որոնցում նա պրեֆեկտին հանձնարարել է «երեք շաբաթվա ընթացքում» կրկին վճիռ կայացնել Ուկրաինայում ապրող այս հայերի վիճակի վերաբերյալ՝ տրամադրելով ժամանակավոր կացության թույլտվություն մինչև նրանց վիճակը։ վերաքննվում է.
 Նորմանդիայի փախստականներին, Ուկրաինայի այս հայերին սպառնում էր արտաքսել՝ Սեն-Մարիթմի պրեֆեկտի հրամանով ժամանակավոր պաշտպանությունից հրաժարվելուց հետո։
