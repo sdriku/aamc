@@ -8,7 +8,7 @@ description: "Réfugié Arméniens d'Ukraine - Evreux Arménie - Tribunal
 summary: Le préfet de Seine-Maritime contraint de réexaminer la situation
   d’Arméniens d’Ukraine - Սեն-Մարիթիմի պրեֆեկտը ստիպել է վերանայել Ուկրաինայում
   հայերի վիճակը
-date: 2022-06-14T19:25:39.231Z
+date: 2022-06-14T19:32:41.040Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/ofpra-5.jfif
 coverimage: assets/img/ofpra-5.jfif
