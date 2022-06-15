@@ -7,8 +7,8 @@ summary: L’Arménie, les autres racines de Robert Guédiguian - Invitation au
   voyage | ARTE
 date: 2022-06-15T16:57:06.301Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/robert-guédiguian-9.jfif
-coverimage: assets/img/robert-guédiguian-9.jfif
+thumbnailImage: assets/img/robert-guédiguian-20.jpg
+coverimage: assets/img/robert-guédiguian-20.jpg
 ---
 Les autres racines de Robert GUEDIGUIAN (vidéo) \
 \
