@@ -16,19 +16,12 @@ https://www.youtube.com/watch?v=MzJegXs9Ke4
 
 <!--StartFragment-->
 
-L’Arménie, terre ancestrale aux confins de l'Europe et de l’Asie mineure, est une étrangère pour le Marseillais d’origine arménienne Robert Guédiguian. Dans son film “Le voyage en Arménie”, son héroïne Anna, incarnée par Ariane Ascaride, parcourt l’Arménie pour renouer avec ses racines. De la capitale Erevan au monastère de Khor Virap, en passant par la campagne arménienne reculée, le film poursuit une quête d’identité.
-
-<!--EndFragment-->\
+L’Arménie, terre ancestrale aux confins de l'Europe et de l’Asie mineure, est une étrangère pour le Marseillais d’origine arménienne Robert Guédiguian. Dans son film “Le voyage en Arménie”, son héroïne Anna, incarnée par Ariane Ascaride, parcourt l’Arménie pour renouer avec ses racines. De la capitale Erevan au monastère de Khor Virap, en passant par la campagne arménienne reculée, le film poursuit une quête d’identité.\
 \
-<!--StartFragment-->\
 \
 **Robert Guédiguian**, né le [3](https://fr.wikipedia.org/wiki/3_d%C3%A9cembre "3 décembre") [décembre](https://fr.wikipedia.org/wiki/D%C3%A9cembre_1953 "Décembre 1953") [1953](https://fr.wikipedia.org/wiki/1953 "1953") à [Marseille](https://fr.wikipedia.org/wiki/Marseille "Marseille"), est un [réalisateur](https://fr.wikipedia.org/wiki/R%C3%A9alisateur "Réalisateur") de [cinéma](https://fr.wikipedia.org/wiki/Cin%C3%A9ma_fran%C3%A7ais "Cinéma français"), [producteur](https://fr.wikipedia.org/wiki/Producteur_de_cin%C3%A9ma "Producteur de cinéma") et [scénariste](https://fr.wikipedia.org/wiki/Sc%C3%A9nariste) [français](https://fr.wikipedia.org/wiki/France "France") d'origine arménienne et allemande[1](https://fr.wikipedia.org/wiki/Robert_Gu%C3%A9diguian#cite_note-1).
 
 En 1997, il est récompensé par le [prix Louis-Delluc](https://fr.wikipedia.org/wiki/Prix_Louis-Delluc "Prix Louis-Delluc") pour son film *[Marius et Jeannette](https://fr.wikipedia.org/wiki/Marius_et_Jeannette "Marius et Jeannette")*, sélectionné au [festival de Cannes 1997](https://fr.wikipedia.org/wiki/Festival_de_Cannes_1997 "Festival de Cannes 1997") dans la section [Un certain regard](https://fr.wikipedia.org/wiki/Un_certain_regard "Un certain regard").
-
-<!--EndFragment-->\
-\
-<!--StartFragment-->
 
 Né à [Marseille](https://fr.wikipedia.org/wiki/Marseille "Marseille"), Robert Guédiguian est d'origine [arménienne](https://fr.wikipedia.org/wiki/Arm%C3%A9nie "Arménie") par son père et [allemande](https://fr.wikipedia.org/wiki/Allemagne "Allemagne") par sa mère et fils d'un ouvrier électricien travaillant à bord des bateaux dans le port de la ville[2](https://fr.wikipedia.org/wiki/Robert_Gu%C3%A9diguian#cite_note-telerama_74900-2). Il fréquente assidument les salles de cinéma durant son enfance et son adolescence[2](https://fr.wikipedia.org/wiki/Robert_Gu%C3%A9diguian#cite_note-telerama_74900-2). Il quitte ensuite sa ville natale, dont il fait cependant le décor de prédilection de ses films.
 
@@ -51,7 +44,5 @@ Producteur indépendant, Robert Guédiguian est partenaire d'une [maison de pro
 Depuis juin 2016, il est président de [La Cinémathèque de Toulouse](https://fr.wikipedia.org/wiki/Cin%C3%A9math%C3%A8que_de_Toulouse "Cinémathèque de Toulouse")[4](https://fr.wikipedia.org/wiki/Robert_Gu%C3%A9diguian#cite_note-4),[5](https://fr.wikipedia.org/wiki/Robert_Gu%C3%A9diguian#cite_note-5).
 
 En 2018, il est membre du jury au [Festival de Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_2018 "Festival de Cannes 2018"), présidé par [Cate Blanchett](https://fr.wikipedia.org/wiki/Cate_Blanchett "Cate Blanchett"), aux côtés des actrices [Léa Seydoux](https://fr.wikipedia.org/wiki/L%C3%A9a_Seydoux "Léa Seydoux") et [Kristen Stewart](https://fr.wikipedia.org/wiki/Kristen_Stewart "Kristen Stewart"), de la réalisatrice [Ava DuVernay](https://fr.wikipedia.org/wiki/Ava_DuVernay "Ava DuVernay"), de la chanteuse [Khadja Nin](https://fr.wikipedia.org/wiki/Khadja_Nin "Khadja Nin"), de l'acteur [Chang Chen](https://fr.wikipedia.org/wiki/Chang_Chen "Chang Chen") et des réalisateurs [Denis Villeneuve](https://fr.wikipedia.org/wiki/Denis_Villeneuve "Denis Villeneuve") et [Andreï Zviaguintsev](https://fr.wikipedia.org/wiki/Andre%C3%AF_Zviaguintsev "Andreï Zviaguintsev").
-
-### Engagement politique
 
 <!--EndFragment-->
