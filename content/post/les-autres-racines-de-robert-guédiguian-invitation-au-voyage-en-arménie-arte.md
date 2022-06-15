@@ -45,4 +45,5 @@ Depuis juin 2016, il est président de [La Cinémathèque de Toulouse](https:/
 
 En 2018, il est membre du jury au [Festival de Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_2018 "Festival de Cannes 2018"), présidé par [Cate Blanchett](https://fr.wikipedia.org/wiki/Cate_Blanchett "Cate Blanchett"), aux côtés des actrices [Léa Seydoux](https://fr.wikipedia.org/wiki/L%C3%A9a_Seydoux "Léa Seydoux") et [Kristen Stewart](https://fr.wikipedia.org/wiki/Kristen_Stewart "Kristen Stewart"), de la réalisatrice [Ava DuVernay](https://fr.wikipedia.org/wiki/Ava_DuVernay "Ava DuVernay"), de la chanteuse [Khadja Nin](https://fr.wikipedia.org/wiki/Khadja_Nin "Khadja Nin"), de l'acteur [Chang Chen](https://fr.wikipedia.org/wiki/Chang_Chen "Chang Chen") et des réalisateurs [Denis Villeneuve](https://fr.wikipedia.org/wiki/Denis_Villeneuve "Denis Villeneuve") et [Andreï Zviaguintsev](https://fr.wikipedia.org/wiki/Andre%C3%AF_Zviaguintsev "Andreï Zviaguintsev").
 
-<!--EndFragment-->
+### \
+Serge Tateossian 15/06/2022 source ARTE
