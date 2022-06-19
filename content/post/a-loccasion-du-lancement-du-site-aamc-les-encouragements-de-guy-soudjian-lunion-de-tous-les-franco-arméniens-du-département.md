@@ -1,8 +1,9 @@
 ---
 title: "Lancement du site AAMC et LES ENCOURAGEMENTS DE GUY SOUDJIAN - L'union
   de tous les franco-arméniens du département  "
-description: "Guy SOUDJIAN historien et conférencier -  Président ANSA -
-  Président et fondateur de ANSA - Association arménienne à Evreux "
+description: "Guy SOUDJIAN historien et conférencier -  Anthropologue -
+  Proviseur Le Mans - Président ANSA - Président et fondateur de ANSA -
+  Association arménienne à Evreux "
 summary: "Guy SOUDJIAN encourage le site de l'association AAMC, et prône l'union
   de tous les franco-arméniens du département "
 date: 2022-05-21T00:11:04.401Z
