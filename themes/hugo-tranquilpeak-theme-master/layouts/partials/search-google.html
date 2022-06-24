@@ -1,11 +1,55 @@
 <style>
     .search {
-        border:thick double gold;
+        display: flex;
+        padding: 0;
+        border: 1px solid currentColor;
+        border-radius: 5px;
     }
 
-    .inp::placeholder {
+    input[type="search"] {
+        background: transparent;
+        border: 1px solid #555;
+        padding: 9px 4px 9px 15px;
+        margin: 0;
+        font-size: 14px;
+        color: inherit;
+        border: 1px solid transparent;
+        border-radius: inherit;
+    }
+
+    input[type="search"]::placeholder {
+        color: grey;
         font-size: 18px;
     }
+
+    button[type="submit"] {
+        text-indent: -999px;
+        overflow: hidden;
+        width: 40px;
+        padding: 0;
+        margin: 0;
+        border: 1px solid transparent;
+        border-radius: inherit;
+        background: transparent url("/assets/img/search.png") no-repeat center;
+        cursor: pointer;
+        opacity: 0.7;
+    }
+
+    button[type="submit"]:hover {
+        opacity: 1;
+    }
+
+    button[type="submit"]:focus,
+    input[type="search"]:focus {
+        box-shadow: 0 0 3px 0 #1183d6;
+        border-color: #1183d6;
+        outline: none;
+    }
+
 </style>
 
-<form class="search" method="get" id="search-google" action="https://www.google.com/search" target="_blank"><input type="hidden" name="sitesearch" value="evreux-armenie.com" /><input type="text" name="q" maxlength="255" value="" placeholder="Recherche d'articles" class="form-control inp" /></form>
+<form class="search" method="get" id="search-google" action="https://www.google.com/search" target="_blank">
+    <button type="submit">Search</button>
+    <input type="hidden" name="sitesearch" value="evreux-armenie.com" />
+    <input type="search" name="q" maxlength="255" value="" placeholder="Recherche d'articles" class="form-control inp input-style"/>
+</form>
