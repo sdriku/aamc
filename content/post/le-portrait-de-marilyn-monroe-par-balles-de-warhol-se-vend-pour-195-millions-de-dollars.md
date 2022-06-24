@@ -7,11 +7,10 @@ summary: Le portrait de Marilyn Monroe par Balles de Warhol se vend pour 195
 date: 2022-05-10T21:12:11.733Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/marilyne-monroe-larry-gagosian.webp
-coverimage: assets/img/maryline-monroe-haye.jpg
+image: assets/img/maryline-monroe-haye.jpg
 ---
 <!--StartFragment-->
 
-# Le portrait de Marilyn Monroe par Balles de Warhol se vend pour 195 millions de dollars, un record pour l’artiste pop
 
 <!--EndFragment-->\
 \

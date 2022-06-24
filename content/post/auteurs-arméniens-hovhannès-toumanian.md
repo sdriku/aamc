@@ -6,7 +6,7 @@ summary: "Hovhannes TOUMANIAN laisse un héritage littéraire d'une richesse
 date: 2022-05-22T13:48:05.200Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/hovhannes-toumanyan-statue.jpg
-coverimage: assets/img/hovhannes-toumanyan-statue.jpg
+image: assets/img/hovhannes-toumanyan-statue.jpg
 ---
 **Hovhannes TOUMANIAN** \
 \

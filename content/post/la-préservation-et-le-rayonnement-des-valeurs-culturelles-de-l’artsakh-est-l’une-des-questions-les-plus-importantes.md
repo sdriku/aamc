@@ -7,7 +7,7 @@ summary: La préservation et le rayonnement de nos valeurs culturelles est la
 date: 2022-05-26T16:09:49.709Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/artsakh.jpg
-coverimage: assets/img/artsakh.jpg
+image: assets/img/artsakh.jpg
 ---
 <!--StartFragment-->
 

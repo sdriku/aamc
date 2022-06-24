@@ -8,7 +8,7 @@ summary: "Հիսուս Քրիստոսի մոնումենտալ արձան-համ
 date: 2022-05-13T22:12:24.684Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/jésus-en-arménie.jpg
-coverimage: assets/img/jésus-en-arménie.jpg
+image: assets/img/jésus-en-arménie.jpg
 ---
 <!--StartFragment-->
 

@@ -6,7 +6,7 @@ summary: "FESTIVAL HAYA EN ARMENIE "
 date: 2022-04-30T22:00:00.000Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/rappeur-50-cent.jpg
-coverimage: assets/img/rappeur-50-cent.jpg
+image: assets/img/rappeur-50-cent.jpg
 ---
 <!--StartFragment-->
 

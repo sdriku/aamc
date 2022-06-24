@@ -7,7 +7,7 @@ summary: Un nouveau centre technologique sera construit à Erevan, un
 date: 2022-05-10T14:17:26.615Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/centre-technologique-arménie.jpg
-coverimage: assets/img/centre-technologique-arménie.jpg
+image: assets/img/centre-technologique-arménie.jpg
 ---
 <!--StartFragment-->\
 <!--StartFragment-->

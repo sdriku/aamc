@@ -5,7 +5,7 @@ summary: "Le mariage arménien avec ses coutumes et ses références "
 date: 2022-05-13T21:43:26.913Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/mariage-arménien-paris.jpg
-coverimage: assets/img/mariage-arménien-paris.jpg
+image: assets/img/mariage-arménien-paris.jpg
 ---
 Photo : mariage arménien à Paris (Fred-photography) \
 \

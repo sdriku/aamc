@@ -7,7 +7,7 @@ summary: Le nombre total de ses participants arméniens de souche, issus de
 date: 2022-05-09T22:00:00.000Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/victoire-1945-arménie.png
-coverimage: assets/img/grande-guerre-de-libération-arménie.jpg
+image: assets/img/grande-guerre-de-libération-arménie.jpg
 ---
 2ème Guerre mondiale et la Victoire \
 En tout 500 000 arméniens (d'Arménie et d'autres pays limitrophes soviétiques) ont participé aux combats de libération, dont la moitiés sont morts. \

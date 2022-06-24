@@ -8,7 +8,7 @@ summary: "L'historien Onnik JAMGOCYAN à Evreux : La Fin de l'Arménie Ottomane 
 date: 2022-05-02
 thumbnailImagePosition: left
 thumbnailImage: assets/img/onnik-jamgocyan.jpg
-coverimage: assets/img/onnik-jamgocyan.jpg
+image: assets/img/onnik-jamgocyan.jpg
 ---
 \
 « La nuit du 24 avril 1915»\

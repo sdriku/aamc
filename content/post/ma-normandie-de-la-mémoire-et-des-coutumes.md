@@ -6,7 +6,7 @@ summary: "Le 15 mai en Normandie : Le mois de mai doit être gai, s'il gèle en
 date: 2022-05-15T18:28:16.938Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/normandie-village.jpg
-coverimage: assets/img/normandie-corneuil-eure.jpg
+image: assets/img/normandie-corneuil-eure.jpg
 ---
 #### **Ma Normandie au mois de mai : Dicton** \
 

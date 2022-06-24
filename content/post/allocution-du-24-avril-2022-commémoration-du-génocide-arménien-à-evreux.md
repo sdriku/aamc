@@ -8,10 +8,10 @@ summary: Témoigner de notre humanité en disant plus jamais la barbarie -
 date: 2022-06-13T16:53:38.815Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/image-2.png
-coverimage: assets/img/image-2.png
+image: assets/img/image-2.png
 ---
 \
-Allocution du 24 avril 2022 parc Marcel Baudot Evreux - Lu par le président de AAMCS\
+Allocution lue par le président de AAMCS\
 \
 Mesdames et Messieurs,\
 Chers (es) ami(es),\

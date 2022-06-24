@@ -8,11 +8,12 @@ summary: Célébration de la sainte liturgie en rite arménien au Vatican à
 date: 2022-05-24T22:54:58.782Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/cartholiques-arméniens-avec-le-pape.jpg
-coverimage: assets/img/cartholiques-arméniens-avec-le-pape.jpg
+image: assets/img/cartholiques-arméniens-avec-le-pape.jpg
 ---
 
 (Vidéo) Messe en rite arménien célébrée par Monseigneur Jean Teyrouzian  
-https://youtu.be/wafXv4xrVC4
+
+{{< youtube wafXv4xrVC4 >}}
 
 Serge Tateossian
 

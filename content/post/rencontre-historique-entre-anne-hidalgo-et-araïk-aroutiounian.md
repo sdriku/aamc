@@ -7,12 +7,9 @@ summary: "Rencontre historique entre Anne Hidalgo et Araïk Aroutiounian
 date: 2022-05-27T23:29:55.701Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/paris-artsakh-hidalgo.jpg
-coverimage: assets/img/artsakh-ccaf.jpg
+image: assets/img/artsakh-ccaf.jpg
 ---
 <<!--StartFragment-->
-
-# Rencontre historique entre Anne Hidalgo et Araïk Aroutiounian
-
 
 
 ![](https://armenews.com/local/cache-gd2/1e/f77974560dad791ac2162e4b7894ac.jpg)

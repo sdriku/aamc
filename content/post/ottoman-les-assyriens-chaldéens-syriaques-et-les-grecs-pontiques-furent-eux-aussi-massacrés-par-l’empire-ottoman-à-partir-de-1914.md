@@ -8,7 +8,7 @@ summary: Les minorités ethniques et religieuses de l'empire ottoman ont été
 date: 2022-05-09T22:00:00.000Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/ottoman-génocide-assyro-chaldéen-et-grec.jpg
-coverimage: assets/img/ottoman-génocide-assyro-chaldéen-et-grec.jpg
+image: assets/img/ottoman-génocide-assyro-chaldéen-et-grec.jpg
 ---
 <!--StartFragment-->
 

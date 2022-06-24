@@ -7,11 +7,9 @@ summary: Le premier satellite spatial arménien a été lancé sur l’orbite
 date: 2022-05-26T15:47:00.281Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/satelitte-arménien.jpg
-coverimage: assets/img/satelitte-arménien-1.jpg
+image: assets/img/satelitte-arménien-1.jpg
 ---
 <!--StartFragment-->
-
-### Premier satellite arménien mis en orbite depuis la fusée SpaceX
 
 Le premier satellite spatial arménien a été lancé sur l’orbite terrestre par SpaceX, a déclaré le premier ministre lors d’une réunion du cabinet jeudi.
 

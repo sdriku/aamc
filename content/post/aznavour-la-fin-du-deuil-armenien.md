@@ -5,7 +5,7 @@ summary: "Charles AZNAVOUR et sa Provence "
 date: 2022-05-13T21:09:28.037Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/charles-1.jpg
-coverimage: assets/img/charles.jpg
+image: assets/img/charles.jpg
 ---
 <!--StartFragment-->\
 \
@@ -13,8 +13,10 @@ CHARLES AZNAVOUR L'IMMORTEL \
 A 93 ans, il a enflammé BERCY, \
 Il fait un TRIOMPHE \
 \
-Aurevoir l'Artiste 
+Au revoir l'Artiste 
 
-[(893) Carré VIP - Aznavour : la fin du deuil arménien - YouTube](https://www.youtube.com/watch?v=7DyDNOLY0bE)
+Carré VIP - Aznavour : la fin du deuil arménien
+
+{{< youtube 7DyDNOLY0bE >}}
 
 <!--EndFragment-->

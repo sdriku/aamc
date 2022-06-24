@@ -7,7 +7,7 @@ summary: "Concerts arméniens à Lille : Samedi 28 mai à 17 heures et Dimanche 
 date: 2022-05-26T17:56:37.975Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/anaïd-b.jpg
-coverimage: assets/img/anaïd-b.jpg
+image: assets/img/anaïd-b.jpg
 ---
 Concerts exceptionnelle à Lille : SEVAK AMROYAN - NAZALI troupe de danse _ ANAÏD B \
 \

@@ -6,7 +6,7 @@ summary: Le renouveau doit beaucoup à des Arméniens de la diaspora (12 million
 date: 2022-05-09T22:00:00.000Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/vin-arménie.jpg
-coverimage: assets/img/vin-arménie.jpg
+image: assets/img/vin-arménie.jpg
 ---
 <!--StartFragment-->\
 **PHOTO : <!--StartFragment-->**

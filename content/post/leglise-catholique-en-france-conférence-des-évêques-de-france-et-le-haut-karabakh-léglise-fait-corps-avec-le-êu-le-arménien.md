@@ -7,7 +7,7 @@ summary: "Le conflit du Haut-Karabakh : « L’Église catholique fait corps ave
 date: 2022-05-24T22:57:36.151Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/conférence-des-évêques-de-france.png
-coverimage: assets/img/karabagh-conférence-des-évêques-de-france.jpg
+image: assets/img/karabagh-conférence-des-évêques-de-france.jpg
 ---
 Le conflit du Haut-Karabakh : « L’Église fait corps avec le peuple arménien »
 

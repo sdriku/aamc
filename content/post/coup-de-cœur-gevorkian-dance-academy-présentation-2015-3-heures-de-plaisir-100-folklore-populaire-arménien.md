@@ -7,7 +7,7 @@ summary: "Plus de 3 heures de bonheur, dance pour tous les âges - 100% folklore
 date: 2022-05-21T21:59:35.318Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/gevorkian-dance-academy.jpg
-coverimage: assets/img/gevorkian-dance-academy.jpg
+image: assets/img/gevorkian-dance-academy.jpg
 ---
 <!--StartFragment-->\
 20ème anniversaire de l'académie de dance Gevorkian - Los Angeles 

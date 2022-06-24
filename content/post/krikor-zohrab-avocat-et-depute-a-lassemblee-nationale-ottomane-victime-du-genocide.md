@@ -8,7 +8,7 @@ summary: Le Barreau de Paris commémore chaque année les avocats victimes du
 date: 2022-05-07T22:00:00.000Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/krikor-zohrab.jpg
-coverimage: ''
+image: ''
 ---
 KRIKOR ZOHRAB Avocat et écrivain arménien victime du génocide (Une plaque commémorative en sa mémoire, dans l'enceinte du Barreau de Paris) \
 \

@@ -6,7 +6,7 @@ summary: Ce Dimanche 15 mai 2022, le moine trappiste Charles de Foucauld sera
 date: 2022-05-15T17:25:11.010Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/charles-de-foucauld.jpg
-coverimage: assets/img/charles-de-foucauld.jpg
+image: assets/img/charles-de-foucauld.jpg
 ---
 <!--StartFragment-->
 

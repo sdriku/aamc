@@ -6,7 +6,7 @@ summary: '"Les Arméniens en France"'
 date: 2022-06-13T17:39:45.078Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/guy-soudjian.jpg
-coverimage: assets/img/guy-soudjian-jardin.jpg
+image: assets/img/guy-soudjian-jardin.jpg
 ---
 \
 

@@ -8,7 +8,7 @@ summary: Fête de la Fraternité et des cultures du monde SAMEDI à EVREUX -  28
 date: 2022-05-27T23:15:22.507Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/photo-fête-de-la-fraternité.jpg
-coverimage: assets/img/photo-fête-de-la-fraternité.jpg
+image: assets/img/photo-fête-de-la-fraternité.jpg
 ---
 <!--StartFragment-->\
 **FÊTE DE LA FRATERNITE ET DES CULTURES SU MONDE** 

@@ -5,7 +5,7 @@ summary: Conférences, repas, goûter, manifestations publiques ou associatives.
 date: 2022-05-02
 thumbnailImagePosition: left
 thumbnailImage: assets/img/coverImageMobile.jpg
-coverimage: assets/img/coverImageMobile.jpg
+image: assets/img/coverImageMobile.jpg
 ---
 <!--StartFragment-->
 

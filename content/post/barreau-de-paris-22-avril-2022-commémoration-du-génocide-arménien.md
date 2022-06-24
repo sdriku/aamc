@@ -8,7 +8,7 @@ summary: la bâtonnière Julie Couturier et le vice-bâtonnier Vincent Nioré on
 date: 2022-05-07T22:00:00.000Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/barreau-de-paris-commémoration-génocide-arménien-2022.jpeg
-coverimage: assets/img/krikor-zohrab.jpg
+image: assets/img/krikor-zohrab.jpg
 ---
 <!--StartFragment-->
 

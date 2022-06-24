@@ -7,7 +7,7 @@ summary: "La littérature arménienne et ses principaux auteurs - source : livre
 date: 2022-05-02
 thumbnailImagePosition: left
 thumbnailImage: assets/img/hovhannes-toumanyan-statue.jpg
-coverimage: assets/img/hovhannes-toumanyan-statue.jpg
+image: assets/img/hovhannes-toumanyan-statue.jpg
 ---
 Résumé des principales étapes de la littérature arménienne **(Pages en travaux)** \
 \

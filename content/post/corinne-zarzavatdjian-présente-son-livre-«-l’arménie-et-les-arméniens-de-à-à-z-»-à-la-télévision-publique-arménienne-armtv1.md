@@ -9,7 +9,7 @@ summary: Corinne ZARZAVATDJIAN présente à la Télévision publique Arméni
 date: 2022-06-13T17:15:38.904Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/corinne-zarzavatdjian2.jpg
-coverimage: assets/img/corinne-zarzavatdjian2.jpg
+image: assets/img/corinne-zarzavatdjian2.jpg
 ---
 Vidéo cliquez-ici \
 <!--StartFragment-->

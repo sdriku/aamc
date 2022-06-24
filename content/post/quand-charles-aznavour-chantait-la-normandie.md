@@ -10,7 +10,7 @@ summary: Aznavour a aussi chanté la Normandie dans une chanson, Les galets
 date: 2022-05-22T12:40:00.273Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/aznavour.jpg
-coverimage: assets/img/aznavour.jpg
+image: assets/img/aznavour.jpg
 ---
 https://france3-regions.francetvinfo.fr/normandie/seine-maritime/quand-charles-aznavour-chantait-normandie-5-choses-savoir-chanteur-notre-region-1550868.html
 (VIDEO)

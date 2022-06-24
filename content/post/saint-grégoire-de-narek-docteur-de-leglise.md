@@ -6,7 +6,7 @@ summary: Moine au monastère de Narek, docteur de l'Église (✝ v. 1005)
 date: 2022-05-24T23:14:56.788Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/grégoire-de-narek-au-vatican.jpg
-coverimage: assets/img/grégoire-de-narek-au-vatican.jpg
+image: assets/img/grégoire-de-narek-au-vatican.jpg
 ---
 Mosaïque de Narek au Vatican 
 **GREGOIRE DE NAREK, DOCTEUR DE L'EGLISE CATHOLIQUE** 

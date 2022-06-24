@@ -7,12 +7,9 @@ summary: Le prix Nobel de médecine, l’Américain d’origine arménienne Arde
 date: 2022-06-12T18:33:45.939Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/nobel-ardem-patapoutian.jpg
-coverimage: assets/img/nobel-ardem-patapoutian-2.jpg
+image: 
 ---
 <!--StartFragment-->
-
-# Le prix Nobel de médecine, l’Américain d’origine arménienne Ardem Patapoutian est en Arménie et se sent heureux d’y être
-
 
 
 ![](https://www.armenews.com/IMG/arton93447.jpg)

@@ -7,7 +7,7 @@ summary: "La vie de Charles AZNAVOUR, des témoignages "
 date: 2022-05-21T23:33:02.133Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/aznavour.jpg
-coverimage: assets/img/aznavour.jpg
+image: assets/img/aznavour.jpg
 ---
 <!--StartFragment-->
 (Document Audio)

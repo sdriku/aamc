@@ -5,7 +5,7 @@ summary: Anne Hidalgo est arrivée à Erevan
 date: 2022-05-27T14:59:31.722Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/hidalgo-erevan-2022.jpg
-coverimage: assets/img/hidalgo-erevan-2022.jpg
+image: assets/img/hidalgo-erevan-2022.jpg
 ---
 <!--StartFragment-->
 

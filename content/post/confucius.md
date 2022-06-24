@@ -6,7 +6,7 @@ summary: Philosophe (551-479 av, J-C), fondateur de l « humanisme chinois »
 date: 2022-05-10T14:01:55.014Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/confucius-libre-de-droit.jpeg
-coverimage: assets/img/confucius-libre-de-droit.jpeg
+image: assets/img/confucius-libre-de-droit.jpeg
 ---
 **CONFUCIUS**\
 \

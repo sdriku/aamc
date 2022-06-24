@@ -8,7 +8,7 @@ summary: Fête de la Fraternité et des Cultures du Monde à Evreux - Samedi 28 
 date: 2022-06-02T23:05:10.064Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/aamc-fête-de-la-fraternité.png
-coverimage: assets/img/aamc-fête-de-la-fraternité-2.jpg
+coveriimageage: assets/img/aamc-fête-de-la-fraternité-2.jpg
 ---
 <!--StartFragment-->
 

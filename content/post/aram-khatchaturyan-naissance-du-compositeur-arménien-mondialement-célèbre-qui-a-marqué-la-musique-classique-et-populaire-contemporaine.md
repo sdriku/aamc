@@ -8,10 +8,10 @@ summary: L’œuvre attachante de Khatchaturian a été occultée par une seule 
 date: 2022-06-06T19:33:28.671Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/aram-khatchadurian.jpg
-coverimage: assets/img/aram-khatchaturyan-3.jpg
+image: assets/img/aram-khatchaturyan-3.jpg
 ---
-Vidéo - La Danse du Sabre \
-https://youtu.be/mUQHGpxrz-8  
+Vidéo - La Danse du Sabre
+{{< youtube mUQHGpxrz-8 >}}
 
 # KHATCHATURIAN Aram – biographie
 

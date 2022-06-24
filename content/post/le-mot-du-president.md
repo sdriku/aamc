@@ -5,13 +5,12 @@ summary: "Voici le mot du Président. Travail, Mémoire, Culture "
 date: 2022-04-11
 thumbnailImagePosition: left
 thumbnailImage: "assets/img/20220101_174505.jpeg"
-coverimage: "assets/img/20220101_174505.jpeg"
+image: "assets/img/20220101_174505.jpeg"
 ---
 ### <!--StartFragment-->
 
-### \    Le mot du Président \
 \
-    l'association franco-arménienne \
+L'association franco-arménienne \
 AAMC est fondée le 10 août 2013, elle est située à Evreux, Ses principaux objectifs sont : \
 \
 - Encourager, travailler et développer les thèmes sur la Mémoire et la Culture arménienne, préserver l'héritage de la culture arménienne et la faire rayonner au-delà de la communauté franco-arménienne,\

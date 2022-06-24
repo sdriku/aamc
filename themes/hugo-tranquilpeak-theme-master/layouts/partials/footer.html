@@ -1,8 +1,31 @@
-<footer id="footer" class="main-content-wrap">
-  <span style="margin-right: 10%;" class="copyrights">
+<style>
+  .copyrights {
+    float:left;
+  }
+
+  .grid-footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr !important;
+    align-items: center !important;
+    justify-content: space-around !important;
+  }
+
+  @media (max-width:1000px) {
+    .grid-footer {
+      grid-template-columns: 1fr !important;
+      grid-template-rows: 1fr 1fr 1fr;
+    }
+  }
+</style>
+
+<footer id="footer" class="main-content-wrap grid-footer">
+  <p class="copyrights">
     <a href="mailto:{{ .Site.Params.Author.gravatarEmail }}">aamcevreux@gmail.com</a>
-  </span>
-  <span style="margin-right: 10%;" class="copyrights">
+  </p>
+  <p class="copyrights">
     <a href="{{ .Site.BaseURL }}mentionslegales">Mentions Légales</a>
-  </span>
+  </p>
+  <p class="copyrights">
+    <a href="https://www.codelice.com">© 2022 created by Codelice</a>
+  </p>
 </footer>

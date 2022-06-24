@@ -8,12 +8,9 @@ summary: le Président de la République de l’Artsakh aujourd’hui 27 mai. Il
 date: 2022-05-27T15:10:59.674Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/artsakh-ccaf.jpg
-coverimage: assets/img/artsakh-ccaf.jpg
+image: assets/img/artsakh-ccaf.jpg
 ---
 <!--StartFragment-->
-
-# Un voyage instructif pour la délégation française
-
 
 
 ![](https://armenews.com/IMG/arton93015.jpg)

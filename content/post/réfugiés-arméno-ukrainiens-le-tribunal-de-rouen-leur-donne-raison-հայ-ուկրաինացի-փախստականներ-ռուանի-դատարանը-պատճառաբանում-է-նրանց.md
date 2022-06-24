@@ -10,7 +10,7 @@ summary: Le préfet de Seine-Maritime contraint de réexaminer la situation
 date: 2022-06-14T19:41:18.656Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/tribunal.jpg
-coverimage: assets/img/tribunal.jpg
+image: assets/img/tribunal.jpg
 ---
 <!--StartFragment-->
 

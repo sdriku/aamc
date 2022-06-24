@@ -7,7 +7,7 @@ summary: Cérémonie d’intronisation du nouveau primat du Diocèse de France �
 date: 2022-05-27T14:17:42.030Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/intronisation-du-prélat-église-arménienne.jpg-2.jpg
-coverimage: assets/img/intronisation-du-prélat-église-arménienne.jpg-3.jpg
+image: assets/img/intronisation-du-prélat-église-arménienne.jpg-3.jpg
 ---
 Cérémonie d'intronisation du Primat de l'église Apostolique Arménienne du diocèse de France, nouvellement élu, Krikor Khachatryan, en présence de personnalités politiques, des représentants des différentes confessions religieuses, de l'ambassade d'Arménie et d'un grand nombre de fidèles. \
 \
