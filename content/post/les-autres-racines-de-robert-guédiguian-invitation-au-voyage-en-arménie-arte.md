@@ -21,7 +21,7 @@ L’Arménie, terre ancestrale aux confins de l'Europe et de l’Asie mineure, e
 \
 <!--StartFragment-->
 
-{{< img src="Guediguian.jpg"="80%" height="auto" alt="" >}}
+{{< img src="Guediguian.jpg="80%" height="auto" alt="" >}}
 
 <!--EndFragment-->\
 \
