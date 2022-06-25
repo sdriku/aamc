@@ -8,7 +8,7 @@ summary: L’Arménie, les autres racines de Robert Guédiguian - Invitation au
 date: 2022-06-15T16:57:06.301Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/robert-guédiguian-20.jpg
-image: 
+image: null
 ---
 {{< img src="robert-guédiguian-20.jpg" width="80%" height="auto" alt="" >}}
 
@@ -17,6 +17,13 @@ image:
 <!--StartFragment-->
 
 L’Arménie, terre ancestrale aux confins de l'Europe et de l’Asie mineure, est une étrangère pour le Marseillais d’origine arménienne Robert Guédiguian. Dans son film “Le voyage en Arménie”, son héroïne Anna, incarnée par Ariane Ascaride, parcourt l’Arménie pour renouer avec ses racines. De la capitale Erevan au monastère de Khor Virap, en passant par la campagne arménienne reculée, le film poursuit une quête d’identité.\
+\
+\
+<!--StartFragment-->
+
+{{< img src="Guediguian-webp"="80%" height="auto" alt="" >}}
+
+<!--EndFragment-->\
 \
 \
 **Robert Guédiguian**, né le [3](https://fr.wikipedia.org/wiki/3_d%C3%A9cembre "3 décembre") [décembre](https://fr.wikipedia.org/wiki/D%C3%A9cembre_1953 "Décembre 1953") [1953](https://fr.wikipedia.org/wiki/1953 "1953") à [Marseille](https://fr.wikipedia.org/wiki/Marseille "Marseille"), est un [réalisateur](https://fr.wikipedia.org/wiki/R%C3%A9alisateur "Réalisateur") de [cinéma](https://fr.wikipedia.org/wiki/Cin%C3%A9ma_fran%C3%A7ais "Cinéma français"), [producteur](https://fr.wikipedia.org/wiki/Producteur_de_cin%C3%A9ma "Producteur de cinéma") et [scénariste](https://fr.wikipedia.org/wiki/Sc%C3%A9nariste) [français](https://fr.wikipedia.org/wiki/France "France") d'origine arménienne et allemande[1](https://fr.wikipedia.org/wiki/Robert_Gu%C3%A9diguian#cite_note-1).
@@ -46,4 +53,5 @@ Depuis juin 2016, il est président de [La Cinémathèque de Toulouse](https:/
 En 2018, il est membre du jury au [Festival de Cannes](https://fr.wikipedia.org/wiki/Festival_de_Cannes_2018 "Festival de Cannes 2018"), présidé par [Cate Blanchett](https://fr.wikipedia.org/wiki/Cate_Blanchett "Cate Blanchett"), aux côtés des actrices [Léa Seydoux](https://fr.wikipedia.org/wiki/L%C3%A9a_Seydoux "Léa Seydoux") et [Kristen Stewart](https://fr.wikipedia.org/wiki/Kristen_Stewart "Kristen Stewart"), de la réalisatrice [Ava DuVernay](https://fr.wikipedia.org/wiki/Ava_DuVernay "Ava DuVernay"), de la chanteuse [Khadja Nin](https://fr.wikipedia.org/wiki/Khadja_Nin "Khadja Nin"), de l'acteur [Chang Chen](https://fr.wikipedia.org/wiki/Chang_Chen "Chang Chen") et des réalisateurs [Denis Villeneuve](https://fr.wikipedia.org/wiki/Denis_Villeneuve "Denis Villeneuve") et [Andreï Zviaguintsev](https://fr.wikipedia.org/wiki/Andre%C3%AF_Zviaguintsev "Andreï Zviaguintsev").
 
 ### \
+
 Serge Tateossian 15/06/2022 source ARTE
