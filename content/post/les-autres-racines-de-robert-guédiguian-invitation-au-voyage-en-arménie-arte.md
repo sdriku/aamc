@@ -21,7 +21,7 @@ L’Arménie, terre ancestrale aux confins de l'Europe et de l’Asie mineure, e
 \
 <!--StartFragment-->
 
-{{< img src="Guediguian.jpg="80%" height="auto" alt="" >}}
+
 
 <!--EndFragment-->\
 \
@@ -34,7 +34,7 @@ Né à [Marseille](https://fr.wikipedia.org/wiki/Marseille "Marseille"), Robert
 
 C’est à travers [Marseille](https://fr.wikipedia.org/wiki/Marseille "Marseille") et, particulièrement le quartier de [L'Estaque](https://fr.wikipedia.org/wiki/L%27Estaque "L'Estaque"), qu'il scrute l’histoire de ceux qu’il appelle, en référence à [Victor Hugo](https://fr.wikipedia.org/wiki/Victor_Hugo "Victor Hugo"), les « pauvres gens »[2](https://fr.wikipedia.org/wiki/Robert_Gu%C3%A9diguian#cite_note-telerama_74900-2) : ouvriers, salariés, petits patrons, chômeurs, déclassés[2](https://fr.wikipedia.org/wiki/Robert_Gu%C3%A9diguian#cite_note-telerama_74900-2).
 
-### Carrière[[modifier](https://fr.wikipedia.org/w/index.php?title=Robert_Gu%C3%A9diguian&veaction=edit&section=3 "Modifier la section : Carrière") | [modifier le code](https://fr.wikipedia.org/w/index.php?title=Robert_Gu%C3%A9diguian&action=edit&section=3 "Modifier la section : Carrière")]
+### Carrière
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Jean-Pierre_Darroussin_Cannes_2011.jpg/220px-Jean-Pierre_Darroussin_Cannes_2011.jpg)](https://commons.wikimedia.org/wiki/File:Jean-Pierre_Darroussin_Cannes_2011.jpg?uselang=fr)
 
