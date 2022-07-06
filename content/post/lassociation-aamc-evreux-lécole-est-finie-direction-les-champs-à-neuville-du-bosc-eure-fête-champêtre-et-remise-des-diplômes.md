@@ -8,13 +8,17 @@ summary: "Marie-Julie Stochmial Solakian, reçoit les élèves de l'école AAMC
 date: 2022-07-06T15:12:26.891Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/289799796_10225658691406468_2030667439888168495_n-école-5.jpg
-image: assets/img/289695388_10225658650445444_6883830726206517791_n-école-9.jpg
+image: assets/img/289816782_10225658697766627_4596685140159964752_n-école-2.jpg
 ---
 AAMC - La Neuville du Bosc le 2 juillet 2022 - Fête champêtre et remise des diplômes\
 \
 L'école AAMC d'EVREUX : « L'école pour la vie, par la vie »\
 \
 Fête champêtre, remise des diplômes 2021-2022 et détente, accueillie par Marie-Julie Stochmial Solakian, adhérente de l'association, dans un cadre idyllique à La Neuville-du-Bosc, près du Neubourg dans l'Eure, dans un magnifique jardin.\
+\
+\
+\
+\
 \
 \
 Après une période difficile suite à la crise sanitaire du Covid-19, d'importants projets avaient été annulés, dont la visite de la statue de Komitas à Paris. La rentrée 2021-2022 a été une année riche et fructueuse à plusieurs égards. D'abord grâce à la collaboration des services municipaux de la ville d'Evreux. Nous avons, enfin, trouvé une classe qui correspond à nos attentes, où les élèves de notre école associative, (différents niveaux) reçoivent par groupes d'élèves espacés, le programme qui leur a été destiné. Ce qui augmente le temps qui leur est alloué par classe.\
