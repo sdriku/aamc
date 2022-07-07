@@ -1,9 +1,12 @@
 ---
-title: "Toi l'Arménien, Ô toi l'Arménien....de Roland KARAGUZELIAN - Tant
-  d'années de compassion et de fidélité à la communauté arménienne, et à ses
-  valeurs qu'il incarnaient Roland KARAGUZELIAN et Gilbert KASBARIAN méritent un
-  Adieu ou plutôt aurevoir avec notre plus haute considération et notre respect.
-  "
+title: "Toi l'Arménien, Ô toi l'Arménien....de Roland KARAGUZELIAN - Ռոլանդ
+  ԳԱՐԱԳՈՒԶԵԼԵԱՆ.- Հայ համայնքին ու անոր արժէքներուն հանդէպ այսքան տարիներու
+  կարեկցանքն ու հաւատարմութիւնը, որ անոնք մարմնաւորած են Ռոլան ԳԱՐԱԳՈՒԶԵԼԵԱՆը եւ
+  Ժիլբերտ ԿԱՍԲԱՐԵԱՆԸ արժանի են հրաժեշտի կամ աւելի ճիշտ՝ հրաժեշտի մեր բարձրագոյն
+  ակնածանքով ու յարգանքով:  Tant d'années de compassion et de fidélité à la
+  communauté arménienne, et à ses valeurs qu'il incarnaient Roland KARAGUZELIAN
+  et Gilbert KASBARIAN méritent un Adieu ou plutôt aurevoir avec notre plus
+  haute considération et notre respect. -  "
 description: "Avis Décès de Roland KARAGUZELIAN Evreux - Avis décès de Gilbert KASBARIAN "
 summary: "Hommage à Roland KARAGUZELIAN et Gilbert KASBARIAN "
 date: 2022-07-06T19:39:47.926Z
