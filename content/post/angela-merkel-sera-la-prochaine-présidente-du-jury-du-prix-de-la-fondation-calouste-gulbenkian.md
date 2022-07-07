@@ -1,6 +1,7 @@
 ---
-title: Angela Merkel sera la prochaine présidente du jury du prix, de la
-  Fondation Calouste Gulbenkian.
+title: "Angela Merkel sera la prochaine présidente du jury du prix, de la
+  Fondation Calouste Gulbenkian.  Մրցանակի ժյուրիի հաջորդ նախագահը կլինի Անգելա
+  Մերկելը` Գալուստ Գյուլբենկյան հիմնադրամից:"
 description: "Fondation Calouste GULBENKIAN - Les arméniens d'Evreux -
   Commémoration du génocide arménien à Evreux "
 summary: L’ancienne chancelière allemande Angela Merkel sera la prochaine
