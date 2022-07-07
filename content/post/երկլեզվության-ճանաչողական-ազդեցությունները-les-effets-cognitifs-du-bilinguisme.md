@@ -35,4 +35,6 @@ Les plus récentes avancées concernant le bilinguisme
 S'appuyant sur vingt ans de travaux en sciences du langage et en neurosciences, cet ouvrage nous éclaire sur les plus récentes avancées concernant cette fascinante faculté. Il décrypte aussi les effets du bilinguisme sur le plan cognitif, notamment chez les jeunes bébés qui apprennent deux idiomes simultanément, ou chez les adultes victimes d'une lésion cérébrale.
 
 Les zones du cerveau impliquées
-On explore les zones du cerveau impliquées dans le contrôle des deux langues, ou la manière dont le bilinguisme influe sur le fonctionnement du langage. L'auteur détaille aussi des travaux récents suggérant que le bilinguisme peut favoriser le maintien des capacités cognitives en cas de maladie neurodégénérative. Alors, bientôt tous bilingues ?
+On explore les zones du cerveau impliquées dans le contrôle des deux langues, ou la manière dont le bilinguisme influe sur le fonctionnement du langage. L'auteur détaille aussi des travaux récents suggérant que le bilinguisme peut favoriser le maintien des capacités cognitives en cas de maladie neurodégénérative. Alors, bientôt tous bilingues ?\
+\
+Le 07/07/2022    -   Serge Tateossian
