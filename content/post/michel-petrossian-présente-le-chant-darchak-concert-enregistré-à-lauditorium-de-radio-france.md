@@ -11,8 +11,9 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/1200x630_sans-titre-michel-petrossian.jpg
 image: assets/img/45654780_10160904542270548_1972098473784246272_n-michel-petrossian.jpg
 ---
-\
+https://www.radiofrance.fr/francemusique/podcasts/le-concert-de-20h/le-chant-d-archak-de-michel-petrossian-par-la-maitrise-et-l-ensemble-musicatreize-9341793?fbclid=IwAR3dlV4zZCXg74R-hMdvg8K95b2N5SpkB0GRVMhFYmLNKsy1o-aLqpA-8-g\
 Emission France Musique \
+
 <!--StartFragment-->
 
 La Maîtrise de Radio France dirigée par Morgan Jourdain et l'ensemble Musicatreize de Roland Hayrabedian interprètent Le Chant d'Archak de Michel Petrossian. Concert enregistré le 13 novembre 2018 à l'Auditorium de Radio France.
@@ -23,8 +24,8 @@ En savoir plus
 
 ### Programme du concert :
 
-**Michel Petrossian (né en 1973) -** *Le Chant d’Archak\
-*Oratorio de Michel Petrossian, sur un livret original de Laurent Gaudé\
+**Michel Petrossian (né en 1973) -** *Le Chant d’Archak*Oratorio de Michel Petrossian, sur un livret original de Laurent Gaudé\
+
 1. Le monde des langues mêlées\
 2. La menace I\
 3. La menace II\
