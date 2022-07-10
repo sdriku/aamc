@@ -13,8 +13,6 @@ image: assets/img/jesus-christ-statue-2-scaled-saint-sauveur-d-arménie.jpg
 
 # Lancement des travaux de construction de la statue géante de Jésus-Christ samedi au sommet du mont Hatis en Arménie
 
-
-
 ![](https://www.armenews.com/IMG/arton94205.jpg)
 
 La cérémonie du lancement officiel des travaux de construction du complexe de la statue géante de 33 mètres et de 70 mètres avec le socle, de Jésus-Christ s’est déroulée samedi 9 juillet au sommet du mont Hatis dans la région Aragatsotn, une montagne qui culmine à près de 2 500 mètres.\
@@ -33,6 +31,8 @@ par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=
 © armenews.com 2022
 
 <!--EndFragment-->\
-\
+
+Serge Tateossian - Le 11/07/2022 - source : NAM Magazine \
 --------------------------------------------------------------------------------\
+Les dix plus belles statues géantes du Christ dans le monde \
 https://fr.aleteia.org/slideshow/en-images-les-10-plus-belles-statues-monumentales-du-christ-9276/5/
