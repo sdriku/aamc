@@ -23,8 +23,6 @@ Le 14 juillet est déclaré fête nationale et jour férié depuis une loi du 6 
 
 <!--EndFragment-->\
 
-\
-
 <!--StartFragment-->
 
 La réponse se trouve dans les discussions des parlementaires sur l'établissement d'une fête nationale. [Le rapport](http://www.cndp.fr/entrepot/index.php?id=1274) fait au nom de la commission du Sénat chargée d’examiner le projet de loi mentionne bien les deux événements. Il est explicitement dit : *"Rappelons que le 14 juillet 1789, ce 14 juillet qui vit prendre la Bastille, fut suivi d’un autre 14 juillet, celui de 1790, qui consacra le premier par l’adhésion de la France entière, \[...]. Cette seconde journée du 14 juillet, qui n’a coûté ni une goutte de sang ni une larme \[...] Le 14 juillet 1790 est le plus beau jour de l’histoire de France, et peut-être de toute l’histoire."* La date retenue du 14 juillet prend donc le caractère d'une seule célébration pour ces deux événements marquants. 
