@@ -21,17 +21,16 @@ Mais aussi étonnant que cela puisse paraître, la loi du 6 juillet 1880, qui re
 
 Le 14 juillet est déclaré fête nationale et jour férié depuis une loi du 6 juillet 1880. Ce texte fait partie d'un ensemble de mesures symboliques, portées par la nouvelle majorité républicaine à la Chambre des représentants élue un an plus tôt. Parmi ces mesures : le siège du pouvoir est ramené de Versailles à Paris, les communards parisiens bénéficient de l'amnistie, "La Marseillaise" devient l'hymne officiel et du 14 juillet est définitivement retenu comme jour de la fête nationale. Mais célèbre-t-on réellement ce jour-là : prise de la Bastille ou fête de la Fédération ?
 
-
-
 <!--EndFragment-->\
+
 \
+
 <!--StartFragment-->
 
 La réponse se trouve dans les discussions des parlementaires sur l'établissement d'une fête nationale. [Le rapport](http://www.cndp.fr/entrepot/index.php?id=1274) fait au nom de la commission du Sénat chargée d’examiner le projet de loi mentionne bien les deux événements. Il est explicitement dit : *"Rappelons que le 14 juillet 1789, ce 14 juillet qui vit prendre la Bastille, fut suivi d’un autre 14 juillet, celui de 1790, qui consacra le premier par l’adhésion de la France entière, \[...]. Cette seconde journée du 14 juillet, qui n’a coûté ni une goutte de sang ni une larme \[...] Le 14 juillet 1790 est le plus beau jour de l’histoire de France, et peut-être de toute l’histoire."* La date retenue du 14 juillet prend donc le caractère d'une seule célébration pour ces deux événements marquants. 
 
-
-
 <!--EndFragment-->\
+
 \
 Հուլիսի 14-ը Ֆրանսիայի ազգային տոնն է արդեն 140 տարի: Բոլոր ֆրանսիացիների մտքում այս ամսաթիվը նշում է 1789 թվականին Բաստիլի գրոհը, իրադարձություն, որը հանգեցրեց Ֆրանսիական հեղափոխությանը: Եթե ​​մենք բոլորս դա անգիր սովորում ենք դպրոցում, ապա հուլիսի 14-ը նաև Ազգի մեկ այլ հիմնադիր իրադարձության օր է՝ Ֆեդերացիայի օրը, ժողովրդային հավաք, որը տեղի ունեցավ 1790 թվականի հուլիսի 14-ին:
 
@@ -41,4 +40,7 @@ La réponse se trouve dans les discussions des parlementaires sur l'établisseme
 
 Հուլիսի 14-ը հայտարարված է ազգային տոն և պետական ​​տոն՝ 1880 թվականի հուլիսի 6-ի օրենքից հետո: Այս տեքստը խորհրդանշական միջոցառումների մի մասն է, որն իրականացվել է մեկ տարի առաջ ընտրված Ներկայացուցիչների պալատի նոր հանրապետական ​​մեծամասնության կողմից: Այդ միջոցներից՝ իշխանության աթոռը Վերսալից վերադարձվում է Փարիզ, փարիզյան կոմունարները շահում են համաներումը, «Մարսելեզը» դառնում է պաշտոնական օրհներգը և հուլիսի 14-ը վերջնականապես պահպանվում է որպես ազգային տոնի օր։ Բայց արդյո՞ք մենք իսկապես նշում ենք այս օրը՝ Բաստիլի գրավում, թե՞ ֆեդերացիայի տոնակատարություն:
 
-Պատասխանը ազգային տոնի հաստատման վերաբերյալ խորհրդարանականների քննարկումներում է։ Օրինագիծը քննելու համար պատասխանատու Սենատի հանձնաժողովի անունից կազմված զեկույցում (http://www.cndp.fr/entrepot/index.php?id=1274) հստակ նշվում է երկու իրադարձությունները: Հստակորեն ասված է. \ \[...] Հուլիսի 14-ի այս երկրորդ օրը, որն արժեր ոչ մի կաթիլ արյուն, ոչ արցունք \[...] 1790 թվականի հուլիսի 14-ը Ֆրանսիայի պատմության ամենագեղեցիկ օրն է և կարող է լինել բոլորից. Պատմություն։* Հուլիսի 14-ի ընտրված ամսաթիվը, հետևաբար, այս երկու նշանակալից իրադարձությունների համար մեկ տոնակատարության բնույթ է ստանում։
+Պատասխանը ազգային տոնի հաստատման վերաբերյալ խորհրդարանականների քննարկումներում է։ Օրինագիծը քննելու համար պատասխանատու Սենատի հանձնաժողովի անունից կազմված զեկույցում (http://www.cndp.fr/entrepot/index.php?id=1274) հստակ նշվում է երկու իրադարձությունները: Հստակորեն ասված է. \ \[...] Հուլիսի 14-ի այս երկրորդ օրը, որն արժեր ոչ մի կաթիլ արյուն, ոչ արցունք \[...] 1790 թվականի հուլիսի 14-ը Ֆրանսիայի պատմության ամենագեղեցիկ օրն է և կարող է լինել բոլորից. Պատմություն։* Հուլիսի 14-ի ընտրված ամսաթիվը, հետևաբար, այս երկու նշանակալից իրադարձությունների համար մեկ տոնակատարության բնույթ է ստանում։\
+\
+BONNE FÊTE NATIONALE A TOUTES ET A TOUS \
+Serge Tateossian -  Le 14 juillet 2022 Evreux
