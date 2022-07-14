@@ -56,7 +56,7 @@ Roland KARAGUZELIAN est décédé le 19 décembre 2021 à l'âge de 95 ans.\
 \
 Durant de longues années, depuis la fondation par Guy SOUDJIAN de la communauté franco-arménienne normande, à Evreux, Roland a été toujours présent, fidèle et passionné, par ses racines et l'amour de la France.\
 \
-En mars 2001, je m’apprêtais en ma qualité de secrétaire, de l'association ANSA, fondée, par Guy SOUDJIAN en 1988, de publier le journal associatif. Roland avait soigneusement préparé cette prose afin que je la publie. C'était sa contribution. On voit dans ses écrits tout son amour, sa passion et son infini respect à la France, sa deuxième patrie.\
+En mars 2001, je m’apprêtais en ma qualité de secrétaire de l'association ANSA, fondée, par Guy SOUDJIAN en 1988, de publier le journal associatif. Roland avait soigneusement préparé cette prose afin que je la publie. C'était sa contribution. On voit dans ses écrits tout son amour, sa passion et son infini respect à la France, sa deuxième patrie.\
 \
 J’étais présent aux obsèques en l'église de Saint Taurin à Evreux, pour lui témoigner une dernière fois mon respect.\
 \
