@@ -20,9 +20,18 @@ De nombreux officiers et militaires hauts gradés arméniens ont participé dans
 \
 1 Amiral : Amiral Ivan Isakov mort 1944\
 \
-Source (Levon JAVADYAN)\
+Source (Levon JAVADYAN)
+
+<!--StartFragment-->
+
+{{< img src="yerousaghem-1.jpg" width="80%" height="auto" alt="Assiette" >}}
+
+<!--EndFragment-->
+
+\
 ------------------------------------------------------------------------------------\
 \
+
 <!--StartFragment-->  A lire : 
 
 [L’Arménie célèbre le jour de la victoire de la Seconde Guerre mondiale - Nouvelles d'Arménie en Ligne (armenews.com)](https://armenews.com/spip.php?page=article&id_article=92549)
