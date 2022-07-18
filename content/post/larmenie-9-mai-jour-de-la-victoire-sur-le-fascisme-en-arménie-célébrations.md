@@ -22,12 +22,6 @@ De nombreux officiers et militaires hauts gradés arméniens ont participé dans
 \
 Source (Levon JAVADYAN)
 
-<!--StartFragment-->
-
-{{< img src="yerousaghem-1.jpg" width="80%" height="auto" alt="Assiette" >}}
-
-<!--EndFragment-->
-
 \
 ------------------------------------------------------------------------------------\
 \
