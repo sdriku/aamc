@@ -11,7 +11,7 @@ description: "Avis Décès de Roland KARAGUZELIAN Evreux - Avis décès de Gilbe
 summary: "Hommage à Roland KARAGUZELIAN et Gilbert KASBARIAN "
 date: 2022-07-06T19:39:47.926Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/aout-2011-1146-copie-3-.jpg
+thumbnailImage: assets/img/roland-k.jpg
 image: assets/img/290564011_10225672984603789_4506538210775087817_n-roland-karaguzelian-2.jpg
 ---
 Էվրոյի և Էուրի նորմանդական հայ համայնքի անունից։\
