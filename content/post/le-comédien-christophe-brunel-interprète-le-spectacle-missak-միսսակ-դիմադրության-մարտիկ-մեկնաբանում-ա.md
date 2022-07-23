@@ -1,6 +1,6 @@
 ---
-title: "Le comédien Christophe Brunel interprète le spectacle Missak - Միսսակ
-  :  դիմադրության մարտիկ, մեկնաբանում ա"
+title: "Le comédien Christophe Brunel interprète le spectacle Missak un
+  résistant - Միսսակ :  դիմադրության մարտիկ, մեկնաբանում ա"
 description: Missak Manouchian au festival d'Avignon - Arméniens d'Evreux -
 summary: "Le comédien Christophe Brunel interprète le spectacle Missak - Միսսակ
   :  դիմադրության մարտիկ, մեկնաբանում ա"
