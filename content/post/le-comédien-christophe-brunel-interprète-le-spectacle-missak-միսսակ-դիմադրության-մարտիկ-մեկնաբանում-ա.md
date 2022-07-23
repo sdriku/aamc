@@ -17,11 +17,14 @@ Il se joue actuellement sur la parvis de l’Eglise Saint Agricol à Avignon tou
 
 Lien vers la page Facebook de l’auteur
 
-Pour visionner l’interview de Christophe Brunel : Cliquer ici
+Pour visionner l’interview de Christophe Brunel : Cliquer ici\
+\
+https://www.facebook.com/page/364494453605532/search/?q=missak%20
 
+```
+   Միսսակ : դիմադրության մարտիկ
+```
 
-
-       Միսսակ : դիմադրության մարտիկ
 https://www.facebook.com/watch/osmoseradio/
 Դերասան Քրիստոֆ Բրյունելը և «Իմ ոտքերը կավիճով պարում» ընկերությունը մեկնաբանում են «Միսսակ» շոուն, որը դիմադրում է Էմանուել Քարտ-Թանուրի տեքստին:
 
@@ -31,11 +34,10 @@ https://www.facebook.com/watch/osmoseradio/
 
 Քրիստոֆ Բրունելի հետ հարցազրույցը դիտելու համար սեղմեք այստեղ﻿https://www.facebook.com/watch/osmoseradio/\
 \
+
 <!--StartFragment-->
 
 # Missak un résistant
-
-
 
 ![](https://www.armenews.com/IMG/arton93989.png)
 
