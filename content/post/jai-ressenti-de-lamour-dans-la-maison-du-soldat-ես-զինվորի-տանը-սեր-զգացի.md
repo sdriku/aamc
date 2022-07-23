@@ -5,12 +5,13 @@ description: "Vladimir Spivakov chef d'orchestre russe - Evreux arméniens -
   commémorer le génocide en Normandie - "
 summary: "Vladimir Spivakov : J'ai ressenti de l'amour dans la maison du soldat
   - Ես Զինվորի տանը սեր զգացի"
-date: 2022-07-23T23:31:02.463Z
+date: 2022-07-23T23:47:06.661Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/vladimir-spivakov-2.jpg
 image: assets/img/vladimir-spivakov-2.jpg
 ---
-> La maison du soldat - la réeducation - Զինվորի տուն՝ վերականգնում
+> Le violoniste et chef d'orchestre russe visite en Arménie, la maison du soldat. Une maison de rééducation des soldats victimes de la guerre de 44 jours déclenchée par les forces turco-azéries, soutenues par des mercenaires djihadistes venus de Syrie et du Pakistan. \
+> La maison du soldat - la rééducation - Զինվորի տուն՝ վերականգնում
 
 \    Vladimir Spivakov : Վլադիմիր Սպիվակով : 
 
