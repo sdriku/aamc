@@ -1,5 +1,5 @@
 ---
-title: " La rafle de Vel d'Hiv, 17 juillet 1942 - Կամայական ձերբակալություններ.
+title: " La rafle du Vel d'Hiv, 17 juillet 1942 - Կամայական ձերբակալություններ.
   Հազարավոր հրեաներ տարվում են Փարիզի հեծանվային սպորտի մարզադաշտ։ 1942
   (Véld'Hiv) "
 description: "La rafle de Vel d'Hiv - Commémoration du rafle de Vel d'Hiv - Les
