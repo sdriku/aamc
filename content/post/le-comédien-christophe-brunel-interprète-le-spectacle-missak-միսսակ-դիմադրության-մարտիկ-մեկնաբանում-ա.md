@@ -39,7 +39,7 @@ https://www.facebook.com/watch/osmoseradio/
 
 # Missak un résistant
 
-![](https://www.armenews.com/IMG/arton93989.png)
+![]()
 
 Le comédien Christophe Brunel et la Compagnie *Mes jambes sur la craie dansent* interprètent le spectacle **Missak, un résistant** sur un texte d’Emmanuelle Cart-Taneur.
 
