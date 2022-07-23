@@ -28,7 +28,7 @@ https://www.facebook.com/watch/osmoseradio/
 Հղում դեպի հեղինակի ֆեյսբուքյան էջ
 
 Քրիստոֆ Բրունելի հետ հարցազրույցը դիտելու համար սեղմեք այստեղ﻿https://www.facebook.com/watch/osmoseradio/\
-\
+https://www.facebook.com/page/364494453605532/search/?q=missak%20
 
 <!--StartFragment-->
 
