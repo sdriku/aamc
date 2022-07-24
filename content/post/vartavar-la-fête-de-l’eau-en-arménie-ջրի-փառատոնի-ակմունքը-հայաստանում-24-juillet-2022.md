@@ -9,10 +9,8 @@ thumbnailImage: assets/img/vartavar-1.jpg
 image: assets/img/vartavar-2.jpg
 ---
 \
-Photo - Jonathan Lacôte 
-
-![Les "Vichabs" sont des protecteurs et gardiens de l'Eau chez les arméniens de l'antiquité. ]()
-
+\
+Photo - Jonathan Lacôte \
 \
  **LES ORIGINES DE LA FÊTE DE L’EAU EN ARMÉNIE**
 
