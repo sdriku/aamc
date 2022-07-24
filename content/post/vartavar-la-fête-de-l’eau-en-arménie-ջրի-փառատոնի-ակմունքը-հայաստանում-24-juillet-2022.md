@@ -12,7 +12,10 @@ image: assets/img/vartavar-2.jpg
 
 **Légende païenne**\
 \
-{{< img src="Vartavar 4.jpg" width="80%" height="auto" alt=>}}
+{{< img src=Vartavar 4.jpg width="80%" height="auto" alt="" >}}\
+<!--StartFragment-->
+
+
 
 **Le terme « Vardavar » découlerait du mot arménien « Vard » qui signifierait « rose » pour certains, et « eau » pour d’autres. L’expression, en elle-même, « Vardavar » pourrait se traduire selon l’expression se « couvrir de roses » et dans d’autres cas, « se couvrir d’eau ». Son origine et sa traduction exacte sont encore assez méconnues c’est pourquoi les interprétations peuvent différer. Malgré les équivoques du terme « Vardavar », l’eau, symbole de l’amour, et les roses, sont deux éléments étroitement liés dans la culture arménienne, notamment lors de la Fête de l'eau.**
 
@@ -44,7 +47,8 @@ image: assets/img/vartavar-2.jpg
 
 ## **N’hésitez donc pas à vous joindre à la fête si vous planifiez un voyage en Arménie en Juillet ! Et vous pouvez imaginer que par la chaleur de Juillet, la fraîcheur de l’eau est des plus appréciables !\*\***\
 
-## \------------------------------------------------***\***ՋՐԻ ՓԱՌԱՏՈՆԻ ԱԿՄՈՒՆՔԸ ՀԱՅԱՍՏԱՆՈՒՄ\
+## \------------------------------------------------**\*\***ՋՐԻ ՓԱՌԱՏՈՆԻ ԱԿՄՈՒՆՔԸ ՀԱՅԱՍՏԱՆՈՒՄ\
+
 հեթանոսական լեգենդ«Վարդավառ» տերմինն առաջացել է հայերեն «Վարդ» բառից, որը ոմանց համար նշանակում է «վարդ», ոմանց համար՝ «ջուր»: «Վարդավառ» արտահայտությունն ինքնին կարող է թարգմանվել որպես «վարդերով ծածկվել», իսկ այլ դեպքերում՝ «ջրով ծածկվել»։ Նրա ծագումը և ճշգրիտ թարգմանությունը դեռևս բավականին անհայտ են, այդ իսկ պատճառով մեկնաբանությունները կարող են տարբեր լինել: Չնայած «Վարդավառ» տերմինի երկիմաստություններին, ջուրը, սիրո խորհրդանիշը և վարդերը, երկու սերտորեն կապված տարրեր են հայ մշակույթում, հատկապես տոնի ժամանակ: մի քիչ ջուր.\*\*\
 \
 \
