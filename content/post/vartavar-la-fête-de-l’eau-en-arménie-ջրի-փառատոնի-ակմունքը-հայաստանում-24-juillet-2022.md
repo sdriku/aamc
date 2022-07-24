@@ -8,13 +8,13 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/vartavar-1.jpg
 image: assets/img/vartavar-2.jpg
 ---
-**LES ORIGINES DE LA FÊTE DE L’EAU EN ARMÉNIE**
+\
+Photo - Jonathan Lacôte \
+ **LES ORIGINES DE LA FÊTE DE L’EAU EN ARMÉNIE**
 
 **Légende païenne**\
 \
 {{< img src="Vartavar 4.jpg" width="80%" height="auto" alt="" >}}
-
-
 
 **Le terme « Vardavar » découlerait du mot arménien « Vard » qui signifierait « rose » pour certains, et « eau » pour d’autres. L’expression, en elle-même, « Vardavar » pourrait se traduire selon l’expression se « couvrir de roses » et dans d’autres cas, « se couvrir d’eau ». Son origine et sa traduction exacte sont encore assez méconnues c’est pourquoi les interprétations peuvent différer. Malgré les équivoques du terme « Vardavar », l’eau, symbole de l’amour, et les roses, sont deux éléments étroitement liés dans la culture arménienne, notamment lors de la Fête de l'eau.**
 
