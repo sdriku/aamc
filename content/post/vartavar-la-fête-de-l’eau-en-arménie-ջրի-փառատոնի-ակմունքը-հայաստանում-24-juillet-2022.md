@@ -12,7 +12,7 @@ image: assets/img/vartavar-2.jpg
 
 **Légende païenne**\
 \
-{{< img src"Vartavar 4".jpg width="80%" height="auto" alt="" >}}\
+{{< img src="Vartavar 4.jpg" width="80%" height="auto" alt="" >}}\
 <!--StartFragment-->
 
 
