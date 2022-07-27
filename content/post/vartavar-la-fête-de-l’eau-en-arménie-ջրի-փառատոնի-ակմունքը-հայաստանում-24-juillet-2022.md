@@ -52,7 +52,7 @@ Photo - Jonathan Lacôte \
 \
 <!--StartFragment-->
 
-{{< img src="Mesrob Machtots 9.jpg" width="80%" height="auto" alt="" >}}
+{{< img src="Mesrob-Machtots-9.jpg" width="80%" height="auto" alt="" >}}
 
 <!--EndFragment-->
 
