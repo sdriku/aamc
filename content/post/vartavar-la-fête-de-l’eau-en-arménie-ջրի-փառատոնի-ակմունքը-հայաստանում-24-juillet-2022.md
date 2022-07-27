@@ -26,7 +26,9 @@ Photo - Jonathan Lacôte \
 
 **Au cœur des hautes montagnes, à plus de 3000 mètres d’altitude, les archéologues ont découvert de très grandes sculptures près des sources d’eau, appelées « vichap ». Poisson ou animal mythologique à tête de taureau, ces animaux ressemblent aux protecteurs et aux gardiens de l’eau à l’époque païenne.**
 
-### **L’influence chrétienne**
+### **L’influence chrétienne**\
+\
+{{< img src="Mesrob Machtots 9.jpg" width="80%" height="auto" alt="" >}}
 
 **En 301 après J-C, une  fois proclamée Etat, l’Arménie a vécu une destruction massive de tous les monuments relevant de la religion précédente, ainsi que le bannissement de tous les symboles de la culture païenne. Cependant les vestiges de cette ancienne culture – où les éléments de la nature, l’eau, le feu, la terre et l’air, avaient une place particulière – ont survécu à travers le temps et les interdits.**
 
@@ -48,8 +50,10 @@ Photo - Jonathan Lacôte \
 
 ## **N’hésitez donc pas à vous joindre à la fête si vous planifiez un voyage en Arménie en Juillet ! Et vous pouvez imaginer que par la chaleur de Juillet, la fraîcheur de l’eau est des plus appréciables !\*\***\
 
-## ՋՐԻ ՓԱՌԱՏՈՆԻ ԱԿՄՈՒՆՔԸ ՀԱՅԱՍՏԱՆՈՒՄ\\
+## ՋՐԻ ՓԱՌԱՏՈՆԻ ԱԿՄՈՒՆՔԸ ՀԱՅԱՍՏԱՆՈՒՄ\
+
 \
+
 <!--StartFragment-->
 
 {{< img src="Vartavar-4.jpg" width="80%" height="auto" alt="" >}}
