@@ -48,7 +48,7 @@ Photo - Jonathan Lacôte \
 
 ## **N’hésitez donc pas à vous joindre à la fête si vous planifiez un voyage en Arménie en Juillet ! Et vous pouvez imaginer que par la chaleur de Juillet, la fraîcheur de l’eau est des plus appréciables !\*\***\
 
-## \------------------------------------------------**\*\***ՋՐԻ ՓԱՌԱՏՈՆԻ ԱԿՄՈՒՆՔԸ ՀԱՅԱՍՏԱՆՈՒՄ\\
+## ՋՐԻ ՓԱՌԱՏՈՆԻ ԱԿՄՈՒՆՔԸ ՀԱՅԱՍՏԱՆՈՒՄ\\
 \
 <!--StartFragment-->
 
