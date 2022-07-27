@@ -8,7 +8,7 @@ summary: Selon un article paru ce jour dans le Canard enchainé, Emmanuel Macron
 date: 2022-07-27T23:10:44.690Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/missak-manouchian.jpg
-image: assets/img/missak-manouchian.jpg
+image: assets/img/295040249_10225771308341821_7309428181542200058_nmissak.jpg
 ---
 Missak Manouchian en route vers le Panthéon –
 Selon un article paru ce jour dans le Canard enchainé, Emmanuel Macron aurait pris la décision de panthéoniser Missak Manouchian, exécuté le 21 février 1944 avec 21 de ses compagnons du groupe de résistance FTP-MOI au Mont-Valérien par les Allemands. L’événement devrait se produire en 2024 au moment du 80e anniversaire de la Libération et du débarquement selon le Canard
