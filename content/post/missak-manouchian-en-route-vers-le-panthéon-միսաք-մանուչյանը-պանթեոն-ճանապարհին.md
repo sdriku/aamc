@@ -7,7 +7,7 @@ summary: Selon un article paru ce jour dans le Canard enchainé, Emmanuel Macron
   aurait pris la décision de panthéoniser Missak Manouchian
 date: 2022-07-27T23:10:44.690Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/missak-manouchian.jpg
+thumbnailImage: assets/img/294928887_10225771224579727_4586730257093060505_nmissak.jpg
 image: assets/img/295040249_10225771308341821_7309428181542200058_nmissak.jpg
 ---
 Missak Manouchian en route vers le Panthéon –
