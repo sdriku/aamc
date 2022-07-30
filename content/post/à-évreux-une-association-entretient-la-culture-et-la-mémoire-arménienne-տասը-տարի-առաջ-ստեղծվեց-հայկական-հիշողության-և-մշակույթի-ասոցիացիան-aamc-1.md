@@ -5,7 +5,7 @@ description: "AAMC Evreux - Ecole arménienne à Evreux - Mémoire et Culture à
   Evreux - Les arméniens d'Evreux "
 summary: Մենք պետք է կարողանանք շարունակել փոխանցել այս ժառանգությունը - Il y a
   dix ans, l’Association arménienne mémoire culture (AAMC) était créée,
-date: 2022-07-30T23:05:50.483Z
+date: 2022-07-30T23:29:23.387Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/img-20211209-wa0022.jpg
 image: assets/img/img-20211209-wa0028.jpg
@@ -15,6 +15,7 @@ image: assets/img/img-20211209-wa0028.jpg
 \
 \
 \
+
 <!--StartFragment-->
 
 # À Évreux, une association entretient la culture et la mémoire arménienne
@@ -27,7 +28,7 @@ Il y a dix ans, l’Association arménienne mémoire culture (AAMC) était cré�
 
 Les élèves de la promotion 2021-2022 ont reçu leur diplôme le 2 juillet - (Crédit photo Serge Tateossian)
 
-![Image auteur par défaut](https://prmeng.rosselcdn.net/sites/all/themes/enacarbon_pn/images/pn_logo_gris.png)
+![Image auteur par défaut]()
 
 Par Camille Bacheré
 
@@ -44,6 +45,7 @@ L’école, installée dans une salle fournie par [la mairie d’Évreux](https
 D’abord, l’homme, arrivé en Normandie il y a trente-sept ans, espère attirer davantage d’adhérents : l’Agglomération Évreux Porte de Normandie regroupe environ 200 familles franco-arméniennes. Ensuite, proposer un atelier d’écriture aux élèves pour qu’ils publient plus tard leurs articles sur[ le site de l’association](https://www.evreux-armenie.com/), entièrement bilingue. Mais surtout, Serge Tateossian aimerait faire visiter[ l’Assemblée nationale ](https://www.assemblee-nationale.fr/)aux élèves. *« J’ai toujours voulu promouvoir la culture arménienne aux côtés des lois et des coutumes de la France, qui nous a tant apporté »*, martèle-t-il. Il ne reste plus qu’à attendre qu’un député de l’Eure accepte de parrainer l’association pour la faire entrer au Palais Bourbon.
 
 <!--EndFragment-->\
+
 \
 \
 Տասը տարի առաջ ստեղծվեց Հայկական Հիշողության և Մշակույթի Ասոցիացիան (AAMC), որի նպատակն էր հայկական ժառանգությունը ճանաչելի դարձնել Ֆրանսիայում ծնված սփյուռքի երիտասարդներին: 2022 թվականին ասոցիացիան շարունակում է կրթության և հիշողության իր առաքելությունը։
