@@ -28,7 +28,6 @@ Photo - Jonathan Lacôte \
 
 ### **L’influence chrétienne**\
 \
-{{< img src="Mesrob-Machtots-9.jpg" width="80%" height="auto" alt="" >}}
 
 **En 301 après J-C, une  fois proclamée Etat, l’Arménie a vécu une destruction massive de tous les monuments relevant de la religion précédente, ainsi que le bannissement de tous les symboles de la culture païenne. Cependant les vestiges de cette ancienne culture – où les éléments de la nature, l’eau, le feu, la terre et l’air, avaient une place particulière – ont survécu à travers le temps et les interdits.**
 
