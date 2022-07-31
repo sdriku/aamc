@@ -6,11 +6,13 @@
 }
 </style>
 
+
 {{- $alt := .Get "alt" -}}
 {{- $wid := .Get "width" }}
 {{- $hei := .Get "height" }}
 {{- $path := printf "/assets/img/%s" (.Get "src") -}}
 {{- $res := resources.GetMatch $path -}}
+{{ if $res }}
 {{- $ws := slice 400 800 1200 -}}
 {{- $srcset := slice -}}
 {{- range $ws -}}
@@ -23,6 +25,7 @@
 {{- end -}}
 {{- end -}}
 {{- $set := delimit $srcset "," -}}
+
 <figure>
   <img class="center"
     srcset="{{ $set }}"
@@ -33,3 +36,5 @@
     height="{{ $hei }}"/>
   <figcaption>{{ $alt }}</figcaption>
 </figure>
+{{ else }}
+{{ end }}
