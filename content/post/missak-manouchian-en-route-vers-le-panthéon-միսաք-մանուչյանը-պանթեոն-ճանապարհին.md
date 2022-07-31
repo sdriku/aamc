@@ -33,7 +33,7 @@ Adieu la vie, adieu la lumière et le vent.***
 
 **Avant sa mort, « Manouche » avait écrit un poème : « Adieu les Roses »** 
 
-**Manouche fût un poète et un combattant à la fois.**\
+# **Manouche fût un poète et un combattant à la fois.**\
 \
 **\*\*Միսսակ Մանուչյանը Պանթեոն ճանապարհին. Ըստ Le Canard enchainé-ում այսօր հրապարակված հոդվածի, Էմանուել Մակրոնը որոշում կընդուներ պանթեոնացնել Միսակ Մանուշյանին, որը մահապատժի ենթարկվեց 1944 թվականի փետրվարի 21-ին FTP-MOI դիմադրության խմբի իր ուղեկիցների հետ Մոն-Վալերիենում գերմանացիների կողմից:** \
 **Միջոցառումը պետք է տեղի ունենա 2024 թվականին՝ Ազատագրման 80-ամյակի և վայրէջքի ժամանակ՝ ըստ Կանարդի \*\*** \
