@@ -10,8 +10,10 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/komitas-2.jpeg
 image: assets/img/komitas-1.jpg
 ---
+*Le Monument de Komitas à Paris, commémoratif, pour les arméniens victimes du génocide et aux combattants arméniens morts pour la France. La statue de Komitas  est située sur l'esplanade d'Arménie, et jouxte le jardin d'Erevan, entre le pont des Invalides et le Grand Palais, dans le 8ème arrondissement de Paris.* \
+\
 Gomidas Vartabed (KOMITAS)
-**De son vrai nom Soghomon SOGHOMONIAN, le vartabed GOMIDAS est né en 1869 à Goudinia, région de Kentenya. 
+\*\*De son vrai nom Soghomon SOGHOMONIAN, le vartabed GOMIDAS est né en 1869 à Goudinia, région de Kentenya. 
 
 Orphelin, il entre au séminaire d'Etchmiadzine pour y étudier. Il en sort en 1893 et est ordonné Vartabed en 1895. Il est alors envoyé à Berlin pour y pousuivre des études de philosophie et de musique. 
 
@@ -22,7 +24,6 @@ Il donne des concerts en Europe, en Russie et au Canada.
 Déporté et ramené de l'exode, il perd la raison et meurt en 1935 à l'hôpital de Villejuif à Paris. L'année suivante sa dépouille mortelle sera transférée à Erevan. 
 
 Son nom reste définitivement attaché à la messe qu'il a composée et qui porte son nom, et à l'immense travail de classification, d'harmonisation, de composition ayant trait à la musique tant religieuse que profane . 
-
 
 Կոմիտաս Վարդապետ (ԿՈՄԻՏԱՍ)
 
@@ -35,6 +36,4 @@ Son nom reste définitivement attaché à la messe qu'il a composée et qui port
 Համերգներով հանդես է գալիս Եվրոպայում, Ռուսաստանում, Կանադայում։
 Տարագրվելով և գաղթից հետ բերված՝ նա կորցրեց խելքը և մահացավ 1935 թվականին Փարիզի Վիլժյուֆ հիվանդանոցում։ Հաջորդ տարի նրա աճյունը կտեղափոխվի Երևան։
 
-Նրա անունը մշտապես կապված է իր հեղինակած զանգվածին և որը կրում է նրա անունը, ինչպես նաև դասակարգման, ներդաշնակեցման և ստեղծագործության հսկայական աշխատանքին, որը վերաբերում է ինչպես կրոնական, այնպես էլ աշխարհիկ երաժշտությանը:**﻿\
-\
-**Serge Tateossian - Le 01/07/2022 - Evreux - Source : Henri SIRANYAN professeur de l'université de Valence**
+Նրա անունը մշտապես կապված է իր հեղինակած զանգվածին և որը կրում է նրա անունը, ինչպես նաև դասակարգման, ներդաշնակեցման և ստեղծագործության հսկայական աշխատանքին, որը վերաբերում է ինչպես կրոնական, այնպես էլ աշխարհիկ երաժշտությանը:**﻿**Serge Tateossian - Le 01/07/2022 - Evreux - Source : Henri SIRANYAN professeur de l'université de Valence\*\*
