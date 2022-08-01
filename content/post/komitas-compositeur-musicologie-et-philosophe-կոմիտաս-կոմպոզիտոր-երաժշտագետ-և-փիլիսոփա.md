@@ -1,5 +1,5 @@
 ---
-title: KOMITAS  compositeur, musicologie, et philosophe - ԿՈՄԻՏԱՍ կոմպոզիտոր,
+title: KOMITAS  compositeur, musicologue, et philosophe - ԿՈՄԻՏԱՍ կոմպոզիտոր,
   երաժշտագետ և փիլիսոփա.
 description: "Gomitas - KOMITAS - Gomidas Vartabed - Evreux arméniens -
   Commémoration du génocide arménien à Evreux - "
