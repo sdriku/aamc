@@ -38,4 +38,4 @@ Son nom reste définitivement attaché à la messe qu'il a composée et qui port
 
 Նրա անունը մշտապես կապված է իր հեղինակած զանգվածին և որը կրում է նրա անունը, ինչպես նաև դասակարգման, ներդաշնակեցման և ստեղծագործության հսկայական աշխատանքին, որը վերաբերում է ինչպես կրոնական, այնպես էլ աշխարհիկ երաժշտությանը:\
 \
-Serge Tateossian - Le 01/07/2022 - Evreux - Source : Henri SIRANYAN professeur de l'université de Valence\*\*
+Serge Tateossian - Le 01/08/2022 - Evreux - Source : Henri SIRANYAN professeur de l'université de Valence\*\*
