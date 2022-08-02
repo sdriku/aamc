@@ -9,7 +9,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/aznavour-et-michel-legrand.png
 image: assets/img/patrick-fiori-et-hélène-ségara.jpg
 ---
-**A l'Attention de mes amis (es) qui parfois leur curiosité saine, les poussent à me demandent les noms de personnalités franco-arméniennes célèbres. La liste n'est pas exhaustive, on peut en trouver le triple voir plus, mais elle permet d'avoir un aperçu. *(Charles Villeneuve, François Berléand, Muriel Robin, Patrick FIORI...***\
+**A l'Attention de mes amis (es) qui parfois leur curiosité saine, les poussent à me demander les noms de personnalités franco-arméniennes célèbres. La liste n'est pas exhaustive, on peut en trouver le triple voir plus, mais elle permet d'avoir un aperçu. *(Charles Villeneuve, François Berléand, Muriel Robin, Patrick FIORI...***\
 Certains sont de parents mixtes mais ils se reconnaissent dans la communauté franco-arménienne. \
 J'en profite pour remercier mes amis(es), toutes et tous. \
 En particulier Stéphane Delamare pour son engagement sincère, discrète et désintéressé auprès de notre association AAMC \
