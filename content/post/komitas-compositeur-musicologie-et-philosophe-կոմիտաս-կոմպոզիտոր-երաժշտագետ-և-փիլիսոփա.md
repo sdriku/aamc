@@ -38,4 +38,7 @@ Son nom reste définitivement attaché à la messe qu'il a composée et qui port
 
 Նրա անունը մշտապես կապված է իր հեղինակած զանգվածին և որը կրում է նրա անունը, ինչպես նաև դասակարգման, ներդաշնակեցման և ստեղծագործության հսկայական աշխատանքին, որը վերաբերում է ինչպես կրոնական, այնպես էլ աշխարհիկ երաժշտությանը:\
 \
+Les œuvres sur Komitas sont très nombreuses. Je vous recommande une des dernières parutions en français : https://www.cultura.com/p-la-mort-n-existe-pas-le-chant-sublime-de-l-armenie-9782376040569.html\
+(Dans toutes les librairies)  \
+\
 Serge Tateossian - Le 01/08/2022 - Evreux - Source : Henri SIRANYAN professeur de l'université de Valence\*\*
