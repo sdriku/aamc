@@ -12,9 +12,11 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/arménie-1.jpg
 image: assets/img/poutine-erdogan.jpg
 ---
-« C'est à vous, Arméniens, que je dédie ce livre, en souvenir des jours heureux de ma jeunesse passée dans les pittoresques villages de vos montagnes, dans vos forêts enchantées, dans vos prairies émaillées de fleurs, éclatantes du beau soleil de l'Orient...Peuple martyre ! Puisses-tu, quand naîtra ce livre, voir se lever l'aurore du jour suprême de la liberté »
+***Photo :*** la réunion pour un pacte des trois empires en pleine guerre d'Ukraine-Russie. Poutine-Erdogan\
+\
+***« C'est à vous, Arméniens, que je dédie ce livre, en souvenir des jours heureux de ma jeunesse passée dans les pittoresques villages de vos montagnes, dans vos forêts enchantées, dans vos prairies émaillées de fleurs, éclatantes du beau soleil de l'Orient...Peuple martyre ! Puisses-tu, quand naîtra ce livre, voir se lever l'aurore du jour suprême de la liberté »***
 
-Dédicace de Jacques de Morgan dans son Histoire du peuple arménien, 1919. 
+**Dédicace de Jacques de Morgan dans son Histoire du peuple arménien, 1919.** 
 
 Serge Tateossian le 04/08/2022 Evreux \
 Source : Les dossiers d'archéologie no 321 Arménie, (enrichie). 
@@ -41,21 +43,21 @@ Depuis plus trois siècles que l'Arménie est divisée entre deux empires, une p
 
 En 1915 alors que le monde est totalement absorbé par la première guerre mondiale, la Turquie, qui revait depuis des siècles l'anéantissement physique du peuple arménien a décidé que c'était le moment idéal, de décimer ce peuple pacifique, d'une grande richesse culturelle, mais décidé  retrouver sa liberté. 
 
-Le génocide du peuple arménien fut décidé et exécuté par les dirigeants turcs, avec, à leurs tête, le triumvirat : 
-Talaat Pacha, (premier ministre et ministre de l'intérieur)\
-Ismail Enver Pacha (ministre de la guerre)
+**Le génocide du peuple arménien fut décidé et exécuté par les dirigeants turcs, avec, à leurs tête, le triumvirat : 
+Talaat Pacha, (premier ministre et ministre de l'intérieur)**\
+**Ismail Enver Pacha (ministre de la guerre)
 Ahmed Djemel Pacha (ministre de la Marine) 
-Les historiens reconnaissent, que ces 3 personnages (clé de l'empire ottoman) sont largement responsables de l'entrée de l'empire en guerre et de la planification et l'exécution du génocide arménien. (l'alliance germano-turque). 
+Les historiens reconnaissent, que ces 3 personnages (clé de l'empire ottoman) sont largement responsables de l'entrée de l'empire en guerre et de la planification et l'exécution du génocide arménien. (l'alliance germano-turque).** 
 
 Immédiatement après la guerre et l'exécution du génocide arménien, les turcs se sont arrangés pour opérer une entente avec les russes afin de sceller leur pacte diabolique, en divisant l'Arménie définitivement. Une partie reste en terre bolchévique et l'autre partie vidée des arméniens (les survivants ot été turquifiés, islamisés de force), La Turquie pouvant déclarer désormais que les terres arméniennes, (l'Arménie occidentale) font parties de la « Turquie moderne ».
 
-Ce que lui permet à la Turquie, après l'anéantissement d'un million et demi d'arméniens, sur les deux millions, dans l'empire ottoman, vivant sur leurs terres, de dire sous forme de propagande en boucle, qu'il n'a jamais existé d'arméniens en Turquie (jusqu'en 1975),  
+Ce que lui permet à **la Turquie**, après l'anéantissement d'un million et demi d'arméniens, sur les deux millions, dans l'empire ottoman, vivant sur leurs terres, **de dire sous forme de propagande en boucle, qu'il n'a jamais existé d'arméniens en Turquie (jusqu'en 1975),**  
 
-Entre 1975 et 2001, changeant son logiciel la Turquie parlait de 500 000 morts par accident ou par famine lors de la première guerre (toujours ne reconnaissant aucune responsabilité de leur part, encore moins l'occupation de l'Arménie occidentale à ce jour).
+**Entre 1975 et 2001,** changeant son logiciel la **Turquie parlait de 500 000 morts** par accident ou par famine lors de la première guerre (toujours ne reconnaissant aucune responsabilité de leur part, encore moins l'occupation de l'Arménie occidentale à ce jour).
 
-Et depuis 2001 jusqu'à nos jours leur nouveau logiciel turc répète inlassablement : Laissons l'histoire aux historiens (Plus de cent ans après le génocide perpétré par la Turquie, la Turquie demande encore que les historiens fassent leur travail). 
+**Et depuis 2001 jusqu'à nos jours** leur nouveau logiciel turc répète inlassablement : **Laissons l'histoire aux historiens** (Plus de cent ans après le génocide perpétré par la Turquie, la Turquie demande encore que les historiens fassent leur travail). (Au lieu de demander pardon pour ses crimes inexcusables contre l'humanité et penser à les réparer, afin de permettre aux descendants des survivants du génocide, de faire leur deuil, et tourner la page sombre de l'histoire entre humains, entre frères). 
 
-Alors pourquoi l'entraide guide également notre monde ? 
+**Alors pourquoi l'entraide parfois entre dictatures guide également notre monde ?** 
 Regarder la photo  prise il y quelques jours et nous sommes en août 2022, elle montre
 la réunion pour un pacte des trois empires en pleine guerre d'Ukraine-Russie.
 
