@@ -11,11 +11,10 @@ thumbnailImage: assets/img/raymond-damadian.jpg
 image: assets/img/raymond-damadian.jpg
 ---
 \
+
 <!--StartFragment-->
 
 # Le médecin, scientifique et inventeur américano-arménien de l’imagerie par résonance magnétique (IRM) Raymond Damadian est décédé
-
-
 
 ![](https://www.armenews.com/IMG/arton94855.jpg)
 
@@ -33,8 +32,7 @@ par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=
 © armenews.com 2022
 
 <!--EndFragment-->\
-\
-\
+
 \
 \
 **Մահացել է ամերիկահայ բժիշկ, գիտնական և մագնիսառեզոնանսային տոմոգրաֆիայի (MRI) գյուտարար Ռայմոնդ Դամադյանը.**
