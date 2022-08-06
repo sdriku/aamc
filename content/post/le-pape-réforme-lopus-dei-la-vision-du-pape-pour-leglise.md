@@ -1,5 +1,6 @@
 ---
-title: "Le pape réforme l'Opus Dei (La vision du Pape pour l'Eglise) "
+title: Le pape réforme l'Opus Dei (La vision du Pape pour l'Eglise) - Հռոմի պապ
+  Ֆրանցիսկոսը բարեփոխում է եկեղեցին՝ արդիականացնելով այն
 description: "Le Pape François - Evreux Arméniens - Pape à Evreux -
   Commémoration du génocide arménien "
 summary: "Le pape réforme l'Opus Dei et prive son chef du titre d'évêque "
