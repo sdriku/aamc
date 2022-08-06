@@ -8,12 +8,14 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/le-pape-franois.jpg
 image: assets/img/nuit-de-saint-barthélemy.jpg
 ---
-La décision papale, n'est nullement surprenante pour ceux qui connaissent le programme du Saint Père le Pape François. On peut résumer sa pensée dans son long entretien avec le père jésuite Antonio Spadaro, Directeur de la revue italienne "La Civilita Cattolica" en septembre 2013. \
+Photo : La nuit de Saint-Barthélemy au musée des Beaux-arts à Lausanne. \
+\
+La décision papale, n'est nullement surprenante pour ceux qui connaissent le programme du Saint Père. On peut résumer sa pensée dans son long entretien avec le père jésuite Antonio Spadaro, Directeur de la revue italienne "La Civilita Cattolica" en septembre 2013. \
 \
 ***"Dieu dans la création nous a rendus libres : l'ingérence spirituelle dans la vie des personnes n'est pas possible. Nous ne pouvons pas insister sur les questions liées à l'avortement, au mariage homosexuel et à l'utilisation de méthodes contraceptives. Une pastorale missionnaire n'est pas obsédée par la transmission désarticulée d'une multitude de doctrines"*** \
 Le Pape François \
-------------------------------------------------------\
-\
+------------------------------------------------------
+
 <!--StartFragment-->
 
 # Le pape réforme l'Opus Dei et prive son chef du titre d'évêque
@@ -36,8 +38,6 @@ L'Opus Dei mise au pas : le décret du pape François réformant l'influente et
 
 Surtout présente en Europe et en Amérique du Sud, «*L'Œuvre de Dieu*» - traduction de son nom latin - s'est vue accorder en 1982 par Jean-Paul II le statut - unique - de «*prélature personnelle*». L'Œuvre est ainsi devenue une sorte de super-diocèse sans territoire, régi à la fois par le droit canon et ses propres statuts, et rendant compte au pape. Concrètement, dans son «*Motu Proprio*», un décret personnel du souverain pontife, François réduit le pouvoir et l'indépendance de la puissante organisation, et opère une véritable mise à distance entre l'Opus Dei et lui, observent certains vaticanistes. Le document pontifical, titré «*Ad charisma tuendum*» (Pour protéger le charisme), en vigueur à partir de jeudi et diffusé en juillet, indique que les prérogatives papales sur la prélature personnelle sont confiées au Dicastère - l'équivalent d'un ministère - pour le Clergé.
 
-
-
 Chaque année, au lieu de tous les cinq actuellement, l'Opus Dei devra présenter à cet organe un rapport sur la situation interne et le déroulement de son travail apostolique. «*Certains ont interprété les dispositions du Saint-Siège en termes de +rétrogradation+ ou de ''perte de pouvoir''*», a admis à l'AFP Manuel Sanchez, du bureau de presse de l'Opus Dei. «*Ce type de dialectique ne nous intéresse pas, car pour un catholique, l'utilisation de catégories de pouvoir ou mondaines n'a pas de sens*», a-t-il assuré.
 
 À LIRE AUSSI[Ces catholiques de France désemparés par la défiance du Vatican](https://www.lefigaro.fr/actualite-france/ces-catholiques-de-france-desempares-par-la-defiance-du-vatican-20220613)
@@ -51,5 +51,6 @@ Le chef de l'Opus Dei, Fernando Ocariz, avait indiqué en juillet sur le site in
 **À VOIR AUSSI -** «On peut changer de pape»: Diminué, François admet qu'il ne pourra «plus voyager au même rythme»
 
 <!--EndFragment-->\
+
 \
 Serge Tateossian le 6/08/2022 Evreux - source : Le Figaro (enrichi par un commentaire en début de l'article)
