@@ -48,8 +48,6 @@ Le chef de l'Opus Dei, Fernando Ocariz, avait indiqué en juillet sur le site in
 
 - - -
 
-**À VOIR AUSSI -** «On peut changer de pape»: Diminué, François admet qu'il ne pourra «plus voyager au même rythme»
-
 <!--EndFragment-->\
 
 \
