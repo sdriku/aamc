@@ -23,7 +23,7 @@ La bénédiction du raisin ou le khaghor-ornenk est de loin la cérémonie que l
 À l'issue de la messe, le prêtre ou le curé de la paroisse, qui a béni les paniers de raisin déposés au pied de l'autel, dit :
 "Par ce signe,  de la sainte Croix, de la sainte Bible, je bénis ces raisins, au nom du Père, du Fils et du Saint-Esprit", le chœur scandant par trois fois des Alleluia allant crescendo.
 
-À la sortie de la messe, les fidèles se soient  s'offrir un sachet de raisin béni.\
+À la sortie de la messe, les fidèles se voient  s'offrir un sachet de raisin béni.\
 \
 **Լուսանկարը Տիրամայր Հայաստանի եկեղեցին Կիրկանում - Սյոդերտելյե - Շվեդիա**
 
@@ -37,6 +37,6 @@ La bénédiction du raisin ou le khaghor-ornenk est de loin la cérémonie que l
 **Պատարագի ավարտին քահանան կամ ծխական քահանան, ով օրհնում էր զոհասեղանի ստորոտում դրված խաղողի սակառները, ասում է.
 «Այս նշանով՝ Սուրբ Խաչի, Սուրբ Գրքի, օրհնում եմ այս խաղողը՝ հանուն Հոր, Որդու և Սուրբ Հոգու», երգչախումբը երեք անգամ երգելով Ալելուիա՝ գնալով կրեսենդո։**
 
-**Պատարագի ավարտին հավատացյալներն իրենց մատուցեցին մի պարկ օրհնված խաղող։**\
+**Պատարագի ավարտին հավատացյալներին մատուցվում է մի պարկ օրհնված խաղող։**\
 \
 **Serge Tateossian le Dimanche 14 août 2022 Evreux** - *Source La Provence du 19 août 2014*
