@@ -9,7 +9,7 @@ thumbnailImage: assets/img/bénédiction-de-raisin.jpg
 image: assets/img/bénédiction-de-raisin.jpg
 ---
 \
-Photo Notre Dame de l'Arménie église à Kirkan - Södertälje - Suède 14 août 2022\
+Photo Notre Dame de l'Arménie église à Kirkan - Södertälje - Suède,  Dimanche 14 août 2022\
 \
 Bénédiction du raisin par l'église arménienne à l'Assomption - Tradition millénaires \
 Խաղողօրհնեք Հայ Եկեղեցու կողմից Աստվածածնի Վերափոխման - Հազարամյա ավանդույթ
