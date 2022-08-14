@@ -2,7 +2,8 @@
 title: "ARTSAKH - Haut-Karabagh : FRANCE 3 RHÔNE ALPES - l'invité Krikor
   Amirzayan journaliste à Nouvelles d'Arménie Magazine "
 description: "Krikor Amirzayan - FRANCE 3 RHÔNE-ALPES - Evreux Arméniens "
-summary: "l'ARTSAKH agressé par l'Azerbaidjan "
+summary: Le conflit du Haut Karabagh (Artsakh) avec un bref bilan de la
+  situation et les enjeux géopolitiques.
 date: 2022-08-14T18:09:57.674Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/krikor-amirzayan-nam-2.jpg
