@@ -17,7 +17,7 @@ Bénédiction du raisin par l'église arménienne à l'Assomption - Tradition mi
 l'Assomption et la bénédiction du raisin. 
 Célébrée le dimanche le plus proche du 15 août, pour la fête de l'Assomption, la bénédiction du raisin par l'Église apostolique et catholique arméniennes attire toujours une foule de fidèles. Il s'agit d'une tradition remontant au temps du paganisme où le 1er août était Navassart, c'est-à-dire le premier de l'An.
 
- À cette date, on rendait grâce aux dieux par des offrandes pour les remercier des récoltes qu'ils avaient octroyées aux paysans. Les familles viennent à l'église honorer la Vierge Marie.
+ À cette date, on rendait grâce aux dieux par des offrandes pour les remercier des récoltes qu'ils avaient octroyées aux paysans. De nos jours les familles viennent à l'église honorer la Vierge Marie.
 
 La bénédiction du raisin ou le khaghor-ornenk est de loin la cérémonie que les Arméniens honorent la plus. Avec l'adoption du christianisme, en 301 par le roi Tiridate III, les Pères de l'Église ajoutèrent la fête des récoltes du raisin en hommage à Noé, qui, échouant sur le mont Ararat, planta des vignes comme écrit dans la Sainte Bible.
 
@@ -31,7 +31,8 @@ La bénédiction du raisin ou le khaghor-ornenk est de loin la cérémonie que l
 **Վերափոխումն ու խաղողօրհնեքը։
 Օգոստոսի 15-ին ամենամոտ կիրակի օրը՝ Աստվածածնի Վերափոխման տոնին, Հայ Առաքելական և Կաթոլիկ եկեղեցու կողմից խաղողօրհնեքը միշտ գրավում է հավատացյալների բազմությանը։ Սա ավանդույթ է, որը գալիս է հեթանոսական ժամանակներից, երբ օգոստոսի 1-ը Նավասարտ էր, այսինքն՝ տարվա առաջինը:**
 
- **Այս օրը մենք շնորհակալություն հայտնեցինք աստվածներին ընծաներով՝ շնորհակալություն հայտնելու նրանց բերքի համար, որ նրանք տվել էին գյուղացիներին։ Ընտանիքները գալիս են եկեղեցի` հարգելու Մարիամ Աստվածածինը:**
+ **Այս օրը մենք շնորհակալություն հայտնեցինք աստվածներին ընծաներով՝ շնորհակալություն հայտնելու նրանց բերքի համար, որ նրանք տվել էին գյուղացիներին։** \
+**Մեր օրերում ընտանիքները գալիս են եկեղեցի` հարգելու Մարիամ Աստվածածինը:**
 
 **Խաղողօրհնեքը կամ խաչորնենքը, անկասկած, այն արարողությունն է, որին ամենից շատ հարգում են հայերը: Քրիստոնեության ընդունումով 301 թվականին Տրդատ III թագավորի կողմից եկեղեցու հայրերը ավելացրեցին խաղողի բերքահավաքի տոնը՝ հարգանքի տուրք մատուցելով Նոյին, ով Արարատ լեռան վրա հայտնված խաղողի վազեր տնկեց, ինչպես գրված է Սուրբ Գրքում:**
 
