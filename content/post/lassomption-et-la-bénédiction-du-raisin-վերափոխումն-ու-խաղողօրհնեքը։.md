@@ -8,10 +8,11 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/bénédiction-de-raisin.jpg
 image: assets/img/bénédiction-de-raisin.jpg
 ---
-Bénédiction du raisin par l'église arménienne à l'Assomption - Tradition millénaires \
-Խաղողօրհնեք Հայ Եկեղեցու կողմից Աստվածածնի Վերափոխման - Հազարամյա ավանդույթ\
 \
-Photo Notre Dame de l'Arménie église à Kirkan - Södertälje - Suède 
+Photo Notre Dame de l'Arménie église à Kirkan - Södertälje - Suède 14 août 2022\
+\
+Bénédiction du raisin par l'église arménienne à l'Assomption - Tradition millénaires \
+Խաղողօրհնեք Հայ Եկեղեցու կողմից Աստվածածնի Վերափոխման - Հազարամյա ավանդույթ
 
 l'Assomption et la bénédiction du raisin. 
 Célébrée le dimanche le plus proche du 15 août, pour la fête de l'Assomption, la bénédiction du raisin par l'Église apostolique et catholique arméniennes attire toujours une foule de fidèles. Il s'agit d'une tradition remontant au temps du paganisme où le 1er août était Navassart, c'est-à-dire le premier de l'An.
