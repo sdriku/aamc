@@ -48,7 +48,7 @@ EDGAR CHAHINE - Peintre et Graveur\
 
 **Շահինն արժանացել է Ոսկե մեդալի (1900 թ., Փարիզ) և Ոսկե մեծ մրցանակի (1903 թ., Վենետիկ), Ֆրանսիայի Պատվո լեգեոնի ասպետի աստիճանի և շքանշանի:**\
 \
-***Anahit Koryoun (Manukyan), <!--StartFragment-->Պատմության ֆակուլտետի Մշակութաբանության բաժին à Երևանի Պետական Համալսարան***\
+***Anahit Koryoun (Manukyan), <!--StartFragment-->Պատմության ֆակուլտետի Մշակութաբանության բաժին  Երևանի Պետական Համալսարան***\
 ***Département d'études culturelles, Faculté d'histoire, Université d'État d'Erevan***
 
 **<!--EndFragment-->**\
