@@ -10,7 +10,11 @@ image: assets/img/edgar-chahine-5.jpg
 ---
 EDGAR CHAHINE - Peintre et Graveur\
 ***Textes croisés de Anahit Koryoun et Benoît Noël***\
-ԷԴԳԱՐ ՇԱՀԻՆ - Նկարիչ և փորագրիչ\
+ԷԴԳԱՐ ՇԱՀԻՆ - Նկարիչ և փորագրիչ
+
+![](assets/img/edgar-chahine-2.jpg)
+
+\
 **Անահիտ Կորյունի և Բենուա Նոելի խաչաձև տեքստերը**\
 \
 **EDGAR CHAHINE 1874-1947**\
