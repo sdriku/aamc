@@ -8,14 +8,6 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/edgar-chahine-peintre-graveur-1874-1947.jpg
 image: assets/img/edgar-chahine-5.jpg
 ---
- ԷԴԳԱՐ ՇԱՀԻՆ - EDGAR CHAHINE : Merci à Anahit Manukyan et son blog. \
-EDGAR CHAHINE - peintre et graveur  arménien - Evreux arméniens Normandie "
-EDGAR CHAHINE Peintre et Graveur - ԷԴԳԱՐ ՇԱՀԻՆ - Նկարիչ և փորագրիչ
-
-
-
-- - -
-
 EDGAR CHAHINE - Peintre et Graveur\
 ***Textes croisés de Anahit Koryoun et Benoît Noël***\
 ԷԴԳԱՐ ՇԱՀԻՆ - Նկարիչ և փորագրիչ\
