@@ -34,7 +34,7 @@ EDGAR CHAHINE - Peintre et Graveur\
 \
 \
 {{< img src="Edgar-Chahine-2".jpg width="80%" height="auto" alt="" >}}\
-{{< img src="Nom-de-ta-photo.jpg-ou-png-ou-jpeg" width="80%" height="auto" alt="" >}}\
+\
 \
 \
 \
