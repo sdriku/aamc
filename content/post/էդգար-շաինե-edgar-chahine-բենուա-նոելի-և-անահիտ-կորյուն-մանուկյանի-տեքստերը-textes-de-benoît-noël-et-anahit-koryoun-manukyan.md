@@ -8,12 +8,10 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/edgar-chahine-peintre-graveur-1874-1947.jpg
 image: assets/img/edgar-chahine-5.jpg
 ---
-title: "ԷԴԳԱՐ ՇԱՀԻՆ - EDGAR CHAHINE : Merci à Anahit Manukyan "description: "EDGAR CHAHINE - peintre et graveur  arménien - Evreux arméniens Normandie "
-summary: EDGAR CHAHINE Peintre et Graveur - ԷԴԳԱՐ ՇԱՀԻՆ - Նկարիչ և փորագրիչ
-date: 2022-08-15T15:52:05.008Z
-thumbnailImagePosition: left
-thumbnailImage: assets/img/edgar-chahine-peintre-graveur-1874-1947.jpg
-image: assets/img/edgar-chahine-5.jpg
+ ԷԴԳԱՐ ՇԱՀԻՆ - EDGAR CHAHINE : Merci à Anahit Manukyan "description: "EDGAR CHAHINE - peintre et graveur  arménien - Evreux arméniens Normandie "
+EDGAR CHAHINE Peintre et Graveur - ԷԴԳԱՐ ՇԱՀԻՆ - Նկարիչ և փորագրիչ
+
+
 
 - - -
 
@@ -22,8 +20,7 @@ Textes croisés de Anahit Koryoun et Benoît Noël\
 ԷԴԳԱՐ ՇԱՀԻՆ - Նկարիչ և փորագրիչ\
 Անահիտ Կորյունի և Բենուա Նոելի խաչաձև տեքստերը\
 \
-EDGAR SHAHIN 1874-1947\
-EDGAR SHAHIN 1874-1947\
+EDGAR CHAHINE 1874-1947\
 Edgar Shahin a vécu à Constantinople dans son enfance, a étudié à l'école Mkhitaryan de Gatgyugh (district de Constantinople) et en 1890-92 au Collège Murat-Raphaelyan de Venise. En 1893, il se rend à Paris. perfectionné à l'Académie Julien.\
 \
 \
@@ -58,9 +55,12 @@ EDGAR SHAHIN 1874-1947
 
 Շահինն արժանացել է Ոսկե մեդալի (1900 թ., Փարիզ) և Ոսկե մեծ մրցանակի (1903 թ., Վենետիկ), Ֆրանսիայի Պատվո լեգեոնի ասպետի աստիճանի և շքանշանի:\
 \
-\*\*\*\[Անահիտ Կորյուն](https://www.facebook.com/anahit.koryun?\_\_cft\_\_\[0]=AZU6RcaVvbY5uObmzyhZrHPXjUaY5JjblGuqAgkiCAJZXap0ODTz8ONxz28RCwnHS2pVxjhgrzsT1TfQSGwysCU4WrD90GWh_AzVIQYR0B3jdoVQFxTvKcmBcaOumimBMc0jrUkt4HOyi-PXEzSiOV0Tl2vzHMRxP6waAcljOSLGJc2b4_Ws74sO_vIoYquPUYI&\_\_tn\_\_=-UC%2CP-y-R) -\*\*\*
+Anahit Koryoun (Manukyan), <!--StartFragment-->
 
-\
+Պատմության ֆակուլտետի Մշակութաբանության բաժին à Երևանի Պետական Համալսարան\
+Département d'études culturelles, Faculté d'histoire, Université d'État d'Erevan
+
+<!--EndFragment-->\
 \
 \
 \
@@ -100,4 +100,8 @@ Auteur : Benoît Noël\
 \
 Սուլթան Աբդ-ուլ-Համիդ II-ը (1842-1918) դարձավ Օսմանյան կայսրության ղեկավարը շարունակական մասնատման գործընթացում (Ղարաբաղի, Երևանի և Նախիջևանի շրջանների կորուստը 1828 թ.); Փարիզի պայմանագրով (1856թ.) պարտք, որից առաջացել է Օսմանյան բանկը և նախորդ տարվանից սնանկացած։ «Հավատարիմ ազգ» համարվելուց հոգնած շատ հայեր այժմ ցանկանում են թոթափել իրենց լուծը, ինչպես նախկինում հույները: Ղուրանի օրենսդրության համաձայն «դհիմմի» համարվելով՝ նրանք խիստ հարկվող ենթակա քաղաքացիներ են: Այսպիսով, եթե նրանք վարում են երկրի ներքին առևտուրը, ապա չեն քաղում իրենց աշխատանքի ամբողջ պտուղը։ Քաղաքացիական ծառայության կարիերան մնում է նրանց համար փակ, և ակնհայտորեն քաղաքական կարիերան, նույնիսկ եթե շատ հայեր, ավանդաբար գրագետ, իրականում արդյունավետ օկուլտիստական ​​խորհրդատուներ են:\
 \
-Հեղինակ՝ Բենուա Նոել
+Հեղինակ՝ Բենուա Նոել\
+Benoît Noël Chercheur indépendant et historien d'art\
+Né à Versailles 1963\
+\
+Serge Tateossian le 15 août 2022 - Evreux
