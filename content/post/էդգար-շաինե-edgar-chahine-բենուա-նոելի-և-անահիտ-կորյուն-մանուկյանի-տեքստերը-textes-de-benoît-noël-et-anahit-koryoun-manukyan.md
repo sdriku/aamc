@@ -10,12 +10,7 @@ image: assets/img/edgar-chahine-5.jpg
 ---
 EDGAR CHAHINE - Peintre et Graveur\
 ***Textes croisés de Anahit Koryoun et Benoît Noël***\
-ԷԴԳԱՐ ՇԱՀԻՆ - Նկարիչ և փորագրիչ
-
-![blob:https://www.evreux-armenie.com/51ba00f3-5385-4233-825b-6fe40d161b92](assets/img/edgar-chahine-2.jpg)
-
-\
-\
+ԷԴԳԱՐ ՇԱՀԻՆ - Նկարիչ և փորագրիչ\
 \
 **Անահիտ Կորյունի և Բենուա Նոելի խաչաձև տեքստերը**\
 \
@@ -36,6 +31,9 @@ EDGAR CHAHINE - Peintre et Graveur\
 \
 **Sahin a reçu la médaille d'or (1900, Paris) et le Grand Prix d'or (1903, Venise), le grade et l'ordre de chevalier de la Légion d'honneur française.**\
 \
+{{< img src="Edgar Chahine 2.jpg" width="80%" height="auto" alt="" >}}\
+\
+\
 **ԷԴԳԱՐ ՇԱՀԻՆ 1874-1947**
 
 **EDGAR SHAHIN 1874-1947**
@@ -53,14 +51,13 @@ EDGAR CHAHINE - Peintre et Graveur\
 **Գործերը պահվում են Փարիզի ազգային գրադարանում, Վենետիկի քաղաքային թանգարանում, ՀԱՊ-ում (300-ից ավելի), Էրմիտաժում, Մոսկվայի Պուշկինի անվան կերպարվեստի և եվրոպական երկրների այլ թանգարաններում:**
 
 #### **Շահինն արժանացել է Ոսկե մեդալի (1900 թ., Փարիզ) և Ոսկե մեծ մրցանակի (1903 թ., Վենետիկ), Ֆրանսիայի Պատվո լեգեոնի ասպետի աստիճանի և շքանշանի:**\
+
 \
 ***Anahit Koryoun (Manukyan)***\
 ***<!--StartFragment-->Պատմության ֆակուլտետի Մշակութաբանության բաժին  Երևանի Պետական Համալսարան***\
 ***Département d'études culturelles, Faculté d'histoire, Université d'État d'Erevan***
 
-#### **<!--EndFragment-->**\
-\
-\
+#### **<!--EndFragment-->**\\
 \
 **EDGAR CHAHINE (Texte Benoît Noël)**\
 \
