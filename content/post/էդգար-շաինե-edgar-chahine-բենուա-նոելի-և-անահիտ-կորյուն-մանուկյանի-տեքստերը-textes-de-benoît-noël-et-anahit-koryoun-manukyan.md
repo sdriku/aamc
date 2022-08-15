@@ -11,7 +11,7 @@ image: assets/img/edgar-chahine-5.jpg
 EDGAR CHAHINE - Peintre et Graveur\
 ***Textes croisés de Anahit Koryoun et Benoît Noël***\
 ԷԴԳԱՐ ՇԱՀԻՆ - Նկարիչ և փորագրիչ\
-Անահիտ Կորյունի և Բենուա Նոելի խաչաձև տեքստերը\
+**Անահիտ Կորյունի և Բենուա Նոելի խաչաձև տեքստերը**\
 \
 **EDGAR CHAHINE 1874-1947**\
 **Edgar Shahin a vécu à Constantinople dans son enfance, a étudié à l'école Mkhitaryan de Gatgyugh (district de Constantinople) et en 1890-92 au Collège Murat-Raphaelyan de Venise. En 1893, il se rend à Paris. perfectionné à l'Académie Julien.**\
