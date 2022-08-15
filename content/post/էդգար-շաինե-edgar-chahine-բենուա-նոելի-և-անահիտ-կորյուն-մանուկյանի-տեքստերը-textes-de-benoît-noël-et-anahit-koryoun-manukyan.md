@@ -1,5 +1,5 @@
 ---
-title: ԷԴԳԱՐ ՇԱԻՆԵ - EDGAR CHAHINE (Բենուա Նոելի և Անահիտ Կորյուն Մանուկյանի
+title: ԷԴԳԱՐ ՇԱՀԻՆ  - EDGAR CHAHINE (Բենուա Նոելի և Անահիտ Կորյուն Մանուկյանի
   տեքստերը) - (Textes de Benoît Noël et Anahit Koryoun Manukyan)
 description: "EDGAR CHAHINE - Peintre et graveur - Peintre arménien - Evreux Arméniens - "
 summary: EDGAR CHAHINE - ԷԴԳԱՐ ՇԱԻՆԵ
@@ -8,13 +8,15 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/edgar-chahine-peintre-graveur-1874-1947.jpg
 image: assets/img/edgar-chahine-5.jpg
 ---
-title: "ԷԴԳԱՐ ՇԱԻՆԵ - EDGAR CHAHINE : Merci à Anahit Manukyan "description: "EDGAR CHAHINE - peintre et graveur  arménien - Evreux arméniens Normandie "
+title: "ԷԴԳԱՐ ՇԱՀԻՆ - EDGAR CHAHINE : Merci à Anahit Manukyan "description: "EDGAR CHAHINE - peintre et graveur  arménien - Evreux arméniens Normandie "
 summary: EDGAR CHAHINE Peintre et Graveur - ԷԴԳԱՐ ՇԱՀԻՆ - Նկարիչ և փորագրիչ
 date: 2022-08-15T15:52:05.008Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/edgar-chahine-peintre-graveur-1874-1947.jpg
 image: assets/img/edgar-chahine-5.jpg
----
+
+- - -
+
 EDGAR CHAHINE - Peintre et Graveur\
 Textes croisés de Anahit Koryoun et Benoît Noël\
 ԷԴԳԱՐ ՇԱՀԻՆ - Նկարիչ և փորագրիչ\
