@@ -31,7 +31,7 @@ EDGAR CHAHINE - Peintre et Graveur\
 \
 **Sahin a reçu la médaille d'or (1900, Paris) et le Grand Prix d'or (1903, Venise), le grade et l'ordre de chevalier de la Légion d'honneur française.**\
 \
-{{< img src="Edgar Chahine 2.jpg" width="80%" height="auto" alt="" >}}\
+{{< img src=Edgar Chahine 2.jpg width="80%" height="auto" alt="" >}}\
 \
 \
 **ԷԴԳԱՐ ՇԱՀԻՆ 1874-1947**
