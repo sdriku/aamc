@@ -46,28 +46,4 @@ Début 2022, les deux pays ont entamé un nouveau cycle de négociations destin�
 
 Courrier international
 
-<!--EndFragment-->\
-\
-\
-Un « micro » pas pour « l'humanité », un grand pas pour la Turquie 
-En plus d'un siècle, pour la première fois, la Turquie nomme un jeune turc d'origine arménienne, Berk Acar, gouverneur du district de Babadag,  (6404 habitants). (l'équivalent d'un village)
-La presse turque fait une large place à l'évévenemnt et la presse internationale se fait l'écho. 
-Pauvre humanité.
-
- Quand on massacre les arméniens d'Artsakh et d'Arménie en envoyant les drônes , les djihadistes et les mercenaires de tous pays fanatiques en compagnie des armées turque et azérie, on observe un silence comlet. Pour la première fois en plus d'un siècle, la Turquie nomme un de ses enfants (après tout il n'est qu'un descendant des survivants du génocide de 1915), d'origine arménienne  à la tête d'un district de 6404 habitants. 
-
-La performance d'une telle « démocratie » et intégrée à l'OTAN mérite forcément un tele tapage médiatique ? 
-Chapeau bas, faut-il s'incliner ?  ﻿\
-\
-**«Միկրո» քայլ՝ հանուն «մարդկության», մեծ քայլ՝ Թուրքիայի համար**
-
-**Ավելի քան մեկ դարում Թուրքիան առաջին անգամ Բաբադաղի շրջանի կառավարիչ է նշանակում ազգությամբ հայ երիտասարդ թուրք Բերք Աքարին (6404 բնակիչ)։ (գյուղի համարժեք)
-Թուրքական մամուլը մեծ տեղ է հատկացնում միջոցառմանը, իսկ միջազգային մամուլը արձագանքում է դրան։
-Խեղճ մարդկություն.**
-
-  **Երբ թուրքական և ադրբեջանական բանակների ընկերակցությամբ բոլոր մոլեռանդ երկրներից անօդաչու թռչող սարքեր, ջիհադիստներ և վարձկաններ ուղարկելով կոտորվում են Արցախի և Հայաստանի հայերը, տիրում է կատարյալ լռություն։ Ավելի քան մեկ դարի ընթացքում Թուրքիան իր զավակներից մեկին (ի վերջո, նա 1915 թվականի ցեղասպանությունը վերապրածներից է), ազգությամբ հայ է նշանակում 6404 բնակիչ ունեցող թաղամասի ղեկավար։**
-
-**Նման «ժողովրդավարության» և ՆԱՏՕ-ին ինտեգրված գործելաոճն անպայման արժանանո՞ւմ է մեդիա աղմուկի։
-Գլխարկները հանե՞նք, խոնարհվե՞նք**\
-\
-Serge Tateossian le 20/08/2022  -  Source courrier international
+<!--EndFragment-->
