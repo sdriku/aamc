@@ -9,7 +9,7 @@ summary: Un « micro » pas pour « l'humanité », un grand pas pour la Tur
 date: 2022-08-21T13:54:18.795Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/arménie-turquie-drapeaux.png
-image: assets/img/berc-district-bagdag.jpg
+image: assets/img/arménie-turquie-drapeaux.png
 ---
 Un « micro » pas pour « l'humanité », un grand pas pour la Turquie.«Միկրո» քայլ՝ հանուն «մարդկության», մեծ քայլ՝ Թուրքիայի համար
 
