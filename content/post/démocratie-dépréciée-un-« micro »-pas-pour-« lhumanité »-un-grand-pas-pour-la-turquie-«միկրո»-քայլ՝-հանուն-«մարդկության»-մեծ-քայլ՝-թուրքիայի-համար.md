@@ -11,8 +11,4 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/arménie-turquie-drapeaux.png
 image: assets/img/arménie-turquie-drapeaux.png
 ---
-
-
-Serge Tateossian le 20/08/2022 - Source courrier international
-
-- - -
+s
