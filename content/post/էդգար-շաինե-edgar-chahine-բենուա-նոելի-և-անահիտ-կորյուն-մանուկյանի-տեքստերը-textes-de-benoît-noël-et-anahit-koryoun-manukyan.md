@@ -33,7 +33,7 @@ EDGAR CHAHINE - Peintre et Graveur\
 \
 \
 \
-{{< img src="Edgar-Chahine-2".jpg width="80%" height="auto" alt="" >}}\
+{{< img src="edgar-Chahine-2.jpg" width="80%" height="auto" alt="" >}}\
 \
 \
 \
