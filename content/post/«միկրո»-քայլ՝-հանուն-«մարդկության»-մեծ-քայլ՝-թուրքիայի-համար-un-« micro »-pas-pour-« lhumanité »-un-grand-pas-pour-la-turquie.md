@@ -10,7 +10,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/berc-district-bagdag.jpg
 image: assets/img/arménie-11.jpg
 ---
-**Photo : Berk Acar 27 ans actuel gouverneur du district de Babadag**\
+**Photo couverture : Berk Acar 27 ans actuel gouverneur du district de Babadag**\
 \
 **Un « micro » pas pour « l'humanité », un grand pas pour la Turquie**\
 **«Միկրո» քայլ՝ հանուն «մարդկության», մեծ քայլ՝ Թուրքիայի համար.**\
