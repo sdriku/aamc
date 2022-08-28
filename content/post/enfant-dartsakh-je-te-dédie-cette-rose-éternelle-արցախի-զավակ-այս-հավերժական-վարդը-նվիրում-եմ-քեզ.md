@@ -6,8 +6,8 @@ summary: Enfant d'Artsakh, Je te dédie cette rose éternelle. -   Արցախի 
   այս հավերժական վարդը նվիրում եմ քեզ.
 date: 2022-08-28T17:20:34.077Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/artsakh-poésie-1.png
-image: ""
+thumbnailImage: assets/img/artsakh-poésie.jpg
+image: assets/img/artsakh-poésie-2.jpg
 ---
 **Photo couverture : HelloAsso  -  Seconde photo : Le courrier d'Erevan**\
 \
