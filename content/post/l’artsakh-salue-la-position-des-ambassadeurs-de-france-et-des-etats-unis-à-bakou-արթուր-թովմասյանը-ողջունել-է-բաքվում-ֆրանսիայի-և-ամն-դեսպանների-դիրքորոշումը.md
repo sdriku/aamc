@@ -24,7 +24,9 @@ Rappelons que Hikmet Hajiyev, assistant du président azéri et chef du départe
 
 « Ce groupe n’existe pas, tout comme il n’y a pas de problème international qui aurait pu nécessiter des médiateurs » a déclaré H. Hajiyev.
 Il a noté que les États-Unis et la France n’ont apporté aucune contribution au règlement pacifique du conflit du Karabakh et que les ambassadeurs de ces pays, malgré de nombreuses invitations, a-t-il déclaré, refusent ostensiblement de se rendre à Chouchi.
-« Cela peut être considéré comme leur non-reconnaissance de l’intégrité territoriale de l’Azerbaïdjan », a déclaré H. Hajiyev.
+« Cela peut être considéré comme leur non-reconnaissance de l’intégrité territoriale de l’Azerbaïdjan », a déclaré H. Hajiyev\
+\
+.
 \
 Արցախի Ազգային ժողովի նախագահը ողջունել է Բաքվում Ֆրանսիայի և ԱՄՆ դեսպանների դիրքորոշումը, ովքեր հրաժարվել են այցելել Շուշի.
 
