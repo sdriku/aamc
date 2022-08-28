@@ -16,7 +16,7 @@ image: assets/img/artsakh-poésie-2.jpg
 **La Rose qui dure**\
 **NORGE** \
 \
-...A peine de dos tourné\
+...A peine le dos tourné\
 Que l'horloge va plus vite.\
 Le temps voleur en profite\
 Aussitôt pour flouer\
