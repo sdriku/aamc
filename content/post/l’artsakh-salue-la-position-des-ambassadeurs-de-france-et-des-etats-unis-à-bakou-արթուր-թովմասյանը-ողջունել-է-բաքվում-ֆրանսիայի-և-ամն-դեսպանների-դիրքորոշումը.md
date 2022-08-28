@@ -1,6 +1,6 @@
 ---
 title: " l’Artsakh salue la position des ambassadeurs de France et des
-  Etats-Unis à Bakou - Արթուր Թովմասյանը ողջունել է Բաքվում Ֆրանսիայի և ԱՄՆ
+  Etats-Unis à Bakou  -  Արթուր Թովմասյանը ողջունել է Բաքվում Ֆրանսիայի և ԱՄՆ
   դեսպանների դիրքորոշումը"
 description: "Artsakh - Haut-Karabakh - Président de l'assemblée nationale
   d'Artsakh - France et Amérique "
