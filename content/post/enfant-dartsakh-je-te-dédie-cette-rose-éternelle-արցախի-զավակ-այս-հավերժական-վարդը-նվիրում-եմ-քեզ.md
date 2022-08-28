@@ -7,8 +7,10 @@ summary: Enfant d'Artsakh, Je te dédie cette rose éternelle. -   Արցախի 
 date: 2022-08-28T17:20:34.077Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/artsakh-poésie-1.png
-image: assets/img/artsakh-poésie-2.jpg
+image: ""
 ---
+**Photo couverture : HelloAsso  -  Seconde photo : Le courrier d'Erevan**\
+\
 **Enfant d'Artsakh, Je te dédie cette rose éternelle.**\
 \
 **La Rose qui dure**\
