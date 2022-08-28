@@ -9,7 +9,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/artsakh-poésie.jpg
 image: assets/img/artsakh-poésie-2.jpg
 ---
-**Photo couverture : HelloAsso  -  Seconde photo : Le courrier d'Erevan**\
+**Seconde photo : Le courrier d'Erevan**\
 \
 **Enfant d'Artsakh, Je te dédie cette rose éternelle.**\
 \
