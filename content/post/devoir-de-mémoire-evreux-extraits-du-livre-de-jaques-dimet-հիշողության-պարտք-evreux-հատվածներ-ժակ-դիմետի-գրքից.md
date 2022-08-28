@@ -1,6 +1,6 @@
 ---
-title: "Devoir de Mémoire - EVREUX - (extraits du livre de Jaques DIMET)
-  Հիշողության պարտք - EVREUX - (հատվածներ Ժակ ԴԻՄԵՏԻ գրքից)- "
+title: "Devoir de Mémoire - EVREUX - (Evreux et la Résistance, extraits du livre
+  de Jaques DIMET) Հիշողության պարտք - EVREUX - (հատվածներ Ժակ ԴԻՄԵՏԻ գրքից)- "
 description: "Parc Marcel BAUDOT - Evreux commémore - Génocide arménien Evreux "
 summary: "Devoir de Mémoire - EVREUX - (extraits du livre de Jaques DIMET)
   Հիշողության պարտք - EVREUX - (հատվածներ Ժակ ԴԻՄԵՏԻ գրքից)- "
