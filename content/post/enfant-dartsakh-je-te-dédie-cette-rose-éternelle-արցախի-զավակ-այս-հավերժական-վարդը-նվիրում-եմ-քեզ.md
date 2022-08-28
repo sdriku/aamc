@@ -13,7 +13,7 @@ image: assets/img/artsakh-poésie-2.jpg
 \
 **Enfant d'Artsakh, Je te dédie cette rose éternelle.**\
 \
-**La Rose qui dure**\
+**La Rose qui dure**  \
 **NORGE** \
 \
 ...A peine le dos tourné\
@@ -53,7 +53,7 @@ Et s'appelle éternité.\
 \
 **Արցախի զավակ, այս հավերժական վարդը նվիրում եմ քեզ.**\
 **Հավերժական վարդը
-ՆՈՐՎԵԳԻԱ**\
+ՆՈՐԳ**\
 \
 ...Հազիվ ետ շրջվեց\
 Որ ժամացույցն ավելի արագ է ընթանում։\
