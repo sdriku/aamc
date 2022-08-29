@@ -27,6 +27,10 @@ Partager
 
 ![Frédérick Martin](https://www.radiofrance.fr/s3/cruiser-production/2016/04/71c1f107-990b-47c9-9efa-4d690bfb5c36/870x489_frederick_martin.jpg)
 
+https://www.youtube.com/watch?v=kFkzmI2QCto\
+\
+\
+\
 Frédérick Martin
 
 Musicien autodidacte, Frédérick Martin est né à Paris le 5 mars 1958. Il nous a quitté ce mardi 19 avril, à l’âge de 58 ans.
