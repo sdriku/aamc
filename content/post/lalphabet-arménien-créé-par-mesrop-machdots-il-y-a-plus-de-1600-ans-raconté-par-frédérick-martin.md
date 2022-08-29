@@ -2,8 +2,8 @@
 title: "l'Alphabet arménien créé par Mesrop MACHDOTS il y a plus de 1600 ans
   (405 après J.C) raconté par Frédérick Martin "
 description: Frédérick Martin - Alphabet arménien - Mesrob Machdots
-summary: "l'Alphabet arménien créé par Mesrop MACHDOTS il y a plus de 1600 ans
-  raconté par Frédérick Martin "
+summary: l'Alphabet arménien créé par Mesrop MACHDOTS il y a plus de 1600 ans
+  raconté par Frédérick Martin  (biographie source france musique)
 date: 2022-08-29T23:00:53.274Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/frédérick-martin.jpg
