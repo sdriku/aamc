@@ -11,6 +11,7 @@ thumbnailImage: assets/img/ecole-135-erevan.jpg
 image: assets/img/ecole-rentrée-2022.jpg
 ---
 Photo couverture : Ecole 135 à Erevan blog Kamo Tovmasyan\
+Seconde photo : Jean-Jacques Sempé \
 \
 Շապիկի լուսանկար՝ Երևանի 135 դպրոց բլոգ Կամո Թովմասյան\
 \
@@ -22,29 +23,17 @@ Photo couverture : Ecole 135 à Erevan blog Kamo Tovmasyan\
 \
 Բոլորիդ՝ ծնողներին և երեխաներին, մաղթում եմ նոր ուսումնական տարվա հրաշալի սկիզբ։
 
-
-
 Bonne Rentrée à tous les enfants, élèves d'Evreux et d'Arménie
-
-
 
 Depuis ce matin, la rentrée scolaire est effective. Quel plaisir pour tous les élèves de se retrouver après des vacances méritées.
 
-
-
 Bientôt, dans quelques jours ce sera le tour de notre école AAMC de langue et Culture arméniennes, pour effectuer sa rentrée scolaire.
 
-
-
 Je vous souhaite à tous, parents et enfants une merveilleuse rentrée.
-
-
 
 \-----------------------------------------------
 
 Parole d'ancien élève ....
-
-
 
 Cher instituteur,
 
@@ -57,10 +46,6 @@ Vous m'avez appris à aimer les dictées, autant que les leçons de choses, et n
 Հարգելի ուսուցիչ,\
 Դու ինձ սովորեցրիր ժամանակ հյուսել իմ մանկական մատների վրա, որոնցից դեռ թանաքի հոտ էր գալիս գրիչներից, իսկ կավիճը՝ շիֆերներից։\
 Դու ինձ սովորեցրիր սիրել թելադրությունները այնքան, որքան առարկայական դասերը, և մենք բառերը պոկեցինք նույն սիրով, նույն հետաքրքրությամբ, որը մղում էր մեզ կտրելու ծաղիկների սրտերը։
-
-
-
-
 
 Au nom de AAMC AAMC ի անունից\
 Serge Tateossian Սերժ Թաթեոսյան
