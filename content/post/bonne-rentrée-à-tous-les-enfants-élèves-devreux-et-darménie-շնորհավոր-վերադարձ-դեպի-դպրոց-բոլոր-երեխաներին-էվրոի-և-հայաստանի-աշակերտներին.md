@@ -1,7 +1,6 @@
 ---
-title: Bonne Rentrée à tous les enfants, élèves d'Evreux et d'Arménie -
-  Շնորհավոր Վերադարձ դեպի Դպրոց բոլոր երեխաներին, Էվրոի և Հայաստանի
-  աշակերտներին.
+title: Bonne Rentrée à tous élèves d'Evreux et d'Arménie - Շնորհավոր Վերադարձ
+  դեպի Դպրոց բոլոր երեխաներին, Էվրոի և Հայաստանի աշակերտներին.
 description: "Rentrée scolaire Evreux - Ecole AAMC à Evreux - Evreux Arménie "
 summary: Bonne Rentrée à tous les enfants, élèves d'Evreux et d'Arménie -
   Շնորհավոր Վերադարձ դեպի Դպրոց բոլոր երեխաներին, Էվրոի և Հայաստանի
