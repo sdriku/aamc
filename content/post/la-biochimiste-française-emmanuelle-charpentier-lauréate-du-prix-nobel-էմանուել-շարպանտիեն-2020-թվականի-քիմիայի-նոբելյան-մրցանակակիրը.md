@@ -1,11 +1,11 @@
 ---
-title: " La biochimiste française Emmanuelle Charpentier, lauréate du prix Nobel
-  - Էմանուել Շարպանտիեն, 2020 թվականի քիմիայի Նոբելյան մրցանակակիրը,"
+title: " Հայ եմ - La biochimiste française Emmanuelle Charpentier, lauréate du
+  prix Nobel - Էմանուել Շարպանտիեն, 2020 թվականի քիմիայի Նոբելյան մրցանակակիրը,"
 description: Emmanuelle Charpentier Je suis d’origine arménienne. Էմանուել
   Շարպանտիե Ես ծագումով հայ եմ
 summary: La biochimiste française Emmanuelle Charpentier, lauréate du prix Nobel
   de chimie 2020 a révélé son identité arménienne…à Erévan en Arménie
-date: 2022-09-06T21:28:38.476Z
+date: 2022-09-06T21:38:01.475Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/emmanuelle-charpentier-prix-nobel-chimie.jpg
 image: assets/img/emmanuelle-charpentier-3.jpg
