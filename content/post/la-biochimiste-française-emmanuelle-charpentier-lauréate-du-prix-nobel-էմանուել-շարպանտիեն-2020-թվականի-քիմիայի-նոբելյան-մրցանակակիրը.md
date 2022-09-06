@@ -12,12 +12,9 @@ image: assets/img/emmanuelle-charpentier-3.jpg
 ---
 Photo : STARMUS EREVAN et Radio Publique d'Arménie\
 \
-La biochimiste française Emmanuelle Charpentier, lauréate du prix Nobel de chimie 2020 a révélé son identité arménienne…à Erévan en Arménie
-
-\
+La biochimiste française Emmanuelle Charpentier, lauréate du prix Nobel de chimie 2020 a révélé son identité arménienne…à Erévan en Arménie\
 \
 Je suis d’origine arménienne, mon grand-père a survécu au génocide de 1915 en s’installant en France, son nom de famille était Sinanyan, cette découverte surprenante a été faite par la biochimiste, lauréate du prix Nobel de chimie 2020, Emmanuelle Charpentier, dans une interview exclusive avec la Radio Publique d’Arménie. Emmanuelle Charpentier était l’une des invitées d’honneur de Starmus qui se tient à Erévan en Arménie.\
-\
 \
 L’intégralité de l’interview sera diffusée sur Public Radio demain, elle sera également disponible sur le site armradio.am.
 
