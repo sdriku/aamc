@@ -14,10 +14,6 @@ image: assets/img/jean-christophe-buisson-radio-j.png
 
 # Haut-Karabakh, Arménie : silence on tue
 
-![](https://www.armenews.com/IMG/arton95584.png)
-
-\
-\
 \
 [YouTube video player](https://www.youtube.com/embed/hvZsCBMksVE)
 
