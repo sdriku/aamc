@@ -1,5 +1,6 @@
 ---
-title: La solitude de l’Arménie face à la menace turque
+title: "La solitude de l’Arménie face à la menace turque - Serge Tateossian
+  19/09/2022 - Source : Revue des deux mondes "
 description: La solitude de l’Arménie face à la menace turque
 summary: La solitude de l’Arménie face à la menace turque
 date: 2022-09-19T20:11:56.560Z
