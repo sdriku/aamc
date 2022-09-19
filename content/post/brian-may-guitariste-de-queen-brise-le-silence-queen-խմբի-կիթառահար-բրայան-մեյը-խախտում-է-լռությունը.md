@@ -12,10 +12,11 @@ image: assets/img/brian-may-erevan.jpg
 ---
 # Brian May, guitariste de Queen, brise le silence Queen խմբի կիթառահար Բրայան Մեյը խախտում է լռությունը
 
-
-
 ![](https://www.armenews.com/local/cache-gd2/74/6618b4535bab4880a200e4e03a22e5.jpg)
 
+https://www.armenews.com/spip.php?page=article&id_article=96312\
+\
+\
 « Je romps ici mon silence parce qu’une autre tragédie semble se dérouler, et il y a un danger, comme toujours ces jours-ci, que les médias ne la rapportent pas fidèlement », a-t-il déclaré sur Instagram. « L’Arménie est un tout petit pays, dépourvu de tout pétrole ou gaz ou de toute richesse substantielle, une île de christianisme et de démocratie entourée de tous côtés par des dictatures despotiques.\
 \
 C’est l’un des pays les plus pacifiques au monde, avec une profonde tristesse intégrée en raison de son histoire tragique - pendant la première guerre mondiale, 1,2 million d’Arméniens ont été assassinés par l’Empire ottoman, dans une opération brutale de nettoyage ethnique toujours niée par la Turquie. Aujourd’hui, l’Arménie est à nouveau menacée, par une conspiration visant à l’effacer de la surface de la Terre. Il y a deux jours à peine, des villages paisibles situés à la frontière arménienne ont été bombardés par l’Azerbaïdjan dans le cadre d’une offensive visant à terroriser et à déstabiliser le peuple arménien », a-t-il déclaré, ajoutant que l’Arménie est pratiquement sans défense et a besoin du soutien total de l’Occident pour survivre.
@@ -24,10 +25,6 @@ Brian May a partagé la récente déclaration d’un System of a Down sur l’ag
 
 *par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le lundi 19 septembre 2022\
 © armenews.com 2022*
-
-
-
-
 
 * Queen խմբի կիթառահար Բրայան Մեյը խախտում է լռությունը\
   \
