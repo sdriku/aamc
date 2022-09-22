@@ -7,8 +7,8 @@ summary: "Arménie-Azerbaïdjan: «la survie de l'Arménie est en jeu» -
   Հայաստան-Ադրբեջան. «Հայաստանի գոյատևումը վտանգված է»."
 date: 2022-09-22T15:47:44.375Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/ambassadrice-de-france.jpg
-image: assets/img/ambassadrice-de-france.jpg
+thumbnailImage: assets/img/hasmik-tolmajian-2.jpg
+image: assets/img/hasmik-tolmajian.jpg
 ---
 <!--StartFragment-->
 
