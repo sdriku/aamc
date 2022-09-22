@@ -8,7 +8,7 @@ summary: "Arménie-Azerbaïdjan: «la survie de l'Arménie est en jeu» -
 date: 2022-09-22T15:47:44.375Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/ambassadrice-de-france.jpg
-image: assets/img/arménie-la-solitude.jpg
+image: assets/img/ambassadrice-de-france.jpg
 ---
 <!--StartFragment-->
 
