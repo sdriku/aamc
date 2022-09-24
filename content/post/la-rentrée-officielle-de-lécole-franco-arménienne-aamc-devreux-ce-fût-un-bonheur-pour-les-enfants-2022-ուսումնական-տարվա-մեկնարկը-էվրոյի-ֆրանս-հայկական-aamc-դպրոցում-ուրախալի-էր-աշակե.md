@@ -1,7 +1,7 @@
 ---
-title: La rentrée officielle de l'école Franco-Arménienne AAMC d'Evreux, ce fût
-  un bonheur pour les enfants. 2022 ուսումնական տարվա մեկնարկը Էվրոյի
-  ֆրանս-հայկական AAMC դպրոցում ուրախալի էր աշակերտների համար։
+title: La rentrée de l'école Franco-Arménienne AAMC d'Evreux, ce fût un bonheur
+  pour les élèves. 2022 ուսումնական տարվա մեկնարկը Էվրոյի ֆրանս-հայկական AAMC
+  դպրոցում ուրախալի էր աշակերտների համար։
 description: Ecole franco-arménienne AAMC -  La rentrée 2022 AAMC
 summary: La rentrée 2022 de l'école franco-arménienne AAMC d'Evreux
 date: 2022-09-24T19:58:19.700Z
