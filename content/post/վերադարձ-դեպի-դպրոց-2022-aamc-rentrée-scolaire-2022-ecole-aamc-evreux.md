@@ -11,7 +11,7 @@ image: assets/img/école-2022-3.jpeg
 \
 Ce 24 septembre 2022, l'école de langue et culture arméniennes de l'association franco-arménienne AAMC a effectuée sa rentrée à la Maison de Quartier de la Madeleine d'Evreux, pour sa dixième année.
 
-![](assets/img/école-2022-9.jpeg)
+![24 septembre école franco-arménienne AAMC Evreux ](assets/img/école-2022-7.jpeg "La joie dans leurs yeux ")
 
 \
 \
