@@ -7,7 +7,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/école-2022-8.jpeg
 image: assets/img/école-2022-3.jpeg
 ---
-![](assets/img/ecole-2022-2.jpeg)
+![]()
 
 \
 Rentrée scolaire 2022 Ecole AAMC Evreux -
