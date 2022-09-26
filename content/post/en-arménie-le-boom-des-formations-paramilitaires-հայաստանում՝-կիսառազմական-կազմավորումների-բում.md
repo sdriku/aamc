@@ -1,6 +1,7 @@
 ---
-title: En Arménie, le boom des formations paramilitaires - Հայաստանում՝
-  կիսառազմական կազմավորումների բում
+title: "En Arménie, le boom des formations paramilitaires - Հայաստանում՝
+  կիսառազմական կազմավորումների բում  Serge tateossian le 26/09/2022 source : LE
+  FIGARO"
 description: En Arménie, le boom des formations paramilitaires - Հայաստանում՝
   կիսառազմական կազմավորումների բում
 summary: "Plusieurs centaines de demandes d’inscription à ces formations
