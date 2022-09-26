@@ -1,10 +1,11 @@
 ---
-title: "Rencontre Nikol Pachinian-Emmanuel Macon à l’Elysée - հանդիպում
-  Ելիսեում  Նիկոլ Փաշինյան-Էմանուել Մաքոն "
+title: Rencontre Nikol Pachinian-Emmanuel Macon à l’Elysée - հանդիպում
+  Ելիսեում  Նիկոլ Փաշինյան-Էմանուել Մաքոն
 description: "Rencontre Nikol Pachinian-Emmanuel Macon à l’Elysée - հանդիպում
   Ելիսեում  Նիկոլ Փաշինյան-Էմանուել Մաքոն "
-summary: La France a exigé que les forces azéries reviennent à leurs positions
+summary: "La France a exigé que les forces azéries reviennent à leurs positions
   de départ - Ֆրանսիան ադրբեջանական զինուժից պահանջել է վերադառնալ ելման դիրքեր
+  "
 date: 2022-09-26T19:36:42.872Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/macron-nikol.jpg
