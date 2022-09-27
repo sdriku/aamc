@@ -27,4 +27,6 @@ Lire la suite dans : Sciences et avenir :\
 ***Avertissement*** de la rédaction www.evreux-armenie.com : le journaliste et auteur de article de Science et avenir reprend les « explications de l'archéologue turc ». Dans ces conditions il est inutile de rappeler que la Turquie empêche à ses scientifiques et historiens de mentionner l'histoire de l'Arménie et des arméniens en général qui ont vécu durant des millénaires en Anatolie, et Ani étant la capitale de l'Arménie.\
 L'archéologue coutumier des falsification de l'histoire trouve un nom d'un « notable » turc et pense que cette personne était native de la ville arménienne d'ANI ,,,la suite on devine, Ani devient turc ? On peut juste en rire. Triste humanité\
 \
-Serge Tateossian le 27/09/2022 Source : Science et Avenir
+Serge Tateossian le 27/09/2022 Source : Science et Avenir\
+\
+Sujets proches : Lire également : https://www.sciencesetavenir.fr/archeo-paleo/etude-d-un-site-paleochretien-en-armenie_21281
