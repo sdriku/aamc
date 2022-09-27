@@ -13,7 +13,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/ani-1.jpg
 image: assets/img/ani-2.jpg
 ---
-Découverte de la plus ancienne "baignoire d'accouchement" dans une cité médiévale abandonnée, la cité d'ANI. Le plus important royaume arménien de l'histoire, occupée par la Turquie depuis le génocide.\
+Découverte de la plus ancienne "baignoire d'accouchement" dans une cité médiévale abandonnée, la cité d'ANI, capitale du Royaume arménien, aujourd'hui occupée par la Turquie depuis le génocide.\
 \
 Trouvée parmi les vestiges de la cité médiévale d'Ani, située à l'est de la Turquie, une cuve en pierre atteste de la pratique d'accouchements dans l'eau dès le 12e siècle dans cette région du monde - l'Anatolie. Jusqu'ici, le premier témoignage avéré de naissance dans l'eau remontait au 19e siècle seulement, en France.\
 \
@@ -24,6 +24,6 @@ Lire la suite dans : Sciences et avenir :\
 <https://www.sciencesetavenir.fr/archeo-paleo/archeologie/decouverte-du-plus-ancien-bain-d-accouchement-dans-une-cite-medievale-abandonnee_166350>\
 \
 ***Avertissement*** de la rédaction www.evreux-armenie.com : le journaliste et auteur de article de Science et avenir reprend les « explications de l'archéologue turc ». Dans ces conditions il est inutile de rappeler que la Turquie empêche à ses scientifiques et historiens de mentionner l'histoire de l'Arménie et des arméniens en général qui ont vécu durant des millénaires en Anatolie, et Ani étant la capitale de l'Arménie.\
-L'archéologue coutumier des fansification de l'histoire trouve un nom d'un « notable » turc et pense que cette personne était native de la ville arménienne d'ANI ,,,la suite on devine, Ani devient turc ? On peut juste en rire. Triste humanité\
+L'archéologue coutumier des falsification de l'histoire trouve un nom d'un « notable » turc et pense que cette personne était native de la ville arménienne d'ANI ,,,la suite on devine, Ani devient turc ? On peut juste en rire. Triste humanité\
 \
 Serge Tateossian le 27/09/2022 Source : Science et Avenir
