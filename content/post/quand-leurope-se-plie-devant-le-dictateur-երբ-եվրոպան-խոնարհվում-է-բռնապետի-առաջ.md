@@ -8,8 +8,8 @@ summary: Lettre ouverte à Madame Ursula von der Leyen, présidente de la
   française
 date: 2022-09-28T11:18:53.711Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/vatché-démirdjian-image.jpg
-image: assets/img/vatché-démirdjian-image.jpg
+thumbnailImage: assets/img/vatché-demirdjian-image-2.jpg
+image: assets/img/vatché-demirdjian-image-2.jpg
 ---
 <!--StartFragment-->
 
