@@ -6,7 +6,7 @@ description: Quand l'Europe se plie devant le dictateur  - Երբ Եվրոպան
 summary: Lettre ouverte à Madame Ursula von der Leyen, présidente de la
   Commission européenne Monsieur Emmanuel Macron, président de la République
   française
-date: 2022-09-28T11:18:53.711Z
+date: 2022-09-28T11:28:05.019Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/vatché-demirdjian-image-2.jpg
 image: assets/img/vatché-demirdjian-image-2.jpg
