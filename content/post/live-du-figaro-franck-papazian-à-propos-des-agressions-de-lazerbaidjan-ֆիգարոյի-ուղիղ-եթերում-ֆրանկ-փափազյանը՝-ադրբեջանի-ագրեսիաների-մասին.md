@@ -13,8 +13,6 @@ image: assets/img/franck-papazian-2.jpg
 ---
 Live du Figaro : Franck Papazian à propos des agressions de l'Azerbaidjan - Ֆիգարոյի ուղիղ եթերում. Ֆրանկ Փափազյանը՝ Ադրբեջանի ագրեսիաների մասին\
 \
-\
-\
 <https://www.facebook.com/franck.papazian/videos/5626579374086186>\
 \
 \
