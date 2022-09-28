@@ -15,8 +15,6 @@ image: assets/img/vatché-démirdjian-image.jpg
 
 # Lettre ouverte à
 
-
-
 ![](https://www.armenews.com/IMG/arton96619.jpg)
 
 Madame Ursula von der Leyen, présidente de la Commission européenne\
@@ -83,4 +81,5 @@ et Vatché DEMIRDJIAN (illustration)
 
 par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le mercredi 28 septembre 2022
 
+**V﻿atché DEMIRDJIAN** est à l'origine de la maquette d'une œuvre en bronze d'une envergure de deux mètres environ (**œuvre initiale de la stèle commémorative du génocide arménien à Evreux**. Son œuvre et après une année d'étude de la part de la mairie d'Evreux avait été retenue en 2012. Hélas la bêtise de quelques personnes malveillantes de notre propre communauté avait fait échouer son implantation Parc Marcel Baudot à Evreux. BRAVO ET MERCI VATCHE DEMIRDJIAN. Un artiste d'un grand talent.\
 <!--EndFragment-->
