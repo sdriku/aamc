@@ -5,8 +5,8 @@ description: L’appel d’Elise Boghossian pour l’Arménie
 summary: L’appel d’Elise Boghossian pour l’Arménie
 date: 2022-09-19T20:42:11.637Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/elise.webp
-image: assets/img/elise-boghossian.webp
+thumbnailImage: ""
+image: ""
 ---
 <!--StartFragment-->
 

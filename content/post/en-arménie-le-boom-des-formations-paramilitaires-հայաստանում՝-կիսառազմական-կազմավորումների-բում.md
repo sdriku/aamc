@@ -8,8 +8,8 @@ summary: "Plusieurs centaines de demandes d’inscription à ces formations
   paramilitaires "
 date: 2022-09-26T20:12:46.055Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/arménienne-auto-défense.webp
-image: assets/img/arménienne-auto-défense.webp
+thumbnailImage: ""
+image: ""
 ---
 # **Une jeune femme s’entraîne au Voma, un centre de formation paramilitaire, à Erevan. *Astrid Agopian*  En Arménie, le boom des formations paramilitaires**
 
