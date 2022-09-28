@@ -1,5 +1,5 @@
 ---
-title: Quand l'Europe se plie devant le dictateur -  Երբ Եվրոպան խոնարհվում է
+title: Quand l'Europe se plie devant le dictateur  -  Երբ Եվրոպան խոնարհվում է
   բռնապետի առաջ.
 description: Quand l'Europe se plie devant le dictateur -  Երբ Եվրոպան
   խոնարհվում է բռնապետի առաջ.
