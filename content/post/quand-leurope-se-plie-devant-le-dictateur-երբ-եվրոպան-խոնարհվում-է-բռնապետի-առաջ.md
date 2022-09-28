@@ -15,9 +15,7 @@ image: assets/img/vatché-démirdjian-image.jpg
 
 # Lettre ouverte à
 
-
-
-![](https://www.armenews.com/IMG/arton96619.jpg)
+![]()
 
 Madame Ursula von der Leyen, présidente de la Commission européenne\
 Monsieur Emmanuel Macron, président de la République française
