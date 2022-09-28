@@ -17,6 +17,10 @@ image: assets/img/vatché-démirdjian-image.jpg
 
 ![]()
 
+
+
+
+
 Madame Ursula von der Leyen, présidente de la Commission européenne\
 Monsieur Emmanuel Macron, président de la République française
 
