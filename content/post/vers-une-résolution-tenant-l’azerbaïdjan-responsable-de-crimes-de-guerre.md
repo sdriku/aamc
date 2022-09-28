@@ -1,12 +1,11 @@
 ---
 title: Vers une résolution tenant l’Azerbaïdjan responsable de crimes de guerre ?
 description: Vers une résolution tenant l’Azerbaïdjan responsable de crimes de guerre ?
-summary: "RÉSOLUTION :  Condamnant les atrocités et les crimes de guerre commis
-  par la République d’Azerbaïdjan."
+summary: "RÉSOLUTION :  Condamnant les atrocités et les crimes de guerre commis par la République d’Azerbaïdjan."
 date: 2022-09-28T13:21:13.490Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/résolution-crime-de-guerre-azeris.jpg
-image: assets/img/résolution-crime-de-guerre-azeris.jpg
+thumbnailImage: assets/img/resolution-crime-de-guerre-azeris.jpg
+image: assets/img/resolution-crime-de-guerre-azeris.jpg
 ---
 <!--StartFragment-->
 
