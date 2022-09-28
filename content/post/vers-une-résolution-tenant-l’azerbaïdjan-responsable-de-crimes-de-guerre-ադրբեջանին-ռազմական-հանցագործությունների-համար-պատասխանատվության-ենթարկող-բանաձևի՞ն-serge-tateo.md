@@ -1,6 +1,6 @@
 ---
 title: "Vers une résolution tenant l’Azerbaïdjan responsable de crimes de guerre
-  ?  - Ադրբեջանին ռազմական հանցագործությունների համար պատասխանատվության ենթարկող
+  ? - Ադրբեջանին ռազմական հանցագործությունների համար պատասխանատվության ենթարկող
   բանաձևի՞ն:  Serge Tateossian 28/09/2022"
 description: "Vers une résolution tenant l’Azerbaïdjan responsable de crimes de
   guerre ? - Ադրբեջանին ռազմական հանցագործությունների համար պատասխանատվության
