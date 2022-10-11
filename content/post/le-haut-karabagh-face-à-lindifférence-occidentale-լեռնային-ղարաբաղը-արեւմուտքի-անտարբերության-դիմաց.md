@@ -1,6 +1,7 @@
 ---
-title: Le Haut-Karabagh face à l'indifférence occidentale - Լեռնային Ղարաբաղը`
-  արեւմուտքի անտարբերության դիմաց
+title: "Le Haut-Karabagh face à l'indifférence occidentale  (Arte) - Լեռնային
+  Ղարաբաղը` արեւմուտքի անտարբերության դիմաց Serge Tateossian 11/10/2022 Source
+  Arte "
 description: Le Haut-Karabagh face à l'indifférence occidentale
 summary: L'écrivain-baroudeur Sylvain Tesson dénonce l’indifférence occidentale
   face au conflit qui sévit dans le Haut-Karabagh. Il a organisé le Festival
