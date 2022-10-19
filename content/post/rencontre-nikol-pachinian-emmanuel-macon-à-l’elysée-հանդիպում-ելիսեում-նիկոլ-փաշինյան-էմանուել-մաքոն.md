@@ -1,6 +1,5 @@
 ---
-title: Rencontre Nikol Pachinian-Emmanuel Macon à l’Elysée - հանդիպում
-  Ելիսեում  Նիկոլ Փաշինյան-Էմանուել Մաքոն
+title: "Rencontre Pachinian-Macron à l'Elysée "
 description: "Rencontre Nikol Pachinian-Emmanuel Macon à l’Elysée - հանդիպում
   Ելիսեում  Նիկոլ Փաշինյան-Էմանուել Մաքոն "
 summary: "La France a exigé que les forces azéries reviennent à leurs positions
