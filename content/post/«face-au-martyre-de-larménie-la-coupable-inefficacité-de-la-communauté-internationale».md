@@ -7,7 +7,7 @@ summary: «Face au martyre de l'Arménie, la coupable inefficacité de la
   communauté internationale»
 date: 2022-10-21T15:46:14.280Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/arm.webp
+thumbnailImage: assets/img/haut-karabagh.jpg
 image: ""
 ---
 S﻿erge Tateossian 21/10/2022 source Figaro <!--StartFragment-->
