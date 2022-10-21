@@ -1,7 +1,7 @@
 ---
 title: La Métropole vote à l’unanimité une motion de soutien à l’Arménie et au
   peuple arménien - Մետրոպոլիսը միաձայն կողմ է քվեարկում Հայաստանին և հայ
-  ժողովրդին սատարելու առաջարկին
+  ժողովրդին սատարելու առաջարկին  21/10/2022 Ara Toranian Armenews
 description: La Métropole vote à l’unanimité une motion de soutien à l’Arménie
   et au peuple arménien
 summary: La Métropole vote à l’unanimité une motion de soutien à l’Arménie et au
