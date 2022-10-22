@@ -9,7 +9,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/tebrotsassère.png
 image: assets/img/dikran-khan-kélékian.png
 ---
-<!--StartFragment-->
+<!--StartFragment--> Dikran Khan Kélékian 
 
 * [Facebook Ecole](https://www.facebook.com/ecoletebrotzassere "Facebook Ecole Tebrotzassère")
 * [Facebook Parents d’élèves](https://www.facebook.com/groups/180788825807318 "Facebook Parents d’élèves TBZ")
@@ -57,9 +57,9 @@ L’Association est fondée sur l’initiative de quelques anciennes élèves du
 | --- | ------------------------------------------------------------------------------------------------------------ |
 |     | ![](https://tebrotzassere.com/wp/wp-content/uploads/2021/06/Takouie-Balthazarian.jpg)*Takouhie BALTHAZARIAN* |
 
-|                                                                                         |     |
-| --------------------------------------------------------------------------------------- | --- |
-|  *Serpouhi Dussap, née Vahanian, (1840-1901), femme de lettres arménienne et féministe* |     |
+|                                                                                        |     |
+| -------------------------------------------------------------------------------------- | --- |
+| *Serpouhi Dussap, née Vahanian, (1840-1901), femme de lettres arménienne et féministe* |     |
 
 #### L’ A.D.A.A.E.T. et Victor Hugo (1882)
 
@@ -125,8 +125,6 @@ Trois bâtiments y sont loués, locaux où vraisemblablement le reste des orphel
 Mais dès le 22 août 1924, les Dames sont priées d’évacuer les lieux, leur location étant parvenue à terme. Le mauvais climat, les conditions défavorables et les difficultés font que les Dames ont besoin d’une solution.\
 Le diplomate et membre important de l’Union Générale Arménienne de Bienfaisance (UGAB) M. Gabriel Noradounghian (qui réside à Paris), l’Archevêque Vramchabouh Kibarian d’Artchouguentz (1855-1944) et M. Nichan Kalebdjian (protégé français, ancien drogman du Consulat Général de France à Constantinople et attaché à la Sous-Direction d’Asie-Océanie du Ministère des Affaires Étrangères français dans les années 1910) intercèdent en faveur de l’A.D.A.A.E.T. auprès du Ministère des Affaires Étrangères, permettant à l’Association d’obtenir le droit d’émigrer en France.\
 Ainsi, le 19 septembre 1924, un visa collectif est donné par la France pour 95 enfants et 2 institutrices.
-
- 
 
 ![](https://tebrotzassere.com/wp/wp-content/uploads/2021/06/visa-collectif-france.jpg)
 
@@ -229,8 +227,6 @@ elle est enterrée dans la « Sépulture des Intellectuels Arméniens » à Bagn
 ![](https://tebrotzassere.com/wp/wp-content/uploads/2021/06/se%CC%81pulture-Intellectuels-armeniens.jpg)
 
 *Sépulture des Intellectuels Arméniens, cimetière de Bagneux*
-
- 
 
 #### Une école qui se développe progressivement (1965 à aujourd’hui)
 
