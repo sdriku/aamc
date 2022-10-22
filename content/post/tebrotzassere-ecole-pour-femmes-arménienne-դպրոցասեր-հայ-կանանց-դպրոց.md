@@ -1,6 +1,7 @@
 ---
-title: "  TEBROTZASSERE : Ecole pour femmes arménienne - ԴՊՐՈՑԱՍԵՐ.- Հայ կանանց դպրոց"
-description: "  TEBROTZASSERE : Ecole pour femmes arménienne "
+title: "  TEBROTZASSERE : Ecole pour femmes arméniennes - ԴՊՐՈՑԱՍԵՐ.- Հայ կանանց
+  դպրոց"
+description: "  TEBROTZASSERE : Ecole pour femmes arméniennes "
 summary: "TEBROTZASSERE : L'engagement des femmes arméniennes depuis 142 ans.
   L'école de l'émancipation féminine  "
 date: 2022-10-21T23:45:43.062Z
