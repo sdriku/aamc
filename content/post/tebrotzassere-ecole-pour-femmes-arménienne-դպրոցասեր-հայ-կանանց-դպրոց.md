@@ -7,8 +7,33 @@ summary: "TEBROTZASSERE : L'engagement des femmes arméniennes depuis 142 ans.
 date: 2022-10-21T23:45:43.062Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/tebrotsassère.png
-image: assets/img/dikran-khan-kélékian.png
+image: assets/img/aguline-boyadjian.jpg
 ---
+<!--StartFragment-->
+
+*Mme Aguliné Boyadjian, 1881-1958, veuve du*\
+*fédaï Hampartsoum Boyadjian (Photographie extraite du livre « Ամէնում տարեգիրքը 1959 » de Garo Kévorkian)*
+
+<!--EndFragment-->\
+\
+\
+\
+<!--StartFragment-->
+
+![](https://tebrotzassere.com/wp/wp-content/uploads/2021/06/Lettre-Khan-Kelekian-1929-1.png)
+
+*Lettre de Khan Kélékian du 26 septembre 1929*
+
+![](https://tebrotzassere.com/wp/wp-content/uploads/2021/06/Buste-Kelekian.png)
+
+*Buste de M. Dikran Khan Kélékian, toujours présent dans le bureau de la Direction de l’école.*
+
+
+
+<!--EndFragment-->\
+\
+\
+\
 <!--StartFragment--> Dikran Khan Kélékian 
 
 * [Facebook Ecole](https://www.facebook.com/ecoletebrotzassere "Facebook Ecole Tebrotzassère")
