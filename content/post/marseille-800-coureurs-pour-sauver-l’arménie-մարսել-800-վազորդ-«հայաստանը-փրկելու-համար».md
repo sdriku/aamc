@@ -14,7 +14,7 @@ summary: "Marseille : 800 coureurs \"pour sauver l’Arménie\"  \"Sauvons
   պատգամավորի ներկայությունը։"
 date: 2022-10-23T16:37:42.406Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/la-provence-3.webp
+thumbnailImage: assets/img/la-provence-5.jpg
 ---
 <!--StartFragment-->
 
@@ -29,7 +29,7 @@ thumbnailImage: assets/img/la-provence-3.webp
 
 Par Ph.G.
 
-![Thibault Vézirian, journaliste et influenceur, était le parrain de la course et a lui aussi pris le départ.](https://images.laprovence.com/media/2022/10/23/1666508667_thumbnail_img_3996.jpg?twic=v1/focus=640x487.5/cover=850x478)
+![Thibault Vézirian, journaliste et influenceur, était le parrain de la course et a lui aussi pris le départ.](assets/img/la-provence-5.jpg)
 
 Thibault Vézirian, journaliste et influenceur, était le parrain de la course et a lui aussi pris le départ.PHOTO PH.G.
 
@@ -45,11 +45,10 @@ Le départ de la 6e édition des "5 et 10 km de la mémoire" a éte donné ce ma
 
 Le vainqueur du 5 kilomètres est Remy Duvelle, 26 ans en 17min15, Prune Brevet, 21 ans, est la première fille à avoir passé la ligne en 22min20. Florent Oblin, 30 ans, s'est adjugé l'épreuve reine du 10 kilomètres en 36min36.
 
- 
-
-<!--EndFragment-->[](<>)[](<>)
+<!--EndFragment-->\[](<>)\[](<>)
 
 ## \
+
 \
 \
 Résultats de traduction
@@ -65,5 +64,6 @@ Newsletter News Ստացեք բոլոր նորությունները ձեր տա
 Թիբո Վեզիրյանը, լրագրող և ազդեցիկ, վազքի հովանավորն էր և նույնպես մեկնարկեց: 5 կիլոմետրի հաղթող է դարձել Ռեմի Դյուվելը, 26 տարեկան 17 րոպեում 15 րոպեում, Պրուն Բրևեթը, 21 տարեկան, առաջին աղջիկն է, ով հատել է սահմանագիծը 22 րոպեում 20 րոպեում։ 30-ամյա Ֆլորենտ Օբլինը հաղթեց 10 կիլոմետր թագուհու մրցավազքում 36 րոպե 36-ում:
 
 <!--EndFragment-->\
+
 \
 S﻿erge Tateossian 23/10/2022 Evreux - Source La Provence
