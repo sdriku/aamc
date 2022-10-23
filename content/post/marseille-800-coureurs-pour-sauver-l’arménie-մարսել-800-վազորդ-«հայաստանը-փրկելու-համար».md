@@ -15,6 +15,7 @@ summary: "Marseille : 800 coureurs \"pour sauver l’Arménie\"  \"Sauvons
 date: 2022-10-23T16:37:42.406Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/la-provence-5.jpg
+image: assets/img/la-provence-5.jpg
 ---
 <!--StartFragment-->
 
