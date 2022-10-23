@@ -33,7 +33,7 @@ Courrier international
 Dans cet article:
 
 *
-* ![Recep Tayyip Erdoğan](https://s.yimg.com/ny/api/res/1.2/z8I5opD0o9qzcdi.jP7z2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA7Y2Y9d2VicA--/https://s.yimg.com/zb/imgv1/2c6bb92c-b41d-3f77-ad67-cd86c6abbfe6/s_500x500)
+* ![Recep Tayyip Erdoğan](assets/img/turquie.webp)
 
   Recep Tayyip Erdoğan
 
@@ -52,6 +52,7 @@ La partie la plus importante de ces déclarations n’est même pas la menace d�
 Lire la suite
 
 <!--EndFragment-->\
+
 \
 \
 \
