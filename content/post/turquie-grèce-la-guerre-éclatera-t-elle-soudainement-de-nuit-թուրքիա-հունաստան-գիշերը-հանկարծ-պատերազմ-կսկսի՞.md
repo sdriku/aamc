@@ -26,18 +26,12 @@ Cengiz Candar
 
 dim. 23 octobre 2022 à 2:35 PM
 
-![](https://s.yimg.com/ny/api/res/1.2/vhayWHsfEAzk.UxJTUA_7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTgyNDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/.phiJTA7bYCd5M2d.3LHOA--~B/aD0xMDk4O3c9MTI4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/fr/courrier_international_7/bff7e02518b47319a559b24ea9511b29)
 
-Courrier international
 
 Dans cet article:
 
 *
-* ![Recep Tayyip Erdoğan](assets/img/turquie.webp)
-
-  Recep Tayyip Erdoğan
-
-  Homme d’État turc
+*   Homme d’État turc
 
 En mai dernier, Recep Tayyip Erdogan parlait d’*“intervenir pendant la nuit, soudainement”,* en Syrie \[une phrase régulièrement prononcée dans le passé en prélude aux interventions militaires turques contre les forces arabo-kurdes des FDS en Syrie]*.* Le ministre de la Défense Hulusi Akar s’est rendu à la frontière avec les hauts gradés, des manœuvres importantes ont été effectuées, on comptait les heures avant le déclenchement d’une intervention militaire d’ampleur dans la région de Tel Rifat-Manbij. L’Iran a manifesté sa stricte opposition à une telle opération, mais c’est l’action de la Russie qui a été décisive. Erdogan s’est d’abord entretenu avec Poutine au téléphone, puis ils se sont vus à Sotchi, et il n’a plus du tout été question d’“intervenir soudainement de nuit”.
 
