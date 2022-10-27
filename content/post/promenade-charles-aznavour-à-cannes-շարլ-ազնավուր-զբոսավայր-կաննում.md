@@ -36,7 +36,7 @@ Photos : Twitter de la Ville de Cannes et de David Lisnard
 
 par le jeudi 27 octobre 2022
 
-<!--EndFragment-->\
+<!--EndFragment-->
 
 <!--StartFragment-->
 
