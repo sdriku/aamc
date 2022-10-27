@@ -16,7 +16,8 @@ image: assets/img/défense-france-arménie-2.jpg
 
 Une première entre la France et l’Arménie : Suite aux entretiens entre le ministre français Sébastien LECORNU et le ministre arménien de la défense Suren Papikian qui s’est déroulé le 27 septembre 2022 à Hôtel de Brienne à Paris, une délégation du ministère de la défense française vient de se rendre en Arménie.
 
-<!--EndFragment-->\
+<!--EndFragment-->
+
 \
 Suren Papikyan et les membres de la délégation française ont évoqué les possibilités de développer la coopération dans le secteur de la défenseLe 27 octobre, le ministre de la Défense de la RA, Suren Papikyan, a reçu la délégation conduite par Guillaume Olangier, chef du service des opérations multilatérales Europe-Amérique de la direction générale des relations internationales et de la stratégie du ministère français des Armées.
 
