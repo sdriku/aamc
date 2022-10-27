@@ -1,5 +1,5 @@
 ---
-title: Promenade CHARLES AZNAVOUR à CANNES  - ՇԱՐԼ ԱԶՆԱՎՈՒՐ զբոսավայր ԿԱՆՆՈՒՄ
+title: "Promenade CHARLES AZNAVOUR à CANNES  - ՇԱՐԼ ԱԶՆԱՎՈՒՐ զբոսավայր ԿԱՆՆՈՒՄ "
 description: Promenade CHARLES AZNAVOUR à CANNES - ՇԱՐԼ ԱԶՆԱՎՈՒՐ զբոսավայր ԿԱՆՆՈՒՄ
 summary: Promenade CHARLES AZNAVOUR à CANNES - ՇԱՐԼ ԱԶՆԱՎՈՒՐ զբոսավայր ԿԱՆՆՈՒՄ
 date: 2022-10-27T19:31:48.164Z
@@ -7,6 +7,10 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/aznavour2.jpg
 image: assets/img/aznavour.jpg
 ---
+Vidéo de l'inauguration https://www.youtube.com/watch?v=qERxHud0MOU\
+\
+\
+\
  Promenade CHARLES AZNAVOUR à CANNES  - ՇԱՐԼ ԱԶՆԱՎՈՒՐ զբոսավայր ԿԱՆՆՈՒՄ\
 \
                         <!--StartFragment-->
