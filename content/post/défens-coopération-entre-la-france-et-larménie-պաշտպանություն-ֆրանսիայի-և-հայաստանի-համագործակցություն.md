@@ -5,7 +5,7 @@ description: "Défens : Coopération entre la France et l'Arménie "
 summary: "Une première entre la France et l'Arménie : Suite aux entretiens entre
   le ministre français Sébastien LECORNU et le ministre arménien de la défense
   Suren Papikian qui s'est déroulé le 27 septembre 2022 à l'Hôtel de Brienne à
-  Paris, une délégation du ministère de la défense française vient de se rendre
+  Paris, une délégation française du ministère de la défense vient de se rendre
   en Arménie. "
 date: 2022-10-27T18:39:34.407Z
 thumbnailImagePosition: left
