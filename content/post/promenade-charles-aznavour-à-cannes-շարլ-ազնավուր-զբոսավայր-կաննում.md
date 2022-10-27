@@ -13,8 +13,6 @@ image: assets/img/aznavour.jpg
 
 # Cannes rend hommage à Charles Aznavour
 
-
-
 ![](https://www.armenews.com/local/cache-gd2/86/62e927df0fa363ab027a94e6cb8c73.jpg)
 
 Capitale du cinéma où les starlettes font leur festival à l’ombre des vedettes shootés par les « paparazzi », Cannes a célébré ce mercredi 26 octobre la mémoire de la star Charles Aznavour qui fut fait Citoyen d’honneur de la ville en 2005.\
@@ -35,5 +33,6 @@ Photos : Twitter de la Ville de Cannes et de David Lisnard
 par le jeudi 27 octobre 2022
 
 <!--EndFragment-->\
+
 \
-S                                            Source armenews  Serge Tateossian 27/10/2022
+                                            Source armenews  Serge Tateossian 27/10/2022
