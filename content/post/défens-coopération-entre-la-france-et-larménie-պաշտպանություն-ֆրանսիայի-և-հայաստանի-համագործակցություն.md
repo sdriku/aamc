@@ -4,7 +4,7 @@ title: "Défens : Coopération entre la France et l'Arménie - Պաշտպանո�
 description: "Défens : Coopération entre la France et l'Arménie "
 summary: "Une première entre la France et l'Arménie : Suite aux entretiens entre
   le ministre français Sébastien LECORNU et le ministre arménien de la défense
-  Suren Papikian qui s'est déroulé le 27 septembre 2022 à Hôtel de Brienne à
+  Suren Papikian qui s'est déroulé le 27 septembre 2022 à l'Hôtel de Brienne à
   Paris, une délégation du ministère de la défense française vient de se rendre
   en Arménie. "
 date: 2022-10-27T18:39:34.407Z
@@ -12,21 +12,24 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/défense-france-arménie.jpg
 image: assets/img/défense-france-arménie-2.jpg
 ---
+<!--StartFragment-->
+
+Une première entre la France et l’Arménie : Suite aux entretiens entre le ministre français Sébastien LECORNU et le ministre arménien de la défense Suren Papikian qui s’est déroulé le 27 septembre 2022 à Hôtel de Brienne à Paris, une délégation du ministère de la défense française vient de se rendre en Arménie.
+
+<!--EndFragment-->\
+\
 Suren Papikyan et les membres de la délégation française ont évoqué les possibilités de développer la coopération dans le secteur de la défenseLe 27 octobre, le ministre de la Défense de la RA, Suren Papikyan, a reçu la délégation conduite par Guillaume Olangier, chef du service des opérations multilatérales Europe-Amérique de la direction générale des relations internationales et de la stratégie du ministère français des Armées.
- 
 
- 
 L'ambassadrice extraordinaire et plénipotentiaire de France en Arménie, Anne Luyo, a également participé à la réunion.
- 
-Au cours de la réunion, la mise en œuvre des accords conclus lors de la visite de travail du ministre de la Défense de la République d'Arménie en France et les opportunités pour le développement de la coopération arméno-française dans le domaine de la défense ont été discutées.
- 
 
- 
+Au cours de la réunion, la mise en œuvre des accords conclus lors de la visite de travail du ministre de la Défense de la République d'Arménie en France et les opportunités pour le développement de la coopération arméno-française dans le domaine de la défense ont été discutées.
+
 Auparavant, la délégation a eu des entretiens de travail avec le 1er vice-ministre de la Défense de l'état-major général des forces armées de la RA, le général de division Edward Asryan et le chef du département de la politique de défense et de la coopération internationale du ministère de la Défense, Levon Ayvazyan.﻿\
 \
 ﻿----------------------------------------------------------Serge Tateossian 27/10/2022 source 1lurer.am\
 \
 \
+
 <!--StartFragment-->
 
 ![Սուրեն Պապիկյանը և Ֆրանսիայի պատվիրակության անդամները քննարկել են պաշտպանական ոլորտում համագործակցության զարգացման հնարավորությունները](https://www.1lurer.am/images/news/31/150315/311572502_136892005788224_8615224935768616707_n/l-0x86wh-2048x1194z-0.3838.jpeg)
@@ -39,27 +42,15 @@ Auparavant, la délégation a eu des entretiens de travail avec le 1er vice-mini
 
 Հոկտեմբերի 27-ին ՀՀ պաշտպանության նախարար Սուրեն Պապիկյանն ընդունել է Ֆրանսիայի ԶՈՒ նախարարության միջազգային հարաբերությունների և ռազմավարության գլխավոր վարչության Եվրոպա-Ամերիկա Բազմակողմ գործողությունների ծառայության պետ Գիյոմ Օլանժիեի գլխավորած պատվիրակությանը:
 
- 
-
 ![](https://www.1lurer.am/attachments/images/311517739_136892055788219_2851360102836931755_n.jpg)
-
- 
 
 Հանդիպմանը մասնակցել է նաև ՀՀ-ում Ֆրանսիայի արտակարգ և լիազոր դեսպան Անն Լույոն:
 
- 
-
 Հանդիպման ընթացքում քննարկվել են ՀՀ պաշտպանության նախարարի՝ Ֆրանսիա կատարած աշխատանքային այցի ընթացքում ձեռք բերված պայմանավորվածությունների կատարման ընթացքը և պաշտպանական ոլորտում հայ-ֆրանսիական համագործակցության զարգացման հնարավորությունները։
-
- 
 
 ![](https://www.1lurer.am/attachments/images/311567159_136892039121554_3482405811921064077_n.jpg)
 
- 
-
 Նախորդիվ պատվիրակությունը աշխատանքային քննարկումներ է իրականացրել ՀՀ ԶՈՒ գլխավոր շտաբի պետ-պաշտպանության նախարարի 1-ին տեղակալ, գեներալ-մայոր Էդվարդ Ասրյանի և ՊՆ պաշտպանական քաղաքականության և միջազգային համագործակցության վարչության պետ Լևոն Այվազյանի հետ:
-
- 
 
 ![](https://www.1lurer.am/attachments/images/311566854_136891995788225_2691643304951374616_n.jpg)
 
