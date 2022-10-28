@@ -7,7 +7,7 @@ description: Abnousse Shalmani exprime les réalités concernant l'Arménie et l
 summary: Abnousse Shalmani exprime les réalités concernant l'Arménie et la
   compare avec l'Ukraine. - Աբնուս Շալմանին արտահայտում է Հայաստանին վերաբերող
   իրողությունները և այն համեմատում Ուկրաինայի հետ։
-date: 2022-10-28T12:46:20.849Z
+date: 2022-10-28T13:20:23.213Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/abnousse-sharmani.jpg
 image: assets/img/abnousse-sharmani.jpg
