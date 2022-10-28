@@ -12,13 +12,13 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/abnousse-sharmani.jpg
 image: assets/img/abnousse-sharmani.jpg
 ---
-
-
 <!--StartFragment-->
 
 **Abnousse Shalmani**, née à [Téhéran](https://fr.wikipedia.org/wiki/T%C3%A9h%C3%A9ran "Téhéran") le [1er](https://fr.wikipedia.org/wiki/1er_avril "1er avril") [avril](https://fr.wikipedia.org/wiki/Avril_1977 "Avril 1977") [1977](https://fr.wikipedia.org/wiki/1977 "1977"), est une [journaliste](https://fr.wikipedia.org/wiki/Journalisme "Journalisme"), [réalisatrice](https://fr.wikipedia.org/wiki/R%C3%A9alisateur "Réalisateur") et [écrivain](https://fr.wikipedia.org/wiki/%C3%89crivain "Écrivain")[1](https://fr.wikipedia.org/wiki/Abnousse_Shalmani#cite_note-1) [française](https://fr.wikipedia.org/wiki/France "France").
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+https://youtu.be/9shGJMNInkk vidéo
 
 \
 Աբնուս Շալմանի «Ուկրաինայից հետո Հայաստան. « (տեսանյութ)
