@@ -10,7 +10,7 @@ summary: "A l'occasion des journées \"Octobre Rose\" de lutte contre le cancer
 date: 2022-10-28T23:53:53.617Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/cancer-du-sein.jpg
-image: assets/img/cancer-du-sein-liban.jpg
+image: assets/img/cancer-du-sein.jpg
 ---
 \
 Conférence sur le Cancer du sein au Liban\
