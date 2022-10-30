@@ -1,24 +1,16 @@
 ---
-title: Plus de 35 000 artsakhiotes marchent pour la paix et la sécurité de leur
-  république, de leur terre millénaire à Stépanakert, capitale d'Artsakh
-  (Haut-Karabagh). L'Artsakh appelle le monde civilisé à son secours. NON nous
-  n'avons pas le droit d'abandonner nos frères, nos semblables, à la barbarie.
-  -  Ավելի քան 35,000 արցախցի երթ է անում հանուն իր հանրապետության խաղաղության և
-  անվտանգության՝ իրենց հազարամյա հողից մինչև Արցախի (Լեռնային Ղարաբաղի)
-  մայրաքաղաք Ստեփանակերտ։ Արցախն օգնության կոչ է անում քաղաքակիրթ աշխարհին. ՈՉ,
-  մենք իրավունք չունենք բարբարոսության թողնելու մեր եղբայրներին, մեր
-  մերձավորներին։
-description: Plus de 35 000 artsakhiotes marchent pour la paix et la sécurité de
-  leur république
-summary: Plus de 35 000 artsakhiotes marchent pour la paix et la sécurité de
-  leur république, de leur terre millénaire à Stépanakert, capitale d'Artsakh
-  (Haut-Karabagh). L'Artsakh appelle le monde civilisé à son secours. NON nous
-  n'avons pas le droit d'abandonner nos frères, nos semblables, à la barbarie.
-  -  Ավելի քան 35,000 արցախցի երթ է անում հանուն իր հանրապետության խաղաղության և
-  անվտանգության՝ իրենց հազարամյա հողից մինչև Արցախի (Լեռնային Ղարաբաղի)
-  մայրաքաղաք Ստեփանակերտ։ Արցախն օգնության կոչ է անում քաղաքակիրթ աշխարհին. ՈՉ,
-  մենք իրավունք չունենք բարբարոսության թողնելու մեր եղբայրներին, մեր
-  մերձավորներին։
+title: Plus de 35 000 artsakhiotes marchent à STEPANAKERT pour la paix et la
+  sécurité de leurs  frontières, déjà agressées et en grande partie
+  spoliée.  -  Ավելի քան 35000 արցախցիներ երթով շարժվում են դեպի ՍՏԵՓԱՆԱԿԵՐՏ՝
+  հանուն իրենց սահմանների խաղաղության և անվտանգության՝ արդեն իսկ հարձակման
+  ենթարկված և մեծ մասամբ ավերված։
+description: Plus de 35 000 artsakhiotes marchent à STEPANAKERT pour la paix et
+  la sécurité de leurs  frontières
+summary: Plus de 35 000 artsakhiotes marchent à STEPANAKERT pour la paix et la
+  sécurité de leurs  frontières, déjà agressées et en grande partie
+  spoliée.  -  Ավելի քան 35000 արցախցիներ երթով շարժվում են դեպի ՍՏԵՓԱՆԱԿԵՐՏ՝
+  հանուն իրենց սահմանների խաղաղության և անվտանգության՝ արդեն իսկ հարձակման
+  ենթարկված և մեծ մասամբ ավերված։
 date: 2022-10-30T22:43:32.529Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/stepanakert.jpg
