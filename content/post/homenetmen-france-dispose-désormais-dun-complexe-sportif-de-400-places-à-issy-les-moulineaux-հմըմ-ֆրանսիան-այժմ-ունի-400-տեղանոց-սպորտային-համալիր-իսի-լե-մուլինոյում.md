@@ -16,8 +16,8 @@ summary: Le Comité de Direction et le "Comité des Sages" de l'ASC Homenetmen
   dans le complexe sportif Alain Mimoun
 date: 2022-10-30T19:59:44.875Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/homenetmen-issy-2.jpg
-image: assets/img/homenetmen-issy.jpg
+thumbnailImage: assets/img/homenetmen-issy.jpg
+image: assets/img/homenetmen-issy-2.jpg
 ---
 \
 \
