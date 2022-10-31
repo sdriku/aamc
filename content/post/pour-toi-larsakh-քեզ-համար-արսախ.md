@@ -15,13 +15,13 @@ Peuple d'Artsakh, fier et hospitalier, dont les chants louent son hospitalité, 
 Le peuple pacifique de l'Artsakh, aime la vie, aime ses montagnes, sa culture séculaire et sa langue.
 
 Des siècles entiers, il a résisté à toutes les tempêtes, toutes les tyrannies et n'abdiquera jamais. Ils lui font la guerre, ils lui demandent de se soumettre à la barbarie. Ils lui offrent l'impensable : ne plus être lui-même.
-Si le monde qu'il l'entoure devient tyrannie, alors, il ne servira à rien d'abandonner sa vie au tyran. Il la détruira. Si le contrat social et civique devient trop inégal, tôt ou tard, il sera rompu. Ainsi en décideront un jour les spoliés et les humiliés du peuple d'Artsakh, et la veuve et l'orphelin. 
+Si le monde qu'il l'entoure devient tyrannie, alors, il ne servira à rien d'abandonner sa vie au tyran. Il la détruira. Si le contrat social et civique devient trop inégal, tôt ou tard, il sera rompu. Ainsi en décideront un jour les spoliés et les humiliés du peuple d'Artsakh, la veuve et l'orphelin. 
 VIGILANCE Le monstre est là. Aliyev est là.
 
 La faillite des politiques, qu'ils soient arméniens ou du monde, vient de leur imprévoyance. Lorsque le monstre est aux portes, il est déjà trop tard. Hitler voulait, de toute façon, la guerre, il ne restait plus qu'à le combattre. Si l'on veut prévenir la guerre, nous devons organiser la paix.
 
 Il n'existe pas de guerre juste, il y a des paix injustes. Attention, le monstre est là aux portes.
-Monde, réveille-toi, ils assassinent la veuve et l'orphelin, l'artsakhiote 
+Monde, réveille-toi, ils assassinent la veuve et l'orphelin, l'artsakhiote. 
 
 Serge Tateossian 31.10.2022   Pour toi Artsakh
 
