@@ -1,13 +1,13 @@
 ---
-title: POUR TOI l'ARSAKH  - ՔԵԶ ՀԱՄԱՐ ԱՐՍԱԽ
-description: POUR TOI l'ARSAKH  - ՔԵԶ ՀԱՄԱՐ ԱՐՍԱԽ
-summary: POUR TOI l'ARSAKH  - ՔԵԶ ՀԱՄԱՐ ԱՐՍԱԽ
+title: POUR TOI  ARTSAKH  - ՔԵԶ ՀԱՄԱՐ ԱՐՑԱԽ
+description: POUR TOI  ARTSAKH  - ՔԵԶ ՀԱՄԱՐ ԱՐՑԱԽ
+summary: POUR TOI  ARTSAKH  - ՔԵԶ ՀԱՄԱՐ ԱՐՑԱԽ
 date: 2022-10-30T23:57:22.773Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/l-artsakh-et-le-monstre.jpg
 image: assets/img/artsakh-6.jpg
 ---
-POUR TOI l'ARSAKH  - ՔԵԶ ՀԱՄԱՐ ԱՐՍԱԽ\
+POUR TOI  ARTSAKH  - ՔԵԶ ՀԱՄԱՐ ԱՐՑԱԽ\
 \
 L'ARTSAKH ET LE MONSTRE
 La guerre est un non-sens et une abomination. . Le plus grand fléau et l'échec de l'éthique et de l'intelligence.
@@ -39,4 +39,4 @@ Serge Tateossian 31.10.2022   Pour toi Artsakh
 Չկան արդար պատերազմներ, կան անարդար խաղաղություններ. Զգույշ եղեք, հրեշը դարպասների մոտ է:
 Աշխարհ, արթնացիր, սպանում են այրուն ու որբին, արցախցուն
 
-Սերժ Թադեոսյան 31.10.2022 Քեզ համար Արցախ
+Սերժ Թադեոսյան 31.10.2022 Քեզ համար Արցախ    -  POUR TOI  ARTSAKH  - ՔԵԶ ՀԱՄԱՐ ԱՐՑԱԽ
