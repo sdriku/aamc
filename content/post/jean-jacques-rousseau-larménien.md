@@ -1,5 +1,5 @@
 ---
-title: "Jean-Jacques Rousseau l'Arménien "
+title: Jean-Jacques Rousseau l'Arménien - Ժան-Ժակ Ռուսո հայ
 description: Jean-Jacques Rousseau l'Arménien
 summary: "Encore éclairé par la gloire que lui avait procuré le prix de
   l'académie de Dijon en 1753pour son discours sur les sciences et les arts,
