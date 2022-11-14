@@ -1,6 +1,7 @@
 ---
 title: "Grand rassemblement rue de Tournon, devant le Sénat le 15/11 à 17:30 -
-  Խոշոր հանրահավաք Rue de Tournon, Սենատի դիմաց 15/11-ին, ժամը 17:30-ին:"
+  Խոշոր հանրահավաք Rue de Tournon, Սենատի դիմաց 15/11-ին, ժամը 17:30-ին: Serge
+  Tateossian (Source : ARMENEWS) "
 description: Grand rassemblement rue de Tournon, devant le Sénat le 15/11 à 17:30
 summary: "le Sénat doit se prononcer le mardi 15 novembre sur une nouvelle
   résolution visant à protéger les Arméniens soumis à une menace existentielle
