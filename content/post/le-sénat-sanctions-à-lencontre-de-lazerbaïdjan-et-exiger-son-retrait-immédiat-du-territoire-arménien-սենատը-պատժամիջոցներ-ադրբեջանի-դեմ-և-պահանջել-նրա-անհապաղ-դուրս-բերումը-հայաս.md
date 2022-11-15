@@ -16,7 +16,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/sénat-à-l-unanimité.jpg
 image: assets/img/sénat-à-l-unanimité.jpg
 ---
-\
+http://www.senat.fr/espace_presse/actualites/202211/etablir_une_paix_durable_entre_larmenie_et_lazerbaidjan.html#c674961
+
 <!--StartFragment-->
 
 ### ![](http://www.senat.fr/uploads/RTEmagicC_PPR_azerbaidjan_200-133_GettyImages-1212514528-1.jpg.jpg)Mardi 15 novembre 2022, le Sénat a adopté la proposition de résolution en application de l'article 34-1 de la Constitution, visant à appliquer des sanctions à l'encontre de l'Azerbaïdjan et exiger son retrait immédiat du territoire arménien, à faire respecter l'accord de cessez-le-feu du 9 novembre 2020, et favoriser toute initiative visant à établir une paix durable entre les deux pays, présentée par Bruno RETAILLEAU et plusieurs de ses collègues.
@@ -24,12 +25,12 @@ image: assets/img/sénat-à-l-unanimité.jpg
 ###  
 
 <!--EndFragment-->\
+
 \
+
 <!--StartFragment-->
 
 ##  Comprendre les enjeux
-
- 
 
 La proposition de résolution :
 
@@ -56,7 +57,9 @@ La proposition de résolution :
 \- **invite le Gouvernement à tout mettre en œuvre pour que l’Azerbaïdjan s’engage dans un processus de négociation par la voie diplomatique**, afin d’aboutir à l’établissement d’une paix durable dans le Caucase Sud.
 
 <!--EndFragment-->\
+
 \
+
 <!--StartFragment-->
 
 # Scrutin n° 52 - séance du 15 novembre 2022
@@ -71,16 +74,12 @@ La proposition de résolution :
 | ------------------- |
 | Résultat du scrutin |
 
-
-
 |                      |     |
 | -------------------- | --- |
 | Nombre de votants :  | 332 |
 | Suffrages exprimés : | 296 |
 | Pour :               | 295 |
 | Contre :             | 1   |
-
-
 
 **Le Sénat a adopté**
 
