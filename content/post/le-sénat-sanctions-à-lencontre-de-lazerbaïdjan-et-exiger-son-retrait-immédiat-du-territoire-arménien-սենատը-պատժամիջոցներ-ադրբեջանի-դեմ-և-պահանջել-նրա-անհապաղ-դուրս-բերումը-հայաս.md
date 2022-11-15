@@ -1,7 +1,8 @@
 ---
 title: "Le Sénat : Sanctions à l'encontre de l'Azerbaïdjan et exige son retrait
   immédiat du territoire arménien - Սենատ. Պատժամիջոցներ Ադրբեջանի դեմ և
-  պահանջում են նրա անհապաղ դուրս բերումը Հայաստանի տարածքից"
+  պահանջում են նրա անհապաղ դուրս բերումը Հայաստանի տարածքից  S.T.  Source : Le
+  Sénat "
 description: sanctions à l'encontre de l'Azerbaïdjan et exiger son retrait
   immédiat du territoire arménien,
 summary: "Mardi 15 novembre 2022, le Sénat a adopté la proposition de résolution
