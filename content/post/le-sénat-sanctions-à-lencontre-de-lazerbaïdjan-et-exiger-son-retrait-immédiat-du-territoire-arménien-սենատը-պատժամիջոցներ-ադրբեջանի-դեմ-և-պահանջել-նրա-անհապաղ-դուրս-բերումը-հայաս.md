@@ -24,9 +24,9 @@ http://www.senat.fr/espace_presse/actualites/202211/etablir_une_paix_durable_ent
 
 ###  
 
-<!--EndFragment-->\
+<!--EndFragment--
 
-\
+
 
 <!--StartFragment-->
 
@@ -56,9 +56,9 @@ La proposition de résolution :
 
 \- **invite le Gouvernement à tout mettre en œuvre pour que l’Azerbaïdjan s’engage dans un processus de négociation par la voie diplomatique**, afin d’aboutir à l’établissement d’une paix durable dans le Caucase Sud.
 
-<!--EndFragment-->\
+<!--EndFragment-->
 
-\
+
 
 <!--StartFragment-->
 
