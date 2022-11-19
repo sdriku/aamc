@@ -55,6 +55,9 @@ par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=
 © armenews.com 2022
 
 <!--EndFragment-->\
+\
+Lhttps://armenpress.am/arm/news/1097717.htm\
+\
 S﻿erge Tateossian 19/11/2022 Source Armenews et <!--StartFragment-->
 
 ![image](https://www.francophoniedjerba2022.tn/sites/default/files/inline-images/franco.png)
