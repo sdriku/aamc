@@ -169,20 +169,15 @@ par [Ara Toranian](https://www.armenews.com/spip.php?page=auteur&id_auteur=4) 
 
 * [Articles populaires](https://www.armenews.com/spip.php?page=article&id_article=98237#tf_tabs_3)
 * [Plus...](https://www.armenews.com/spip.php?page=article&id_article=98237#tf_tabs_4)
-* [![](https://www.armenews.com/IMG/arton16261.jpg)UKRAINE\
-  Un Arménien, Vahé Martirosyan (37 ans) meurt dans une bagarre géante à Zaporojie (Ukraine)](https://www.armenews.com/spip.php?page=article&id_article=16261)
-
-  • 7 août 2019
-* [![](https://www.armenews.com/IMG/arton4618.jpg)CAMPAGNE ELECTORALE\
-  Plutôt que les rassemblements, le HHK va utiliser les médias](https://www.armenews.com/spip.php?page=article&id_article=4618)
+* [](https://www.armenews.com/spip.php?page=article&id_article=16261)
+* [](https://www.armenews.com/spip.php?page=article&id_article=4618)
 
   • 22 novembre 2018
 * [![](https://www.armenews.com/IMG/arton97762.jpg)ARMENIE-OTAN\
   Javier Colomina : l’OTAN soutient la normalisation des relations entre l’Arménie et l’Azerbaïdjan](https://www.armenews.com/spip.php?page=article&id_article=97762)
 
   • 4 novembre 2022
-* [![](https://www.armenews.com/local/cache-gd2/4f/7e23306102163b257e95b988b7cc2b.jpg)CAMPAGNE ELECTORALE SUR ARMENEWS\
-  Mercredi 9 juin 8h](https://www.armenews.com/spip.php?page=article&id_article=79668)
+* [](https://www.armenews.com/spip.php?page=article&id_article=79668)
 
   • 9 juin 2021
 * [![](https://www.armenews.com/IMG/arton95287.jpg)Génocide cultuel\
@@ -193,10 +188,7 @@ par [Ara Toranian](https://www.armenews.com/spip.php?page=auteur&id_auteur=4) 
   Le ministre arménien de la Défense a participé à la conférence des ministres de la défense de la « Région de l’océan Indien et partenaires ».](https://www.armenews.com/spip.php?page=article&id_article=97260)
 
   • 19 octobre 2022
-* [![](https://www.armenews.com/IMG/arton13232.jpg)ARMENIE\
-  Reprise de l’audience de Kotcharian et d’autres ex-fonctionnaires](https://www.armenews.com/spip.php?page=article&id_article=13232)
-
-  • 17 mai 2019
+* [](https://www.armenews.com/spip.php?page=article&id_article=13232)
 * [![](https://www.armenews.com/IMG/arton78934.png)CEDH\
   La Grande Chambre saisie de deux affaires interétatiques introduites par l’Arménie et l’Azerbaïdjan](https://www.armenews.com/spip.php?page=article&id_article=78934)
 
@@ -205,12 +197,7 @@ par [Ara Toranian](https://www.armenews.com/spip.php?page=auteur&id_auteur=4) 
   Nikol Pashinyan et Vladimir Poutine ont eu une conversation téléphonique](https://www.armenews.com/spip.php?page=article&id_article=13926)
 
   • 2 juin 2019
-* [![](https://www.armenews.com/IMG/arton67037.jpg)ARMENIE\
-  Le magnat des affaires Mikhail Baghdasarov est mort à 61 ans](https://www.armenews.com/spip.php?page=article&id_article=67037)
-
-  • 22 août 2020
-
- 
+* [](https://www.armenews.com/spip.php?page=article&id_article=67037)
 
 [Facebook](https://www.facebook.com/armenews "Suivez nous sur facebook !")[Twitter](https://twitter.com/armenews_nam "Suivez nous sur twitter !")[Abonnements](http://armenews.com/Megazine/AccesMag.php "NAM en ligne")[Contact](http://armenews.com/Contact.php "Contacter le Webmaster")
 
