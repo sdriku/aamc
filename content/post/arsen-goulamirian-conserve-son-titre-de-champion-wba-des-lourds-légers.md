@@ -1,6 +1,10 @@
 ---
-title: Arsen Goulamirian conserve son titre de champion WBA des lourds-légers
-description: Arsen Goulamirian conserve son titre de champion WBA des lourds-légers
+title: Arsen Goulamirian conserve son titre de champion WBA des lourds-légers -
+  Ֆրանսահայ չեմպիոն Արսեն Գուլամիրյանը պահպանել է թեթև քաշային կարգում WBA
+  վարկածով չեմպիոնի կոչումը.
+description: Arsen Goulamirian conserve son titre de champion WBA des
+  lourds-légers - Ֆրանսահայ չեմպիոն Արսեն Գուլամիրյանը պահպանել է թեթև քաշային
+  կարգում WBA վարկածով չեմպիոնի կոչումը.
 summary: Arsen Goulamirian, le champion franco-arménien conserve son titre de
   champion WBA des lourds-légers  Pour son premier combat depuis trois ans,
   Arsen Goulamirian a dominé aux points le Russe Aleksei Egorov, samedi, à
