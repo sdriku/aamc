@@ -54,6 +54,7 @@ Le champion accélérait dans la huitième reprise, cherchant à en finir, mais 
 *« Après ces trois ans d'inactivité, Arsen a encore besoin de faire une défense,* remarque son promoteur Yohan Zaoui. *Ensuite, il lui faut des gros combats contre les autres champions. Il faudrait qu'il boxe tous les trois-quatre mois. »*
 
 <!--EndFragment-->\
+
 \
 S﻿erge Tateossian 20/11/2022 Source : L'équipe \
 \
@@ -72,4 +73,6 @@ S﻿erge Tateossian 20/11/2022 Source : L'équipe \
 Չեմպիոնը արագացրեց ութերորդ ռաունդում` ձգտելով ավարտին հասցնել, սակայն ռուսն իր հակագրոհներով մնաց վտանգավոր, և Գուլամիրյանը կտրվեց աջ կամարից: Ֆրանսիացին իններորդ ռաունդում դանդաղեցրեց տեմպերը, սակայն նրա մրցակիցն այլեւս ուժ չուներ դրանից օգտվելու։ Տասնմեկերորդում, թվում էր, թե ափերքութները պետք է տապալեն մրցակցին, սակայն վերջինս մտադիր չէր հրաժարվել գահից և միայն խոնարհվեց մինչև միավորներ։
 
 «Այս երեք տարվա անգործությունից հետո Արսենը դեռ պետք է պաշտպանություն անի»,- նշում է նրա պրոմոութեր Յոհան Զաուին։ Հետո նրան մեծ մենամարտեր են պետք մյուս չեմպիոնների դեմ։ Նա պետք է բոքս բռներ երեք-չորս ամիսը մեկ։ »\
-S﻿erge Tateossian 20/11/2022
+S﻿erge Tateossian 20/11/2022\
+\
+L﻿ire aussi : https://www.armenews.com/spip.php?page=article&id_article=98237
