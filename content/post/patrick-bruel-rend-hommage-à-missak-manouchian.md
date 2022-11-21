@@ -15,6 +15,7 @@ image: assets/img/patrick-bruel-missak-manouchian.png
 ## Extrait de son nouvel album, Patrick Bruel nous invite à un hommage, à Missak Manouchian. - ՓԱՏՐԻԿ ԲՐՅՈՒԵԼ ՀԱՐԳԱՆՔ ՄԻՍԱԿ ՄԱՆՈՒՉՅԱՆԻՆ. Քաղվածք իր նոր ալբոմից, Պատրիկ Բրյուելը հրավիրում է մեզ հարգանքի տուրք մատուցելու Միսաք Մանուչյանին:
 
 ## <!--EndFragment-->\
+
 \
 Patrick BRUEL rend hommage à Missak Manouchian
 
@@ -42,8 +43,12 @@ par [Jean Eckian](https://www.armenews.com/spip.php?page=auteur&id_auteur=34) 
 * [![twitter](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABwUlEQVR42lWSO09VURCFv7X3PgcuiAkBE0wMBB+Fpb+AxsLfY2Krdrb+GH+CtSRa2Fn5QB5B5HEv9+w9y+IAwclUkzVrvsyMprMqoazLaksJ56TM/xEAxjZFouvytMXX0MHglaxnC/RJtvF1QyJAIeQCwj5ufJq2CXwb2Mh5s7gIxOh8K1TG4qV9UF1gBhUUMYxyI6lkkomEgmIManAWdKKa3VnsFcW1tfBWp82MwLiAanWY0+ZOEv543uIaYOwq8Ppet5oAFWykCn9Nj21fYUuywZJ+V/8IVgFcgFI0DD5uXgASBB5XAUCzHy7qaS+qgTIMre9Sw38iFqWLwa/W+53FNPUVUMX3S/K8NdNalBF1Zo6CJfm8cSexkljNaZwRqA7tZq/JYNPDUfNe42f489ydcAQ2NuG+z4bAhjKSPu7VSb+aEW8O5vu12yoaIKDA86W8bQgwOjmZpaTlSXl5WN/vX5J18zxXd7ZWMl8eLa3VGkFq4TAhvVsrL+52VGNINykyp9W784igtUijz8XFUMSHB/3bjYX1Tskkk83I/mSSdyajUjo8miahrCQtL3d1aOek7+F26/e2sxYT07N5BP8A8lwEjSU+7RkAAAAASUVORK5CYII=)](http://twitter.com/intent/tweet?text=Sa%20chanson%20en%20hommage%20%C3%A0%20Manouchian%20-%20Nouvelles%20d%27Arm%C3%A9nie%20en%20Ligne&url=https%3A%2F%2Fwww.armenews.com%2Fspip.php%3Fpage%3Darticle%26id_article%3D98270 "Twitter")
 
 <!--EndFragment-->\
+
 \
-<!--StartFragment-->
+
+##### <!--StartFragment-->\
+\
+L﻿ire aussi :
 
 [![](https://www.armenews.com/IMG/arton86971.jpg)JONATHAN LACÔTE\
 Missak Manouchian au Panthéon](https://www.armenews.com/spip.php?page=article&id_article=86971)
@@ -76,10 +81,6 @@ Cannes rend hommage à Charles Aznavour](https://www.armenews.com/spip.php?page=
 
 [![](https://www.armenews.com/IMG/arton97421.jpg)VALENCE\
 Concert pour la paix en Arménie, ce vendredi à Valence avec les jeunes musiciens du conservatoire Tchaïkovsky d’Erévan et le conservatoire Valence Romans Agglo](https://www.armenews.com/spip.php?page=article&id_article=97421)
-
- 
-
- 
 
 * [Articles populaires](https://www.armenews.com/spip.php?page=article&id_article=98270#tf_tabs_3)
 * [Plus...](https://www.armenews.com/spip.php?page=article&id_article=98270#tf_tabs_4)
@@ -114,10 +115,6 @@ Concert pour la paix en Arménie, ce vendredi à Valence avec les jeunes musicie
 
   • 20 janvier 2019
 
- 
-
 [Facebook](https://www.facebook.com/armenews "Suivez nous sur facebook !")[Twitter](https://twitter.com/armenews_nam "Suivez nous sur twitter !")[Abonnements](http://armenews.com/Megazine/AccesMag.php "NAM en ligne")[Contact](http://armenews.com/Contact.php "Contacter le Webmaster")
-
-
 
 <!--EndFragment-->
