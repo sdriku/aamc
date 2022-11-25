@@ -1,7 +1,7 @@
 ---
 title: "La guerre de l’Azerbaïdjan contre l’Arménie compte autant que la
   Russie-Ukraine - Հայաստանի դեմ Ադրբեջանի պատերազմը նույնքան կարևոր է, որքան
-  Ռուսաստան-Ուկրաինա : Selon le journal indien THE INDIAN THE PRINT"
+  Ռուսաստան-Ուկրաինա : Selon le journal indien  THE PRINT"
 description: La guerre de l’Azerbaïdjan contre l’Arménie compte autant que la
   Russie-Ukraine - Հայաստանի դեմ Ադրբեջանի պատերազմը նույնքան կարևոր է, որքան
   Ռուսաստան-Ուկրաինա
@@ -44,7 +44,9 @@ Dans le même temps, l’Arménie se tourne de plus en plus vers l’Inde pour s
 En conclusion, l’auteur déclare : La décision de l’Occident de sacrifier l’Arménie sur l’autel de l’agression azérie est, en dehors de tout le reste, d’une stupidité phénoménale pour deux raisons : premièrement, l’Azerbaïdjan n’a pas les ressources naturelles pour répondre même à une petite fraction des besoins de l’Europe ; deuxièmement, un quart des gisements de gaz censés alimenter les futurs approvisionnements de l’Azerbaïdjan en Europe est, en fait, détenu par la Russie. « Le choix de l’Inde de se tenir aux côtés de l’Arménie a au moins le mérite d’être intelligent », résume l’auteur.
 
 par Jean Eckian le vendredi 25 novembre 2022
-© armenews.com 2022
+© armenews.com 2022\
+\
+L﻿ire aussi : https://theprint.in/opinion/azerbaijans-war-in-armenia-worse-than-russia-ukraine-its-in-indias-interest-to-do-more/1229099/
 
 facebookprint\
 \
@@ -77,6 +79,8 @@ facebookprint\
 Եզրափակելով հեղինակը նշում է. Հայաստանին ադրբեջանական ագրեսիայի զոհասեղանին զոհաբերելու Արևմուտքի որոշումը, ամենից առաջ, ֆենոմենալ հիմարություն է երկու պատճառով. ; երկրորդ՝ գազի հանքավայրերի քառորդ մասը, որոնք պետք է սնուցեն Ադրբեջանի ապագա մատակարարումները Եվրոպա, ըստ էության, պատկանում են Ռուսաստանին։ «Հայաստանի կողքին կանգնելու Հնդկաստանի ընտրությունը առնվազն խելացի լինելու արժանիք ունի»,- ամփոփում է հեղինակը։
 
 Ժան Էքիանի կողմից ուրբաթ, նոյեմբերի 25, 2022թ
-© weaponnews.com 2022 թ
+© weaponnews.com 2022 թ\
+\
+L﻿ire aussi : https://theprint.in/world/hosting-putin-armenian-leader-complains-of-lack-of-help-from-russian-led-alliance/1232228/
 
 Սերժ Թադեոսյան 26/11/2022 Աղբյուր Armenews - The Indian Print
