@@ -1,6 +1,7 @@
 ---
-title: La relation de l’Arménie avec les Juifs et Israël peut-elle changer ? -
-  Կարո՞ղ են փոխվել Հայաստանի հարաբերությունները հրեաների և Իսրայելի հետ։
+title: "La relation de l’Arménie avec les Juifs et Israël peut-elle changer ? -
+  Կարո՞ղ են փոխվել Հայաստանի հարաբերությունները հրեաների և Իսրայելի հետ։  Serge
+  Tateossian 05/12/2022 Source : THE TIMES OF ISRAËL "
 description: La relation de l’Arménie avec les Juifs et Israël peut-elle changer
   ? - Կարո՞ղ են փոխվել Հայաստանի հարաբերությունները հրեաների և Իսրայելի հետ։
 summary: Après la chute de l’Union soviétique, quelque 15 000 familles juives
