@@ -1,9 +1,9 @@
 ---
-title: "Joyeux Noël 2022 et Bonnes fêtes de fin d'années à tous les normands,
+title: "Joyeux Noël 2022 et Bonnes fêtes de fin d'année à tous les normands,
   arméniens, et au monde entier. Շնորհավոր 2022 թվականի Սուրբ Ծնունդ և շնորհավոր
   բոլոր նորմանդացիներին, հայերին և ողջ աշխարհին:"
 description: Joyeux Noël 2022
-summary: "Joyeux Noël 2022 et Bonnes fêtes de fin d'années à tous les normands,
+summary: "Joyeux Noël 2022 et Bonnes fêtes de fin d'année à tous les normands,
   arméniens, et au monde entier. Paix et sérénité à toutes les régions du monde,
   fraternité entre les peuples. Vive l'humanité dans sa sagesse. "
 date: 2022-12-24T01:45:31.223Z
