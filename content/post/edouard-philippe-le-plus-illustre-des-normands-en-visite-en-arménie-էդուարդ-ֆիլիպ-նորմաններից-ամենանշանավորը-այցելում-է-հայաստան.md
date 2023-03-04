@@ -1,6 +1,7 @@
 ---
 title: "Edouard Philippe : Le plus illustre des normands est en visite
-  en  Arménie - Էդուարդ Ֆիլիպ. Նորմաններից ամենանշանավորը, այցելում է Հայաստան"
+  en  Arménie - Էդուարդ Ֆիլիպ. Նորմաններից ամենանշանավորը, այցելում է
+  Հայաստան  Serge Tateossian 04/03/2023 Source Armenews"
 description: "Edouard Philippe : Le plus illustre des normands est en visite
   en  Arménie - Էդուարդ Ֆիլիպ. Նորմաններից ամենանշանավորը, այցելում է Հայաստան"
 summary: Edouard Philippe l'ancien premier ministre français visite l'Arménie -
