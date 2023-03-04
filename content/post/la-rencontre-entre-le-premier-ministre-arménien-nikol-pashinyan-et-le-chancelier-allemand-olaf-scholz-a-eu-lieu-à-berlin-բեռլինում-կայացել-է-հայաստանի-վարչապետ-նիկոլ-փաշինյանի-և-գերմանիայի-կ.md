@@ -2,6 +2,7 @@
 title: La rencontre entre le Premier ministre arménien Nikol Pashinyan et le
   Chancelier allemand Olaf Scholz a eu lieu à Berlin - Բեռլինում կայացել է
   Հայաստանի վարչապետ Նիկոլ Փաշինյանի և Գերմանիայի կանցլեր Օլաֆ Շոլցի հանդիպումը
+  -  Serge Tateossian - Source Armenpress
 description: le Premier ministre de la RA Nikol Pashinyan et le chancelier
   allemand Olaf Scholz - ՀՀ վարչապետ Նիկոլ Փաշինյանը և Գերմանիայի կանցլեր Օլաֆ
   Շոլցը
