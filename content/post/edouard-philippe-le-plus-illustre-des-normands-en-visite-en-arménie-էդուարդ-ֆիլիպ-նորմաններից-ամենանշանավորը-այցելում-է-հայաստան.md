@@ -44,4 +44,16 @@ L﻿ire aussi : <!--StartFragment-->
 
 [https://www.armenews.com/spip.​php?page=article&id_article=​101429](https://www.armenews.com/spip.php?page=article&id_article=101429)
 
+\
+L﻿ire aussi : <!--StartFragment-->
+
+[https://www.armenews.com/spip.​php?page=article&id_article=​96643](https://www.armenews.com/spip.php?page=article&id_article=96643)
+
+<!--EndFragment--> <!--StartFragment-->
+
+Soutien d'Edouard Philippe à l'Arménie
+
+<!--EndFragment-->\
+\
+\
 <!--EndFragment-->
