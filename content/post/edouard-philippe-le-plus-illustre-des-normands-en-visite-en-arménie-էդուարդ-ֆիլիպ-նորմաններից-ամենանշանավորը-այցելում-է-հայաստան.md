@@ -1,8 +1,8 @@
 ---
-title: "Edouard Philippe : Le plus illustre des normands en visite en Arménie -
-  Էդուարդ Ֆիլիպ. Նորմաններից ամենանշանավորը, այցելում է Հայաստան"
-description: "Edouard Philippe : Le plus illustre des normands en visite en
-  Arménie - Էդուարդ Ֆիլիպ. Նորմաններից ամենանշանավորը, այցելում է Հայաստան"
+title: "Edouard Philippe : Le plus illustre des normands est en visite
+  en  Arménie - Էդուարդ Ֆիլիպ. Նորմաններից ամենանշանավորը, այցելում է Հայաստան"
+description: "Edouard Philippe : Le plus illustre des normands est en visite
+  en  Arménie - Էդուարդ Ֆիլիպ. Նորմաններից ամենանշանավորը, այցելում է Հայաստան"
 summary: Edouard Philippe l'ancien premier ministre français visite l'Arménie -
   Ֆրանսիայի նախկին վարչապետ Էդուարդ Ֆիլիպն այցելել է Հայաստան
 date: 2023-03-04T23:34:23.721Z
@@ -10,14 +10,13 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/edouard-philippe.jpg
 image: assets/img/edouard-philippe-2.jpg
 ---
+Edouard Philippe : Le plus illustre des normands est en visite en  Arménie - Էդուարդ Ֆիլիպ. Նորմաններից ամենանշանավորը, այցելում է Հայաստան\
 \
 \
-\
+
 <!--StartFragment-->
 
 # L’ancien Premier ministre français Edouard Philippe a visité le Mémorial du génocide arménien à Erévan
-
-
 
 ![](https://www.armenews.com/IMG/arton101463.jpg)
 
@@ -38,6 +37,7 @@ par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=
 © armenews.com 2023
 
 <!--EndFragment-->\
+
 \
 L﻿ire aussi : <!--StartFragment-->
 
