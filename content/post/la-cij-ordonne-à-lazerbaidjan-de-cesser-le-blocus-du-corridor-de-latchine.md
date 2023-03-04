@@ -10,13 +10,12 @@ image: assets/img/blocus.jpg
 La CIJ ordonne à l'Azerbaidjan de cesser le blocus du corridor de Latchine \
 \
 \
+
 <!--StartFragment-->
 
 "
 
 # Le jugement de CIJ demandant à l’Azerbaïdjan de cesser le blocus
-
-
 
 ![](https://www.armenews.com/IMG/arton101466.jpg)
 
@@ -42,7 +41,9 @@ Le juge a noté que le tribunal constate que depuis le 12 décembre 2022, la li
 
 La Cour a rappelé que lors de l’audience publique tenue le 30 janvier 2023, le représentant de l’Azerbaïdjan a confirmé que son gouvernement s’est engagé et reste engagé à prendre toutes les mesures en son pouvoir pour garantir la libre circulation des personnes, des véhicules et des marchandises à travers le Lachin Corridor, notamment en travaillant en permanence avec le CICR.
 
-Le tribunal prend note de cette déclaration. Cependant, cela n’élimine pas le risque imminent de dommages irréparables en raison de la perturbation des déplacements dans le corridor de Lachin. Au vu des circonstances ci-dessus, la Cour conclut que l’atteinte alléguée aux droits reconnus par la Cour comme exécutoires peut causer un préjudice irréparable aux droits et qu’il y a urgence. Autrement dit, il existe un risque réel ou imminent et immédiat qu’un préjudice irréparable se produise avant que la Cour ne rende une décision définitive sur l’affaire. Par conséquent, la Cour conclut que les conditions d’application des mesures provisoires sont réunies et fondées, il est donc nécessaire que la Cour applique certaines mesures provisoires avant la décision finale afin de protéger les droits mentionnés par la Cour demandés par l’Arménie. La Cour mentionne qu’elle a le droit, en vertu de la loi, d’appliquer de telles mesures qui sont complètement ou partiellement différentes des mesures demandées.
+Le tribunal prend note de cette déclaration. Cependant, cela n’élimine pas le risque imminent de dommages irréparables en raison de la perturbation des déplacements dans le corridor de Lachin. Au vu des circonstances ci-dessus, la Cour conclut que l’atteinte alléguée aux droits reconnus par la Cour comme exécutoires peut causer un préjudice irréparable aux droits et qu’il y a urgence. Autrement dit, il existe un risque réel ou imminent et immédiat qu’un préjudice irréparable se produise avant que la Cour ne rende une décision définitive sur l’affaire. Par conséquent, la Cour conclut que les conditions d’application des mesures provisoires sont réunies et fondées, il est donc nécessaire que la Cour applique certaines mesures provisoires avant la décision finale afin de protéger les droits mentionnés par la Cour demandés par l’Arménie. La Cour mentionne qu’elle a le droit, en vertu de la loi, d’appliquer de telles mesures qui sont complètement ou partiellement différentes des mesures demandées.\
+\
+L﻿ire aussi : https://www.lemonde.fr/international/article/2023/02/23/la-cour-internationale-de-justice-ordonne-a-l-azerbaidjan-de-mettre-fin-au-blocage-du-corridor-de-latchine-vers-le-haut-karabakh_6163031_3210.html
 
 « La Cour note que la déclaration du président de la République d’Azerbaïdjan, du Premier ministre de la République d’Arménie et du président de la Fédération de Russie du 9 novembre 2020 prévoit, entre autres, que le corridor de Lachin, « qui assurera une connexion entre Haut-Karabakh et Arménie. . . restent sous le contrôle des forces de maintien de la paix de la Fédération de Russie ». La déclaration stipule en outre que « l’Azerbaïdjan garantit la sécurité des personnes, des véhicules et des marchandises circulant le long du corridor de Lachin dans les deux sens ».
 
