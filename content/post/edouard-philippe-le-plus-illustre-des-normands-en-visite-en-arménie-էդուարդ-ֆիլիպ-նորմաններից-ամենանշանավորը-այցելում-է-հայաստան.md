@@ -42,7 +42,12 @@ par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=
 \
 L﻿ire aussi : <!--StartFragment-->
 
-[https://www.armenews.com/spip.​php?page=article&id_article=​101429](https://www.armenews.com/spip.php?page=article&id_article=101429)
+[https://www.armenews.com/spip.​php?page=article&id_article=​101429](https://www.armenews.com/spip.php?page=article&id_article=101429)\
+<!--StartFragment-->
+
+# Edouard Philippe reçu par Nikol Pachinian
+
+<!--EndFragment-->
 
 \
 L﻿ire aussi : <!--StartFragment-->
@@ -54,6 +59,8 @@ L﻿ire aussi : <!--StartFragment-->
 Soutien d'Edouard Philippe à l'Arménie
 
 <!--EndFragment-->\
+
 \
 \
+
 <!--EndFragment-->
