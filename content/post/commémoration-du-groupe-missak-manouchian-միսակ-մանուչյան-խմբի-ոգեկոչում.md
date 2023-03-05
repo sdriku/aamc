@@ -1,5 +1,6 @@
 ---
-title: Commémoration du Groupe Missak Manouchian - Միսակ Մանուչյան խմբի ոգեկոչում
+title: Commémoration du Groupe Missak Manouchian - Միսակ Մանուչյան խմբի
+  ոգեկոչում  Serge Tateossian 05/03/2023 Source Armenews
 description: Commémoration du Groupe Missak Manouchian - Միսակ Մանուչյան խմբի ոգեկոչում
 summary: L’association Franco-Arménienne de Midi Pyrénées (AFAMP), association
   régionale des anciens combattants et résistants arméniens, a rendu hommage ce
@@ -10,11 +11,9 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/missak-manouchian.png
 image: assets/img/missak-manouchian.png
 ---
-<!--StartFragment-->
+1. # <!--StartFragment-->
 
 # Commémoration du Groupe Manouchian
-
-
 
 ![](https://www.armenews.com/IMG/arton101692.png)
 
