@@ -7,8 +7,8 @@ summary: " Artur Davtyan (Arménie) a remporté ce dimanche 16 avril, une médai
   d’or au saut de cheval, lors du Championnat d’Europe à Antalya"
 date: 2023-04-16T18:52:12.756Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/artur-tavtyan-saut-de-cheval.jpg
-image: assets/img/artur-tavtyan-saut-de-cheval.jpg
+thumbnailImage: assets/img/artur-tavtyan.jpg
+image: assets/img/artur-tavtyan.jpg
 ---
 Artur Davtyan (Arménie)  champion d’Europe du saut de cheval
 
