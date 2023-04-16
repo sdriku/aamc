@@ -12,11 +12,14 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/courbevoie-24-avril-2023.png
 image: assets/img/courbevoie-24-avril-2023-l.png
 ---
+\
+\
+\
+\
+\
 <!--StartFragment-->
 
 # Courbevoie inaugure les commémorations du génocide arménien
-
-
 
 ![](https://www.armenews.com/IMG/arton103135.png)
 
@@ -33,7 +36,5 @@ Photoreportage : Lydia Kasparian
 
 par [La rédaction](https://www.armenews.com/spip.php?page=auteur&id_auteur=4) le dimanche 16 avril 2023\
 © armenews.com 2023
-
-
 
 <!--EndFragment-->
