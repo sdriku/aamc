@@ -1,7 +1,7 @@
 ---
-title: Etchmiadzine la Cathédrale, et les églises.  La Foi chrétienne résolument
-  tournée vers le modernisme et la culture - Էջմիածնի Մայր տաճարը և եկեղեցիները։
-  Քրիստոնեական հավատքը վճռականորեն շրջվեց դեպի մոդեռնիզմ և մշակույթ
+title: 1/5 Etchmiadzine la Cathédrale, et les églises.  La Foi chrétienne
+  résolument tournée vers le modernisme et la culture - Էջմիածնի Մայր տաճարը և
+  եկեղեցիները։ Քրիստոնեական հավատքը վճռականորեն շրջվեց դեպի մոդեռնիզմ և մշակույթ
 description: Etchmiadzine la Cathédrale, et les églises.  - Էջմիածնի Մայր տաճարը
   և եկեղեցիները։
 summary: Etchmiadzine la Cathédrale, et les églises.  La Foi chrétienne
@@ -9,7 +9,7 @@ summary: Etchmiadzine la Cathédrale, et les églises.  La Foi chrétienne
   եկեղեցիները։ Քրիստոնեական հավատքը վճռականորեն շրջվեց դեպի մոդեռնիզմ և մշակույթ
 date: 2023-06-09T22:06:19.952Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/etch-7.jpg
+thumbnailImage: assets/img/img_20230430_124510.jpg
 image: assets/img/etch-2.jpg
 ---
 Etchmiadzine la Cathédrale, et les églises.  La Foi chrétienne résolument tournée vers le modernisme et la culture.
