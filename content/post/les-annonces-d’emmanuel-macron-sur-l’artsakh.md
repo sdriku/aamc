@@ -7,7 +7,7 @@ summary: Les annonces d’Emmanuel Macron sur l’Artsakh - en présence de la
   a été abordée par le président. Voici de quelle façon ( A la 32 e minute
 date: 2023-08-29T15:55:22.907Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/président-macron.jpg
+thumbnailImage: assets/img/karabakh-blocus.jpg
 image: assets/img/président-macron.jpg
 ---
 <!--StartFragment-->
@@ -27,5 +27,8 @@ par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le
 © armenews.com 202
 
 <!--EndFragment-->\
+\
+ Sur le même sujet :\
+https://www.youtube.com/watch?v=XM2I8VwUGds\
 \
 S﻿erge Tateossian source Armenews   29/08/2023
