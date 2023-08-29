@@ -26,4 +26,6 @@ V﻿isionner la vidéo
 par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le lundi 28 août 2023\
 © armenews.com 202
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+S﻿erge Tateossian source Armenews   29/08/2023
