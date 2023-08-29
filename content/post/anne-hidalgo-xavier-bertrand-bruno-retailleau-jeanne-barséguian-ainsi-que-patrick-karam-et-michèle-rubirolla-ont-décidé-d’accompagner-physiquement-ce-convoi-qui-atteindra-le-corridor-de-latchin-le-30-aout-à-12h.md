@@ -8,7 +8,7 @@ summary: Anne Hidalgo et des élus français de premier plan seront dans le
   corridor de Latchine demain, à 12h
 date: 2023-08-29T16:20:35.491Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/xavier-bertrand.jpg
+thumbnailImage: assets/img/anne-hidalgo.png
 image: assets/img/anne-hidalgo.png
 ---
 <!--StartFragment-->
