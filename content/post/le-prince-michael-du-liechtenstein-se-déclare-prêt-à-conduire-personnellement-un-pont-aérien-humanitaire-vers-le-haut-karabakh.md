@@ -36,4 +36,6 @@ L﻿ire sur le même sujet : \
 par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le mardi 29 août 2023\
 © armenews.com 2023
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+S﻿erge Tateossian source Armenews 29/08/2023
