@@ -28,4 +28,8 @@ Alors que la famine est en train de s’abattre sur la population arménienne du
 Paris le 24 août\
 Bureau national du CCAF
 
-<!--EndFragment-->\
+<!--EndFragment-->\\
+\
+S﻿ur le même sujet : https://www.francetvinfo.fr/monde/conflit-dans-le-haut-karabakh/haut-karabakh-anne-hidalgo-xavier-bertrand-et-bruno-retailleau-vont-se-joindre-a-un-convoi-humanitaire_6032087.html\
+\
+S﻿erge Tateossian source  : Armenews    29/08/2023
