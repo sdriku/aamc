@@ -8,8 +8,8 @@ summary: Le peuple arménien en Artsakh est menacé d’extermination. L’Occid
   des facultés de droit à l'Université Paris-I Panthéon-Sorbonne.
 date: 2023-08-31T16:40:18.606Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/artsakh-2.jpg
-image: assets/img/artsakh-1.jpg
+thumbnailImage: assets/img/artsakh-1.jpg
+image: assets/img/artsakh-2.jpg
 ---
 https://www.valeursactuelles.com/monde/tribune-la-secession-remede-pour-la-survie-pour-du-haut-karabagh#:~:text=La%20famine%20est%20l'arme,Cour%20p%C3%A9nale%20internationale%2C%20est%20limpide.\
 \
