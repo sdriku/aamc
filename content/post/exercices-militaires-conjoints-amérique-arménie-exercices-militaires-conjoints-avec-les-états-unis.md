@@ -17,10 +17,8 @@ image: assets/img/amerique-arménie-2.jpeg
 * ![L'exercice se déroulera du 11 au 20 septembre.](https://images.lindependant.fr/api/v1/images/view/64f853725f4b770c3e2285e1/large/image.jpg?v=1)
 
   L'exercice se déroulera du 11 au 20 septembre. Digital - Staff Sgt. Osvaldo Equite
-*
-*
-*
-*
+
+
 
 [International](https://www.lindependant.fr/actu/international/), [Actu](https://www.lindependant.fr/actu/)
 
