@@ -46,4 +46,9 @@ Il a laissé entendre que la Russie, qui a un pacte de défense avec l'Arménie 
 
 La Russie a d'ailleurs fait part de ses préoccupations devant l'annonce d'Erevan, disant qu'elle observerait avec attention les manoeuvres américano-arméniennes.
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+\
+M﻿ême sujet : https://www.armenews.com/spip.php?page=article&id_article=107379\
+\
+S﻿erge Tateossian 07/09/2023
