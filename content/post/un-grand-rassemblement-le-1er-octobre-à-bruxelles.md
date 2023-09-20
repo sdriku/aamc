@@ -12,8 +12,6 @@ image: assets/img/artsakh-1.jpg-2.jpg
 
 # Europeans for Artsakh appelle à un grand rassemblement le 1er octobre à Bruxelles
 
-
-
 ![](https://www.armenews.com/IMG/arton107555.jpg)
 
 Sous la bannière « Europeans for Artsakh », plus de 500 associations à travers 17 pays, dont pour la France le CCAF, appellent à une manifestation le dimanche 1er octobre à Bruxelles .\
@@ -24,4 +22,6 @@ Pages de Europeans For Artsakh :\
 Facebook : <https://www.facebook.com/profile.php?id=61550123050905>\
 Instagram : <https://www.instagram.com/europeansforartsakh/>
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+S﻿erge Tateossian 19/10/2023
