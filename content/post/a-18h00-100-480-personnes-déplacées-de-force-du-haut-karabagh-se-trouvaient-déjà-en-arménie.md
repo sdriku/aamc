@@ -7,8 +7,8 @@ summary: La totalité du peuple d'Artsakh se réfugie en Arménie, pour échappe
   la mort, la guerre et la dictature d'Aliev
 date: 2023-09-30T22:04:52.420Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/artsakh-exode-2.jpg
-image: assets/img/artsakh-exode.jpg
+thumbnailImage: assets/img/artsakh-exode.jpg
+image: assets/img/artsakh-exode-2.jpg
 ---
 <!--StartFragment-->
 
