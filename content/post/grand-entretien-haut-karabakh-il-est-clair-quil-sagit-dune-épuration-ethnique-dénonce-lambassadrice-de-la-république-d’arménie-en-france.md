@@ -65,4 +65,6 @@ Je ne dirai pas le contraire.
 
 Quand on est face aux autocrates, ce sont les actions fortes qui peuvent changer la donne. Il faut toujours écouter avec beaucoup d'attention les autocrates parce qu'ils disent clairement ce qu'ils font. Il ne faut jamais penser qu'ils disent ça pour un usage interne. Ilham Aliyev, depuis des années, disait que son objectif stratégique, c'est de prendre Erevan, la capitale de l'Arménie. Il avait dit qu'il allait chasser les Arméniens, comme des chiens du Haut-Karabakh. À plusieurs reprises, il a annoncé avec fierté qu'il a tenu sa promesse. Il faut l'écouter quand il dit qu'il va dépecer le territoire de l'Arménie. Il faut l'écouter, il faut être vigilant et il faut surtout opposer une action.  
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+S﻿erge tateossian 30/09/2023    source Franceinfo
