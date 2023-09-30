@@ -8,8 +8,8 @@ summary: "\"Il faut qu'on soit au rendez-vous pour l'aide humanitaire. Mais
   sanctuarisation de l'Arménie\", explique le député européen."
 date: 2023-09-30T22:25:02.758Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/raphaël-glucksmann.avif
-image: assets/img/raphaël-glucksmann.avif
+thumbnailImage: assets/img/glucksmann-raphaël.jpg
+image: assets/img/glucksmann-raphaël.jpg
 ---
 <!--StartFragment-->
 
