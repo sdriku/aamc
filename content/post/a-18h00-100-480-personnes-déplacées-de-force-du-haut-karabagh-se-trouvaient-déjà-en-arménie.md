@@ -3,8 +3,8 @@ title: A 18h00, 100 480 personnes déplacées de force du Haut-Karabagh se
   trouvaient déjà en Arménie
 description: A 18h00, 100 480 personnes déplacées de force du Haut-Karabagh se
   trouvaient déjà en Arménie
-summary: La totalité du peuple d'Artsakh se réfugie en Arménie, pour échapper à
-  la mort, la guerre et la dictature d'Aliev
+summary: Le peuple d'Artsakh se réfugie en Arménie, pour échapper à la mort, la
+  guerre et la dictature d'Aliev
 date: 2023-09-30T22:04:52.420Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/artsakh-exode.jpg
