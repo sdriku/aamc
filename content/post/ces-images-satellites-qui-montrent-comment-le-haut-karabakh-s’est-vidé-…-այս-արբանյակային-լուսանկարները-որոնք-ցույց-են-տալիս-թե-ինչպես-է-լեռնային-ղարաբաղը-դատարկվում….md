@@ -14,11 +14,8 @@ image: assets/img/artsakh-exodus.jpg
 ---
 https://videos.lesechos.fr/lesechos/sujet-actus/ces-images-satellites-qui-montrent-comment-le-haut-karabakh-sest-vide-de-ses-habitants/qmm835u\
 \
-<!--StartFragment-->
 
 [![Les Echos Vidéo](https://videos.lesechos.fr/img/logo-ekko.png)](http://www.lesechos.fr/)
-
-*
 
 # Sujets d'actu
 
