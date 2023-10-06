@@ -9,7 +9,7 @@ summary: Ces images satellites qui montrent comment le Haut-Karabakh s’est vid
   լուսանկարները, որոնք ցույց են տալիս, թե ինչպես է Լեռնային Ղարաբաղը դատարկվում…
 date: 2023-10-06T09:32:01.208Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/artsakh-exodus-3.jpg
+thumbnailImage: assets/img/artsakh-exodus.jpg
 image: assets/img/artsakh-exodus.jpg
 ---
 https://videos.lesechos.fr/lesechos/sujet-actus/ces-images-satellites-qui-montrent-comment-le-haut-karabakh-sest-vide-de-ses-habitants/qmm835u\
