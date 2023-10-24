@@ -16,7 +16,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/20231001_161717.jpg
 image: assets/img/20231001_162759.jpg
 ---
-EVREUX : **AAMC et ANSA** étaient présentent au Grand rassemblement du 1er octobre à Bruxelles pour soutenir le peuple d'Artsakh.  \
+EVREUX : **AAMC et ANSA** se sont rendues au Grand rassemblement du 1er octobre à Bruxelles pour soutenir le peuple d'Artsakh.   \
 \
 Des membres des deux associations normandes d'Evreux, **AAMC et ANSA** se sont rendus à Bruxelles pour soutenir l'Artsakh. Les deux associations sœurs normandes, sont signataires de la charte de soutien à l'association **Europeens for Artsakh** au même titre que les 500 associations européennes d'origine arménienne, dont plus de 200 de France.  \
 \
