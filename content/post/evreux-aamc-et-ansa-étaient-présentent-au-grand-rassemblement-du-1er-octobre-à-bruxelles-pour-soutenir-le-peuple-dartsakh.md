@@ -1,10 +1,10 @@
 ---
-title: "EVREUX : AAMC et ANSA étaient présentent au Grand rassemblement du 1er
+title: "EVREUX : AAMC et ANSA se sont rendues au Grand rassemblement du 1er
   octobre à Bruxelles pour soutenir le peuple d'Artsakh.  "
-description: "EVREUX : AAMC et ANSA étaient présentent au Grand rassemblement du
+description: "EVREUX : AAMC et ANSA  se sont rendues au Grand rassemblement du
   1er octobre à Bruxelles pour soutenir le peuple d'Artsakh.  "
 summary: "Des membres des deux associations normandes d'Evreux, AAMC et ANSA se
-  sont rendu à Bruxelles pour soutenir l'Artsakh. Pour information, les deux
+  sont rendues à Bruxelles pour soutenir l'Artsakh. Pour information, les deux
   associations sœurs normandes, sont signataires de la charte de soutien à
   l'association Europeens for Artsakh au même titre que les 500 associations
   européennes d'origine arménienne, dont plus de 200 en France.  1er Octobre un
