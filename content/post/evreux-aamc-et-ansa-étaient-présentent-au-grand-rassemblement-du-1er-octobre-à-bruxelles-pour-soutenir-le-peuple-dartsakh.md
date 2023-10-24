@@ -24,7 +24,7 @@ Le 1er octobre le Grand rassemblement à Bruxelles a réuni plus de 10 000 perso
 \
 De nombreux élus français et européens ont dénoncé ouvertement les dirigeants  européens en pointant Ursula Von Der leyen, Charles Michel et Joseph Borell. \
 \
-Ce Grand rassemblement du1er octobre à Bruxelles est un acte fondateur pour un long combat  pour le respect et la liberté des droits humains et la dignité du peuple d'Artsakh. \
+Ce Grand rassemblement du1er octobre à Bruxelles se veut un acte fondateur pour un long combat  pour le respect et la liberté des droits humains et la dignité du peuple d'Artsakh. \
 \
 L'ensemble des élus, intervenants et orateurs du jour, ainsi que les 10 000 personnes présentent ont exclamé comme un seul homme : **Nous sommes tous l'Artsakh.**\
 \
