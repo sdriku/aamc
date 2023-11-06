@@ -9,8 +9,8 @@ summary: "La Maison Carrée de Nîmes et le temple de Garni en Arménie : pourqu
   transmission »."
 date: 2023-11-06T13:32:57.221Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/maison-carré-de-nîmes.jpg
-image: assets/img/maison-carré-de-nîmes.jpg
+thumbnailImage: assets/img/alphabet-arménien.jpg
+image: assets/img/alphabet-arménien.jpg
 ---
 <!--StartFragment-->
 
@@ -18,7 +18,7 @@ image: assets/img/maison-carré-de-nîmes.jpg
 
 Nov 5, 2023 | [Actu](https://vivrenimes.fr/categorie/actu/), [UNESCO](https://vivrenimes.fr/categorie/unesco/)
 
-![](https://vivrenimes.fr/wp-content/uploads/2023/11/20220629-142704-1080x675.jpg)
+![]()
 
 ## Après l’inscription de son temple romain au Patrimoine mondial, la Ville de Nîmes poursuit ses actions internationales de « partage et de transmission ».
 
