@@ -18,7 +18,7 @@ image: assets/img/alphabet-arménien.jpg
 
 Nov 5, 2023 | [Actu](https://vivrenimes.fr/categorie/actu/), [UNESCO](https://vivrenimes.fr/categorie/unesco/)
 
-![]()
+![](assets/img/alphabet-arménien.jpg)
 
 ## Après l’inscription de son temple romain au Patrimoine mondial, la Ville de Nîmes poursuit ses actions internationales de « partage et de transmission ».
 
