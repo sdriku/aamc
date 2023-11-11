@@ -7,7 +7,7 @@ summary: "Vente exceptionnelle de gâteaux au profit des réfugiés arméniens
   d'Artsakh : Un franc succès. "
 date: 2023-11-11T20:09:31.862Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/vente-gâteaux-2.jpg
+thumbnailImage: assets/img/vente-gâteaux-1.jpg
 image: assets/img/vente-gâteaux-1.jpg
 ---
 **EVREUX – La vente de gâteaux au profit des réfugiés arméniens d'Artsakh fût un franc succès.**\
