@@ -12,8 +12,6 @@ image: assets/img/josep-borrell.jpg
 
 # L’UE met en garde l’Azerbaïdjan : toute violation de l’intégrité territoriale de l’Arménie aura de graves conséquences
 
-
-
 ![](https://www.armenews.com/IMG/arton109878.jpg)
 
 L’Union européenne envisage la possibilité de fournir une aide militaire à l’Arménie dans le cadre du Fonds européen pour la paix, ainsi que de libéraliser le régime des visas pour ses citoyens. L’agence de presse russe TASS rapporte que le chef de la diplomatie de l’Union européenne Josep Borrell l’a déclaré lors de la conférence de presse tenue après la réunion du Conseil de l’UE au niveau des chefs des départements de politique étrangère ce lundi 13 novembre à Bruxelles.
@@ -28,6 +26,10 @@ Le chef de la diplomatie européenne a appelé à la reprise des négociations e
 Krikor Amirzayan
 
 par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=33) le lundi 13 novembre 2023\
-© armenews.com 202
+© armenews.com 202\
+\
+S﻿erge Tateossian 16/11/2023\
+\
+M﻿ême sujet : https://www.armenews.com/spip.php?page=article&id_article=109939
 
 <!--EndFragment-->
