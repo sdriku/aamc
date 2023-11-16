@@ -3,7 +3,7 @@ title: L’UE met en garde l’Azerbaïdjan
 description: "L’UE met en garde l’Azerbaïdjan "
 summary: "L’UE met en garde l’Azerbaïdjan : toute violation de l’intégrité
   territoriale de l’Arménie aura de graves conséquences"
-date: 2022-05-02
+date: 2023-11-16T20:50:48.137Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/josep-borrell.jpg
 image: assets/img/josep-borrell.jpg
