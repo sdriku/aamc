@@ -1,6 +1,6 @@
 ---
-title: VENTE EXCEPTIONNELLE DE GATEAUX,  LE SAMEDI 11 NOVEMBRE 2023  Place
-  Clémenceau EVREUX marché municipal de 8 heures à 13 heures
+title: Evreux - VENTE EXCEPTIONNELLE DE GATEAUX,  LE SAMEDI 11 NOVEMBRE
+  2023  Place Clémenceau EVREUX marché municipal de 8 heures à 13 heures
 description: "Vente de gâteaux au profit des réfugiés d'Artsakh - Evreux-
   Artsakh - Arménie "
 summary: VENTE EXCEPTIONNELLE DE GATEAUX,  LE SAMEDI 11 NOVEMBRE 2023  Place
