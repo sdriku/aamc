@@ -16,7 +16,9 @@ image: assets/img/poutine-pachinyan-2.jpg
 Esseulée face à l'Azerbaïdjan, l'Arménie boycotte le sommet de l'Organisation du traité de sécurité collective (OTSC) organisé mercredi et jeudi à Minsk par la Russie et ses alliés. Et cherche de nouveaux partenaires sécuritaires.
 
 <!--EndFragment-->\
+
 \
+
 <!--StartFragment-->
 
 Publié le 22 nov. 2023 à 16:38Mis à jour le 22 nov. 2023 à 17:29
@@ -55,4 +57,7 @@ En mettant à distance [la Russie](https://www.lesechos.fr/finance-marches/marc
 
 Hadrien Valat
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+\
+S﻿erge Tateossian 22/11/2023  Source : les echos
