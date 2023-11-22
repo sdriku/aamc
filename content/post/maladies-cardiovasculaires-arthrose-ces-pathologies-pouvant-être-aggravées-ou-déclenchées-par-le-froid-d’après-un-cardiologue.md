@@ -1,6 +1,6 @@
 ---
-title: "Maladies cardiovasculaires, arthrose : ces pathologies pouvant être
-  aggravées ou déclenchées par le froid, d’après un cardiologue"
+title: "Santé - Maladies cardiovasculaires, arthrose : ces pathologies pouvant
+  être aggravées ou déclenchées par le froid, d’après un cardiologue"
 description: "Maladies cardiovasculaires - Arthrose - Froid "
 summary: "Maladies cardiovasculaires, arthrose : ces pathologies pouvant être
   aggravées ou déclenchées par le froid, d’après un cardiologue"
