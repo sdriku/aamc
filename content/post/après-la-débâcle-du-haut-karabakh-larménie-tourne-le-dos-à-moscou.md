@@ -6,8 +6,8 @@ summary: " l'Arménie boycotte le sommet de l'Organisation du traité de sécuri
   alliés. Et cherche de nouveaux partenaires sécuritaires."
 date: 2023-11-22T22:14:02.647Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/poutine-pachinyan-2.jpg
-image: assets/img/poutine-pachinyan.jpeg
+thumbnailImage: assets/img/poutine-pachinyan.jpeg
+image: assets/img/poutine-pachinyan-2.jpg
 ---
 <!--StartFragment-->
 
