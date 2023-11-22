@@ -1,5 +1,5 @@
 ---
-title: L’UE met en garde l’Azerbaïdjan
+title: Europe - L’UE met en garde l’Azerbaïdjan
 description: "L’UE met en garde l’Azerbaïdjan "
 summary: "L’UE met en garde l’Azerbaïdjan : toute violation de l’intégrité
   territoriale de l’Arménie aura de graves conséquences"
