@@ -1,6 +1,6 @@
 ---
-title: "Vente exceptionnelle de gâteaux au profit des réfugiés arméniens
-  d'Artsakh : Un franc succès"
+title: "EVREUX - Vente exceptionnelle de gâteaux au profit des réfugiés
+  arméniens d'Artsakh : Un franc succès"
 description: Réfugiés arméniens d'Artsakh - Evreux - Arméniens - AAMC -
   Normandie - Vente de gâteaux
 summary: "Vente exceptionnelle de gâteaux au profit des réfugiés arméniens
