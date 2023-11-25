@@ -1,6 +1,6 @@
 ---
 title: L’Eurovision Junior 2023 en direct sur France 2 (ou 1ère chaine en
-  Arménie) avec les Ian Girls pour l’Arménie
+  Arménie) avec les Ian Girls pour l’Arménie - Serge Tateossian 25/11/2023
 description: Eurovision juniors 2023 - Arménie Eurovision 2023
 summary: L’Eurovision Junior 2023 en direct sur France 2 (ou 1ère chaine en
   Arménie) avec les Ian Girls pour l’Arménie
