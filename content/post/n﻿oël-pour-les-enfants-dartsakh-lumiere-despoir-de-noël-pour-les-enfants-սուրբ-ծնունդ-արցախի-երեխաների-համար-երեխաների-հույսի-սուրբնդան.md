@@ -9,6 +9,7 @@ thumbnailImage: assets/img/lumière-d-espoir-de-noël-pour-les-enfants-artsakh.j
 image: assets/img/lumière-d-espoir-de-noël-pour-les-enfants-artsakh.jpg
 ---
 ##### **N﻿OËL POUR LES ENFANTS D'ARTSAKH** \
+
 \
 **LUMIERE D'ESPOIR DE NOËL POUR LES ENFANTS** \
 \
@@ -18,7 +19,7 @@ image: assets/img/lumière-d-espoir-de-noël-pour-les-enfants-artsakh.jpg
 A﻿DAM BARRO et ses amis chantent Noël pour les enfants d'Artsakh en Arménie\
 V﻿ENDREDI 15 DECEMBRE 2023 A 20H
 
-A﻿ LA CATHEDRALE SAINTE-CROIX DES ARMENIENS \
+LIEU :﻿ CATHEDRALE SAINTE-CROIX DES ARMENIENS  \
 1﻿3, RUE DU PERCHE, 75003 PARIS \
 \
 *A﻿u programme :* \
