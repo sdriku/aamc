@@ -1,6 +1,6 @@
 ---
 title: "Le satellite de fabrication arménienne Hayasat - 1 sera lancé dans
-  l’espace vendredi, avec deux jours de retard. "
+  l’espace vendredi 1er décembre. "
 description: Premier satellite de fabrication arménienne Hayasat-1 - Satellite
   arménien Hayasat-1
 summary: La mise en orbite du premier satellite de fabrication arménienne
