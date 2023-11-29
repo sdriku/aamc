@@ -8,7 +8,7 @@ summary: "Association AAMC  -   Collecte Pour les réfugiés d'Artsakh   Samedi 
 date: 2023-11-29T17:15:19.322Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/réfugiés-artsakh-3.jpg
-image: assets/img/réfugiés-artsakh-1.jpg
+image: assets/img/réfugiés-artsakh-3.jpg
 ---
 **\
 EVREUX : Association AAMC - Collecte Pour les réfugiés d'Artsakh\
