@@ -1,8 +1,9 @@
 ---
-title: Missak Manouchian, héros de la Résistance entrera au Panthéon
-  -  Couverture du livre de Manouchian publié en novembre 2023
+title: "Panthéon : Missak Manouchian, héros de la Résistance entrera au Panthéon
+  -  Couverture du livre de Manouchian publié en novembre 2023"
 description: Missak Manouchian, héros de la Résistance entrera au Panthéon
-summary: Missak Manouchian, héros de la Résistance entrera au Panthéon
+summary: "Panthéonisation : Missak Manouchian, héros de la Résistance entrera au
+  Panthéon"
 date: 2023-11-22T23:33:50.259Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/manouchian.jpg
