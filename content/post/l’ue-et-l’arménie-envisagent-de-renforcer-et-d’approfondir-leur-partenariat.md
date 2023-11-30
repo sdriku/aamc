@@ -16,8 +16,6 @@ image: assets/img/arménie-europe.jpg
 
 # L’UE et l’Arménie envisagent de renforcer et d’approfondir leur partenariat
 
-
-
 ![](https://www.armenews.com/IMG/arton110340.png)
 
 Du 27 au 29 novembre, une délégation du Service européen pour l’action extérieure et de la Commission européenne s’est rendue en Arménie pour étudier les possibilités d’approfondir et de renforcer les relations entre l’UE et l’Arménie dans toutes leurs dimensions, y compris dans le cadre de l’accord de partenariat global et renforcé entre l’UE et l’Arménie.
@@ -37,4 +35,7 @@ Délégation de l’Union européenne en Arménie
 par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le jeudi 30 novembre 2023\
 © armenews.com 2023
 
-<!--EndFragment-->
+<!--EndFragment-->\
+S﻿erge Tateossian 30/11/2023   Source Armenews\
+\
+Lire le vin d'Arménie par le magazine FORBES : https://www.forbes.com/sites/lizazimmerman/2023/11/28/exploring-armenian-wine/?sh=527a3b4162bd
