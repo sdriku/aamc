@@ -9,8 +9,8 @@ summary: Du 27 au 29 novembre, une délégation du Service européen pour l’ac
   partenariat global et renforcé entre l’UE et l’Arménie.
 date: 2023-11-30T17:41:38.319Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/arménie-europe.jpg
-image: assets/img/arménie-europe.jpg
+thumbnailImage: assets/img/parlement-européen.jpg
+image: assets/img/parlement-européen.jpg
 ---
 <!--StartFragment-->
 
