@@ -9,7 +9,7 @@ summary: La mise en orbite du premier satellite de fabrication arménienne
 date: 2023-11-29T15:18:22.103Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/satélitte-arménien.jpg
-image: assets/img/satélitte-arménien-2.jpg
+image: assets/img/satélitte-arménien.jpg
 ---
 ## **Le lancement du premier satellite de fabrication arménienne Hayasat-1**
 
