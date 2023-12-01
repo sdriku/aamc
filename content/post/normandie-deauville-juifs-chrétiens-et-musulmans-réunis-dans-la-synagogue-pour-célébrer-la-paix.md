@@ -48,4 +48,6 @@ Tour à tour, chacun avec ses mots et forts de ses croyances, a pris la parole p
 
 À l’initiative du **maître franc-maçon**, les participants ont formé une « chaîne d’union » en se tenant par la main. Enfin, la salle, debout, a entonné la Marseillaise pour clore la soirée.
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+S﻿erge Tateossian le 01/12/2023   Source : Actu.fr
