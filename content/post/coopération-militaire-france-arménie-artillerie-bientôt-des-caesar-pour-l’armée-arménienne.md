@@ -22,8 +22,6 @@ PAR [LAURENT LAGNEAU](https://www.opex360.com/author/admin/ "Articles par Laure
 
 [Partagez](https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.opex360.com%2F2023%2F11%2F30%2Fartillerie-bientot-des-caesar-pour-larmee-armenienne%2F)
 
-
-
 ![](https://www.opex360.com/wp-content/uploads/68era-smdr-caesar-20230113.jpg)
 
 S’étant mis en ordre de marche pour augmenter la cadence de production du CAESAr \[Camion équipé d’un système d’artillerie de 155 mm], Nexter \[ou KNDS France] a été en mesure de livrer à l’armée de Terre, avec de l’avance par rapport au calendrier initialement prévu, les six premiers des dix-huit exemplaires commandés en juillet 2022 pour remplacer ceux qui avaient été cédés à l’Ukraine.
@@ -36,7 +34,9 @@ Cela étant, et alors que son intégrité territoriale est menacée par l’Azer
 
 Par ailleurs, initialement destinés à l’Ukraine, vingt-quatre véhicules blindés Bastion ont récemment été livrés par la France à l’armée arménienne. Et vingt-six autres devraient suivre prochainement, selon M. Saury et Mme Conway-Mouret.
 
-Pour autant, les deux sénateurs estiment qu’il faudrait aller plus loin.
+Pour autant, les deux sénateurs estiment qu’il faudrait aller plus loin.\
+\
+Lire : 5﻿0 blindés français Bastion pour l'Arménie : https://www.armenews.com/spip.php?page=article&id_article=110394
 
 « Les autorités françaises ont engagé la livraison d’armes ‘défensives’ à l’Arménie. Cette distinction entre armes défensives et offensives est en réalité peu opérationnelle comme l’a démontré la guerre en Ukraine. Ne répétons pas les mêmes erreurs en livrant tardivement les équipements qui auraient été nécessaires dès le début. C’est pourquoi il faut répondre rapidement à l’ensemble des demandes des autorités arméniennes concernant notamment leur besoin en artillerie », écrivent-ils dans leur avis budgétaire.
 
@@ -45,5 +45,6 @@ Aussi recommandent-ils d’étudier, à cet égard et dans les « meilleurs dé
 Quoi qu’il en soit, cette approche ne se limiterait pas à l’Arménie… mais aussi aux « ex-républiques soviétiques qui ont décidé de prendre leurs distances vis-à-vis de la Russie et de reconstruire leur outil de défense selon des standards compatibles avec l’Otan ». Tel est le cas de la Moldavie et de la Géorgie. Pour les deux rapporteurs, le « soutien que peut leur apporter la France » serait « fondamental pour asseoir leur indépendance ».
 
 <!--EndFragment-->\
+
 \
 S﻿erge Tateossian le 02/12/2023   Source : Zone Militaire opex.com
