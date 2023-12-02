@@ -30,7 +30,7 @@ Le satellite est équipé de capteurs qui mesurent l’intensité de la lumière
 
 Il dispose d’une charge utile secondaire dont les mesures fourniront des données sur la rotation, la position et le mouvement du satellite. Il se compose d’un récepteur GPS avec ses antennes et d’une unité de mesure inertielle expérimentale (IMU) conçue et construite en Arménie.
 
-Lecture :  https://www.google.com/search?q=youtube+first+armenian+satellite+Hayastan-1+lanc%C3%A9+2023&sca_esv=587101509&biw=1777&bih=858&sxsrf=AM9HkKkUWm9chBWLfQSgnKS_zyMGXPTl3Q%3A1701475082867&ei=CnNqZaHFNIehkdUPl5ixiAk&ved=0ahUKEwih8qHPuO-CAxWHUKQEHRdMDJEQ4dUDCBA&oq=youtube+first+armenian+satellite+Hayastan-1+lanc%C3%A9+2023&gs_lp=Egxnd3Mtd2l6LXNlcnAiN3lvdXR1YmUgZmlyc3QgYXJtZW5pYW4gc2F0ZWxsaXRlIEhheWFzdGFuLTEgbGFuY8OpIDIwMjMyCBAAGIAEGKIESJTPAVDdBVjtqQFwAXgAkAEDmAH3GaABgZsCqgENMi0xLjYtMS4yLjQuObgBDMgBAPgBAcICCxAAGIkFGKIEGLADwgILEAAYgAQYogQYsAPiAwQYASBBiAYBkAYE&sclient=gws-wiz-serp#fpstate=ive&vld=cid:520b2dbf,vid:WE3G2xSrA44,st:0
+Lecture video :  https://youtu.be/WE3G2xSrA44
 
 [«Հայասաթ-1» հայրենական առաջին արբանյակն արձակվեց տիեզերք](https://www.youtube.com/watch?v=P8SQnd79528)\
 par [Armenpress](https://www.youtube.com/@ArmenpressNewsAgencyArmenia)
