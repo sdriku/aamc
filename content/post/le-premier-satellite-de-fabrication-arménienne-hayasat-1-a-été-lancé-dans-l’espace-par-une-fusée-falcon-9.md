@@ -16,8 +16,6 @@ image: assets/img/hayasat-1-lancé.jpg
 
 # Le premier satellite de fabrication arménienne, Hayasat 1, a été lancé dans l’espace par une fusée Falcon 9
 
-
-
 ![](https://www.armenews.com/IMG/arton110392.jpg?1701458580)
 
 Le premier satellite réalisé en Arménie, Hayasat 1, a été lancé ce vendredi soir 1er décembre dans l’espace par la fusée américaine Falcon 9 de la société SpaceX. Le départ de la fusée a été retransmis en direct sur le site de *Bazumk*, en Arménie.\
@@ -26,15 +24,13 @@ Le satellite Hayasat-1 est au format CubeSat et a des dimensions de 10 cm x 10 c
 
 Avant le lancement de Hayasat 1, Hayk Martirosyan, co-fondateur, membre du conseil d’administration et directeur technique de *Bazumk*, a déclaré : *"Pour le moment, tous les systèmes sont prêts à être testés, de sorte que dès que nous recevrons les données du satellite, nous pourrons voir dans quel état il se trouve, comment fonctionnent ses systèmes, et les données seront enregistrées dans notre base de données. Ensuite, nous pourrons effectuer des analyses analytiques.*
 
-
-
 *Nous avons signalé plus tôt que le satellite avait passé toutes les étapes de tests et était prêt à voler dans l’espace avec la fusée SpaceX Falcon-9. Comment l’idée spatiale a uni « Bazumk » et CSIE, et « Hayasat 1 » a été créée, vous pouvez le lire dans la référence d’« Armenpress ».*
 
 Le satellite est équipé de capteurs qui mesurent l’intensité de la lumière tombant sur ses différentes faces, de magnétomètres qui font office de boussole pour le satellite, de magnétomètres qui amortissent les rotations du satellite, de capteurs qui mesurent les températures des parties les plus critiques des différents modules, ainsi que ainsi que des capteurs inertiels qui mesurent les changements d’orientation.
 
 Il dispose d’une charge utile secondaire dont les mesures fourniront des données sur la rotation, la position et le mouvement du satellite. Il se compose d’un récepteur GPS avec ses antennes et d’une unité de mesure inertielle expérimentale (IMU) conçue et construite en Arménie.
 
-Lecture : https://www.armenews.com/spip.php?page=article&id_article=110392#:~:text=Le%20premier%20satellite,armenews.com%202023
+Lecture :  https://www.google.com/search?q=youtube+first+armenian+satellite+Hayastan-1+lanc%C3%A9+2023&sca_esv=587101509&biw=1777&bih=858&sxsrf=AM9HkKkUWm9chBWLfQSgnKS_zyMGXPTl3Q%3A1701475082867&ei=CnNqZaHFNIehkdUPl5ixiAk&ved=0ahUKEwih8qHPuO-CAxWHUKQEHRdMDJEQ4dUDCBA&oq=youtube+first+armenian+satellite+Hayastan-1+lanc%C3%A9+2023&gs_lp=Egxnd3Mtd2l6LXNlcnAiN3lvdXR1YmUgZmlyc3QgYXJtZW5pYW4gc2F0ZWxsaXRlIEhheWFzdGFuLTEgbGFuY8OpIDIwMjMyCBAAGIAEGKIESJTPAVDdBVjtqQFwAXgAkAEDmAH3GaABgZsCqgENMi0xLjYtMS4yLjQuObgBDMgBAPgBAcICCxAAGIkFGKIEGLADwgILEAAYgAQYogQYsAPiAwQYASBBiAYBkAYE&sclient=gws-wiz-serp#fpstate=ive&vld=cid:520b2dbf,vid:WE3G2xSrA44,st:0
 
 [«Հայասաթ-1» հայրենական առաջին արբանյակն արձակվեց տիեզերք](https://www.youtube.com/watch?v=P8SQnd79528)\
 par [Armenpress](https://www.youtube.com/@ArmenpressNewsAgencyArmenia)
@@ -45,5 +41,6 @@ par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=
 © armenews.com 2023
 
 <!--EndFragment-->\
+
 \
 S﻿erge Tateossian Le 02/12/2023   Source : Armenews
