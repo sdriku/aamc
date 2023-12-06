@@ -23,7 +23,7 @@ image: assets/img/godg-arménie-en-danger.png
 
 # « Arménie en danger » au Grand Orient de France : Un appel à la connaissance, la vigilance et l’espérance
 
-![](assets/img/godf-arménie-en-danger-2.png)
+![]()
 
 Hier, le 5 décembre 2023, le Grand Orient de France a été le théâtre d’une conférence publique cruciale intitulée « Arménie en danger », organisée conjointement par les loges Etoile de la Paix, France-Arménie, Fils d’Ararat et un collectif de loges de Paris III. L’événeme qui s’est tenu dans le temple Arthur Groussier, plein à craquer d’un publique très majoritairement non-arménien, a mis en lumière la situation précaire de l’Arménie et a appelé à une prise de conscience collective.\
 [](https://www.armenews.com/IMG/png/8/4/b/capture_d_e_cran_2023-12-06_a_16.51_43.png "png/8/4/b/capture_d_e_cran_2023-12-06_a_16.51_43.png")\
@@ -55,5 +55,6 @@ par [La rédaction](https://www.armenews.com/spip.php?page=auteur&id_auteur=4)�
 © armenews.com 2023
 
 <!--EndFragment-->\
+
 \
 S﻿erge Tateossian le 07/12/2023   Source : Armenews
