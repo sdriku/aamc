@@ -23,7 +23,7 @@ image: assets/img/godg-arménie-en-danger.png
 
 # « Arménie en danger » au Grand Orient de France : Un appel à la connaissance, la vigilance et l’espérance
 
-![](https://www.armenews.com/IMG/arton110504.png)
+![](assets/img/godf-arménie-en-danger-2.png)
 
 Hier, le 5 décembre 2023, le Grand Orient de France a été le théâtre d’une conférence publique cruciale intitulée « Arménie en danger », organisée conjointement par les loges Etoile de la Paix, France-Arménie, Fils d’Ararat et un collectif de loges de Paris III. L’événeme qui s’est tenu dans le temple Arthur Groussier, plein à craquer d’un publique très majoritairement non-arménien, a mis en lumière la situation précaire de l’Arménie et a appelé à une prise de conscience collective.\
 [](https://www.armenews.com/IMG/png/8/4/b/capture_d_e_cran_2023-12-06_a_16.51_43.png "png/8/4/b/capture_d_e_cran_2023-12-06_a_16.51_43.png")\
@@ -37,7 +37,7 @@ Marc Knobel, historien et essayiste, a ensuite pris la parole, évoquant la pers
 \
 « Moi qui suis juif, lorsque mes frères chrétiens sont persécutés, je suis chrétien aussi, comme je suis Charlie, comme je suis Hyper Cacher, comme je suis les chrétiens d’orient et avec les horreurs en Arménie, je suis Arménien aussi ».\
 [](https://www.armenews.com/IMG/png/2/f/5/capture_d_e_cran_2023-12-06_a_16.50_18.png "png/2/f/5/capture_d_e_cran_2023-12-06_a_16.50_18.png")\
-Jean-Pierre Sakoun, président d’Unité Laïque, a mis en avant l’importance des principes républicains et a partagé l’émotion suscitée par la panthéonisation de Missak et Mélinée Manouchian, figures de la résistance arménienne et française. Saluant Pierre Ouzoulias, vice-président du Sénat, qui est avec lui-même à l’origine de la demande de panthéonisation de Manouchian, il a également insisté sur le caractère universel de la cause arménienne, qui rejoint en cela l’universalisme de la France et également celui des Juifs.[![PNG - 944.5 ko](https://www.armenews.com/local/cache-vignettes/L670xH447/capture_d_e_cran_2023-12-06_a_16.49_24-4c3cf.png?1701878693)](https://www.armenews.com/IMG/png/5/d/8/capture_d_e_cran_2023-12-06_a_16.49_24.png "png/5/d/8/capture_d_e_cran_2023-12-06_a_16.49_24.png")\
+Jean-Pierre Sakoun, président d’Unité Laïque, a mis en avant l’importance des principes républicains et a partagé l’émotion suscitée par la panthéonisation de Missak et Mélinée Manouchian, figures de la résistance arménienne et française. Saluant Pierre Ouzoulias, vice-président du Sénat, qui est avec lui-même à l’origine de la demande de panthéonisation de Manouchian, il a également insisté sur le caractère universel de la cause arménienne, qui rejoint en cela l’universalisme de la France et également celui des Juifs.[](https://www.armenews.com/IMG/png/5/d/8/capture_d_e_cran_2023-12-06_a_16.49_24.png "png/5/d/8/capture_d_e_cran_2023-12-06_a_16.49_24.png")\
 [](https://www.armenews.com/IMG/png/0/2/4/capture_d_e_cran_2023-12-06_a_16.49_33.png "png/0/2/4/capture_d_e_cran_2023-12-06_a_16.49_33.png")\
 L’ambassadrice d’Arménie en France, SE Mme Hasmik Tolmajian, a clôturé les discours avec un message poignant sur la résilience et la quête de paix de son peuple. Elle a salué le Grand Orient, qui pour la première fois recevait un représentant de la République d’Arménie, et s’est félicité de son soutien, absolument nécessaire en cette période de grandes menaces.\
 [](https://www.armenews.com/IMG/png/a/7/7/capture_d_e_cran_2023-12-06_a_16_49.03.png "png/a/7/7/capture_d_e_cran_2023-12-06_a_16_49.03.png")\
@@ -47,7 +47,8 @@ Guillaume Trichard, Grand Maître du Grand Orient de France, a conclu la confér
 [](https://www.armenews.com/IMG/png/c/e/4/capture_d_e_cran_2023-12-06_a_16.48_28.png "png/c/e/4/capture_d_e_cran_2023-12-06_a_16.48_28.png")\
 Cette conférence a été un mélange puissant de témoignages, d’analyses et d’engagements, soulignant la nécessité d’une vigilance continue et d’un espoir renouvelé pour la paix et la sécurité de l’Arménie.\
 \
-https://www.armenews.com/spip.php?page=article&id_article=110504[](https://www.armenews.com/IMG/png/4/9/6/capture_d_e_cran_2023-12-06_a_16.48_19.png "png/4/9/6/capture_d_e_cran_2023-12-06_a_16.48_19.png")
+https://www.armenews.com/spip.php?page=article&id_article=110504\
+[](https://www.armenews.com/IMG/png/4/9/6/capture_d_e_cran_2023-12-06_a_16.48_19.png "png/4/9/6/capture_d_e_cran_2023-12-06_a_16.48_19.png")
 
 par [La rédaction](https://www.armenews.com/spip.php?page=auteur&id_auteur=4) le mercredi 6 décembre 2023\
 © armenews.com 2023
