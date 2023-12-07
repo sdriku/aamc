@@ -39,4 +39,6 @@ Source 2 : “*[Stem cell transplants can be a safe treatment for knee osteoart
 
 Source 3 : «[ Arthrose : des cellules souches encapsulées pour protéger l’articulation](https://www.inserm.fr/actualite/arthrose-des-cellules-souches-encapsulees-pour-proteger-larticulation/) », Inserm, 20 avril 2023.
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+S﻿erge Tateossian Le 07/12/2023  Source : Santé Magazine
