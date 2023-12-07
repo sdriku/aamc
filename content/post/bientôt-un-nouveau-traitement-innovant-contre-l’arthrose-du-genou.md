@@ -1,5 +1,5 @@
 ---
-title: Bientôt un nouveau traitement innovant contre l’arthrose du genou ?
+title: "Santé : Bientôt un nouveau traitement innovant contre l’arthrose du genou ?"
 description: Une nouvelle méta-analyse rapporte les effets significatifs sur la
   douleur de certaines cellules souches.
 summary: Une nouvelle méta-analyse rapporte les effets significatifs sur la
