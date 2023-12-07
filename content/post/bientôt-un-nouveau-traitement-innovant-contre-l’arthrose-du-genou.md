@@ -31,7 +31,7 @@ Si cette étude a le mérite de souligner l’intérêt de l’usage de cellules
 
 Dans un communiqué daté d’avril 2023, l’Inserm indiquait qu’une de ses équipes planchait justement sur **l’utilisation de cellules souches mésenchymateuses, encapsulées dans un microgel,** pour augmenter leur durée de vie après administration et les empêcher de migrer ailleurs (source 3). Des expériences sont menées in vitro et in vivo sur des modèles animaux pour valider ce protocole.
 
-Sources
+Sources : https://www.santemagazine.fr/actualites/actualites-traitement/une-avancee-scientifique-majeure-pourrait-constituer-un-nouveau-traitement-contre-larthrose-du-genou-1041753
 
 Source 1 : Xie, R-h, Gong, S-g, Song, J, Wu, P-p, Hu, W-L. Effect of mesenchymal stromal cells transplantation on the outcomes of patients with knee osteoarthritis : a systematic review and meta-analysis. *J Orthop Res*. 2023 ; 1-16. [doi : 10.1002/jor.25724](https://doi.org/10.1002/jor.25724)
 
