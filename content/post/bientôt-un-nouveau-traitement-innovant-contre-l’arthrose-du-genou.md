@@ -11,6 +11,11 @@ image: assets/img/arthrose.jpg
 ---
 <!--StartFragment-->
 
+Publié le 5 déc. 2023 par [Hélène Bour](https://www.santemagazine.fr/auteurs/helene-bour-872616)
+
+<!--EndFragment-->\
+<!--StartFragment-->
+
 Dans une nouvelle méta-analyse, parue dans le *Journal of Orthopedic Research* (source 1), des chercheurs indiquent que **la transplantation de cellules souches provenant de différentes sources pourrait être efficace pour traiter l’arthrose du genou**, ou gonarthrose. L’équipe de recherche a ici passé au crible 16 études portant sur 875 patients souffrant d’arthrose du genou, âgés de 51 à 69 ans. Parmi eux, 441 ont eu recours à la greffe de cellules souches, tandis que 434 n’en ont pas bénéficié (groupe témoin).
 
 ## Un soulagement significatif de la douleur
