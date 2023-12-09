@@ -11,6 +11,7 @@ image: assets/img/vikings.png
 ---
 https://france3-regions.francetvinfo.fr/normandie/calvados/caen/video-non-les-normands-ne-sont-pas-les-descendants-des-vikings-2885204.html﻿\
 \
+
 <!--StartFragment-->
 
 # VIDÉO. Non, les Normands ne sont pas les descendants des Vikings
@@ -87,6 +88,9 @@ Une émission présentée par Laurent Quembre • ©France 3 Normandie
 
 *"Les noms en "-tot" sont un marqueur important, car ils désignaient le domaine. Vous avez des "-tot" en Normandie qui sont simplement descriptifs comme Lanquetot qui veut dire un "tot", un domaine plutôt grand. Et puis vous avez toute une autre catégorie de "-tot" précédée d'un anthroponyme, un nom de personne : celui qui était le propriétaire du domaine."*
 
-<!--EndFragment-->\
+<!--EndFragment-->\\
+\
+L'intégrale de l'article ainsi que les vidéos : https://france3-regions.francetvinfo.fr/normandie/calvados/caen/video-non-les-normands-ne-sont-pas-les-descendants-des-vikings-2885204.html
+
 \
 S﻿erge Tateossian le 08/12/2023    Source : France 3 Normandie
