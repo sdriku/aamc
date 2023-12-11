@@ -16,7 +16,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/marc-bloch.jpg
 image: assets/img/marc-bloch.jpg
 ---
-https://fb.watch/oThwOs9ceV/\
+https://www.youtube.com/watch?v=ZOATcqlfzDo\
 \
 Le lycée MARC BLOCH (Documentaire)\
 \
@@ -63,4 +63,4 @@ Arrêté par la Gestapo le 8 mars 1944, il est torturé et emprisonné à la pri
 
 \
 \
-Serge Tateossian le12/12/2023 Source : Université de Strasbourg
+Serge Tateossian le12/12/2023 Source : Université de Strasbourg  - Vidéo ville de Val-De-Reuil
