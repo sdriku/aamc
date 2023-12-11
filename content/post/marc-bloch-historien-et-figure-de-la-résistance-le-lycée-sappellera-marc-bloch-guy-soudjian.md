@@ -24,7 +24,6 @@ La ville de Val-De-Reuil \
 Le lycée s'appellera MARC BLOCH \
  Guy Soudjian \
 \
-https://www.facebook.com/valde.reuil/videos/1257782698436711?locale=fr_FR\
 \
 **Marc Bloch (1886-1944)**  *Historien et grand résistant français, fusillé en 1944 par la Gestapo, Marc Bloch a marqué son époque par son courage et son engagement dans la résistance. Comme historien, il a contribué au renouvellement de sa propre discipline en créant, avec son collègue et ami Lucien Febvre, les annales d'histoire économiques et sociales. Cette nouvelle école de pensée a placé au cœur de la recherche l'anthropologie, l'étude des mentalités, l'économie et la société. En 1919, il est nommé chargé de cours d'histoire du Moyen-âge à la Faculté de lettres de Strasbourg, puis obtient la chaire d'histoire du Moyen-âge en 1927. Il y restera jusqu'en 1936.*  
 
