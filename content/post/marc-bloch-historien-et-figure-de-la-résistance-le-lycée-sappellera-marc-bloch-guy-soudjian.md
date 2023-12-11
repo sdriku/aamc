@@ -16,7 +16,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/marc-bloch.jpg
 image: assets/img/marc-bloch.jpg
 ---
-https://www.youtube.com/watch?v=ZOATcqlfzDo\
+Lecture vidéo : thttps://www.youtube.com/watch?v=ZOATcqlfzDo\
 \
 Le lycée MARC BLOCH (Documentaire)\
 \
