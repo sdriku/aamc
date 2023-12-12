@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=ZOATcqlfzDo\
 Le lycée MARC BLOCH (Documentaire)\
 \
 La ville de Val-De-Reuil \
-Le lycée s'appellera MARC BLOCH \
+"Le lycée s'appellera MARC BLOCH" \
  Guy Soudjian \
 \
 \
