@@ -65,4 +65,5 @@ Arrêté par la Gestapo le 8 mars 1944, il est torturé et emprisonné à la pri
 
 \
 \
-Serge Tateossian le12/12/2023 Source : Université de Strasbourg  - Vidéo ville de Val-De-Reuil
+Serge Tateossian  le12/12/2023 Source : Université de Strasbourg  - \
+Vidéo ville de Val-De-Reuil
