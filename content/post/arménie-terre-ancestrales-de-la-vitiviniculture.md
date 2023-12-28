@@ -35,8 +35,12 @@ Un colloque international pluridisciplinaire aura lieu à Erevan du 29 au 31 oc
 11. Les enjeux commerciaux de l’économie du vin à l’époque actuelle\
 12. Les anciennes régions viticoles versus les nouvelles
 
+\
+\
 https://www.armenews.com/spip.php?page=article&id_article=110960
 
+\
+\
 Partie intégrante du patrimoine historique et culturel de l’humanité, le vin fait l’objet d’études dans différentes discipline. En Arménie, les plus anciens témoignages de la culture de la vigne et du vin date de plus de 8000 ans.
 
 [](https://www.armenews.com/IMG/png/9/f/e/capture_d_e_cran_2023-12-21_a_10.17_19.png "png/9/f/e/capture_d_e_cran_2023-12-21_a_10.17_19.png")
