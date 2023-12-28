@@ -1,7 +1,7 @@
 ---
-title: AAMC vous présente ses vœux les plus sincères pour 2024.
+title: AAMC vous présente ses vœux pour 2024.
 description: Vœux pour le nouvel An 2024 AAMC
-summary: AAMC vous présente ses vœux les plus sincères pour 2024.
+summary: AAMC vous présente ses vœux pour 2024.
 date: 2023-12-23T02:37:17.673Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/noël-5.jpg
