@@ -18,6 +18,8 @@ Arménie terre ancestrales de la viniviticulture
 
 ![](assets/img/vitiviniculture-arménie.png "Colloque international à Erevan")
 
+\
+\
 Un colloque international pluridisciplinaire aura lieu à Erevan du 29 au 31 octobre 2024 sur le thème\
 **Le vin comme élément de la communication interculturelle aux carrefours des sciences**
 
