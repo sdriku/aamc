@@ -16,4 +16,6 @@ Bonnes fêtes et très Joyeux Noël 2023.\*\*\
 \
 \
 Serge Tateossian\
-Président AAMC
+Président AAMC\
+\
+A﻿ lire :  https://www.armenews.com/spip.php?page=article&id_article=111101
