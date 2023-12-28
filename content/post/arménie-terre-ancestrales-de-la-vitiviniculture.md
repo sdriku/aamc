@@ -13,9 +13,7 @@ image: assets/img/vin-d-arménie.png
 
 # Arménie terre ancestrales de la viniviticulture
 
-
-
-![](https://www.armenews.com/IMG/arton110960.png)
+![](assets/img/vitiviniculture-arménie.png)
 
 Un colloque international pluridisciplinaire aura lieu à Erevan du 29 au 31 octobre 2024 sur le thème\
 **Le vin comme élément de la communication interculturelle aux carrefours des sciences**
@@ -23,6 +21,7 @@ Un colloque international pluridisciplinaire aura lieu à Erevan du 29 au 31 oc
 [](https://www.armenews.com/IMG/png/2/b/8/capture_d_e_cran_2023-12-21_a_10_18.00.png "png/2/b/8/capture_d_e_cran_2023-12-21_a_10_18.00.png")
 
 **Les axes principaux :**\
+
 1. La portée symbolique de la vigne et du vin\
 2. La culture vinicole sur le Plateau arménien\
 3. Le vin et la spiritualité\
@@ -46,6 +45,7 @@ par [Naïri](https://www.armenews.com/spip.php?page=auteur&id_auteur=475) le l
 © armenews.com 2023
 
 <!--EndFragment-->\
+
 \
 \
 S﻿erge Tateossian   28/12/2023   Source Armenews
