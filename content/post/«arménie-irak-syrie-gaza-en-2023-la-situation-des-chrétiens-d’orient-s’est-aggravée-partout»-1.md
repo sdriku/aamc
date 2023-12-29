@@ -68,9 +68,6 @@ Indifférence relative ou à géométrie variable. Ignorance certainement. Car n
 
 Et puis pour qu'il y ait un intérêt des médias, de l'opinion publique, il faut nécessairement une actualité qui soit vendable. Or, le christianisme s'éteint à petit feu sans coup férir, sans massacres de masse. Si l'invasion de la plaine de Ninive dans le nord de l'Irak en 2014 par les sicaires de Daech avait suscité une vague d'émotion assez significative, surtout dans les rangs de la droite française ; on ne peut pas dire qu'il y a eu une mobilisation comparable pour l'Artsakh en septembre 2023. Seule ombre d'espoir dans ce tableau, le maintien dans des conditions héroïques des écoles chrétiennes, vecteur et actrices du vivre ensemble dans des sociétés profondément déchirées, le dynamisme du tissu associatif chrétien en Syrie, au Liban, le dynamisme des ONG qui leur vient en aide comme L'Œuvre d'Orient, Aide à Églises en détresse, etc.
 
-\
-<!--StartFragment-->
-
 La rédaction vous conseille
 
 * [Haut-Karabakh : une association de chrétiens d'Orient saisit la cour pénale internationale pour «crime de génocide et crimes contre l'humanité»](https://www.lefigaro.fr/actualite-france/haut-karabakh-une-association-de-chretiens-d-orient-saisit-la-cour-penale-internationale-pour-crime-de-genocide-et-crimes-contre-l-humanite-20231003)
@@ -78,6 +75,4 @@ La rédaction vous conseille
 * [Mgr Pascal Gollnisch: «Benoît XVI n'a pas voulu cacher la difficulté d'un islam violent ou extrémiste pour les chrétiens d'Orient»](https://www.lefigaro.fr/actualite-france/mgr-pascal-gollnisch-benoit-xvi-n-a-pas-voulu-cacher-la-difficulte-d-un-islam-violent-ou-extremiste-pour-les-chretiens-d-orient-20221231)\
   \
   \
-  \
-  <!--EndFragment-->\
   S﻿erge Tateossian le 29/12/2023   Source : Le Figaro
