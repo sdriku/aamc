@@ -10,25 +10,13 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/artsakh-refugiés.webp
 image: assets/img/artsakh-refugiés.webp
 ---
-
-
 # «Arménie, Irak, Syrie, Gaza... En 2023, la situation des chrétiens d’Orient s’est aggravée partout»
 
 Par [Ronan Planchon](https://www.lefigaro.fr/auteur/ronan-planchon)
 
 Publié le 22/12/2023 à 11:56, mis à jour le 22/12/2023 à 16:36
 
-* Copier le lien
 
-  Lien copié
-* [](mailto:?subject=Le%20Figaro%20-%20%C3%A0%20lire%20%3A%20%C2%ABArm%C3%A9nie%2C%20Irak%2C%20Syrie%2C%20Gaza...%20En%202023%2C%20la%20situation%20des%20chr%C3%A9tiens%20d%E2%80%99Orient%20s%E2%80%99est%20aggrav%C3%A9e%20partout%C2%BB&body=%C2%ABArm%C3%A9nie%2C%20Irak%2C%20Syrie%2C%20Gaza...%20En%202023%2C%20la%20situation%20des%20chr%C3%A9tiens%20d%E2%80%99Orient%20s%E2%80%99est%20aggrav%C3%A9e%20partout%C2%BB%0D%0A%0D%0AENTRETIEN%20-%20Dans%20une%20indiff%C3%A9rence%20relative%20ou%20%C3%A0%20g%C3%A9om%C3%A9trie%20variable%2C%20le%20nombre%20de%20chr%C3%A9tiens%20d%E2%80%99Orient%20n%E2%80%99a%20cess%C3%A9%20de%20diminuer%20cette%20ann%C3%A9e%2C%20alerte%20Tigrane%20Y%C3%A9gavian%2C%20chercheur%20%C3%A0%20l%27institut%20chr%C3%A9tiens%20d%27Orient%20et%20auteur%20de%20%C2%ABMinorit%C3%A9s%20d%27Orient%20les%20oubli%C3%A9s%20de%20l%27Histoire%C2%BB%20%28Rocher%29.%0D%0A%0D%0Ahttps%3A%2F%2Fwww.lefigaro.fr%2Fvox%2Fmonde%2Farmenie-irak-syrie-gaza-en-2023-la-situation-des-chretiens-d-orient-s-est-aggravee-partout-20231222 "Partager via e-mail")
-* [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.lefigaro.fr%2Fvox%2Fmonde%2Farmenie-irak-syrie-gaza-en-2023-la-situation-des-chretiens-d-orient-s-est-aggravee-partout-20231222&display=popup "Partager via Facebook")
-* [](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.lefigaro.fr%2Fvox%2Fmonde%2Farmenie-irak-syrie-gaza-en-2023-la-situation-des-chretiens-d-orient-s-est-aggravee-partout-20231222&text=Le%20Figaro%20-%20%C3%A0%20lire%20%3A%20%C2%ABArm%C3%A9nie%2C%20Irak%2C%20Syrie%2C%20Gaza...%20En%202023%2C%20la%20situation%20des%20chr%C3%A9tiens%20d%E2%80%99Orient%20s%E2%80%99est%20aggrav%C3%A9e%20partout%C2%BB "Partager via Twitter")
-* [](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.lefigaro.fr%2Fvox%2Fmonde%2Farmenie-irak-syrie-gaza-en-2023-la-situation-des-chretiens-d-orient-s-est-aggravee-partout-20231222 "Partager via Linkedin")
-
-Écouter cet article
-
-000:00/05:19
 
 ![Plus de 100.000 Arméniens ont fui le Haut-Karabakh après l'offensive de l'Azerbaïdjan.](<>)
 
