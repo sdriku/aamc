@@ -75,13 +75,9 @@ La rédaction vous conseille
 
 * [Haut-Karabakh : une association de chrétiens d'Orient saisit la cour pénale internationale pour «crime de génocide et crimes contre l'humanité»](https://www.lefigaro.fr/actualite-france/haut-karabakh-une-association-de-chretiens-d-orient-saisit-la-cour-penale-internationale-pour-crime-de-genocide-et-crimes-contre-l-humanite-20231003)
 * [Tigrane Yégavian: «Qui se soucie encore des chrétiens d'Orient ?»](https://www.lefigaro.fr/vox/monde/tigrane-yegavian-qui-se-soucie-encore-des-chretiens-d-orient-20230105)
-* [Mgr Pascal Gollnisch: «Benoît XVI n'a pas voulu cacher la difficulté d'un islam violent ou extrémiste pour les chrétiens d'Orient»](https://www.lefigaro.fr/actualite-france/mgr-pascal-gollnisch-benoit-xvi-n-a-pas-voulu-cacher-la-difficulte-d-un-islam-violent-ou-extremiste-pour-les-chretiens-d-orient-20221231)
-
-Sujets
-
-<!--EndFragment-->\
-\
-\
-\
-<!--EndFragment-->\
-S﻿erge Tateossian le 29/12/2023   Source : Le Figaro
+* [Mgr Pascal Gollnisch: «Benoît XVI n'a pas voulu cacher la difficulté d'un islam violent ou extrémiste pour les chrétiens d'Orient»](https://www.lefigaro.fr/actualite-france/mgr-pascal-gollnisch-benoit-xvi-n-a-pas-voulu-cacher-la-difficulte-d-un-islam-violent-ou-extremiste-pour-les-chretiens-d-orient-20221231)\
+  \
+  \
+  \
+  <!--EndFragment-->\
+  S﻿erge Tateossian le 29/12/2023   Source : Le Figaro
