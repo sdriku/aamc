@@ -3,9 +3,9 @@ title: "Arménie : petite histoire de la grenade - Հայաստան. նռան մ
 description: "Arménie : petite histoire de la grenade - Հայաստան. նռան մի փոքր պատմություն"
 summary: "Qu’on déambule sur le marché aux puces d’Erevan ou qu’on fasse le tour
   des étals de fruits et légumes de n’importe quelle bourgade d’Arménie, la
-  grenade est partout.  ​ 165 / 5 000 Résultats de traduction Résultat de
-  traduction Անկախ նրանից, թե դուք զբոսնում եք Երևանի շուկայով, թե շրջում եք
-  Հայաստանի որևէ քաղաքի մրգի և բանջարեղենի տաղավարներով, նուռն ամենուր է:"
+  grenade est partout.   Անկախ նրանից, թե դուք զբոսնում եք Երևանի շուկայով, թե
+  շրջում եք Հայաստանի որևէ քաղաքի մրգի և բանջարեղենի տաղավարներով, նուռն ամենուր
+  է:"
 date: 2024-01-01T23:53:56.289Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/grenade-arménie.jpg
