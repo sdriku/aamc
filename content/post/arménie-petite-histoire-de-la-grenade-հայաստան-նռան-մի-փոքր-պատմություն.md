@@ -17,18 +17,10 @@ image: assets/img/grenade-arménie.jpg
 # Arménie : petite histoire de la grenade
 
 \
-\
-\
-\
 [ Fruit](https://www.geo.fr/tag/fruit)SUIVRE CE THÈME
 
 ![Arménie : petite histoire de la grenade](assets/img/baby-mamy-noël.jpg)
 
-\
-\
-\
-\
-\
 \
 © Pixabay
 
