@@ -37,6 +37,8 @@ Après tout, elle est l’emblème de ce petit pays du Caucase, indépendant dep
 Ce fruit du paradis assure aussi une substantielle source de revenus aux paysans du sud. Notamment ceux de Nrnadzor, un village montagneux dont le nom signifie «vallée aux grenades». Les grenadiers, arbustes pouvant vivre jusqu’à deux siècles, s’y déploient à perte de vue. Avant la récolte automnale, leurs fleurs rouge vif constellent les coteaux. D’une qualité exceptionnelle, les fruits sont cueillis à la main. Les plus gros sont envoyés à la capitale, les plus petits servent à concocter un vin doux et sucré qui n’est pas sans rappeler le porto ou le xérès. A Nrnadzor, les agriculteurs sont parfois considérés comme des héros… car il leur faut composer avec les humeurs des ours ! Les plantigrades font régulièrement des razzias dans leurs vergers : humains ou animaux, tous en Arménie raffolent de la **grenade**.
 
 ## \
+
+A﻿ lire : Exposition Grenade\
 https://www.armenia.fr/index.php?option=com_content&view=article&id=81&Itemid=87\
 \
 \
