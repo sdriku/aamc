@@ -1,5 +1,6 @@
 ---
-title: "Arménie : petite histoire de la grenade - Հայաստան. նռան մի փոքր պատմություն"
+title: "Arménie : petite histoire de la grenade - Հայաստան. նռան մի փոքր
+  պատմություն  Serge Tateossian Source : Geo Magazine "
 description: "Arménie : petite histoire de la grenade - Հայաստան. նռան մի փոքր պատմություն"
 summary: "Qu’on déambule sur le marché aux puces d’Erevan ou qu’on fasse le tour
   des étals de fruits et légumes de n’importe quelle bourgade d’Arménie, la
