@@ -36,7 +36,11 @@ Après tout, elle est l’emblème de ce petit pays du Caucase, indépendant dep
 
 Ce fruit du paradis assure aussi une substantielle source de revenus aux paysans du sud. Notamment ceux de Nrnadzor, un village montagneux dont le nom signifie «vallée aux grenades». Les grenadiers, arbustes pouvant vivre jusqu’à deux siècles, s’y déploient à perte de vue. Avant la récolte automnale, leurs fleurs rouge vif constellent les coteaux. D’une qualité exceptionnelle, les fruits sont cueillis à la main. Les plus gros sont envoyés à la capitale, les plus petits servent à concocter un vin doux et sucré qui n’est pas sans rappeler le porto ou le xérès. A Nrnadzor, les agriculteurs sont parfois considérés comme des héros… car il leur faut composer avec les humeurs des ours ! Les plantigrades font régulièrement des razzias dans leurs vergers : humains ou animaux, tous en Arménie raffolent de la **grenade**.
 
-## Comment manger la grenade
+## \
+https://www.armenia.fr/index.php?option=com_content&view=article&id=81&Itemid=87\
+\
+\
+Comment manger la grenade
 
 Typique du Caucase et de l’Asie centrale, le grenadier est aujourd’hui cultivé dans le bassin méditerranéen, et jusqu’en Amérique, depuis que les conquistadores l’y ont importé. Les fruits que l’on trouve en France proviennent souvent d’Espagne ou d’Italie. Mais les déguster n’est pas si aisé. La bonne méthode consiste à d’abord couper la couronne de la grenade, ainsi que sa base. Puis à entailler sa peau verticalement, en traçant cinq quartiers, pour qu’elle s’ouvre facilement. Cette baie se savoure nature, mais elle peut aussi réveiller un bol de yaourt, apporter une note de fraîcheur à un tzatziki ou faire des miracles sur des huîtres… Et la mélasse de **grenade**, un sirop aigre-doux qu’on trouve dans les épiceries orientales, s’utilise comme du vinaigre balsamique.
 
