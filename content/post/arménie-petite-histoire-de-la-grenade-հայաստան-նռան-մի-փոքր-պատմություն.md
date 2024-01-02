@@ -16,10 +16,24 @@ image: assets/img/grenade-arménie.jpg
 
 # Arménie : petite histoire de la grenade
 
+\
+\
+\
+\
+\
+\
+\
+\
 [ Fruit](https://www.geo.fr/tag/fruit)SUIVRE CE THÈME
 
 ![Arménie : petite histoire de la grenade](assets/img/baby-mamy-noël.jpg)
 
+\
+\
+\
+\
+\
+\
 © Pixabay
 
 Qu’on déambule sur le marché aux puces d’Erevan ou qu’on fasse le tour des étals de fruits et légumes de n’importe quelle bourgade d’[Arménie](https://www.geo.fr/destinations/armenie), la grenade est partout.
