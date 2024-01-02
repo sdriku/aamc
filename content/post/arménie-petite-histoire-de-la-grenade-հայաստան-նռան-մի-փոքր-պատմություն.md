@@ -17,7 +17,7 @@ image: assets/img/grenade-arménie.jpg
 
 [ Fruit](https://www.geo.fr/tag/fruit)SUIVRE CE THÈME
 
-![Arménie : petite histoire de la grenade](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
+![Arménie : petite histoire de la grenade](assets/img/baby-mamy-noël.jpg)
 
 © Pixabay
 
@@ -28,8 +28,6 @@ Qu’on déambule sur le marché aux puces d’Erevan ou qu’on fasse le tour d
 SAUVEGARDER L'ARTICLE
 
 Partager sur :
-
-
 
 * https://www.geo.fr/voyage/armenie-petite-histoire-de-la-grenade-193386
 
