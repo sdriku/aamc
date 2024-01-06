@@ -11,8 +11,6 @@ image: assets/img/roi-d-arménie-tigrane-ii.jpg
 \
 **[Levan Tonaganyan](https://www.facebook.com/groups/1424720167832570/user/100011147265552/?__cft__[0]=AZU4Eyw0Zb5fNwkkKl6kEd_RU624AHzFEtXPFGeggFovor1UkZtnS6fWzbaeshjd0K_PdN5q4ky3K-cCQ7dgu89EQgjNX2KwktcfD2NGAT6PajH6lOmtRx71WN4q4996aHbvormwwRQBChPZjddG8ZGiWUWuFBtSDKW9URtDsGEDW7KzHX-LMoAShw0nXmZP-0bBpyRz65sRLsSN3ZV53ySu&__tn__=-UC%2CP-y-R) : [TROY (TROİA) and ancient civilizations.](https://www.facebook.com/groups/1424720167832570/?__cft__[0]=AZU4Eyw0Zb5fNwkkKl6kEd_RU624AHzFEtXPFGeggFovor1UkZtnS6fWzbaeshjd0K_PdN5q4ky3K-cCQ7dgu89EQgjNX2KwktcfD2NGAT6PajH6lOmtRx71WN4q4996aHbvormwwRQBChPZjddG8ZGiWUWuFBtSDKW9URtDsGEDW7KzHX-LMoAShw0nXmZP-0bBpyRz65sRLsSN3ZV53ySu&__tn__=-UC%2CP-y-R)**
 
- 
-
  · 
 
 > L'historien grec Plutarque a témoigné que le premier Théâtre ancien arménien connu a été construit sous le règne de Tigranes II le Grand Roi d'Arménie qui a ouvert le premier théâtre public à Tigranakert. Le roi Artavasdes II d'Arménie a été considéré comme le premier dramaturge arménien, qui a construit le deuxième théâtre et y a organisé des spectacles. Le roi Artavasdes II d'Arménie et le roi Orodes II de l'Empire Parthien célébraient leur victoire sur le général romain Crassus à la bataille de Carrhae dans le palais royal d'Artashat. Dans le palais, la performance de l'Euripide joue The Bacchae, selon Plutarque y a été présentée.
@@ -48,8 +46,4 @@ The Armenian theatre of the Armenian Kingdom of Cilicia was considered one of th
 Among the significant antecedents of professional theatre were folk theater performances of all kinds. In particular, the original gusan theatre, which developed in genres such as tragedy, comedy, and clowning, gained great popularity.\
 In the 18th century, original plays in classical Armenian and translations of European plays were published. They attracted a secular audience. The pioneer efforts of the Mekhitarists represented an important step in the development of Western Armenian theatre. 
 
-Serge Tateossian le 06/01/2024 Source : **[Levan Tonaganyan](https://www.facebook.com/groups/1424720167832570/user/100011147265552/?__cft__[0]=AZU4Eyw0Zb5fNwkkKl6kEd_RU624AHzFEtXPFGeggFovor1UkZtnS6fWzbaeshjd0K_PdN5q4ky3K-cCQ7dgu89EQgjNX2KwktcfD2NGAT6PajH6lOmtRx71WN4q4996aHbvormwwRQBChPZjddG8ZGiWUWuFBtSDKW9URtDsGEDW7KzHX-LMoAShw0nXmZP-0bBpyRz65sRLsSN3ZV53ySu&__tn__=-UC%2CP-y-R)** 
-
->  
->
->
+Serge Tateossian le 06/01/2024 Source : **[Levan Tonaganyan](https://www.facebook.com/groups/1424720167832570/user/100011147265552/?__cft__[0]=AZU4Eyw0Zb5fNwkkKl6kEd_RU624AHzFEtXPFGeggFovor1UkZtnS6fWzbaeshjd0K_PdN5q4ky3K-cCQ7dgu89EQgjNX2KwktcfD2NGAT6PajH6lOmtRx71WN4q4996aHbvormwwRQBChPZjddG8ZGiWUWuFBtSDKW9URtDsGEDW7KzHX-LMoAShw0nXmZP-0bBpyRz65sRLsSN3ZV53ySu&__tn__=-UC%2CP-y-R)**
