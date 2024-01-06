@@ -9,6 +9,7 @@ thumbnailImage: assets/img/tigrane-le-grand.jpg
 image: assets/img/roi-d-arménie-tigrane-ii.jpg
 ---
 \
+**Տիգրան Մեծ**\
 **Tigrane le Grand**\
 \
 Tigrane II, plus communément connu sous le nom de Tigrane le Grand (en arménien se prononce : Tigran Mets ; grec ancien : Τιγράνης ὁ Μέγας Tigránes ho Mégas ; latin : Tigranes Magnus) (140 - 55 av. J.-C.) était le roi d'Arménie sous lequel le pays devint, pendant une courte période, l'État le plus fort à l'est de Rome. Il était membre de la maison royale Artaxiad. Sous son règne, le royaume arménien s'étendit au-delà de ses frontières traditionnelles, permettant à Tigrane de revendiquer le titre de Grand Roi et impliquant l'Arménie dans de nombreuses batailles contre des adversaires tels que les empires parthe et séleucide et la République romaine.\
