@@ -1,6 +1,6 @@
 ---
-title: "Tigrane II Roi d'Arménie et les anciennes civilisations "
-description: "Tigrane II Roi d'Arménie et les anciennes civilisations "
+title: Tigrane II Roi d'Arménie et les anciennes civilisations - Տիգրան Մեծ
+description: Tigrane II Roi d'Arménie et les anciennes civilisations - Տիգրան Մեծ
 summary: Tigrane II Roi d'Arménie et les anciennes civilisations selon
   l'historien et philosophe grec Plutarque
 date: 2024-01-06T22:32:56.813Z
