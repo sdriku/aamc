@@ -4,8 +4,8 @@ description: Gabriel ATTAL nommé Premier ministre du gouvernement français
 summary: Gabriel ATTAL nommé Premier ministre du gouvernement français
 date: 2024-01-09T15:27:27.391Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/gabriel-attal-2023.jpg
-image: assets/img/gabriel-attal-premier-ministre.webp
+thumbnailImage: assets/img/gabriel-attal-premier-ministre.webp
+image: assets/img/gabriel-attal-2023.jpg
 ---
 Photo : 25 avril 2022 Paris devant la stèle de KOMITAS lieu de mémoire.\
 Le **Monument en hommage à Komitas** est un monument commémoratif aux [Arméniens](https://fr.wikipedia.org/wiki/Arméniens) victimes du [génocide de 1915](https://fr.wikipedia.org/wiki/Génocide_arménien) et aux combattants arméniens [morts pour la France](https://fr.wikipedia.org/wiki/Mort_pour_la_France).\
