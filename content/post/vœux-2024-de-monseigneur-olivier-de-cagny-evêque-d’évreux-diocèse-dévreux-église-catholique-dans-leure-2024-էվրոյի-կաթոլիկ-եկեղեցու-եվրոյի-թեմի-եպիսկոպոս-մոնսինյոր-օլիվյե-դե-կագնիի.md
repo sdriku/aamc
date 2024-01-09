@@ -1,6 +1,6 @@
 ---
 title: Vœux 2024 de Monseigneur Olivier de Cagny, Evêque d’Évreux  Diocèse
-  D'Évreux Église Catholique dans l'Eure - 2024 Էվրոյի կաթոլիկ եկեղեցու Եվրոյի
+  D'Évreux Église Catholique dans l'Eure  - 2024 Էվրոյի կաթոլիկ եկեղեցու Եվրոյի
   թեմի եպիսկոպոս Մոնսինյոր Օլիվյե դե Կագնիի մաղթանքները
 description: "Vœux de 2024 Monseigneur Olivier de Cagny Evêque d'Evreux "
 summary: "Vœux 2024 de Monseigneur Olivier de Cagny, Evêque d’Évreux  Diocèse
