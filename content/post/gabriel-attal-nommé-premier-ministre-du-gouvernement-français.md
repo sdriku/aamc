@@ -1,5 +1,6 @@
 ---
-title: Gabriel ATTAL nommé Premier ministre du gouvernement français
+title: Gabriel ATTAL nommé Premier ministre du gouvernement français - Գաբրիել
+  ԱՏՏԱԼ-ը նշանակվել է Ֆրանսիայի կառավարության վարչապետ
 description: Gabriel ATTAL nommé Premier ministre du gouvernement français
 summary: Gabriel ATTAL nommé Premier ministre du gouvernement français
 date: 2024-01-09T15:27:27.391Z
