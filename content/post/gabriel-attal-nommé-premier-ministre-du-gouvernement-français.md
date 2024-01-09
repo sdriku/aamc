@@ -19,6 +19,7 @@ Je représentais hier le Président\
 \
 Gabriel ATTAL nommé Premier ministre du gouvernement français le 09/01/2024\
 \
+
 <!--StartFragment-->
 
 [ÉLECTIONS LÉGISLATIVES](https://www.radiofrance.fr/politique/elections/elections-legislatives)
@@ -93,4 +94,6 @@ Gabriel Attal a révélé en novembre 2023, dans l'émission Sept à huit, avoir
 
 Bien qu'il ne le nomme jamais, on reconnaît entre les lignes l'avocat Juan Branco, auteur du pamphlet Crépuscule. Dans cet ouvrage, une quarantaine de pages sont consacrées à Gabriel Attal. Juan Branco y "oute" la relation du jeune macroniste avec Stéphane Séjourné, 36 ans, député européen et conseiller politique d’Emmanuel Macron. En octobre 2021, [un article fleuve du monde décrit](https://www.lemonde.fr/m-le-mag/article/2021/10/31/stephane-sejourne-et-gabriel-attal-un-couple-au-c-ur-du-pouvoir_6100485_4500055.html) "ce couple au cœur du pouvoir" et décrit l'ascension de l’un (Attal), quand le second (Séjourné) est parti à Bruxelles. Dans un portrait de Libération, Gabriel Attal "*laisse entendre qu'il ne serait pas contre une GPA ‘éthique’, pour avoir un enfant, si c'était légal en France.*"
 
+S﻿erge Tateossian le 09 janvier 2024   Source : AFP\
+\
 <!--EndFragment-->
