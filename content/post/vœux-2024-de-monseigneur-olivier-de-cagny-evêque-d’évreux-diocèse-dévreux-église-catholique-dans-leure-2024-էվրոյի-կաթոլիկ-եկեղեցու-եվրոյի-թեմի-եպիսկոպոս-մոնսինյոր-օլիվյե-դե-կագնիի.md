@@ -10,7 +10,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/evêque-d-evreux-monseigneur-olivier-de-cagny.jpg
 image: assets/img/evêque-d-evreux-monseigneur-olivier-de-cagny.jpg
 ---
-https://youtu.be/ARikDk-ckYA\
+Lire : https://youtu.be/ARikDk-ckYA\
 \
 \
 Depuis le [2](https://fr.wikipedia.org/wiki/2_juin) [juin](https://fr.wikipedia.org/wiki/Juin_2023) [2023](https://fr.wikipedia.org/wiki/2023) il succède à Monseigneur Christian Nourrichard\
