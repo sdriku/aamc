@@ -155,8 +155,6 @@ au sein de la collectivité qui nous réunit, notre belle ville
 
 d’Évreux.
 
-
-
 Former des vœux c’est d’abord regarder les 12 derniers mois qui
 
 viennent de s’écouler. Pour en faire le bilan. Avec lucidité.
@@ -167,15 +165,11 @@ politique sans précédent.
 
 Il est aussi divisé.
 
-
-
 La crise morale que j’évoque, c’est aussi la remise en cause
 
 des valeurs humanistes inscrites dans notre Constitution et qui
 
 sont bafouées.
-
-
 
 Nous avons avancé pour renforcer nos atouts, combler nos carences.
 
@@ -187,8 +181,6 @@ La ville d’Evreux poursuit sa rénovation, en centre-ville
 
 comme dans tous ses quartiers.
 
-
-
 Les habitants de Navarre ont
 
 beaucoup apprécié car enfin, ça bouge à Navarre
@@ -196,8 +188,6 @@ beaucoup apprécié car enfin, ça bouge à Navarre
 et encore un peu plus avec les premiers mois du chantier de
 
 construction de la future Maison de quartier, attendue elle aussi
-
-
 
 Oui, bâtir l’avenir de notre territoire est une ambition permanente.
 
@@ -210,8 +200,6 @@ Face aux déserts médicaux, et devant l’attente immense de nos
 concitoyens, il était de notre devoir d’apporter des solutions aux
 
 habitants de notre territoire .
-
-
 
 Nous n’allons pas nous arrêter là car la désertification médicale nous
 
@@ -241,8 +229,6 @@ l’aménagement de la zone de Cambolle, face l’hôpital, qui a suscité
 
 la candidature de plusieurs aménageurs, preuve s’il en était besoin que
 
-
-
 nos visions d’avenir sont partagés par des opérateurs privés qui ont
 
 fait leur preuve et qui, comme nous, croient à Évreux et veulent
@@ -257,8 +243,6 @@ entière que nous n’avons jamais perdu de vue,
 
 et de la dernière tranche de travaux de rénovation en centre-ville,
 
-
-
 2024 sera aussi l’année des cérémonies commémoratives du
 
 Débarquement allié en Normandie et de la Libération de notre
@@ -269,23 +253,17 @@ région et de notre ville.
 
 vous qui auront une audience internationale.
 
-
-
 Aussi ces commémorations seront pour nous tous, l’occasion de
 
 d’honorer la mémoire et le sacrifice d’hommes et de femmes venus du
 
 monde entier pour nous libérer, pour que vivent à nouveau sur notre sol, les valeurs que j’évoquais au début de ce discours et qui sont le ferment de notre devise liberté, égalité, fraternité.
 
-
-
 Évreux s’affirme plus que jamais comme la capitale de l’Eure,
 
 riche de son passé, fier de son patrimoine, confiante dans son
 
 avenir, fiers de ce que vous et nous faisons pour elle.
-
-
 
 Je veux terminer par une citation de cette femme exceptionnelle qu’était
 
@@ -310,5 +288,6 @@ Vive la République et Vive la France
 Vive Evreux
 
 Merci.\
+\
 \
 Guy LEFRAND
