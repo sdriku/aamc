@@ -47,4 +47,6 @@ Thomas Boraud, qui est aussi directeur de recherche au CNRS (Centre national de 
 
 **« Dans une finalité purement médicale, cette étude est intéressante,** souligne-t-il, **car si l’on arrivait à faire chez des patients des tests montrant qu’ils ont un ralentissement psychomoteur, tout en mettant en évidence que leur temps de réaction mentale a augmenté par rapport à des sujets du même âge, cela pourrait permettre de révéler un signe précoce de la maladie d’Alzheimer, de démence et éventuellement de Parkinson. »**
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+S﻿erge Tateossian le 10/01/2024     Source : Edition du soir Magazine
