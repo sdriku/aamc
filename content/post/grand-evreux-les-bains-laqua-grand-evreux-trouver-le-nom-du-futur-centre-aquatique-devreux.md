@@ -11,9 +11,7 @@ image: assets/img/centre-aquatique.jpeg
 ---
 GRAND EVREUX-LES-BAINS ? L'AQUA GRAND-EVREUX ? - Trouver le nom du futur centre aquatique d'Evreux !\
 \
-\
-https://www.paris-normandie.fr/id481018/article/2024-01-05/quel-nom-pour-le-futur-centre-aquatique-devreux-les-habitants-du-territoire-ont﻿\
-\
+https://www.paris-normandie.fr/id481018/article/2024-01-05/quel-nom-pour-le-futur-centre-aquatique-devreux-les-habitants-du-territoire-ont﻿
 
 <!--StartFragment-->
 
