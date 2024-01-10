@@ -13,6 +13,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/guy-lefrand-voeux-2024.jpg
 image: assets/img/guy-lefrand-voeux-2024.jpg
 ---
+Serge Tateossian 10/01/2024\
+\
 Պարոն պրեֆեկտ;\
 Իմ տիրակալ ;\
 Տիկին, պարոնայք սենատորներ;\
