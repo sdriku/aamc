@@ -43,7 +43,5 @@ Le nom doit respecter trois critères souligne l’Agglo, à savoir : l’ident
 
 Les travaux du centre nautique doivent démarrer au printemps 2024 pour une livraison en 2026.
 
-**Sur Internet : [https://jeparticipe.epn-agglo.fr/profile/organization/evreux-portes-de-n...](https://jeparticipe.epn-agglo.fr/profile/organization/evreux-portes-de-normandie)**
-
-\
+**Sur Internet : [https://jeparticipe.epn-agglo.fr/profile/organization/evreux-portes-de-n...](https://jeparticipe.epn-agglo.fr/profile/organization/evreux-portes-de-normandie)**\
 S﻿erge Tateossian  Le 10/01/2024        Source : Paris Normandie
