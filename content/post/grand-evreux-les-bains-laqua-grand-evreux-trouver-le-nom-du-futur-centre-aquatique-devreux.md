@@ -27,7 +27,7 @@ Vue sur le bassin sportif du futur centre aquatique d’Évreux - Document Moon 
 
 Par la rédaction
 
-Publié:5 Janvier 2024 à 09h39Temps de lecture:1 minPartage :
+Publié:5 Janvier 2024 à 09h39Temps de lecture:1 min
 
 « Plif, plaf, plouf » ? « Grand Évreux Spash » ? Et vous, [quel nom donneriez-vous au futur centre aquatique](https://jeparticipe.epn-agglo.fr/project/centre-aquatique/presentation/presentation-du-projet) d’[Évreux](https://www.paris-normandie.fr/29002/sections/evreux) ?
 
