@@ -1,7 +1,7 @@
 ---
 title: "GUY LEFRAND Maire d'Evreux et Président de Evreux Portes de Normandie  -
-  Vœux 2024 ԳիՅ ԼԵՖՐԱՆ Evreux-ի քաղաքապետ և Evreux Portes de Normandie-ի նախագահ
-  - Մաղթանքներ 2024 թ. "
+  Vœux 2024 (Résumé des vœux) ԳիՅ ԼԵՖՐԱՆ Evreux-ի քաղաքապետ և Evreux Portes de
+  Normandie-ի նախագահ - Մաղթանքներ 2024 թ. "
 description: "Guy LEFRAND Vœux 2024 - GUY LEFRAND Maire d'Evreux et Président de
   Evreux Portes de Normandie  - Vœux 2024 ԳիՅ ԼԵՖՐԱՆ Evreux-ի քաղաքապետ և Evreux
   Portes de Normandie-ի նախագահ - Մաղթանքներ 2024 թ. "
