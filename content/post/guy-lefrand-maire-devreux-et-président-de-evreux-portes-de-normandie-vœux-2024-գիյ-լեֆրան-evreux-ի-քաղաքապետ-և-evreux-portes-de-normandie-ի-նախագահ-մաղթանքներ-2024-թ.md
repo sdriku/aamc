@@ -116,9 +116,6 @@ Evreux կայարանի վերակառուցում, քաղաքի առանձին 
 ԳԻյ ԼԵՖՐԱՆ\
 \
 \
-\
-\
-\
 Monsieur le préfet ;
 
 Monseigneur ;
