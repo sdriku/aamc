@@ -45,4 +45,5 @@ Les travaux du centre nautique doivent démarrer au printemps 2024 pour une livr
 
 **Sur Internet : [https://jeparticipe.epn-agglo.fr/profile/organization/evreux-portes-de-n...](https://jeparticipe.epn-agglo.fr/profile/organization/evreux-portes-de-normandie)**
 
-<!--EndFragment-->
+<!--EndFragment-->\
+S﻿erge Tateossian  Le 10/01/2024        Source : Paris Normandie
