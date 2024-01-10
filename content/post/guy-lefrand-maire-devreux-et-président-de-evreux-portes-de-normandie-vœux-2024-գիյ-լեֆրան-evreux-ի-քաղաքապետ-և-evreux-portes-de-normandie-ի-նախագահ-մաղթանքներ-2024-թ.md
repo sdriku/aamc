@@ -291,7 +291,6 @@ Vive Evreux
 
 Merci.\
 \
-\
 Lundi 8 janvier 2024 - Halles des expositions Evreux \
 \
 Guy LEFRAND
