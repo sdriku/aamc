@@ -1,6 +1,6 @@
 ---
-title: Appel à Israël à reconnaître maintenant le génocide arménien - Իսրայելին
-  կոչ արեք ճանաչել Հայոց ցեղասպանությունը
+title: "Génocide arménien : Appel à Israël à reconnaître maintenant le génocide
+  arménien - Իսրայելին կոչ արեք ճանաչել Հայոց ցեղասպանությունը"
 description: Nadav Shragai - Génocide arménien - Israël -
 summary: Cet appel est lancé par Nadav Shragai, écrivain et journaliste qui a
   longtemps travaillé pour Haaretz. Il a été publié cette opinion sur le site
