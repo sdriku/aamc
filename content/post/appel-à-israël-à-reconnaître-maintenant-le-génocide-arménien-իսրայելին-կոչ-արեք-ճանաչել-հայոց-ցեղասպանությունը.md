@@ -10,13 +10,12 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/israël-reconnaissance-go-2024.jpg
 image: assets/img/israël-reconnaissance-go-2024.jpg
 ---
-A﻿rticle paru sur ISRAEL HAYOM : https://www.israelhayom.com/2024/01/14/recognize-the-armenian-genocide-now/\
+https://www.israelhayom.com/2024/01/14/recognize-the-armenian-genocide-now/\
 \
+
 <!--StartFragment-->
 
 # Appel à Israël à reconnaître maintenant le génocide arménien
-
-
 
 ![](https://www.armenews.com/local/cache-gd2/1e/e144d02f75e35d66fa1a72793a9521.jpg)
 
