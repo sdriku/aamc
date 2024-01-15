@@ -10,6 +10,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/israël-reconnaissance-go-2024.jpg
 image: assets/img/israël-reconnaissance-go-2024.jpg
 ---
+Article paru dans Israël Hayom : \
 https://www.israelhayom.com/2024/01/14/recognize-the-armenian-genocide-now/\
 \
 
