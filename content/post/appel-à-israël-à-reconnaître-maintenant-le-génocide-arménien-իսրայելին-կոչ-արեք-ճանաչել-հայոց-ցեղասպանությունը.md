@@ -60,4 +60,6 @@ Il y a des questions qui vont au-delà de la politique et de la diplomatie« , 
 par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le lundi 15 janvier 2024\
 © armenews.com 2024
 
+https://www.lemonde.fr/idees/article/2018/06/04/nous-demandons-a-l-etat-d-israel-de-reconnaitre-le-genocide-des-armeniens_5309391_3232.html\
+\
 <!--EndFragment-->
