@@ -6,7 +6,7 @@ summary: "Notre Chère Aïda vient de franchir la barre des cent ans en bonne
   Մենք նրան շատ շնորհավորում ենք ծննդյան տարեդարձը:"
 date: 2024-01-16T00:46:20.702Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/aïda-aznavour-101-ans.png
+thumbnailImage: assets/img/aïda-2.png
 image: assets/img/aïda-aznavour-101-ans.png
 ---
 https://www.armenews.com/spip.php?page=article&id_article=111754
