@@ -33,7 +33,7 @@ Aïda, sœur ainée de Charles Aznavour est née à Salonique le 13 janvier 1923
 \
 Fuyant le génocide de 1915 perpétré par les autorités turques, les Aznavourian embarquent à Istanbul (Constantinople en son temps), puis se réfugient un temps à Salonique où naît leur fille Aïda.\
 \
-Ils rêventde l'Amérique, et se retrouvent en transit en France comme la plus part des émigrés durant cet exode. Une escale s'éternise, le quota d'immigration pour les Etats-Unis étant dépassé. L'attente est interminable, en outre, Knar (la maman) est enceinte . La perspective d'un voyage de plusieurs semaines pour tout recommencer dès leur arrivée à Ellis Island les freine dans leur élan. Adieu New York, donc,,,\
+Ils rêvent de l'Amérique, et se retrouvent en transit en France comme la plus part des émigrés durant cet exode. Une escale s'éternise, le quota d'immigration pour les Etats-Unis étant dépassé. L'attente est interminable, en outre, Knar (la maman) est enceinte . La perspective d'un voyage de plusieurs semaines pour tout recommencer dès leur arrivée à Ellis Island les freine dans leur élan. Adieu New York, donc,,,\
 \
 La famille Aznavourian s'installe boulevard Brune, puis dans un petit meublé du 5e arrondissement : « J'ai ouvert les yeux sur un meublé triste / Rue Monsieur-Le-Prince au Quartier latin ,,, » Charles Aznavour quelques décennies plus tard (Autobiographie 1980)\
 \
