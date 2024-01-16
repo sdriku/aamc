@@ -9,13 +9,11 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/aïda-aznavour-101-ans.png
 image: assets/img/aïda-aznavour-101-ans.png
 ---
-https://www.armenews.com/spip.php?page=article&id_article=111754\
-\
+https://www.armenews.com/spip.php?page=article&id_article=111754
+
 <!--StartFragment-->
 
 # Aïda Aznavour a 101 ans
-
-
 
 ![](https://www.armenews.com/IMG/arton111754.png)
 
@@ -27,6 +25,7 @@ par [Jean Eckian](https://www.armenews.com/spip.php?page=auteur&id_auteur=34) 
 © armenews.com 2024
 
 <!--EndFragment-->\
+
 \
 \
 -------------------------------------------------------------\
