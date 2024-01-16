@@ -11,13 +11,11 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/sénat.jpg
 image: assets/img/sénat.jpg
 ---
- Mercredi, le Sénat va-t-il condamner l'Azerbaidjan et demander le droit au retour des arméniens au Haut-Karabakh\
-\
+ Mercredi, le Sénat va-t-il condamner l'Azerbaidjan et demander le droit au retour des arméniens au Haut-Karabakh
+
 <!--StartFragment-->
 
 # Les sénateurs examineront ce mercredi une proposition de résolution visant à condamner l’Azerbaïdjan et à garantir le droit au retour des Arméniens au Haut-Karabagh
-
-
 
 ![](https://www.armenews.com/local/cache-gd2/3b/991112932f4599ce2ae9a5d8fa904c.jpg)
 
