@@ -13,6 +13,7 @@ L﻿ire aussi (vidéo) : https://www.publicsenat.fr/actualites/international/hau
 \
 L﻿a France insoumise veut durcir la proposition de résolution européenne contre l'Azerbaidjan \
 \
+
 <!--StartFragment-->
 
 Les députés NUPES ont déposé une série d’amendements visant à durcir le texte de la proposition de résolution européenne lancée par Anne-Laurence Pétel, cosignée par vingt autres députés du groupe d’amitié France-Arménie qui sera examinée par la commission des Affaires européennes de l’Assemblée nationale mercredi 17 janvier. « L’UE s’est tournée vers le gaz et le pétrole azerbaïdjanais dans un contexte d’invasion russe de l’Ukraine, en bafouant son engagement de se tenir du côté des Arméniens. Nous déposons également un amendement succinct qui a pour objectif de demander à l’Union européenne d’en finir avec ses accords gaziers et pétroliers avecl’Azerbaïdjan. L’UE s’est tournée vers le gaz et le pétrole azerbaïdjanais dans un contexte d’invasion russe de l’Ukraine, en bafouant son engagement de se tenir du côtédes Arméniens. Nous déposons également un amendement succinct qui a pour objectif de demander à l’Union européenne d’en finir avec ses accords gaziers et pétroliers avecl’Azerbaïdjan » explique LFI dans les motifs de l’un de ses amendements.\
@@ -23,4 +24,7 @@ on apprenait en milieu d’après-midi que ses amendements n’ont toutefois pas
 par [La rédaction](https://www.armenews.com/spip.php?page=auteur&id_auteur=4) le mercredi 17 janvier 2024\
 © armenews.com 2024
 
+https://fr.euronews.com/my-europe/2023/09/20/haut-karabakh-les-eurodeputes-demandent-des-sanctions-contre-lazerbaidjan-et-estiment-que-\
+\
+\
 <!--EndFragment-->
