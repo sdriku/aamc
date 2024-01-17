@@ -24,7 +24,6 @@ on apprenait en milieu d’après-midi que ses amendements n’ont toutefois pas
 par [La rédaction](https://www.armenews.com/spip.php?page=auteur&id_auteur=4) le mercredi 17 janvier 2024\
 © armenews.com 2024
 
-https://fr.euronews.com/my-europe/2023/09/20/haut-karabakh-les-eurodeputes-demandent-des-sanctions-contre-lazerbaidjan-et-estiment-que-\
-\
-\
+https://fr.euronews.com/my-europe/2023/09/20/haut-karabakh-les-eurodeputes-demandent-des-sanctions-contre-lazerbaidjan-et-estiment-que-
+
 <!--EndFragment-->
