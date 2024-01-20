@@ -1,5 +1,5 @@
 ---
-title: "Histoire : Le Conservatoire d'Evreux, ancien couvent des capucins
+title: "Evreux Histoire : Le Conservatoire d'Evreux, ancien couvent des capucins
   ...Պատմություն. Evreux կոնսերվատորիա, նախկին կապուչինների մենաստան..."
 description: "Conservatoire d'Evreux - Couvent des capucins "
 summary: "Histoire : Le Conservatoire d'Evreux, ancien couvent des capucins ..."
@@ -8,19 +8,13 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/conservatoire-evreux.jpg
 image: assets/img/conservatoire-evreux2.jpg
 ---
-**Histoire : Le Conservatoire d'Evreux, ancien couvent des capucins ...**
-
-
+**EVREUX Histoire : Le Conservatoire d'Evreux, ancien couvent des capucins ..**
 
 En 1799, l'école centrale s'établit dans l'ancien couvent des capucins fermé en 1790 et transformé en prison en 1994. L'établissement devient collège en 1804, puis lycée impérial en 1854. Entre-temps, on lui a annexé une école primaire supérieure, en 1835. De nouveaux bâtiments sont construits à cette occasion, notamment à l'emplacement de l'ancienne église abbatiale.
 
-
-
-Transformé en hôpital durant la Grande Guerre, le lycée déménage en 1958 vers les bâtiments de la nouvelle cité scolaire. Il prend le nom d'Aristide Briand en 1968. Les bâtiments de la rue Jean-Jaurès sont réamenagés en 1962 et abritent le collège du même nom qui y réside jusqu'en 1996, année de son départ vers la rue de la Justice. Les locaux sont alors attribués à l'école nationale de musique.
+Transformé en hôpital durant la Grande Guerre, le lycée déménage en 1958 vers les bâtiments de la nouvelle cité scolaire. Il prend le nom d'Aristide Briand en 1968. Les bâtiments de la rue Jean-Jaurès sont réaménagés en 1962 et abritent le collège du même nom qui y réside jusqu'en 1996, année de son départ vers la rue de la Justice. Les locaux sont alors attribués à l'école nationale de musique.
 
 De nos jours, le conservatoire est géré par l'agglomération Evreux Portes de Normandie et se veut à rayonnement départemental.
-
-
 
 Adresse : 12 ter, rue Jean-Jaurès 27000 Evreux.\
 \
