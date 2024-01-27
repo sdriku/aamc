@@ -14,7 +14,6 @@ image: assets/img/géorgie-arménie.jpg
 
 # Géorgie 
 
-\
 Irakli Gharinachvili le Premier ministre de Géorgie : de facto, nous étions déjà des partenaires stratégiques de l’Arménie, aujourd’hui cette réalité a été formulée
 
 De facto, nous étions déjà des amis et des partenaires stratégiques. Aujourd’hui, nous pouvons déjà dire que cette réalité a été formulée et aujourd’hui nous avons officiellement signé un accord de coopération sur le partenariat stratégique.
