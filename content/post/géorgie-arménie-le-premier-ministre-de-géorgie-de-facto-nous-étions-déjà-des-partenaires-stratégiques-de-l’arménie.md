@@ -15,6 +15,7 @@ image: assets/img/géorgie-arménie.jpg
 # Géorgie 
 
 <!--EndFragment-->\
+
 \
 Irakli Gharinachvili le Premier ministre de Géorgie : de facto, nous étions déjà des partenaires stratégiques de l’Arménie, aujourd’hui cette réalité a été formulée
 
@@ -24,6 +25,8 @@ Signature annoncée aujourd’hui par le Premier ministre géorgien Irakli Ghari
 
 « L’année dernière, au cours de l’été, nous avons annoncé que nous signerions un mémorandum de partenariat stratégique. Je tiens à souligner que nous sommes des alliés traditionnels, historiquement très puissants, des amis, pas seulement des voisins, nous avons un très bon partenariat, nous coopérons dans toutes les directions. De facto, nous étions déjà des amis et des partenaires stratégiques.
 
+https://www.armenews.com/spip.php?page=article&id_article=112101\
+\
 Aujourd’hui, nous pouvons déjà dire que cette réalité a été formulée et aujourd’hui nous avons officiellement signé un accord de coopération sur le partenariat stratégique. Nous sommes reconnaissants envers nos partenaires arméniens, les deux gouvernements sont appelés à approfondir davantage nos relations commerciales et économiques.
 La Géorgie a toujours été favorable à l’établissement d’une paix et d’une stabilité à long terme dans la région. Monsieur le Premier ministre connaît très bien ma position, la position de notre gouvernement.
 Nous avons toujours été prêts et disposés à contribuer à l’établissement de cette paix à long terme, qui bénéficiera aux pays et aux peuples de toute la région.
