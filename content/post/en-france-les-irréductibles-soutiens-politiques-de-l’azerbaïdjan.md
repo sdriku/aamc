@@ -36,7 +36,13 @@ Aucun élu français n’était concerné par ces transactions financières, mai
 
 Le régime de l’autocrate Aliyev a su se montrer généreux avec la circonscription de la sénatrice centriste, en finançant la réfection de nombreuses églises de l’Orne *via* la Fondation Heydar Aliyev, dirigée par la première dame et vice-présidente de l’Azerbaïdjan, Mehriban Aliyeva.
 
-Le 29 septembre 2023, quelques jours après l’offensive éclair de l’armée azerbaïdjanaise dans le Haut-Karabagh, Nathalie Goulet écrivait [sur X](https://twitter.com/senateur61/status/1707775866464284775) à propos des dizaines de milliers de réfugié·es qui fuient la région vers l’Arménie : *« Personne ne les force à partir, ils peuvent rester. »* Contactée, elle n’a pas souhaité s’exprimer sur ses rapports avec l’Azerbaïdjan.
+Le 29 septembre 2023, quelques jours après l’offensive éclair de l’armée azerbaïdjanaise dans le Haut-Karabagh, Nathalie Goulet écrivait [sur X](https://twitter.com/senateur61/status/1707775866464284775) à propos des dizaines de milliers de réfugié·es qui fuient la région vers l’Arménie : *« Personne ne les force à partir, ils peuvent rester. »* Contactée, elle n’a pas souhaité s’exprimer sur ses rapports avec l’Azerbaïdjan.\
+\
+<!--StartFragment-->
+
+[Au Haut-Karabagh, « une entreprise de destruction humaine »](https://www.mediapart.fr/journal/international/031023/au-haut-karabagh-une-entreprise-de-destruction-humaine)
+
+<!--EndFragment-->
 
 La grande majorité des élu·es de la droite française sont des soutiens affichés de la cause arménienne, comme l’a récemment illustré une tribune signée par de nombreux poids lourds du parti Les Républicains (LR) dans *[Le Figaro](https://www.lefigaro.fr/vox/politique/toute-la-droite-lr-reunie-d-une-seule-voix-pour-soutenir-le-haut-karabakh-20230612)*. À rebours, quelques député·es de la droite et du centre continuent de défendre l’Azerbaïdjan et son régime. C’est notamment le cas de l’élu Horizons André Villiers, membre du groupe d’amitié à l’Assemblée et – à l’époque des révélations sur la diplomatie du caviar – du conseil d’administration de l’Association des amis de l’Azerbaïdjan (AAA).
 
