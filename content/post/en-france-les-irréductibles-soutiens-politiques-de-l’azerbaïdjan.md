@@ -24,8 +24,10 @@ Le 15 novembre 2022 au Sénat, une proposition de résolution transpartisane vi
 
 Deux ans plus tôt, au lendemain du cessez-le-feu qui mettait un terme à six semaines de combats meurtriers entre l’Arménie et l’Azerbaïdjan, la sénatrice centriste avait déjà été la seule à s’opposer à une résolution qui prenait acte de la *« nécessité de reconnaître la République du Haut-Karabagh ».* Elle avait alors [expliqué](https://www.senat.fr/cra/s20201126/s20201126_0.html#par_9) que même *« sur* \[son] *lit de mort,* \[elle] *voterait contre ce type de résolution »*.
 
+\
 *Lire : Dati Rattrapée*\
 https://www.armenews.com/spip.php?page=article&id_article=112085\
+\
 \
 Nathalie Goulet défend depuis fort longtemps le régime autoritaire d’Ilham Aliyev. Avec quelques autres parlementaires, elle fait partie des relais médiatiques de l’influence azerbaïdjanaise en France, qui prend forme au sein des groupes d’amitié France-Azerbaïdjan à l’Assemblée nationale et France-Caucase au Sénat, appuyés par quelques associations.
 
