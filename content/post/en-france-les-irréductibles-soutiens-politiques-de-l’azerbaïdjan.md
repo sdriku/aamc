@@ -10,8 +10,6 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/soutiens-de-l-azerbaidjan.jpg
 image: assets/img/soutiens-de-l-azerbaidjan.jpg
 ---
-
-
 # En France, les irréductibles soutiens politiques de l’Azerbaïdjan
 
 L’autocratie pétrolière, régulièrement mise en cause par les organisations de défense des droits humains, s’appuie toujours sur les relais de quelques élus au Parlement pour redorer son blason et pousser ses éléments de langage dans le conflit avec l’Arménie.
@@ -22,13 +20,7 @@ L’autocratie pétrolière, régulièrement mise en cause par les organisations
 
 [Partager sur Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.mediapart.fr%2Fjournal%2Fpolitique%2F041023%2Fen-france-les-irreductibles-soutiens-politiques-de-l-azerbaidjan%3Fat_medium%3Dcustom3%26at_campaign%3D66)[Partager sur X (ex Twitter)](https://twitter.com/intent/tweet?text=En+France%2C+les+irr%C3%A9ductibles+soutiens+politiques+de+l%E2%80%99Azerba%C3%AFdjan+via+%40Mediapart&url=https%3A%2F%2Fwww.mediapart.fr%2Fjournal%2Fpolitique%2F041023%2Fen-france-les-irreductibles-soutiens-politiques-de-l-azerbaidjan%3Fat_medium%3Dcustom3%26at_campaign%3D67)
 
-Lire + tard Offrir l’article
-
- 
-
-PDF
-
-LeLe 15 novembre 2022 au Sénat, une proposition de résolution transpartisane visant à *« appliquer des sanctions à l’encontre de l’Azerbaïdjan et exiger son retrait immédiat du territoire arménien »*, cosignée par tous les groupes, était adoptée à la [quasi-unanimité](https://www.senat.fr/scrutin-public/2022/scr2022-52.html). Ce jour-là, une seule sénatrice avait voté contre : Nathalie Goulet.
+Le 15 novembre 2022 au Sénat, une proposition de résolution transpartisane visant à *« appliquer des sanctions à l’encontre de l’Azerbaïdjan et exiger son retrait immédiat du territoire arménien »*, cosignée par tous les groupes, était adoptée à la [quasi-unanimité](https://www.senat.fr/scrutin-public/2022/scr2022-52.html). Ce jour-là, une seule sénatrice avait voté contre : Nathalie Goulet.
 
 Deux ans plus tôt, au lendemain du cessez-le-feu qui mettait un terme à six semaines de combats meurtriers entre l’Arménie et l’Azerbaïdjan, la sénatrice centriste avait déjà été la seule à s’opposer à une résolution qui prenait acte de la *« nécessité de reconnaître la République du Haut-Karabagh ».* Elle avait alors [expliqué](https://www.senat.fr/cra/s20201126/s20201126_0.html#par_9) que même *« sur* \[son] *lit de mort,* \[elle] *voterait contre ce type de résolution »*.
 
@@ -74,4 +66,5 @@ Quelques mois plus tôt, il faisait partie des députés socialistes qui s’ét
 
 [Youmni Kezzouf](https://www.mediapart.fr/biographie/youmni-kezzouf-0)
 
-<!--EndFragment-->
+<!--EndFragment-->\
+S﻿erge Tateossian le 27/01/2024  Source : Mediapart
