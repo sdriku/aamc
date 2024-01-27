@@ -14,8 +14,6 @@ image: assets/img/géorgie-arménie.jpg
 
 # Géorgie 
 
-<!--EndFragment-->\
-
 \
 Irakli Gharinachvili le Premier ministre de Géorgie : de facto, nous étions déjà des partenaires stratégiques de l’Arménie, aujourd’hui cette réalité a été formulée
 
