@@ -14,6 +14,9 @@ image: assets/img/michel-legrand-macha-méril.jpg
 
 Alors qu’il enchaine les récompenses, le compositeur a été marié deux fois et a quatre enfants. Le 16 septembre 2014, à Monaco, il épouse civilement Macha Méril, et le 18 septembre ils se marient religieusement dans une église orthodoxe. Le 26 janvier 2019, Michel Legrand meurt à l'âge de 86 ans à l'hôpital américain de Neuilly-sur-Seine, où il avait été hospitalisé quelques semaines plus tôt pour une infection pulmonaire. Par la suite, il contracte une septicémie. \
 \
+https://www.paris.fr/pages/michel-legrand-recoit-la-medaille-grand-vermeil-de-la-ville-de-paris-3293\
+\
+\
 Serge Tateossian le 28/01/2024 Source : Voici magazine\
 --------------------------------------------------\
 \
