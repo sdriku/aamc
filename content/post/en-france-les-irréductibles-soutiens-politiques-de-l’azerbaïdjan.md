@@ -24,6 +24,9 @@ Le 15 novembre 2022 au Sénat, une proposition de résolution transpartisane vi
 
 Deux ans plus tôt, au lendemain du cessez-le-feu qui mettait un terme à six semaines de combats meurtriers entre l’Arménie et l’Azerbaïdjan, la sénatrice centriste avait déjà été la seule à s’opposer à une résolution qui prenait acte de la *« nécessité de reconnaître la République du Haut-Karabagh ».* Elle avait alors [expliqué](https://www.senat.fr/cra/s20201126/s20201126_0.html#par_9) que même *« sur* \[son] *lit de mort,* \[elle] *voterait contre ce type de résolution »*.
 
+https://www.armenews.com/spip.php?page=article&id_article=112085\
+\
+\
 Nathalie Goulet défend depuis fort longtemps le régime autoritaire d’Ilham Aliyev. Avec quelques autres parlementaires, elle fait partie des relais médiatiques de l’influence azerbaïdjanaise en France, qui prend forme au sein des groupes d’amitié France-Azerbaïdjan à l’Assemblée nationale et France-Caucase au Sénat, appuyés par quelques associations.
 
 En 2017, l’Organized Crime and Corruption Reporting Project (OCCRP) et une dizaine de médias européens, dont* [Le Monde](https://www.lemonde.fr/asie-pacifique/article/2017/09/04/diplomatie-du-caviar-comment-l-azerbaidjan-s-offre-l-amitie-de-responsable-politiques-europeens_5180962_3216.html),* avaient enquêté sur les dessous de la « diplomatie du caviar » menée par l’Azerbaïdjan en Europe. L’étude de relevés de comptes de sociétés liées au régime azerbaïdjanais avait mis au jour plusieurs transactions destinées à des responsables politiques européens, pour influencer des votes ou promouvoir le pays. À l’issue d’un rapport interne, 14 membres de l’assemblée parlementaire du Conseil de l’Europe avaient été exclus à vie de l’institution.
@@ -71,4 +74,5 @@ Quelques mois plus tôt, il faisait partie des députés socialistes qui s’ét
 [Youmni Kezzouf](https://www.mediapart.fr/biographie/youmni-kezzouf-0)
 
 <!--EndFragment-->\
+
 S﻿erge Tateossian le 27/01/2024  Source : Mediapart
