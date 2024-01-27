@@ -22,10 +22,7 @@ L’autocratie pétrolière, régulièrement mise en cause par les organisations
 
 Le 15 novembre 2022 au Sénat, une proposition de résolution transpartisane visant à *« appliquer des sanctions à l’encontre de l’Azerbaïdjan et exiger son retrait immédiat du territoire arménien »*, cosignée par tous les groupes, était adoptée à la [quasi-unanimité](https://www.senat.fr/scrutin-public/2022/scr2022-52.html). Ce jour-là, une seule sénatrice avait voté contre : Nathalie Goulet.
 
-Deux ans plus tôt, au lendemain du cessez-le-feu qui mettait un terme à six semaines de combats meurtriers entre l’Arménie et l’Azerbaïdjan, la sénatrice centriste avait déjà été la seule à s’opposer à une résolution qui prenait acte de la *« nécessité de reconnaître la République du Haut-Karabagh ».* Elle avait alors [expliqué](https://www.senat.fr/cra/s20201126/s20201126_0.html#par_9) que même *« sur* \[son] *lit de mort,* \[elle] *voterait contre ce type de résolution »*.
-
-\
-*Lire : Dati Rattrapée*\
+Deux ans plus tôt, au lendemain du cessez-le-feu qui mettait un terme à six semaines de combats meurtriers entre l’Arménie et l’Azerbaïdjan, la sénatrice centriste avait déjà été la seule à s’opposer à une résolution qui prenait acte de la *« nécessité de reconnaître la République du Haut-Karabagh ».* Elle avait alors [expliqué](https://www.senat.fr/cra/s20201126/s20201126_0.html#par_9) que même *« sur* \[son] *lit de mort,* \[elle] *voterait contre ce type de résolution »*.\
 \
 https://www.armenews.com/spip.php?page=article&id_article=112085\
 \
