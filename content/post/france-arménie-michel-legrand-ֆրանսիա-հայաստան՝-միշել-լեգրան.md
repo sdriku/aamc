@@ -20,6 +20,9 @@ https://www.paris.fr/pages/michel-legrand-recoit-la-medaille-grand-vermeil-de-la
 Serge Tateossian le 28/01/2024 Source : Voici magazine\
 --------------------------------------------------\
 \
+https://www.marianne.net/culture/michel-legrand-la-musique-dans-le-sang\
+\
+\
 ՆՐԱ ԿԵՆՍԱԳՐՈՒԹՅՈՒՆԸ\
 \
 \
