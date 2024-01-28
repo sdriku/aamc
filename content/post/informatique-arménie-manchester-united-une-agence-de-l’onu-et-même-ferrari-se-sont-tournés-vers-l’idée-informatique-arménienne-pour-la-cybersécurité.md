@@ -1,8 +1,8 @@
 ---
-title: "Informatique Arménie : Manchester United, une agence de l’ONU et même
+title: " Arménie Informatique : Manchester United, une agence de l’ONU et même
   Ferrari se sont tournés vers l’idée informatique arménienne pour la
   cybersécurité"
-description: "Avag Arakelyan - EasyDMARK et CTPO - Informatique arménienne "
+description: "Avag Arakelyan - EasyDMARK et CTPO - Arménie Informatique  "
 summary: Manchester United, une agence de l’ONU et même Ferrari se sont tournés
   vers l’idée informatique arménienne pour la cybersécurité
 date: 2024-01-28T23:46:15.280Z
