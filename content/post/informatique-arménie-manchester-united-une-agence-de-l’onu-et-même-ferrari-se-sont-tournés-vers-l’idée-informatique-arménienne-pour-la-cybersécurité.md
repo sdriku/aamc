@@ -12,9 +12,8 @@ image: assets/img/start-up-arménien-easydmarc.jpg
 ---
 **INFORMATIQUE ARMENIE**
 
-<!--StartFragment-->
-
-# Manchester United, une agence de l’ONU et même Ferrari se sont tournés vers l’idée informatique arménienne pour la cybersécurité
+\
+Manchester United, une agence de l’ONU et même Ferrari se sont tournés vers l’idée informatique arménienne pour la cybersécurité
 
 Une start-up fondée par des experts informatiques arméniens il y a quelques années est déjà utilisée pour les solutions de cybersécurité d’entreprise par plus de 40 000 entreprises et entreprises à travers le monde.
 
