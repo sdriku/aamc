@@ -37,7 +37,7 @@ par [Jean Eckian](https://www.armenews.com/spip.php?page=auteur&id_auteur=34) 
 \
 \
 **Organigramme Start-Up EasyDMARK et CTPO\
-(Total 14 dont 5 femmes)****\
+(Total des collaborateurs 14 dont 5 femmes)****\
 Co-fondateurs :\
 Avag Arakelyan : PDG et co-fondateur\
 Et Gérassim Hovhanessian : Directeur et co-fondateur**
