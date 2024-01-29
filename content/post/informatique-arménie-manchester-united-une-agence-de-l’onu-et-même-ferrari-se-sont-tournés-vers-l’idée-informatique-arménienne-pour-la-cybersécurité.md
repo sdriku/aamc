@@ -34,4 +34,23 @@ Dans un article de 2022 pour Forbes, le PDG et cofondateur d’EasyDMARC, Gera
 par [Jean Eckian](https://www.armenews.com/spip.php?page=auteur&id_auteur=34) le dimanche 28 janvier 2024\
 © armenews.com 2024
 
-<!--EndFragment-->
+\
+\
+**Organigramme Start-Up EasyDMARK et CTPO\
+(Total 14 dont 5 femmes)****\
+Co-fondateurs :\
+Avag Arakelyan : PDG et co-fondateur\
+Et Gérassim Hovhanessian : Directeur et co-fondateur**
+
+Liana Sargsian : Responsable de la relation clientèle\
+Hasmik Khachunts : Chef d'équipe\
+Sevan Elyasian : Directeur technique\
+Hagop K, : Services techniques et de mise en œuvre, chef d'équipe\
+Margarita Hovhanessian : Ressources humaines et culture\
+Sarkis Sapondjian : Responsable service clientèle\
+Eltjo Hofstee : Directeur des ventes en Europe\
+Araks Kosakyan : Comptabilité et facturation\
+Arevik Hayrapetian : Concepteur de produits\
+Beniamin Krupowics : Chef de produits/ Intégration et partenariat\
+Marat A, : Concepteur de produits senior\
+Amin Moussavi : Ingénieur de support technique
