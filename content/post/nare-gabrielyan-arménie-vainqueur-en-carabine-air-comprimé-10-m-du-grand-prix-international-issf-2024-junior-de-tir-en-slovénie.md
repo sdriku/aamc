@@ -11,8 +11,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/sport-arménie.jpg
 image: assets/img/sport-arménie-2.jpg
 ---
-\
-\
+
 
 <!--StartFragment-->
 
