@@ -15,6 +15,7 @@ image: assets/img/cours-pénale-internationale.jpg
 ---
 Cour pénale internationale \
 \
+
 <!--StartFragment-->
 
 \
@@ -32,34 +33,9 @@ La décision d’Erevan de rejoindre la CPI avait suscité le courroux de la Rus
 
 Le Monde avec AFP
 
-Publié hier à 21h31, modifié hier à 22h53
-
 Temps de Lecture 1 min.
 
-* Ajouter à vos sélections
-
-  Vos sélections
-
-  Ajouter un article à "vos sélections" pour le lire plus tard.\
-  [Ok, j'ai compris](#)
-
-  Ajouter à vos sélections
-
-  Pour ajouter l’article à vos sélections\
-  identifiez-vous
-
-  [S’inscrire gratuitement](https://secure.lemonde.fr/sfuser/register?article=3358210)
-
-  Vous possédez déjà un compte ?\
-  [Se connecter](https://secure.lemonde.fr/sfuser/connexion?article=3358210)
-* Partager Partager
-
-  * Partager sur Twitter
-  * Partager sur Messenger
-  * Partager sur Facebook
-  * Envoyer par e-mail
-  * Partager sur Linkedin
-  * Copier le lien
+*
 
 ![La façade des bureaux de la Cour pénale internationale à La Haye (Pays-Bas), le 3 juin 2019.](https://img.lemde.fr/2019/06/03/0/0/5616/3592/664/0/75/0/954bdde_46491eefc5494f67bf42545e6278593f-46491eefc5494f67bf42545e6278593f-0.jpg)
 
