@@ -10,4 +10,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/michel-onfray-arménie.jpg
 image: assets/img/michel-onfray-arménie.jpg
 ---
+A﻿ttention : Le site vous informe : Le film contient des images des atrocités de l'Armée d'Azerbaidjan\
+\
+\
 Cliquer ici : https://www.facebook.com/michelonfrayTV/videos/226967978863961
