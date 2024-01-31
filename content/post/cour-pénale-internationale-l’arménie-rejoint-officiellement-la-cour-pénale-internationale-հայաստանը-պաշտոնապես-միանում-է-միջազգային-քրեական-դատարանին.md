@@ -13,6 +13,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/cours-pénale-internationale.jpg
 image: assets/img/cours-pénale-internationale.jpg
 ---
+Cour pénale internationale \
+\
 <!--StartFragment-->
 
 \
