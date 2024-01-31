@@ -11,6 +11,7 @@ thumbnailImage: assets/img/michel-onfray-arménie.jpg
 image: assets/img/michel-onfray-arménie.jpg
 ---
 A﻿ttention : Le site vous informe : Le film contient des images des atrocités de l'Armée azerbaidjanais.\
+C﻿e documentaire a été filmé en 2020 et depuis, cette région arménienne millénaire nommé Artsakh a été envahie totalement par l'Azerbaidjan malgré les condamnations de l'occident, l'Europe et les tribunaux internationaux. \
 \
 \
 Cliquer ici : https://www.facebook.com/michelonfrayTV/videos/226967978863961
