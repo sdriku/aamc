@@ -1,7 +1,6 @@
 ---
 title: Michel Onfray était en direct.  L'Arménie choc des civilisations.
-  Rencontre LIVE avec Michel Onfray et Stéphane Simon Rencontre LIVE avec Michel
-  Onfray et Stéphane Simon
+  Rencontre LIVE avec Michel Onfray et Stéphane Simon
 description: Michel Onfray était en direct. L'Arménie choc des civilisations.
   Rencontre LIVE avec Michel Onfray et Stéphane Simon Rencontre LIVE avec Michel
   Onfray et Stéphane Simon
