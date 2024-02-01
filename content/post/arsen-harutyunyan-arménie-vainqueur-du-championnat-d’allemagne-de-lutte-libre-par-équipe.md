@@ -12,11 +12,21 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/lutte-libre.jpg
 image: assets/img/lutte-libre.jpg
 ---
+Ազատ ոճի ըմբշամարտի Գերմանիայի թիմային առաջնության հաղթող Արսեն Հարությունյան (Հայաստան).
+
+Ազատ ոճի ըմբշամարտի մարզիկ, Հայաստանի հավաքականի անդամ Արսեն Հարությունյանը դարձել է ազատ ոճի ըմբշամարտի Գերմանիայի թիմային առաջնության հաղթող։ Արսեն Հարությունյանը ներկայացնում էր Wacker Burghausen թիմը։ Գերմանիայի առաջնության այս իրադարձությունների ընթացքում հայ մարզիկը մասնակցել է 11 մենամարտի... և հաղթել բոլորում: Աղբյուր՝ ArmSport.am\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 <!--StartFragment-->
 
 # Arsen Harutyunyan (Arménie), vainqueur du championnat d’Allemagne de lutte libre par équipe
-
-
 
 ![](https://www.armenews.com/IMG/arton112205.jpg)
 
