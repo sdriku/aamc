@@ -38,7 +38,7 @@ Temps de Lecture 1 min.
 
 ![La façade des bureaux de la Cour pénale internationale à La Haye (Pays-Bas), le 3 juin 2019.](https://img.lemde.fr/2019/06/03/0/0/5616/3592/664/0/75/0/954bdde_46491eefc5494f67bf42545e6278593f-46491eefc5494f67bf42545e6278593f-0.jpg)
 
-![La façade des bureaux de la Cour pénale internationale à La Haye (Pays-Bas), le 3 juin 2019.](https://img.lemde.fr/2019/06/03/0/0/5616/3592/664/0/75/0/954bdde_46491eefc5494f67bf42545e6278593f-46491eefc5494f67bf42545e6278593f-0.jpg)
+![La façade des bureaux de la Cour pénale internationale à La Haye (Pays-Bas), le 3 juin 2019.]()
 
 La façade des bureaux de la Cour pénale internationale à La Haye (Pays-Bas), le 3 juin 2019. PETER DEJONG / AP
 
@@ -84,9 +84,7 @@ identifiez-vous
 Vous possédez déjà un compte ?\
 [Se connecter](https://secure.lemonde.fr/sfuser/connexion?article=3349225)
 
-Le Monde avec AFP
-
-<!--EndFragment-->\
+Le Monde avec AFP\
 \
 \
 Հայաստանը պաշտոնապես դարձավ Միջազգային քրեական դատարանի (ՄՔԴ) մասնակից պետություն, որոշումը, որը Ռուսաստանը՝ նրա ավանդական դաշնակիցը, համարել էր ոչ բարեկամական։ «Հռոմի կանոնադրությունը \[ՄՔԴ-ի ստեղծումը] Հայաստանի համար պաշտոնապես ուժի մեջ է մտել փետրվարի 1-ից»,- Agence France-Presse-ին հայտարարեց իրավական հարցերով Հայաստանի ներկայացուցիչ Եղիշե Կիրակոսյանը։\
