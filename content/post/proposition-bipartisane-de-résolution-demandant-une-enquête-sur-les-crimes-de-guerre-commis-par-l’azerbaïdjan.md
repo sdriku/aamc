@@ -19,8 +19,6 @@ image: assets/img/congrès-américain.jpg
 
 # Proposition bipartisane de résolution demandant une enquête sur les crimes de guerre commis par l’Azerbaïdjan
 
-
-
 ![](https://www.armenews.com/IMG/arton112343.jpg)
 
 Les sénateurs Edward J. Markey (D-Mass.) et Bill Cassidy (R-La.) ont présenté une résolution bipartisane demandant au secrétaire d’État de fournir un rapport sur les pratiques de l’Azerbaïdjan en matière de droits de l’homme, notamment en ce qui concerne les allégations de violations des droits de l’homme commises à l’encontre de l’ethnie arménienne, telles que les exécutions illégales, la torture, les restrictions à la liberté de mouvement, la détention illégale de prisonniers politiques et l’épuration ethnique. Le représentant Adam Schiff (CA-30) a introduit une version complémentaire de la résolution à la Chambre des représentants.\
@@ -48,4 +46,4 @@ En septembre 2022, le sénateur Markey et ses collègues ont rédigé une lettre
 par [La rédaction](https://www.armenews.com/spip.php?page=auteur&id_auteur=4) le vendredi 2 février 2024\
 © armenews.com 2024
 
-<!--EndFragment-->
+S﻿erge Tateossian le 03/02/2024   Source : Armenews
