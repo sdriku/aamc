@@ -1,9 +1,9 @@
 ---
-title: "Spiritualité de Mel GIBSON, un ami des arméniens de longue, vient de
-  visiter une église arménienne à Glendale en Californie. "
+title: "Spiritualité de Mel GIBSON, un ami des arméniens de longue date, vient
+  de visiter une église arménienne à Glendale en Californie. "
 description: "Mel Gibson visite une église arménienne à Glendale en Californie "
-summary: "Spiritualité de Mel GIBSON, un ami des arméniens de longue, vient de
-  visiter une église arménienne à Glendale en Californie. "
+summary: "Spiritualité de Mel GIBSON, un ami des arméniens de longue date, vient
+  de visiter une église arménienne à Glendale en Californie. "
 date: 2024-02-03T00:35:45.521Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/mel-gibson.jpg
