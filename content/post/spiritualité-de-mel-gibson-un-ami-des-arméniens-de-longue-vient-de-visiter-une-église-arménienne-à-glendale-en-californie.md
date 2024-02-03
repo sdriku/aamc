@@ -9,7 +9,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/mel-gibson.jpg
 image: assets/img/mel-gibson.jpg
 ---
-A propos de l'église arménienne, lisons quelques petits extraits des prières (des vraies poésies) de Grégoire de Narek (Né entre 945 et 951, et mort à Narek en 1003, est un moins, un poète mystique et un compositeur d'Arménie. Un immense héritage culturel et cultuel de l'église arménienne.\
+A propos de l'église arménienne, quelques petits extraits de prières (des vraies poésies) de Grégoire de Narek (Né entre 945 et 951, et mort à Narek en 1003, est un moins, un poète mystique et un compositeur d'Arménie. Un immense héritage culturel et cultuel de l'église arménienne.\
 \
 \
 A l'aurore, ses yeux, couleur de l'eau de mer,\
@@ -39,8 +39,6 @@ douce splendeur qui sourd de l'âme\
 et qui d'un vin à la lueur.\
 \
 ,,,,,,,,,,,,,,,,,,, ,,, ,,, ,,,,
-
-
 
 Et lorsqu'elle marchait\
 c'était isrisation de perles,\
