@@ -1,6 +1,6 @@
 ---
 title: " Que sait-on de la diaspora arménienne en France et dans le monde en un
-  coup d’œil"
+  coup d’œil - Serge Tateossian le 07/02/2024"
 description: "La diaspora arménienne en France "
 summary: "Que sait-on de la diaspora arménienne en France "
 date: 2024-02-07T00:49:59.098Z
