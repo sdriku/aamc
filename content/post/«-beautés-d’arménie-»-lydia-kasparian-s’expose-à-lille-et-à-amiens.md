@@ -34,7 +34,10 @@ Par ce voyage et ses photos, elle souhaite sortir l’Arménie de l’ignorance 
 
 ### Un pays enclavé et des zones frontalières tendues
 
-L’Arménie est une démocratie, ancienne république socialiste-soviétique, située dans la région du Petit Caucase. Ce pays de plus de trois millions d’habitants, grand de près de 30 000 km² ne possède pas d’accès à la mer. Il possède des frontières terrestres avec la Georgie, l’Iran, la Turquie et l’Azerbaïdjan. Les relations avec l’Azerbaïdjan sont historiquement compliquées et des tensions ont ressurgi en septembre 2020, et ne faiblissent depuis lors.
+L’Arménie est une démocratie, ancienne république socialiste-soviétique, située dans la région du Petit Caucase. Ce pays de plus de trois millions d’habitants, grand de près de 30 000 km² ne possède pas d’accès à la mer. Il possède des frontières terrestres avec la Georgie, l’Iran, la Turquie et l’Azerbaïdjan. Les relations avec l’Azerbaïdjan sont historiquement compliquées et des tensions ont ressurgi en septembre 2020, et ne faiblissent depuis lors.\
+\
+La diaspora arménienne en France : \
+https://www.la-croix.com/international/Haut-Karabakh-sait-diaspora-armenienne-France-2023-09-25-1201284163
 
 ### Regard sur l’Arménie
 
