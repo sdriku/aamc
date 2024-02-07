@@ -53,4 +53,7 @@ Avec cette série de photos, Lydia Kasparian met en lumière ce peuple meurtri, 
 Vidéo Xavier Bertrand : Soutien de la région Hauts-de-France\
 https://www.armenews.com/spip.php?page=article&id_article=112340
 
+\
+\
+S﻿erge Tateossian le 07/02/2024   Source : Région Hauts-de-France \
 <!--EndFragment-->
