@@ -1,6 +1,7 @@
 ---
 title: "Economie : Les indicateurs économiques de l'Arménie - Forte croissance
-  depuis 2022"
+  depuis 2022   -  Serge Tateossian - Source : Fellah Trade (Crédit agricole du
+  Maroc) "
 description: Economie de l'Arménie - Forte croissance de l'Arménie en 2023
 summary: I. Une très forte reprise soutenue par un secteur financier
   solide  L’Arménie a enregistré la plus forte croissance parmi les pays de
