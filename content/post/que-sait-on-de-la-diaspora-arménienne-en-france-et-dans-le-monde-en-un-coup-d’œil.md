@@ -26,14 +26,7 @@ Lecture en 3 min.
 
 De jeunes manifestants arméniens de la diaspora brandissent des pancartes lors d’une marche d’hommage, à l’occasion du 108ème anniversaire du génocide arménien, le 24 avril 2023.XOSE BOUZAS / XOSE BOUZAS / HANS LUCAS VIA REU
 
-* * [COMMENTER](<>)
-  * [ENVOYER PAR MAIL](mailto:?subject=Haut-Karabakh%C2%A0:%20que%20sait-on%20de%20la%20diaspora%20arm%C3%A9nienne%20en%20France%C2%A0?&body=Face%20aux%20%C3%A9vacuations%20massives%20d%E2%80%99Arm%C3%A9niens%20du%20Haut-Karabakh,%20une%20manifestation%20de%20soutien%20aux%20r%C3%A9fugi%C3%A9s%20doit%20avoir%20lieu%20lundi%2025%C2%A0septembre%20%C3%A0%20Aix-en-Provence.%20Un%20soutien%20qui%20s%E2%80%99explique%20notamment%20par%20la%20pr%C3%A9sence%20en%20France%20de%20la%20communaut%C3%A9%20arm%C3%A9nienne%20la%20plus%20importante%20d%E2%80%99Europe.%0D%0A%0D%0Ahttps://www.la-croix.com/international/Haut-Karabakh-sait-diaspora-armenienne-France-2023-09-25-1201284163)
-  * [PARTAGER SUR FACEBOOK](https://www.facebook.com/sharer/sharer.php?u=https://www.la-croix.com/international/Haut-Karabakh-sait-diaspora-armenienne-France-2023-09-25-1201284163)
-  * [PARTAGER SUR TWITTER](https://twitter.com/intent/tweet?&text=Haut-Karabakh%C2%A0:%20que%20sait-on%20de%20la%20diaspora%20arm%C3%A9nienne%20en%20France%C2%A0?&url=https://www.la-croix.com/international/Haut-Karabakh-sait-diaspora-armenienne-France-2023-09-25-1201284163)
-* [RÉAGIR](<>)
-* [ENVOYER](mailto:?subject=Haut-Karabakh%C2%A0:%20que%20sait-on%20de%20la%20diaspora%20arm%C3%A9nienne%20en%20France%C2%A0?&body=Face%20aux%20%C3%A9vacuations%20massives%20d%E2%80%99Arm%C3%A9niens%20du%20Haut-Karabakh,%20une%20manifestation%20de%20soutien%20aux%20r%C3%A9fugi%C3%A9s%20doit%20avoir%20lieu%20lundi%2025%C2%A0septembre%20%C3%A0%20Aix-en-Provence.%20Un%20soutien%20qui%20s%E2%80%99explique%20notamment%20par%20la%20pr%C3%A9sence%20en%20France%20de%20la%20communaut%C3%A9%20arm%C3%A9nienne%20la%20plus%20importante%20d%E2%80%99Europe.%0D%0A%0D%0Ahttps://www.la-croix.com/international/Haut-Karabakh-sait-diaspora-armenienne-France-2023-09-25-1201284163)
-* [PARTAGER](https://www.facebook.com/sharer/sharer.php?u=https://www.la-croix.com/international/Haut-Karabakh-sait-diaspora-armenienne-France-2023-09-25-1201284163)
-* [TWITTER](https://twitter.com/intent/tweet?&text=Haut-Karabakh%C2%A0:%20que%20sait-on%20de%20la%20diaspora%20arm%C3%A9nienne%20en%20France%C2%A0?&url=https://www.la-croix.com/international/Haut-Karabakh-sait-diaspora-armenienne-France-2023-09-25-1201284163)
+
 
 Un premier rassemblement à Châteauroux (Indre) le 22 septembre, un autre prévu à Aix-en-Provence (Bouches-du-Rhône) ce lundi 25 septembre, une mobilisation parisienne attendue mercredi… Des manifestations en soutien aux réfugiés arméniens du Haut-Karabakh – forcés à fuir cette enclave depuis son passage[ sous contrôle azerbaïdjanais](https://www.la-croix.com/international/chute-Haut-Karabakh-armenien-2023-09-20-1201283549) – essaiment aux quatre coins du pays depuis quelques jours.
 
