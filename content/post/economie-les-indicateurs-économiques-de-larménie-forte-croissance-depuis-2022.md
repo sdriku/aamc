@@ -12,7 +12,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/arménie-économie.jpg
 image: assets/img/arménie-économie-2.jpg
 ---
-L’Arménie est le leader de la région du Sud-Caucase en termes de PIB par habitant avec 8 280 dollars en 2023
+**L’Arménie est le leader de la région du Sud-Caucase en termes de PIB par habitant avec 8 280 dollars en 2023**
 
 Selon les données publiées par le Fonds monétaire international, l’Arménie est le leader de la région du Sud-Caucase **en termes de PIB par habitant (**produit intérieur brut). Selon le Fonds monétaire international, **le PIB par habitant en Arménie en 2023 sera de 8 280 dollars.**\
 Dans la région, le PIB par habitant **en Géorgie est de 8 160 dollars** et celui de **l’Azerbaïdjan de 7 530 dollars.**
