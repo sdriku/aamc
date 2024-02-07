@@ -8,7 +8,7 @@ summary: Le travail de Lydia Kasparian s’expose, respectivement, au Siège de
   l’Arménie et l’importance de la préserver.
 date: 2024-02-07T00:10:40.684Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/hauts-de-france-expo-2.png
+thumbnailImage: assets/img/hauts-de-france-expo.png
 image: assets/img/hauts-de-france-expo.png
 ---
 <!--StartFragment-->
