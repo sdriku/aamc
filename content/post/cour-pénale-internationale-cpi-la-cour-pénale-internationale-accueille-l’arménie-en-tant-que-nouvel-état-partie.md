@@ -38,12 +38,9 @@ La Présidente de l'Assemblée des États parties, S.E. Mme Päivi Kaukoranta, a
 
 Le Ministre des Affaires étrangères de l'Arménie, S.E. M. Ararat Mirzoyan, a dit : « Le rôle de la CPI est important dans la prévention des crimes et dans la garantie d’un processus judiciaire juste et impartial pour une résolution pacifique des conflits. Dans notre région, où nous avons été confrontés à une prolifération de conflits, nous sommes convaincus que le Statut de Rome, parmi d'autres mécanismes juridiques, a un réel potentiel pour prévenir une nouvelle escalade et des atrocités. Célébrons non seulement l'engagement de l'Arménie, mais aussi la vision commune d'un monde où la justice prévaut et où la dignité de chaque individu est protégée. »
 
-\
-\
 Vidéo : La cour pénale internationale cérémonie de bienvenue à l'Arménie\
 \
 https://www.dropbox.com/scl/fi/pqqdm14xe4o7dbemaglib/Welcoming-ceremony-for-Armenia-State-Party-08022024-FRE.mp4?rlkey=29ide18k0c5930t5xoqthivgo&e=1&dl=0\
-\
 \
 \
 **Contexte:** Le 14 novembre 2023, la République d'Arménie [a officiellement déposé](https://treaties.un.org/doc/Publication/CN/2023/CN.471.2023-Eng.pdf "https\://treaties.un.org/doc/Publication/CN/2023/CN.471.2023-Eng.pdf") son instrument de ratification du Statut de Rome de la CPI et le Statut est entré en vigueur le 1er février 2024. L'Arménie devient le 124ème État partie à adhérer au Statut et le 19ème État du groupe d'Europe orientale à le faire.
