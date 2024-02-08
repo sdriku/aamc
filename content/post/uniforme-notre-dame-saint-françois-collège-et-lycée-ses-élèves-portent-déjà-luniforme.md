@@ -1,5 +1,5 @@
 ---
-title: "Uniforme : Notre-Dame Saint-François (collège et lycée) - ses élèves
+title: "Uniforme : Notre-Dame Saint-François (collège et lycée) - Les élèves
   portent déjà l'uniforme"
 description: "Ecole Notre-Dame Saint-François à Evreux "
 summary: L’institution Notre-Dame Saint-François, à Évreux, a instauré une tenue
