@@ -1,6 +1,7 @@
 ---
 title: "Cour pénale internationale (CPI) : La Cour pénale internationale
-  accueille l’Arménie en tant que nouvel État partie"
+  accueille l’Arménie en tant que nouvel État partie - Serge Tateossian le
+  08/02/2024   Source : CPI "
 description: la Cour pénale internationale (CPI) -  souhaiter la bienvenue à
   l’Arménie en tant que 124e État partie au Statut de Rome, le traité fondateur
   de la CPI.
