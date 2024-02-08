@@ -11,11 +11,12 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/uniforme-saint-françois-evreux.jpg
 image: assets/img/uniforme-saint-françois-evreux.jpg
 ---
-<!--StartFragment-->
+
 
 #  ces élèves portent déjà l'uniforme
 
 <!--EndFragment-->\
+
 \
 https://www.bfmtv.com/normandie/replay-emissions/bonsoir-la-normandie/evreux-ces-eleves-portent-deja-l-uniforme_VN-202402050675.html\
 \
