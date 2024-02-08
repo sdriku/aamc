@@ -14,6 +14,8 @@ image: assets/img/uniforme-saint-françois-evreux.jpg
 **N﻿otre-Dame Saint-François (collège et lycée)**\
 **Les élèves portent déjà l'uniforme**
 
+
+
 \
 \
 <!--StartFragment-->
@@ -21,6 +23,7 @@ image: assets/img/uniforme-saint-françois-evreux.jpg
 L’institution Notre-Dame Saint-François, à Évreux, a instauré une tenue unique que les élèves de collège et lycée doivent porter tous les lundis et lors des temps forts de l’établissement. S’ils n’aimeraient pas forcément l’avoir tous les jours, ils ont pris l’habitude, et y voient des avantages.
 
 <!--EndFragment-->\
+
 \
 \
 \
