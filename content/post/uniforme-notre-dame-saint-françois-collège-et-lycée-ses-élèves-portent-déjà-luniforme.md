@@ -11,7 +11,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/uniforme-saint-françois-evreux.jpg
 image: assets/img/uniforme-saint-françois-evreux.jpg
 ---
-## \
+**N﻿otre-Dame Saint-François (collège et lycée)**\
 **Les élèves portent déjà l'uniforme**
 
 \
