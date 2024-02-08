@@ -11,7 +11,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/uniforme-saint-françois-evreux.jpg
 image: assets/img/uniforme-saint-françois-evreux.jpg
 ---
-## **ces élèves portent déjà l'uniforme**
+## \
+**ces élèves portent déjà l'uniforme**
 
 <!--EndFragment-->\
 
