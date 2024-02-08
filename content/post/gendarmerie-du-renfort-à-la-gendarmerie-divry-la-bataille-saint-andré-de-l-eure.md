@@ -54,4 +54,4 @@ Après un nombre d’interventions en nette augmentation en 2022 (+ 10 % par rap
 * [Les caméras, un outil essentiel pour la gendarmerie et la police autour de Louviers](https://actu.fr/normandie/louviers_27375/les-cameras-un-outil-essentiel-pour-la-gendarmerie-et-la-police-autour-de-louviers_60541298.html)
 * [\#Gendarmerie](https://actu.fr/tag/gendarmerie)
 
-<!--EndFragment-->
+S﻿erge Tateossian le 08/02/2024   Source : La Dépêche (Evreux)
