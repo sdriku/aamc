@@ -11,12 +11,14 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/guillaume-le-conquérant.jpg
 image: assets/img/guillaume-le-conquérant-2.jpg
 ---
-<!--StartFragment-->
+
 
 Pour le millénaire de Guillaume le Conquérant, des missions d’élus normands ont été menées dans les pays concernés par l’influence normande. Ici dans la cathédrale de Palerme, en Sicile. | ARCHIVES/ STÉPHANE GEUFROI / OUEST-FRANCE
 
-<!--EndFragment-->\
+
+
 \
+
 <!--StartFragment-->
 
 # « 2027, l’année de la Normandie en Europe » : le millénaire de Guillaume le Conquérant se prépare
