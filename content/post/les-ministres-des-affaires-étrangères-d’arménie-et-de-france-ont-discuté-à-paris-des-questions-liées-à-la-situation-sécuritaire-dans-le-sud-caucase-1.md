@@ -1,6 +1,7 @@
 ---
-title: Les ministres des Affaires étrangères d’Arménie et de France ont discuté
-  à Paris des questions liées à la situation sécuritaire dans le Sud-Caucase
+title: "France-Arménie : Les ministres des Affaires étrangères d’Arménie et de
+  France ont discuté à Paris des questions liées à la situation sécuritaire dans
+  le Sud-Caucase"
 description: "Les ministres des Affaires étrangères d’Arménie et de France "
 summary: Le 9 février, le ministre arménien des Affaires étrangères Ararat
   Mirzoyan a rencontré Stéphane Séjourné, ministre de l’Europe et des Affaires
@@ -13,7 +14,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/ararat-mirzoyan-stéphane-séjourné.jpg
 image: assets/img/ararat-mirzoyan-stéphane-séjourné-2.jpg
 ---
-# https://www.armenews.com/spip.php?page=article&id_article=112610\
+#### https://www.armenews.com/spip.php?page=article&id_article=112610\
 
 \
 Les ministres des Affaires étrangères d’Arménie et de France ont discuté à Paris des questions liées à la situation sécuritaire dans le Sud-Caucase
