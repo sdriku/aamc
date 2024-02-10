@@ -45,8 +45,6 @@ Autre projet concret :[ la création d’œuvre textile contemporaine](https:/
 
 Un sommet européen, organisé en mai 2024 à l’abbaye aux Dames à Caen, est la prochaine étape de la préparation du millénaire de 2027. Il réunira des délégations sicilienne, britannique, irlandaise et des îles anglo-normandes.
 
-En 2025, un appel à projets sera lancé à destination **« des acteurs normands du tourisme, de la culture, du patrimoine, du sport dans la perspective d’une labellisation des projets ».** Marque de son ambition pour cet événement, la Normandie compte consacrer 40 millions d’euros au millénaire de Guillaume
-
-<!--EndFragment-->\
+En 2025, un appel à projets sera lancé à destination **« des acteurs normands du tourisme, de la culture, du patrimoine, du sport dans la perspective d’une labellisation des projets ».** Marque de son ambition pour cet événement, la Normandie compte consacrer 40 millions d’euros au millénaire de Guillaume\
 \
 S﻿erge Tateossian le 11/02/2024    Source : Ouest France
