@@ -33,11 +33,9 @@ Voir en plein écran
 
 Newsletter La Matinale
 
-Chaque matin, l’actualité du jour sélectionnée par **Ouest-France**
-
 **« Bâtir un événement populaire et culturel de grande ampleur. »** Hervé Morin, président de la Normandie, a lancé le millénaire de Guillaume le Conquérant devant près de 500 personnes, ce vendredi 9 février 2024, à l’université de Caen. Élus, acteurs des milieux culturels et touristiques et des chefs d’entreprise étaient conviés à cette présentation. **« 2027 doit être au service d’une stratégie de rayonnement et d’attractivité de la Normandie d’aujourd’hui »,** développe Hervé Morin.
 
-[3rd party ad content](https://a5c5e5b2546463f94ac7d2ea02702f73.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html)
+
 
 **« Nous voulons que cet événement concerne toute la Normandie, et pas seulement Caen et Rouen »,** insiste-t-il. Il dépassera même les frontières de l’Europe : **« 2027 devra être l’année de la Normandie en Europe. »** [Pour atteindre cet objectif, des contacts ont déjà été noués en Sicile, Irlande et Angleterre, les pays ou régions marqués par l’influence normande.](https://www.ouest-france.fr/normandie/en-images-la-normandie-renoue-avec-son-histoire-en-sicile-03d6e3c4-80ad-11ee-a407-397218b61e71) L’idée est d’aboutir à la création de la Route des Normands, **« un itinéraire culturel européen reliant des sites de patrimoine normand, avec la perspective d’une labellisation itinéraire culturel du Conseil de l’Europe ».**
 
