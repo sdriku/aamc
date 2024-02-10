@@ -54,4 +54,6 @@ Il est à noter que des idées ont été échangées sur les questions liées au
 Krikor Amirzayan
 
 par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=33) le vendredi 9 février 2024\
-© armenews.com 2024
+© armenews.com 2024\
+\
+S﻿erge Tateossian le 10/02/2024   Source : Armenews
