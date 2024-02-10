@@ -47,4 +47,6 @@ Un sommet européen, organisé en mai 2024 à l’abbaye aux Dames à Caen, est
 
 En 2025, un appel à projets sera lancé à destination **« des acteurs normands du tourisme, de la culture, du patrimoine, du sport dans la perspective d’une labellisation des projets ».** Marque de son ambition pour cet événement, la Normandie compte consacrer 40 millions d’euros au millénaire de Guillaume
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+S﻿erge Tateossian le 11/02/2024    Source : Ouest France
