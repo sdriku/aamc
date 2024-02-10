@@ -31,17 +31,9 @@ Voir en plein écran
 
 [Abonnez-vous](https://abonnement.ouest-france.fr/?rt=https://www.ouest-france.fr/normandie/2027-lannee-de-la-normandie-en-europe-le-millenaire-de-guillaume-le-conquerant-se-prepare-bca78736-c75d-11ee-bd89-65961cacb703&int_medium=lien&int_campaign=abonnement&int_content=page-article_boutonjaunehaut&marquesource=OF&marquepref=&ida=bca78736-c75d-11ee-bd89-65961cacb703)
 
- LIRE PLUS TARD
-
- PARTAGER
-
 Newsletter La Matinale
 
 Chaque matin, l’actualité du jour sélectionnée par **Ouest-France**
-
-[Votre e-mail](<mailto:Votre e-mail>)
-
-OK
 
 **« Bâtir un événement populaire et culturel de grande ampleur. »** Hervé Morin, président de la Normandie, a lancé le millénaire de Guillaume le Conquérant devant près de 500 personnes, ce vendredi 9 février 2024, à l’université de Caen. Élus, acteurs des milieux culturels et touristiques et des chefs d’entreprise étaient conviés à cette présentation. **« 2027 doit être au service d’une stratégie de rayonnement et d’attractivité de la Normandie d’aujourd’hui »,** développe Hervé Morin.
 
