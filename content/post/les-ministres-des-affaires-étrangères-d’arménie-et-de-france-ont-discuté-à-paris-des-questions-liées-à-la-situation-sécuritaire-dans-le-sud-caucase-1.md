@@ -14,8 +14,6 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/ararat-mirzoyan-stéphane-séjourné.jpg
 image: assets/img/ararat-mirzoyan-stéphane-séjourné-2.jpg
 ---
-#### https://www.armenews.com/spip.php?page=article&id_article=112610\
-
 \
 Les ministres des Affaires étrangères d’Arménie et de France ont discuté à Paris des questions liées à la situation sécuritaire dans le Sud-Caucase
 
@@ -33,7 +31,9 @@ Ararat Mirzoyan et Stefan Séjourné ont également échangé des idées sur l�
 Les questions liées à la situation sécuritaire dans le Caucase du Sud ont été discutées en détail. Le ministre des Affaires étrangères de la République d’Arménie a présenté à son homologue français la vision de la République d’Arménie concernant l’établissement de la stabilité et de la paix dans la région.[](https://www.armenews.com/IMG/jpg/7/f/b/43-5.jpg "jpg/7/f/b/43-5.jpg")Ararat Mirzoyan a souligné les principes clés du processus de régulation des relations entre l’Arménie et l’Azerbaïdjan, en particulier l’importance de l’intégrité territoriale et de l’inséparabilité des frontières, le respect inconditionnel de la souveraineté, ainsi que la nécessité d’assurer une plus grande certitude afin de mettre en œuvre le processus de démarcation ultérieur. La base de la Déclaration d’Alma-Ata et des cartes les plus récentes et légitimes de l’URSS » dit le message\
 \
 Selon la source, le Ministre des Affaires étrangères de la République d’Arménie a grandement apprécié l’attention et les efforts particuliers de la France visant à surmonter les défis de sécurité dans le Sud-Caucase et à établir une paix juste et stable.\
-Il est à noter que des idées ont été échangées sur les questions liées aux transports régionaux et aux programmes économiques. Source Armenpress
+Il est à noter que des idées ont été échangées sur les questions liées aux transports régionaux et aux programmes économiques. Source Armenpress\
+\
+https://www.armenews.com/spip.php?page=article&id_article=112610\
 
 Krikor Amirzayan
 
