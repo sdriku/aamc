@@ -14,6 +14,7 @@ thumbnailImage: assets/img/ararat-mirzoyan-stéphane-séjourné.jpg
 image: assets/img/ararat-mirzoyan-stéphane-séjourné-2.jpg
 ---
 # https://www.armenews.com/spip.php?page=article&id_article=112610\
+
 \
 Les ministres des Affaires étrangères d’Arménie et de France ont discuté à Paris des questions liées à la situation sécuritaire dans le Sud-Caucase
 
@@ -22,12 +23,11 @@ Les ministres des Affaires étrangères d’Arménie et de France ont discuté �
 Le 9 février, le ministre arménien des Affaires étrangères Ararat Mirzoyan a rencontré Stéphane Séjourné, ministre de l’Europe et des Affaires étrangères de la République française, à Paris.\
 \
 \
-[![JPEG - 323.5 ko](https://www.armenews.com/local/cache-vignettes/L670xH447/43b-2-37301.jpg?1707502875)](https://www.armenews.com/IMG/jpg/5/9/4/43b-2.jpg "jpg/5/9/4/43b-2.jpg")\
 \
 Selon le ministère des Affaires étrangères de la République d’Arménie, le ministre arménien des Affaires étrangères Ararat Mirzoyan a félicité son collègue français pour son accession au poste de ministre des Affaires étrangères et européennes de la France.\
 \
 \
-[![JPEG - 358.1 ko](https://www.armenews.com/local/cache-vignettes/L670xH447/43a-2-e452f.jpg?1707502875)](https://www.armenews.com/IMG/jpg/7/1/1/43a-2.jpg "jpg/7/1/1/43a-2.jpg")\
+[](https://www.armenews.com/IMG/jpg/7/1/1/43a-2.jpg "jpg/7/1/1/43a-2.jpg")\
 \
 \
 « Les interlocuteurs ont discuté de manière approfondie d’un large éventail de questions d’intérêt mutuel, réfléchissant aux perspectives d’une interaction conjointe étroite sur les plates-formes bilatérales et multilatérales.[![JPEG - 297 ko](https://www.armenews.com/local/cache-vignettes/L670xH1005/43d-376f5.jpg?1707502875)](https://www.armenews.com/IMG/jpg/b/a/b/43d.jpg "jpg/b/a/b/43d.jpg")\
