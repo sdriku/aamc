@@ -7,7 +7,7 @@ summary: Le pain lavash est Inscrit en 2014 sur la Liste représentative du
 date: 2024-02-10T23:57:45.874Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/arche-de-noé-lavash.jpg
-image: assets/img/unesco-2.png
+image: assets/img/arche-de-noé-lavash.jpg
 ---
 <!--StartFragment-->
 
