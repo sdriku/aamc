@@ -19,11 +19,6 @@ image: assets/img/embleme-collège-arménien-à-calcutta.jpg
 
 # Les Arméniens à Calcutta : une présence qui a laissé des traces
 
-* 0
-* 0
-*
-*
-
 ![armeniens inde bengale](https://backoffice.lepetitjournal.com/sites/default/files/2021-01/bathinggha-t-fromfrederickpelitiwebsite.jpg)
 
 Le ghat arménien - @puronokolkata
