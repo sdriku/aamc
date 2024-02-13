@@ -1,7 +1,7 @@
 ---
-title: Liberté et Fraternité pour l'éternité - Devise et emblème du collège
-  arménien à Calcutta - La présence arménienne à Calcutta remonte au 16ème
-  siècle
+title: Liberté et Fraternité pour l'éternité - Հավերժ, Ազատություն Եվ
+  Եղբայրություն - Devise et emblème du collège arménien à Calcutta - La présence
+  arménienne à Calcutta remonte au 16ème siècle
 description: "Arméniens à Calcutta depuis le 16ème siècle "
 summary: En Inde, les Arméniens ont commencé à migrer en nombre à partir du 16°
   siècle. Commerçants très appréciés, l’empereur moghol Akbar leur demanda de
