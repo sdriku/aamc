@@ -15,7 +15,9 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/embleme-collège-arménien-à-calcutta.jpg
 image: assets/img/embleme-collège-arménien-à-calcutta.jpg
 ---
-### **"Liberté et Fraternité, pour l'éternité" - Devise et emblème du collège arménien à Calcutta - La présence arménienne à Calcutta remonte au 16ème siècle.**\
+### **"Liberté et Fraternité, pour l'éternité" -** Հավերժ, Ազատություն Եվ Եղբայրություն\
+**Devise et emblème du collège arménien à Calcutta - La présence arménienne à Calcutta remonte au 16ème siècle.**\
+\
 \
 **V﻿idéo : Collège arménien de Calcutta**\
 https://www.facebook.com/reel/1109571823567186
