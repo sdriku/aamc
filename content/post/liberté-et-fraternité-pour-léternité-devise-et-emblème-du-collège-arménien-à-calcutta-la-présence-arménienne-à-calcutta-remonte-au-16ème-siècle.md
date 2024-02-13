@@ -123,5 +123,5 @@ Depuis la fin du 20° siècle, l’Inde a créé des liens nouveaux avec l’Arm
 
 Le nombre de citoyens indiens résidant en Arménie a récemment augmenté de manière très importante (de 4 200 en 2016 à 28 500 en 2018) et depuis 2017, l’obtention des permis de séjour a été facilitée. Un grand nombre de résidents sont étudiants dont plus de 2 000 sont étudiants en médecine.
 
-<!--EndFragment-->\
+\
 **S﻿erge Tateossian Le 13/02/2024   Source : Le petit journal.com**
