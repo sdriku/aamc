@@ -20,9 +20,7 @@ image: assets/img/embleme-collège-arménien-à-calcutta.jpg
 \
 \
 **V﻿idéo : Collège arménien de Calcutta**\
-https://www.facebook.com/reel/1109571823567186\
-\
-<!--StartFragment-->
+https://www.facebook.com/reel/1109571823567186
 
 https://www.instagram.com/reel/C3PPmD9KjoP/?utm_source=ig_web_copy_link
 
