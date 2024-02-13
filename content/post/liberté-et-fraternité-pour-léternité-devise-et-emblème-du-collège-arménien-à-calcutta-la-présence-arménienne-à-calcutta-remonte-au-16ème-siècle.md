@@ -26,8 +26,6 @@ https://www.facebook.com/reel/1109571823567186\
 
 https://www.instagram.com/reel/C3PPmD9KjoP/?utm_source=ig_web_copy_link
 
-<!--EndFragment-->
-
 # Les Arméniens à Calcutta : une présence qui a laissé des traces
 
 ![armeniens inde bengale](https://backoffice.lepetitjournal.com/sites/default/files/2021-01/bathinggha-t-fromfrederickpelitiwebsite.jpg)
