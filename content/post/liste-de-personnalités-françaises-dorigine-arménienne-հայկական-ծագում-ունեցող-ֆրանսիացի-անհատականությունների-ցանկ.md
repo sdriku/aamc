@@ -75,7 +75,5 @@ En particulier Stéphane Delamare pour son engagement sincère, discrète et dé
 
   ## Références
 
-<!--EndFragment-->\
-
 \
 Serge Tateossian le 02/08/2022 Evreux - Source : Academic.com
