@@ -147,12 +147,7 @@ Aujourd’hui, le Domesday Book est encore très célèbre en Angleterre, puisqu
 La mort de Guillaume Le Conquérant
 En 1087, Guillaume conduit une bataille et brûle la ville de Mantes. Il est fortement handicapé car il est devenu obèse. Il est blessé durant la bataille et est emmené à Rouen. Il meurt le 9 Septembre 1087. Son fils Robert reçoit le duché de Normandie et son cadet Guillaume le Roux hérite de la couronne d’Angleterre.
 
-Il est inhumé à Caen, dans l’abbaye aux Hommes, et demande à ce que tous ceux qui avaient été fait prisonniers soient relâchés à condition qu’ils ne troublent pas l’ordre public.
-
-Tombeau de Guillaume le Conquérant
-Tombeau de Guillaume le Conquérant
-
-\
+Il est inhumé à Caen, dans l’abbaye aux Hommes, et demande à ce que tous ceux qui avaient été fait prisonniers soient relâchés à condition qu’ils ne troublent pas l’ordre public.\
 \
 ©Arnaud Guérin – Lithosphère\
 S﻿erge Tateossian le 14/02/2024    Source : La Fabuleuse Epopée
