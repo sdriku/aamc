@@ -16,7 +16,17 @@ image: assets/img/guillaume-le-conquérant-tombe.jpg
 Tombeau de Guillaume le Conquérant dans l'abbaye aux homme à Caen\
 \
 VISITERDÉCOUVRIR GUILLAUMES’AMUSER
-GUILLAUME LE CONQUÉRANT
+GUILLAUME LE CONQUÉRANT\
+\
+\
+<!--StartFragment-->
+
+[https://www.bfmtv.com/​normandie/replay-emissions/​bonjour-la-normandie/la-​normandie-se-prepare-au-​millenaire-de-la-naissance-de-​guillaume-le-conquerant-en-​2027_VN-202402120347.html](https://www.bfmtv.com/normandie/replay-emissions/bonjour-la-normandie/la-normandie-se-prepare-au-millenaire-de-la-naissance-de-guillaume-le-conquerant-en-2027_VN-202402120347.html)
+
+ 
+
+<!--EndFragment-->\
+
 Découvrez la fabuleuse épopée de Guillaume le conquérant ou William the Conqueror en anglais. Né vers 1027 à Falaise en Normandie et mort à Rouen le 9 septembre 1087, il est aussi appelé Guillaume le Bâtard ou encore Guillaume II de Normandie quand il devient Duc de Normandie en 1035 ou bien Guillaume 1er d’Angleterre lorsqu’il devient roi d’Angleterre en 1066.
 
 De Guillaume le Bâtard à Guillaume Le Conquérant
