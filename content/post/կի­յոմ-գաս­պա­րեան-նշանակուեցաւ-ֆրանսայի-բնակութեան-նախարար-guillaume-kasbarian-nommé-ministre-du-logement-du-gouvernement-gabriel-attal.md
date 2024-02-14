@@ -17,8 +17,6 @@ image: assets/img/guillaume-kasbarian.jpg
 
 by [Asbarez Staff](https://asbarez.am/author/asbarez-staff/)
 
- 
-
  [February 9, 2024](https://asbarez.am/%d5%af%d5%ab%d5%b5%d5%b8%d5%b4-%d5%a3%d5%a1%d5%bd%d5%ba%d5%a1%d6%80%d5%a5%d5%a1%d5%b6-%d5%b6%d5%b7%d5%a1%d5%b6%d5%a1%d5%af%d5%b8%d6%82%d5%a5%d6%81%d5%a1%d6%82-%d6%86%d6%80%d5%a1/)
 
 [![Կի­յոմ Գաս­պա­րեան Նշանակուեցաւ Ֆրանսայի Բնակութեան Նախարար](https://media.asbarez.am/wp-content/uploads/2024/02/10192952/0000GUILLAUME-576x313-1.jpg)](https://media.asbarez.am/wp-content/uploads/2024/02/10192952/0000GUILLAUME-576x313-1.jpg)
@@ -27,5 +25,5 @@ by [Asbarez Staff](https://asbarez.am/author/asbarez-staff/)
 
 Վար­չա­պետին կա­տարած այս ընտրու­թիւնը հե­ռու է միաձայ­նութիւն վա­յելե­լէ։ Ձա­խը եւ մար­դա­սիրա­կան ըն­կե­րակ­ցութիւննե­րը իրենց գայ­թակղու­թիւնը եւ խոր զայ­րոյթը կը յայտնեն՝ ի տես այս նշա­նակու­մին, որովհետեւ Կի­յոմ Գաս­պա­րեան ծա­նօթ է իբրեւ վար­ձա­կալու­թեան հար­ցե­րու մէջ շատ խիստ մի­ջոց­նե­րու կողմնա­կից քա­ղաքա­կան անձնա­ւորու­թիւն մը։ Ան, հե­ղինակն է դա­տարկ բնա­կարան­նե­րու մէջ հաս­տա­տուած­նե­րու (եւ յա­րակից պա­րագա­ներու) ար­տաքսման դիւ­րա­ցու­մը նա­խատե­սող օրէն­քի մը։
 
-<!--EndFragment-->\
+\
 S﻿erge Tateossian le 15/02/2024   Source : Asbarez fondé en 1903
