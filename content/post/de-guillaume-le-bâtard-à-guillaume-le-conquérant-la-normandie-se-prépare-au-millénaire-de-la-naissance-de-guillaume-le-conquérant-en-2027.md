@@ -21,6 +21,11 @@ GUILLAUME LE CONQUÉRANT\
 \
 <!--StartFragment-->
 
+V﻿idéo : <!--StartFragment-->
+
+La Normandie se prépare au millénaire de la naissance de Guillaume le Conquérant, en 2027
+
+<!--EndFragment-->\
 [https://www.bfmtv.com/​normandie/replay-emissions/​bonjour-la-normandie/la-​normandie-se-prepare-au-​millenaire-de-la-naissance-de-​guillaume-le-conquerant-en-​2027_VN-202402120347.html](https://www.bfmtv.com/normandie/replay-emissions/bonjour-la-normandie/la-normandie-se-prepare-au-millenaire-de-la-naissance-de-guillaume-le-conquerant-en-2027_VN-202402120347.html)
 
  
