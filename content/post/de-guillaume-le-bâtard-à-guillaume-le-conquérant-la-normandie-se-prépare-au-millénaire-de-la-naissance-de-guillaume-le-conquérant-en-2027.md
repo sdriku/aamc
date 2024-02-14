@@ -152,4 +152,7 @@ Il est inhumé à Caen, dans l’abbaye aux Hommes, et demande à ce que tous ce
 Tombeau de Guillaume le Conquérant
 Tombeau de Guillaume le Conquérant
 
-©Arnaud Guérin – Lithosphère
+\
+\
+©Arnaud Guérin – Lithosphère\
+S﻿erge Tateossian le 14/02/2024    Source : La Fabuleuse Epopée
