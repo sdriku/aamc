@@ -13,11 +13,11 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/guillaume.jpg
 image: assets/img/guillaume-le-conquérant-tombe.jpg
 ---
+Tombeau de Guillaume le Conquérant dans l'abbaye aux homme à Caen\
+\
 VISITERDÉCOUVRIR GUILLAUMES’AMUSER
 GUILLAUME LE CONQUÉRANT
 Découvrez la fabuleuse épopée de Guillaume le conquérant ou William the Conqueror en anglais. Né vers 1027 à Falaise en Normandie et mort à Rouen le 9 septembre 1087, il est aussi appelé Guillaume le Bâtard ou encore Guillaume II de Normandie quand il devient Duc de Normandie en 1035 ou bien Guillaume 1er d’Angleterre lorsqu’il devient roi d’Angleterre en 1066.
-
- 
 
 De Guillaume le Bâtard à Guillaume Le Conquérant
 Indissociable de l’Histoire de France et d’Angleterre, Guillaume Le Conquérant est un roi qui a incontestablement marqué les siècles passés. Seul roi parvenu à conquérir l’Angleterre, le Normand a inspiré de grands génies militaires et de fins stratèges après lui. Toujours copié, mais jamais égalé, Guillaume le Conquérant, autrefois surnommé Guillaume Le Bâtard, est considéré comme le premier roi d’Angleterre.
