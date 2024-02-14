@@ -16,14 +16,9 @@ image: assets/img/guillaume-le-conquérant-tombe.jpg
 Tombeau de Guillaume le Conquérant dans l'abbaye aux homme à Caen\
 \
 VISITERDÉCOUVRIR GUILLAUMES’AMUSER
-GUILLAUME LE CONQUÉRANT\
-\
-\
-<!--StartFragment-->
+GUILLAUME LE CONQUÉRANT
 
-V﻿idéo : <!--StartFragment-->
-
-**La Normandie se prépare au millénaire de la naissance de Guillaume le Conquérant, en 2027**
+V﻿idéo : **La Normandie se prépare au millénaire de la naissance de Guillaume le Conquérant, en 2027**
 
 <!--EndFragment-->\
 [https://www.bfmtv.com/​normandie/replay-emissions/​bonjour-la-normandie/la-​normandie-se-prepare-au-​millenaire-de-la-naissance-de-​guillaume-le-conquerant-en-​2027_VN-202402120347.html](https://www.bfmtv.com/normandie/replay-emissions/bonjour-la-normandie/la-normandie-se-prepare-au-millenaire-de-la-naissance-de-guillaume-le-conquerant-en-2027_VN-202402120347.html)
