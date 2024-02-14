@@ -6,8 +6,8 @@ description: "Célébrités d'origine arménienne - Des franco-arméniens célè
 summary: Liste de personnalités françaises d'origine arménienne
 date: 2022-08-02T21:29:49.414Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/aznavour-et-michel-legrand.png
-image: assets/img/patrick-fiori-et-hélène-ségara.jpg
+thumbnailImage: assets/img/legrand-aznavour.jpeg
+image: assets/img/legrand-aznavour.jpeg
 ---
 **A l'Attention de mes amis (es) qui parfois leur curiosité saine, les poussent à me demander les noms de personnalités franco-arméniennes célèbres. La liste n'est pas exhaustive, on peut en trouver le triple voir plus, mais elle permet d'avoir un aperçu. *(Charles Villeneuve, François Berléand, Muriel Robin, Patrick FIORI...***\
 Certains sont de parents mixtes mais ils se reconnaissent dans la communauté franco-arménienne. \
