@@ -25,12 +25,7 @@ Au début du premier tour, le lutteur russe a surpris Artur Aleksanyan et gagné
 Au deuxième tour, Artur Aleksanyan a eu l’occasion de travailler d’en haut et a fait rouler le Russe. Le score est devenu 3-3. Le concurrent a fait appel, qui a été rejeté. Après le score de 4-3, Artur Aleksanyan a marqué 2 points supplémentaires et a terminé le combat sur le score de 6-3.\
 7 fois champion d’Europe de lutte gréco-romaine, Artur Aleksanyan sera bien aux J.O. de Paris 2024 l’un des grands favoris.
 
-Krikor Amirzayan
-
-<https://www.facebook.com/wrestlingArm/videos/752581166801598>\
-[](https://www.armenews.com/IMG/jpg/3/8/a/57-3.jpg "jpg/3/8/a/57-3.jpg")
-
-\
+Krikor Amirzayan\
 \
 par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=33) le mercredi 14 février 2024\
 © armenews.com 2024
