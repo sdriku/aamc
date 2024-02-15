@@ -28,8 +28,10 @@ Au deuxième tour, Artur Aleksanyan a eu l’occasion de travailler d’en haut 
 Krikor Amirzayan
 
 <https://www.facebook.com/wrestlingArm/videos/752581166801598>\
-[![JPEG - 90.8 ko](https://www.armenews.com/local/cache-vignettes/L670xH377/57-3-014ca.jpg?1707940689)](https://www.armenews.com/IMG/jpg/3/8/a/57-3.jpg "jpg/3/8/a/57-3.jpg")[![JPEG - 248.5 ko](https://www.armenews.com/local/cache-vignettes/L670xH377/56d-6c038.jpg?1707940689)](https://www.armenews.com/IMG/jpg/d/f/3/56d.jpg "jpg/d/f/3/56d.jpg")[![JPEG - 316 ko](https://www.armenews.com/local/cache-vignettes/L670xH377/56c-1-2df70.jpg?1707940689)](https://www.armenews.com/IMG/jpg/f/c/d/56c-1.jpg "jpg/f/c/d/56c-1.jpg")[![JPEG - 264 ko](https://www.armenews.com/local/cache-vignettes/L670xH377/56f-b3819.jpg?1707940689)](https://www.armenews.com/IMG/jpg/7/8/a/56f.jpg "jpg/7/8/a/56f.jpg")[![JPEG - 310.4 ko](https://www.armenews.com/local/cache-vignettes/L670xH377/56e-1-4eaff.jpg?1707940689)](https://www.armenews.com/IMG/jpg/e/1/2/56e-1.jpg "jpg/e/1/2/56e-1.jpg")[![JPEG - 327.4 ko](https://www.armenews.com/local/cache-vignettes/L670xH377/56g-5c13e.jpg?1707940689)](https://www.armenews.com/IMG/jpg/e/4/f/56g.jpg "jpg/e/4/f/56g.jpg")[![JPEG - 145.6 ko](https://www.armenews.com/local/cache-vignettes/L670xH377/56h-c062c.jpg?1707940689)](https://www.armenews.com/IMG/jpg/6/0/9/56h.jpg "jpg/6/0/9/56h.jpg")
+[](https://www.armenews.com/IMG/jpg/3/8/a/57-3.jpg "jpg/3/8/a/57-3.jpg")
 
+\
+\
 par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=33) le mercredi 14 février 2024\
 © armenews.com 2024
 
