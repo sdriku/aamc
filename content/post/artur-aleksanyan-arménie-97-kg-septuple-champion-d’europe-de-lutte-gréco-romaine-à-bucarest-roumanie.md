@@ -28,8 +28,6 @@ Au deuxième tour, Artur Aleksanyan a eu l’occasion de travailler d’en haut 
 Krikor Amirzayan\
 \
 par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=33) le mercredi 14 février 2024\
-© armenews.com 2024
-
-<!--EndFragment-->\
+© armenews.com 2024\
 \
 S﻿erge Tateossian Le 15/02/2024   Source : Armenews
