@@ -15,8 +15,6 @@ image: assets/img/ambassade-d-arménie-patrimoine.jpg
 
 # L’Ambassade de la République d’Arménie va acquérir un bâtiment à Paris
 
-
-
 ![](https://www.armenews.com/IMG/arton112779.jpg)
 
 Dans le budget de l’État arménien, des modifications et des ajouts à l’une des décisions précédemment adoptées en vue d’allouer des fonds au ministère des Affaires étrangères furent examinées. L’adoption de la décision est due à la nécessité d’acquérir le bâtiment de l’ambassade de la République d’Arménie en France.\
@@ -36,5 +34,3 @@ Krikor Amirzayan
 
 par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=33) le jeudi 15 février 2024\
 © armenews.com 2024
-
-<!--EndFragment-->
