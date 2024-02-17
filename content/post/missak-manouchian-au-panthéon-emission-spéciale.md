@@ -12,8 +12,6 @@ image: assets/img/missak-manouchian-émission-spéciale.png
 
 # Missak Manouchian au Panthéon
 
-
-
 ![](https://www.armenews.com/IMG/arton112719.png)
 
 **France Télévisions propose une programmation spéciale pour l’entrée au Panthéon de Missak Manouchian.**
@@ -47,4 +45,6 @@ Pour que leurs itinéraires, leurs engagements militants et leur combat commun p
 par [Naïri](https://www.armenews.com/spip.php?page=auteur&id_auteur=475) le jeudi 15 février 2024\
 © armenews.com 2024
 
-<!--EndFragment-->
+\
+\
+S﻿erge Tateossian Le 17/02/2024   Source : Armenews
