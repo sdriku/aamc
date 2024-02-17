@@ -17,8 +17,5 @@ Le 21 février, le résistant français d’origine arménienne Missak Manouchia
 
 \
 \
-<!--EndFragment-->\
-
-\
 \
 https://youtu.be/tCARcNGdHNs
