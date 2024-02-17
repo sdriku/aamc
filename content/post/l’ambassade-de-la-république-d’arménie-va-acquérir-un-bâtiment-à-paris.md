@@ -1,9 +1,9 @@
 ---
 title: L’Ambassade de la République d’Arménie va acquérir un bâtiment à Paris
 description: "Serge Tateossian le 17/02/2024  Source : Armenews
-  -                                                                                                                                \
-  le bâtiment depuis 1956 il appartenait au 3e président de la 5e République
-  française, Valéry Giscard d’Estaing."
+  -                                                   le bâtiment depuis 1956
+  appartenait au 3e président de la 5e République française, Valéry Giscard
+  d’Estaing."
 summary: À la suite de longues négociations de l’ambassade de la République
   d’Arménie en France, le vendeur a accepté de le vendre pour 23 millions
   d’euros, alors que selon les estimations d’organismes d’évaluation réputés, la
