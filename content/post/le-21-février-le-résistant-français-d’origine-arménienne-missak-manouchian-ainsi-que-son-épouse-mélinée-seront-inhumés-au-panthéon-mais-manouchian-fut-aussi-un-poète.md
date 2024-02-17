@@ -15,7 +15,10 @@ image: assets/img/missak-méliné.jpg
 
 Le 21 février, le résistant français d’origine arménienne Missak Manouchian ainsi que son épouse Mélinée seront inhumés au Panthéon. Mais Manouchian fut aussi un poète.
 
+\
+\
 <!--EndFragment-->\
 
+\
 \
 https://youtu.be/tCARcNGdHNs
