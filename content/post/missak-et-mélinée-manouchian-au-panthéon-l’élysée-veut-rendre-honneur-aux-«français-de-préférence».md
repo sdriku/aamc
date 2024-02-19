@@ -4,59 +4,7 @@ title: "Missak et Mélinée Manouchian au Panthéon : l’Élysée veut rendre h
 description: Missak et Mélinée Manouchian au Panthéon
 summary: "Missak et Mélinée Manouchian au Panthéon : l’Élysée veut rendre
   honneur aux «Français de préférence» Par Claire Bommelaer Publié il y a 9
-  heures, mis à jour il y a 5 heures  Copier le lien Lien copié Missak et
-  Mélinée devraient rejoindre le caveau XIII, en face de la tombe de Joséphine
-  Baker et près de celle de Maurice Genevoix. Missak et Mélinée devraient
-  rejoindre le caveau XIII, en face de la tombe de Joséphine Baker et près de
-  celle de Maurice Genevoix. Leemage Après la panthéonisation de Simone Veil, de
-  Maurice Genevoix et de Joséphine Baker, Emmanuel Macron va présider mercredi à
-  celle du couple de résistants d'origine arménienne. Découvrez les enjeux et
-  les détails de la cérémonie.   Après la panthéonisation de Simone Veil, en
-  2018, celle de l'écrivain et ancien Poilu Maurice Genevoix en novembre 2020 et
-  celle de Joséphine Baker, en 2021, Emmanuel Macron va présider mercredi à
-  celle du résistant d'origine arménienne Missak Manouchian. Trois personnalités
-  et avec elles, trois pans de l’histoire de France mis à l’honneur. Le fil
-  rouge, pour le président, est de choisir «des grandes figures héritières du
-  siècle des lumières» explique son entourage.  La lettre d'info Culture et
-  LoisirsNewsletter Du lundi au vendredi  Recevez chaque jour l’actualité
-  culturelle : cinéma, musique, littérature, expositions, théâtre...  Adresse
-  e-mail S'INSCRIRE Pour Manouchian, qui n'obtint jamais la nationalité
-  française en dépit de deux demandes, cela sera une reconnaissance «de ceux qui
-  étaient Français de préférence, et sont morts au nom des valeurs de la
-  France», poursuit-il l'Élysée, ajoutant que la cérémonie sera également un
-  hommage à résistance communiste et étrangère.    ÉCOUTEZ NOTRE PODCAST  Le
-  résistant d'origine arménienne fera son entrée dans la nécropole des Grands
-  Hommes, accompagné de sa femme Mélinée. Tous deux sont actuellement enterrés
-  au cimetière d’Ivry Sur Seine (94) et leurs corps seront exhumés afin de
-  pouvoir être veillés, dès mardi, au mont Valérien. Sur le lieu même où
-  Manouchian et ses camarades ont été fusillés par les Allemands, le 21 février
-  1944, un temps d’hommage populaire sera organisé. «Cela sera un moment de
-  recueillement permettant à tous de manifester son respect», précise encore la
-  présidence de la république.  La veillée sera suivie le lendemain d’une
-  cérémonie plus officielle, en présence de la famille et de 1 200 invités, dont
-  le premier ministre de la république d’Arménie, Nikol Pashinyan, et 600
-  scolaires. Le public quant à lui pourra assister depuis la rue Soufflot à la
-  levée des corps, portés par des soldats de la Légion étrangère. Sur le parvis
-  du monument, une scénographie mettra en exergue les 22 camarades de combat de
-  Manouchian, dont les noms entreront aussi symboliquement dans le Panthéon. Des
-  temps artistiques et des lectures ponctueront ce temps solennel.  Missak et
-  Mélinée devraient rejoindre le caveau XIII, en face de la tombe de Joséphine
-  Baker et près de celle de Maurice Genevoix. La plaque commémorative listant le
-  nom des 22 camarades sera apposée dans le même caveau. Avec 81 autres
-  personnalités, plusieurs autres figures françaises de la Résistance, dont Jean
-  Moulin, Pierre Brossolette, Geneviève de Gaulle-Anthonioz, Germaine Tillion ou
-  Jean Zay reposent déjà dans le Panthéon. Imposant – 110 m de long sur une
-  largeur de 84 m - le monument comprend l'ancienne église Sainte-Geneviève et
-  une crypte pouvant accueillir jusqu'à 300 cercueils.  Des comités de soutien
-  militent auprès du président - ultime décisionnaire pour les panthéonisations-
-  pour l’entrée d’autres personnalités, dont Molière, l’avocate Gisèle Halimi ou
-  la résistante et conservatrice du Jeu de Paume Rose Valland. Emmanuel Macron a
-  déjà annoncé que la famille de l’ancien ministre de la Justice Robert Badinter
-  ne s’opposerait pas à ce «que son nom» entre au Panthéon. Les détails
-  devraient encore être «précisés» avec elle, selon l’Élysée, et notamment la
-  question de savoir si le corps reposera dans la crypte ou si l’entrée sera
-  symbolique. En 2015, la famille De Gaulle avait ainsi souhaité que Geneviève
-  de Gaulle-Anthonioz demeure au cimetière de Bossey, en Haute Savoie."
+  heures, mis à jour il y a 5 heures "
 date: 2024-02-19T23:11:34.590Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/missak-méliné.jpg
