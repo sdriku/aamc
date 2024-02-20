@@ -11,8 +11,7 @@ image: assets/img/l-affiche-rouge.jpg
 ---
 https://youtu.be/SFt2v4OSTbU\
 \
-L﻿éo Ferré - L'Affiche Rouge  (Audio officiel) \
-\
+L﻿éo Ferré - L'Affiche Rouge  (Audio officiel) 
 
 <!--StartFragment-->
 
@@ -67,7 +66,7 @@ Ah-ah\
 Ah-ah\
 Ah-ah
 
-<!--EndFragment-->\
+
 
 \
 S﻿erge Tateossian le 20/02/2024 Evreux
