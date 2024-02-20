@@ -44,6 +44,8 @@ Et c'est alors que l'un de vous dit calmement\
 "Bonheur à tous, bonheur à ceux qui vont survivre"\
 "Je meurs sans haine en moi pour le peuple allemand"
 
+https://www.youtube.com/watch?v=NWl9g9ebr8w\
+\
 Adieu la peine et le plaisir, adieu les roses\
 Adieu la vie, adieu la lumière et le vent\
 Marie-toi, sois heureuse et pense à moi souvent\
