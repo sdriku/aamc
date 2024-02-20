@@ -27,10 +27,7 @@ Lundi 19 février 2024 à 3:32
 
 Par 
 
-* [France Bleu Normandie (Seine-Maritime - Eure)](https://www.francebleu.fr/normandie-rouen)
-* [](https://www.facebook.com/sharer.php?u=https://www.francebleu.fr/infos/education/evreux-et-vernon-veulent-experimenter-l-uniforme-a-l-ecole-5959290)
-* [](https://twitter.com/share?lang=fr&text=%C3%89vreux%20et%20Vernon%20veulent%20exp%C3%A9rimenter%20l%27uniforme%20%C3%A0%20l%27%C3%A9cole&url=https://www.francebleu.fr/infos/education/evreux-et-vernon-veulent-experimenter-l-uniforme-a-l-ecole-5959290)
-* [](mailto:?subject=%C3%89vreux%20et%20Vernon%20veulent%20exp%C3%A9rimenter%20l%27uniforme%20%C3%A0%20l%27%C3%A9cole&body=undefined%20https://www.francebleu.fr/infos/education/evreux-et-vernon-veulent-experimenter-l-uniforme-a-l-ecole-5959290.%20Plus%20d%E2%80%99informations%20sur%20https://www.francebleu.fr.)
+* ﻿France Bleu Normandie (Seine-Maritime - Eur﻿﻿﻿e)    
 
 Les écoliers d'Évreux et de Vernon pourraient porter l'uniforme à la rentrée en septembre 2024. Les maires des deux principales villes de l'Eure en ont exprimé le souhait et ont fait acte de candidature auprès du ministère de l'Éducation nationale.
 
