@@ -65,5 +65,4 @@ Au final, il rappelle surtout – c’est toujours utile alors que [le gouverne
 
 *Manouchian et ceux de l’Affiche rouge,* France 2, 21 h 10
 
-<!--EndFragment-->\
 S﻿erge Tateossian le 21/02/2024   Source : L'Humanité
