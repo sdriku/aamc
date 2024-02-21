@@ -36,4 +36,7 @@ Krikor Amirzayan
 par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=33) le mardi 20 février 2024\
 © armenews.com 2024
 
+\
+S﻿erge Tateossian le 2\
+\
 <!--EndFragment-->
