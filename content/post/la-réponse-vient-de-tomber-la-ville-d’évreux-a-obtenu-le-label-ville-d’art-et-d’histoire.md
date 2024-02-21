@@ -39,4 +39,5 @@ Guy Lefrand, le maire (LR) d’Évreux, avait [défendu le dossier jeudi 21 sep
 
 La Ville d’Évreux visait l’obtention du label Ville d’art et d’histoire depuis 2016. Le travail mené avait abouti à la constitution d’un dossier de candidature de près de 200 pages. Quelques jours avant le passage devant le jury, Jean-Pierre Pavon, l’adjoint au maire à la Culture, rappelait tout l’enjeu de cette distinction : une occasion de *« retrouver un sentiment de fierté »*, de *« faire des habitants des acteurs de la ville »*, de *« placer le patrimoine au cœur de l’apprentissage de la citoyenneté »*, de *« faire d’Évreux une ville attractive et reconnue où il fait bon vivre »* et enfin *« faire d’Évreux une ville résiliente qui s’adapte au changement climatique »*.
 
-<!--EndFragment-->
+\
+S﻿erge tateossian le 21/02/2024   Source : Paris Normandie
