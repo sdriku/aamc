@@ -29,11 +29,7 @@ Cet entretien a permis également d’**approfondir la coopération bilatérale
 
 Enfin, le Président de la République a réitéré son soutien entier au développement des relations entre l’Union européenne et l’Arménie, dans toutes leurs dimensions.
 
-[Youtube iframe](https://www.youtube-nocookie.com/embed/ZEiAwzeBmMc?theme=light&rel=0&controls=1&showinfo=0&autoplay=0&mute=&start=&end=&loop=&enablejsapi=1)
-
 21 février 2024 - Seul le prononcé fait foi
-
-[Télécharger le .pdf](https://www.elysee.fr/front/pdf/elysee-module-22285-fr.pdf)
 
 ## Déclaration du Président Emmanuel Macron à l’occasion de la visite du Premier ministre d’Arménie Nikol Pachinian.
 
