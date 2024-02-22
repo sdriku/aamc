@@ -1,5 +1,5 @@
 ---
-title: "Evreux : Bientôt une statue de Manouchian ?"
+title: "Evreux : Bientôt une statue de Manouchian ? (Paris Normandie) "
 description: "Evreux : Une statue de Manouchian -  La Résistance à Evreux "
 summary: "Evreux : Bientôt une statue de Manouchian ? "
 date: 2024-02-22T01:36:51.616Z
