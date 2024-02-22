@@ -65,4 +65,4 @@ OuvrirDéclaration du Président Emmanuel Macron à l’occasion de la visite du
 \
 L﻿ire : https://www.armenews.com/spip.php?page=article&id_article=112977\
 \
-<!--EndFragment-->
+S﻿erge Tateossian Le 22/02/2024   Source : Cabinet du Président de la République
