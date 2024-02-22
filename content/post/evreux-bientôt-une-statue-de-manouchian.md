@@ -41,8 +41,6 @@ Serge Tateossian, président *de* l’Association arménienne mémoire culture
 
 Serge Tateossian
 
-[](<>)
-
-© 2024 Paris-Normandie. Tous droits r
+[](<>)© 2024 Paris-Normandie. Tous droits r
 
 <!--EndFragment-->
