@@ -60,7 +60,7 @@ Voilà les quelques mots que je voulais ici rappeler pour vous dire que de toute
 
 Et je salue une fois encore, Monsieur le Premier ministre, le courage avec lequel vous menez tous ces combats et vous redit en ce jour si particulier le soutien de la France et le soutien à tous les Arméniens.
 
-OuvrirDéclaration du Président Emmanuel Macron à l’occasion de la visite du Premier ministre d’Arménie Nikol Pachinian.
+Ouvrir Déclaration du Président Emmanuel Macron à l’occasion de la visite du Premier ministre d’Arménie Nikol Pachinian.
 
 \
 L﻿ire : https://www.armenews.com/spip.php?page=article&id_article=112977\
