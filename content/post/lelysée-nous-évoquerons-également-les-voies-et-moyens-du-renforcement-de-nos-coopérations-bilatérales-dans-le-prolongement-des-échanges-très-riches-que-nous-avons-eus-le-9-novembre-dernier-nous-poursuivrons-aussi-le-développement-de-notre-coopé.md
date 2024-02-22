@@ -54,10 +54,7 @@ La France continuera également à soutenir résolument le développement des re
 
 Voilà les quelques mots que je voulais ici rappeler pour vous dire que de toute façon, vous le savez, au-delà des mots, la France se tient aux côtés de votre pays parce que c'est là qu'est le camp de la justice, de l'indépendance, de la liberté et du droit international. 
 
-Et je salue une fois encore, Monsieur le Premier ministre, le courage avec lequel vous menez tous ces combats et vous redit en ce jour si particulier le soutien de la France et le soutien à tous les Arméniens.
-
-\
-L﻿ire : https://www.armenews.com/spip.php?page=article&id_article=112977\
+Et je salue une fois encore, Monsieur le Premier ministre, le courage avec lequel vous menez tous ces combats et vous redit en ce jour si particulier le soutien de la France et le soutien à tous les Arméniens.\
 \
 \
 S﻿erge Tateossian Le 22/02/2024   Source : Cabinet du Président de la République
