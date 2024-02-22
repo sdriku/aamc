@@ -17,6 +17,8 @@ Violaine Gargala
 
 ![](https://nouveau.europresse.com/Pdf/Thumb?imageIndex=0&id=pdf%B720240221%B7PAN_P%B7pnte12)
 
+https://www.paris-normandie.fr/id496064/article/2024-02-20/entree-de-missak-manouchian-au-pantheon-une-statue-hommage-bientot-evreux#:~:text=Mes%20newsletters%20D%C3%A9connexion-,Entr%C3%A9e%20de%20Missak%20Manouchian%20au%20Panth%C3%A9on%20%3A%20une%20statue%20hommage%20bient%C3%B4t,pays%20d'origine%20du%20couple.\
+\
 page pnte12
 
 Évreux *Une* *statue* *de* Missak *Manouchian* verra-t-elle le jour à Évreux ? C’est en tout cas le souhait du président *de* l’Association Arménie mémoire culture (AAMC) basée dans la capitale *de* l’Eure, qui souhaite ainsi rendre hommage au résistant qui fait son entrée au Panthéon au côté *de* son épouse Mélinée, mercredi 21 février 2024. « Je vais faire la demande et trouver les soutiens nécessaires » , indique Serge Tateossian, qui aimerait que cette sculpture prenne place dans l’Eure et, donc, pourquoi pas à Évreux où vivent, dans la ville et ses alentours, environ 200 familles d’origine arménienne.
