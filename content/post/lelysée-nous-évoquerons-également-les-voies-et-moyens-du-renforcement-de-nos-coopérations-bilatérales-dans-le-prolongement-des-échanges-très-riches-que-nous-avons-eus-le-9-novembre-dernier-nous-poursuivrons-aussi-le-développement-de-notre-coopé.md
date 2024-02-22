@@ -62,6 +62,7 @@ Et je salue une fois encore, Monsieur le Premier ministre, le courage avec leque
 
 OuvrirDéclaration du Président Emmanuel Macron à l’occasion de la visite du Premier ministre d’Arménie Nikol Pachinian.
 
-
-
+\
+L﻿ire : https://www.armenews.com/spip.php?page=article&id_article=112977\
+\
 <!--EndFragment-->
