@@ -41,4 +41,6 @@ Jean-Paul Lecoq, député PCF de la Seine-Maritime, était présent dès le mard
 
 À la suite de la cérémonie au Panthéon, un hommage à Missak et Mélinée Manouchian, et aux FTP-MOI (Francs-tireurs partisans-Main d’œuvre immigrée) sera organisé le mercredi 6 mars 2024, à partir de 18 h, dans la salle du Club nautique havrais, boulevard Clemenceau. Animé par Jean-Baptiste Le Cam, professeur d’histoire, il aura lieu en présence de Guillaume Roubaud Quashie, historien, directeur de la maison Triolet-Aragon et membre de la direction nationale du PCF.
 
+\
+\
 <!--EndFragment-->
