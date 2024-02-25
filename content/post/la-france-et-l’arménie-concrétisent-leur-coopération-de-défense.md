@@ -41,7 +41,7 @@ Dans le cadre du nouveau partenariat avec Erevan, *l*’avion A400M, avec leque
 
 délégation parlementaire française
 
-<!--EndFragment-->\
+<!--EndFragment-->
 
 https://www.armenews.com/spip.php?page=article&id_article=113040
 
