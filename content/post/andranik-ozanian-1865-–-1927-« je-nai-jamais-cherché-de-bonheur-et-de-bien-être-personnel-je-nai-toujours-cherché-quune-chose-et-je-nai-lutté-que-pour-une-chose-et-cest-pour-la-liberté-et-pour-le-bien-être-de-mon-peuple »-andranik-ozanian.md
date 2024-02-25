@@ -17,6 +17,7 @@ image: assets/img/général-antranik-cimetière-du-père-lachaise.webp
 \
 \
 **Andranik OZANIAN (1865 – 1927)**\
+**C﻿imetière Père-Lachaise Paris**\
 \
 **« Je n'ai jamais cherché de bonheur et de bien-être personnel. Je n'ai toujours cherché qu'une chose et je n'ai lutté que pour une chose et c'est pour la liberté et pour le bien-être de mon peuple »**\
 **Andranik OZANIAN**\
