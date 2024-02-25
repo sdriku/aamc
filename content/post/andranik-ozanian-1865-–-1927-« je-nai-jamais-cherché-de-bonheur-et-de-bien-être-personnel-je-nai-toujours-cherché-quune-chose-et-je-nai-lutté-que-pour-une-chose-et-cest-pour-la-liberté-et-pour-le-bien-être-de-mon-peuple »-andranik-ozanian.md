@@ -13,6 +13,9 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/général-antranik-2.jpeg
 image: assets/img/général-antranik-cimetière-du-père-lachaise.webp
 ---
+\
+\
+\
 **Andranik OZANIAN (1865 – 1927)**\
 \
 **« Je n'ai jamais cherché de bonheur et de bien-être personnel. Je n'ai toujours cherché qu'une chose et je n'ai lutté que pour une chose et c'est pour la liberté et pour le bien-être de mon peuple »**\
@@ -20,7 +23,10 @@ image: assets/img/général-antranik-cimetière-du-père-lachaise.webp
 \
 L'aigle de Chapine-Garahissar ainsi est nommé Andranik Ozanian par les générations, il est le célèbre commandant avec une popularité exceptionnelle, **une figure du mouvement national de libération**, le chef des fédayons. Ses exploits militaires avant et après le génocide arménien contre la tyrannie turque et Kurde est une des pages glorieuses de l'histoire du peuple arménien.\
 \
-En tuant le fonctionnaire turc son père innocent, il a été emprisonné, ensuite il s'enfuit à Constantinople, puis en Roumanie. Après un certain temps il revient en Arménie occidentale, ensuite il trouve sa place dans le groupe d'**Aghpur Sérob**, où il obtient peu à peu une grande réputation.\
+\
+\
+\
+En tuant le fonctionnaire turc qui battait son père innocent, il a été emprisonné, ensuite il s'enfuit à Constantinople, puis en Roumanie. Après un certain temps il revient en Arménie occidentale, ensuite il trouve sa place dans le groupe d'**Aghpur Sérob**, où il obtient peu à peu une grande réputation.\
 \
 Après avoir assassiné Bcharé Khalil, le bourreau de Sérob, il devient **chef des haïdouks** (le mouvement Haïdouk est une des pages glorieuses du mouvement de libérateur arménien de l'opression turque, c'est ce mouvement qui a contribué à la naissance de la conscience nationale, à la résitance et à l'auto-défense, parmi ses leaders et meneurs du mouvement, citons quelques uns : **Arabo, Hraïr Djogjk, Aghbïour Serob, Kevork Tchaouch, Makhlouto, Nikol Douman, et Mère Sossé**). Sa renommée est devenue plus populaire pendant l'autodéfense du monastère **Arakélots**. En 1902-1904 sous la direction d'Andranik les détachements arméniens ont mené des batailles réussies contre les troupes turques à **Sassoun**, à **Taron**, à **Vaspourakan**.\
 \
