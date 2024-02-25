@@ -37,6 +37,6 @@ Andranik est mort d'une crise cardiaque en 1927 en Californie et a été enterr�
 \
 Des rues, des places à plusieurs lieux d'Arménie portent le nom d'Andranik, ses monuments et plaques comméoratives ont été dressés dans plusieurs pays du monde, des chants folkloriques, des romans, de spoèmes ont été crées à son honneur. Beaucoup de générations patriotes seront encore élevées sur l'exemple de la vie du grand commandant qui était le symbole de patriotisme, de liberté, de volonté infléxible et d'exploit de l'esprit.\
 \
-(**A l'occasion de l'anniversaire de la naissance du Général Antranik**)\
+(**25 février anniversaire de la naissance du Général Antranik**)\
 \
 **Serge Tateossian le 25/02/2024**
