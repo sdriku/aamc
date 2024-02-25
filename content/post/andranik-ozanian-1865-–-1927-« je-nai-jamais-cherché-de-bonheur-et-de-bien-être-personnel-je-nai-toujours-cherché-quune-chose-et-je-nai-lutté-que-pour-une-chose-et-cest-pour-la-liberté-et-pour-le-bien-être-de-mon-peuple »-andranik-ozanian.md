@@ -13,9 +13,6 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/général-antranik-2.jpeg
 image: assets/img/général-antranik-cimetière-du-père-lachaise.webp
 ---
-\
-\
-\
 **Andranik OZANIAN (1865 – 1927)**\
 **C﻿imetière Père-Lachaise Paris**\
 \
