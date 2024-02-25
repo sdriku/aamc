@@ -47,4 +47,6 @@ https://www.armenews.com/spip.php?page=article&id_article=113040
 
 Vendredi, un contrat pour *l*’achat *de* fusils *de* précision a également été signé, ainsi qu’une convention avec *l*’académie militaire *de* Saint-Cyr Coëtquidan, pour accueillir cinq militaires arméniens en 2024. D’ici à *la* fin décembre, un premier radar GM200 *de* chez Thales devrait enfin être livré. Ce dernier équipement est le plus sensible. Il ouvre potentiellement *la* voie à d’autres acquisitions dans le domaine *de* *la* *défense* sol-air, domaine dans lequel Paris aimerait bien se positionner. Erevan doit toutefois trouver les fonds. Son budget annuel *de* *défense* n’est que *de* 1,27 milliard d’euros, même si cette somme équivaut à plus *de* 5 % *de* son produit intérieur brut.
 
-<!--EndFragment-->
+\
+\
+S﻿erge Tateossian le 25/02/2024   Source Le Monde
