@@ -35,13 +35,14 @@ Au-delà des liens historiques, le rapprochement *de* *la* *France* et *de*
 
 Cette diversification des partenariats militaires d’Erevan n’a pas débuté avec *la* *France*. *L*’*Arménie* a d’abord prudemment commencé par *l*’Inde, en 2019, dont une grande partie des équipements sont d’origine soviétique et qui développe sa propre industrie *de* *défense*. En s’engageant concrètement avec Paris, quelques mois seulement après *l*’officialisation *de* ce rapprochement, en octobre 2023, Erevan a toutefois franchi un pas supplémentaire. Une étape qui s’est traduite avec *l*’annonce, faite vendredi par le premier ministre arménien, Nikol Pachinian, du gel *de* sa participation à *l*’Organisation du traité *de* sécurité collective (OTSC), une alliance régionale diplomatico-militaire née en 2002 et dominée par Moscou, qui regroupe *la* Biélorussie, le Kazakhstan, le Kirghizistan et le Tadjikistan.
 
-Dans le cadre du nouveau partenariat avec Erevan, *l*’avion A400M, avec lequel M. Lecornu s’est posé en *Arménie*, convoyait *la* deuxième livraison *de* matériel militaire français après *l*’envoi, fin décembre 2023, *de* 24 blindés *de* type Bastion. Cette fois, Paris a livré des lots *de* jumelles Safran à vision nocturne. Des équipements limités, mais révélateurs d’une armée arménienne qui pare aujourd’hui au plus pressé pour sécuriser sa frontière avec *l*’Azerbaïdjan, alors que quatre soldats arméniens sont morts, le 13 février, lors d’échanges *de* tirs à *la* frontière entre les deux pays.\
-\
+Dans le cadre du nouveau partenariat avec Erevan, *l*’avion A400M, avec lequel M. Lecornu s’est posé en *Arménie*, convoyait *la* deuxième livraison *de* matériel militaire français après *l*’envoi, fin décembre 2023, *de* 24 blindés *de* type Bastion. Cette fois, Paris a livré des lots *de* jumelles Safran à vision nocturne. Des équipements limités, mais révélateurs d’une armée arménienne qui pare aujourd’hui au plus pressé pour sécuriser sa frontière avec *l*’Azerbaïdjan, alors que quatre soldats arméniens sont morts, le 13 février, lors d’échanges *de* tirs à *la* frontière entre les deux pays.
+
 <!--StartFragment-->
 
 délégation parlementaire française
 
 <!--EndFragment-->\
+
 https://www.armenews.com/spip.php?page=article&id_article=113040
 
 Vendredi, un contrat pour *l*’achat *de* fusils *de* précision a également été signé, ainsi qu’une convention avec *l*’académie militaire *de* Saint-Cyr Coëtquidan, pour accueillir cinq militaires arméniens en 2024. D’ici à *la* fin décembre, un premier radar GM200 *de* chez Thales devrait enfin être livré. Ce dernier équipement est le plus sensible. Il ouvre potentiellement *la* voie à d’autres acquisitions dans le domaine *de* *la* *défense* sol-air, domaine dans lequel Paris aimerait bien se positionner. Erevan doit toutefois trouver les fonds. Son budget annuel *de* *défense* n’est que *de* 1,27 milliard d’euros, même si cette somme équivaut à plus *de* 5 % *de* son produit intérieur brut.
