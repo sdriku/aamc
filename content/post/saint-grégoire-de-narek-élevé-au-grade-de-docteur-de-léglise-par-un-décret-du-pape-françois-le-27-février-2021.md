@@ -47,4 +47,6 @@ Grégoire de Narek est une figure très connue et vénérée par les Arméniens,
 
 La date de naissance de saint Grégoire de Narek (entre 945 et 951) et celle de son décès (entre 1003 et 1010) sont incertaines, mais ce moine est considéré comme un fondateur de l’identité arménienne. Son chef d’œuvre, *Le Livre des Lamentations* est un ouvrage très connu et massivement lu et étudié, y compris actuellement, plus de mille ans après sa rédaction. Son œuvre poétique et littéraire a fait sortir la langue arménienne du seul cadre liturgique pour en faire progressivement une langue parlée et diffusée dans la vie courante. De nombreux poètes et écrivains, ainsi que des compositeurs, se sont revendiqués de sa filiation. Son aura est aujourd’hui comparable dans le monde arménien à celle de saint François d’Assise dans l’Église latine.
 
+\
+S﻿erge Tateossian Le 02/03/2024   Source : Vatican News\
 <!--EndFragment-->
