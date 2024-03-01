@@ -12,8 +12,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/saint-grégoire-de-narek.jpeg
 image: assets/img/saint-grégoire-de-narek.jpeg
 ---
-https://www.vaticannews.va/fr/vatican/news/2021-02/messe-gregoire-de-narek-cardinal-sandri-armenie.html\
-\
+https://www.vaticannews.va/fr/vatican/news/2021-02/messe-gregoire-de-narek-cardinal-sandri-armenie.html
+
 <!--StartFragment-->
 
 ![Une représentation de saint Grégoire de Narek en mosaïque.](https://media.vaticannews.va/media/content/dam-archive/vaticannews/multimedia/2021/02/25/11.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg "Une représentation de saint Grégoire de Narek en mosaïque.")
