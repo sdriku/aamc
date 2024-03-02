@@ -10,6 +10,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/le-cornu-à-erevan.webp
 image: assets/img/lecornu-3.jpg
 ---
+S﻿erge Tateossian le 02/03/2024  Source : Le point\
+\
 https://www.lepoint.fr/monde/armenie-si-je-t-oublie-erevan-par-jean-michel-blanquer-01-03-2024-2553993_24.php#11\
 \
 Le Point.fr, no. 202402
