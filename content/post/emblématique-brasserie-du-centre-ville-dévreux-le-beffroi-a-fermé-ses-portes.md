@@ -38,4 +38,6 @@ En déclin depuis quelques années, l’établissement, pourtant situé au cœur
 
 Le jeudi 29 février, maître Thierry Léger, huissier de justice à **Rouen** est venu placarder, au petit matin, un avis d’expulsion sur la porte du Beffroi. « Les lieux sont repris au profit du propriétaire », précise un avis qui marque la fin d’une institution de la ville. Et, on l’espère pour le centre-ville d’Évreux, le début d’une nouvelle histoire. 
 
-<!--EndFragment-->
+\
+\
+S﻿erge Tateossian Le 03/03/2024   Source :
