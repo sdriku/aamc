@@ -40,4 +40,4 @@ Le jeudi 29 février, maître Thierry Léger, huissier de justice à **Rouen**�
 
 \
 \
-S﻿erge Tateossian Le 03/03/2024   Source :
+   Source :
