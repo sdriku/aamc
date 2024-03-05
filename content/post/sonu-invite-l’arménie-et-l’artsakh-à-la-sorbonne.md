@@ -1,11 +1,11 @@
 ---
 title: SONU* invite l’Arménie et l’Artsakh à la Sorbonne
 description: SONU* invite l’Arménie et l’Artsakh à la Sorbonne
-summary: "Vendredi 1er mars, l’amphithéâtre historique Turgot de La Sorbonne a
-  reçu des intervenants de haut niveau pour évoquer la situation en Arménie et
-  en Artsakh autour du thème : “droit des États face aux droits des peuples”, à
-  la demande de l’organisation étudiante SONU*, devant une salle comble
-  d’étudiants."
+summary: "(Article Armenews) Vendredi 1er mars, l’amphithéâtre historique Turgot
+  de La Sorbonne a reçu des intervenants de haut niveau pour évoquer la
+  situation en Arménie et en Artsakh autour du thème : “droit des États face aux
+  droits des peuples”, à la demande de l’organisation étudiante SONU*, devant
+  une salle comble d’étudiants."
 date: 2024-03-05T01:20:49.408Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/sorbonne-arménie.jpg
