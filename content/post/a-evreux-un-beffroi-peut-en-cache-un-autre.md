@@ -9,7 +9,7 @@ image: assets/img/grand-père-2.jpg
 ---
 P﻿hoto libre de droits\
 \
-**A Evreux, un beffroi peut en cache un autre.**L'histoire du petit Nicolas...et le rendez-vous manqué avec son grand-père.
+**A Evreux, un beffroi peut en cache un autre.** L'histoire du petit Nicolas...et le rendez-vous manqué avec son grand-père.
 
 Nous sommes en 1992. Un grand-père retraité et domicilié rue Del’Homme dans le centre-ville d’Evreux, désirait rencontrer, pour la première fois, son petit-fils Nicolas, qui venait de fêter des 14 ans.
 
