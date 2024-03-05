@@ -7,6 +7,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/grand-père-et-petit-fils.jpg
 image: assets/img/grand-père-2.jpg
 ---
+P﻿hoto libre de droits\
+\
 **A Evreux, un beffroi peut en cache un autre.**L'histoire du petit Nicolas...et le rendez-vous manqué avec son grand-père.
 
 Nous sommes en 1992. Un grand-père retraité et domicilié rue Del’Homme dans le centre-ville d’Evreux, désirait rencontrer, pour la première fois, son petit-fils Nicolas, qui venait de fêter des 14 ans.
@@ -47,8 +49,6 @@ Pour rétablir la maladresse de son père, la maman de Nicolas, en commun accord
 
 Moralité de l'histoire :\
 Ne l'oublions pas, l’amour est une vertu d’indulgence de pardon et de respect de l’autre. *(Martin Gray)*
-
-
 
 Serge TATEOSSIAN
 
