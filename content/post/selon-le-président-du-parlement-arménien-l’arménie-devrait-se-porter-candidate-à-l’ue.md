@@ -13,8 +13,6 @@ image: assets/img/alen-simonyan.jpg
 
 # Selon le président du Parlement arménien, l’Arménie devrait se porter candidate à l’UE
 
-
-
 ![](https://www.armenews.com/local/cache-gd2/20/ebcfd3053d5f2b45e3eab4cd9f4a93.jpg)
 
 Le président du Parlement arménien, Alen Simonyan, a déclaré que l’Arménie devrait « certainement » devenir membre de l’Union européenne.
@@ -42,4 +40,4 @@ Notre plus grande préoccupation est de savoir d’où viendra l’attaque. Il e
 par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le lundi 4 mars 2024\
 © armenews.com 2024
 
-<!--EndFragment-->
+S﻿erge Tateossian le 05/03/2024   Source : Armenews
