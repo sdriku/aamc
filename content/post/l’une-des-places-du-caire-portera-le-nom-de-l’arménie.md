@@ -21,7 +21,7 @@ Lors de la rencontre du Premier ministre arménien Nikol Pachinian au Caire où 
 
 Information communiquée par le bureau du Premier ministre de la RA, le Premier ministre égyptien a également souligné les relations historiques profondes et séculaires entre les deux pays et a ajouté que la communauté arménienne d’Egypte vit unie dans la société égyptienne sans poser de problèmes.\
 \
-https://www.armenews.com/spip.php?page=article&id_article=113415
+Même sujet : https://www.armenews.com/spip.php?page=article&id_article=113415
 
 Krikor Amirzayan
 
