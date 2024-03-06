@@ -9,7 +9,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/egypte-9.jpg
 image: assets/img/egypte-7.jpg
 ---
-Place d'Arménie bientôt au Caire. \
+Place d'Arménie bientôt au Caire. 
 
 <!--StartFragment-->
 
