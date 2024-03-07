@@ -8,7 +8,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/td-tamara-dzhalilova.jpg
 image: assets/img/td-tamara-dzhalilova.jpg
 ---
-###### **www.evreux-armenie.com est un site Web caritatif et ses éventuelles annonces (coup de pouce ) publiées ne peuvent en aucun cas être commercialisées.** \
+######  **www.evreux-armenie.com est un site Web caritatif et ses éventuelles annonces (coup de pouce ) publiées ne peuvent en aucun cas être commercialisées.**
 
 <!--StartFragment-->
 
