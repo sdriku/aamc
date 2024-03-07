@@ -12,7 +12,7 @@ image: assets/img/td-tamara-dzhalilova.jpg
 
 <!--StartFragment-->
 
-## A﻿nnonce :\
+## A﻿nnonce :
 
 **[Tamara Dzhalilova - Pro Assistante Administrative et Comptable](https://www.facebook.com/profile.php?id=100092297515643&__cft__[0]=AZWMalls0NDuX6I2PSUDBhfo0wsUiK4nziMUxKmqRLxFs6aTibcJ9mAsyE0o-EDGvCYbpZdpJjulYVnfLbqesCKBNjJHo6aN7fc9zjjrucpNSBhf2e9XY3a7MoITHoGUhZ63Nje4DHZQrPdTa-8qT_WT&__tn__=-UC%2CP-R)**
 
