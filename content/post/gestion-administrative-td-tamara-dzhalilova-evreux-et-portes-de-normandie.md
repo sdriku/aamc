@@ -9,10 +9,11 @@ thumbnailImage: assets/img/td-tamara-dzhalilova.jpg
 image: assets/img/td-tamara-dzhalilova.jpg
 ---
 ###### **www.evreux-armenie.com est un site Web caritatif et ses éventuelles annonces (coup de pouce ) publiées ne peuvent en aucun cas être commercialisées.** \
-\
+
 <!--StartFragment-->
 
 ## A﻿nnonce :\
+
 **[Tamara Dzhalilova - Pro Assistante Administrative et Comptable](https://www.facebook.com/profile.php?id=100092297515643&__cft__[0]=AZWMalls0NDuX6I2PSUDBhfo0wsUiK4nziMUxKmqRLxFs6aTibcJ9mAsyE0o-EDGvCYbpZdpJjulYVnfLbqesCKBNjJHo6aN7fc9zjjrucpNSBhf2e9XY3a7MoITHoGUhZ63Nje4DHZQrPdTa-8qT_WT&__tn__=-UC%2CP-R)**
 
 [tseooSdprn1v625389l7tié: 026ret4g8027r459cimu8fl46i5 0,h603l](https://www.facebook.com/story.php?story_fbid=307072619045986&id=100092297515643#)  · 
@@ -53,12 +54,6 @@ Tamara Dzhalilova
 
 TD TAMARA DZHALILOVA
 
-
-
 [![Peut être une image de 1 personne et texte qui dit ’TD Tamara DZHALILOVA 07.77.89.96.84 GÉRANTE ASSISTANTE ADMINISTRATIVE ET COMPTABLE POUR LES tamara.dzhalilova7@gmail.com PROFESSIONNELS: 口森0 code QR TPE,PME/COMMERCANTS/ARTISANS’](https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-6/408864178_307069739046274_5543986558693898055_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=F7Bu_zeJdPAAX-AkM89&_nc_ht=scontent-cdg4-3.xx&oh=00_AfAamLbXOwG0RO2mzgi8Q_Undon353cVLPQS0FtYwDi6Sw&oe=65ED7E38)](https://www.facebook.com/photo/?fbid=307069742379607&set=a.165706023182647&__cft__[0]=AZWMalls0NDuX6I2PSUDBhfo0wsUiK4nziMUxKmqRLxFs6aTibcJ9mAsyE0o-EDGvCYbpZdpJjulYVnfLbqesCKBNjJHo6aN7fc9zjjrucpNSBhf2e9XY3a7MoITHoGUhZ63Nje4DHZQrPdTa-8qT_WT&__tn__=EH-R)
-
-
-
-
 
 <!--EndFragment-->
