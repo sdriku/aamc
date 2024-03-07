@@ -14,11 +14,7 @@ image: assets/img/td-tamara-dzhalilova.jpg
 
 ## A﻿nnonce :
 
-**[Tamara Dzhalilova - Pro Assistante Administrative et Comptable](https://www.facebook.com/profile.php?id=100092297515643&__cft__[0]=AZWMalls0NDuX6I2PSUDBhfo0wsUiK4nziMUxKmqRLxFs6aTibcJ9mAsyE0o-EDGvCYbpZdpJjulYVnfLbqesCKBNjJHo6aN7fc9zjjrucpNSBhf2e9XY3a7MoITHoGUhZ63Nje4DHZQrPdTa-8qT_WT&__tn__=-UC%2CP-R)**
-
-[tseooSdprn1v625389l7tié: 026ret4g8027r459cimu8fl46i5 0,h603l](https://www.facebook.com/story.php?story_fbid=307072619045986&id=100092297515643#)  · 
-
-\[ Bienvenue sur la page de TD TAMARA DZHALILOVA !]
+**[Tamara Dzhalilova - Pro Assistante Administrative et Comptable](https://www.facebook.com/profile.php?id=100092297515643&__cft__[0]=AZWMalls0NDuX6I2PSUDBhfo0wsUiK4nziMUxKmqRLxFs6aTibcJ9mAsyE0o-EDGvCYbpZdpJjulYVnfLbqesCKBNjJHo6aN7fc9zjjrucpNSBhf2e9XY3a7MoITHoGUhZ63Nje4DHZQrPdTa-8qT_WT&__tn__=-UC%2CP-R)** · 
 
 Bonjour à toutes et à tous!
 
