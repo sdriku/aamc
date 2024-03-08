@@ -14,7 +14,7 @@ summary: "Officialisée en 1977 par l'Organisation des Nations Unies, la journé
 date: 2024-03-08T00:35:18.331Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/femme-arménienne-ararat-massis.jpg
-image: assets/img/égalité.webp
+image: assets/img/femme-arménienne.jpg
 ---
 <!--StartFragment-->
 
