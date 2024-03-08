@@ -1,5 +1,6 @@
 ---
-title: "Droits des femmes : cinq questions sur la journée du 8 mars"
+title: "Droits des femmes : cinq questions sur la journée du 8 mars - Կանանց
+  իրավունքներ. հինգ հարց մարտի 8-ի մասին"
 description: 8 mars - Officialisée en 1977 par l'Organisation des Nations Unies,
   la journée pour les droits des femmes couvre plusieurs événements avec comme
   objectif de célébrer les avancées des droits des femmes. Quelles ont été les
