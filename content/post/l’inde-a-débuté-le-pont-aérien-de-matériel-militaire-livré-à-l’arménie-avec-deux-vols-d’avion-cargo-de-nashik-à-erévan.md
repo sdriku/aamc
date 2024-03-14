@@ -14,9 +14,7 @@ image: assets/img/inde-arménie-défense.jpg
 
 # L’Inde a débuté le pont aérien de matériel militaire livré à l’Arménie avec deux vols d’avion-cargo de Nashik à Erévan
 
-
-
-![](https://www.armenews.com/IMG/arton113670.jpg)
+![](assets/img/inde-6.jpg)
 
 Indian Aerospace Defence News (IADN) rapporte que l’Inde, le plus grand fournisseur militaire de l’Arménie, est en train de créer un couloir aérien vers le pays pour réaliser des exportations stratégiques.\
 La liaison logistique sera assurée par le groupe de travail conjoint HALCON, créé par deux grandes entreprises indiennes, HAL et CONCOR. Selon l’IAADN, ces exportations vers ce pays du Caucase du Sud renforceront les liens logistiques entre les deux pays.\
