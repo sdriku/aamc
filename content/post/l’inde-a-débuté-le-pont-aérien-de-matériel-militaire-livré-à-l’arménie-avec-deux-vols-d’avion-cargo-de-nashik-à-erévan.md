@@ -18,7 +18,9 @@ image: assets/img/inde-arménie-défense.jpg
 
 Indian Aerospace Defence News (IADN) rapporte que l’Inde, le plus grand fournisseur militaire de l’Arménie, est en train de créer un couloir aérien vers le pays pour réaliser des exportations stratégiques.\
 La liaison logistique sera assurée par le groupe de travail conjoint HALCON, créé par deux grandes entreprises indiennes, HAL et CONCOR. Selon l’IAADN, ces exportations vers ce pays du Caucase du Sud renforceront les liens logistiques entre les deux pays.\
-[![JPEG - 133.9 ko](https://www.armenews.com/local/cache-vignettes/L670xH511/87a-1-76810.jpg?1710342528)](https://www.armenews.com/IMG/jpg/0/a/a/87a-1.jpg "jpg/0/a/a/87a-1.jpg")\
+\
+https://www.armenews.com/IMG/jpg/0/a/a/87a-1.jpg\
+[](https://www.armenews.com/IMG/jpg/0/a/a/87a-1.jpg "jpg/0/a/a/87a-1.jpg")\
 L’Arménie outre les autres armes achetées au cours de la dernière année, a signé un autre accord d’armement avec l’Inde pour l’acquisition de l’artillerie (84 systèmes de canons de 155 mm d’une portée de 48 km) pour 155 millions de dollars. Une entreprise indienne va fournir des obusiers à l’Arménie.\
 HAL (Hindustan Aeronautics Limited) est une entreprise publique indienne spécialisée dans l’industrie aérospatiale et de défense. L’histoire de l’entreprise, basée à Bangalore, remonte à 1940.\
 CONCOR (Container Corporation of India Limited) est également une entreprise publique spécialisée dans le transport de conteneurs. Fondée en 1988, son siège est à New Delhi.
