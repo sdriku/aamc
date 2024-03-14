@@ -15,8 +15,6 @@ image: assets/img/europe-arménie-3.jpg
 
 # Le Parlement européen a adopté une résolution visant à examiner la possibilité d’une candidature de l’Arménie à l’adhésion à l’UE
 
-
-
 ![](https://www.armenews.com/IMG/arton113675.jpg)
 
 Le Parlement européen a adopté ce mercredi 13 mars, une résolution proposant de donner à l’Arménie la possibilité d’obtenir le statut de candidat à l’adhésion à l’UE.\
@@ -42,6 +40,6 @@ Krikor Amirzayan
 par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=33) le mercredi 13 mars 2024\
 © armenews.com 2024
 
-
-
-<!--EndFragment-->
+L﻿ire aussi : https://www.lagazetteaz.fr/news/caucase/15223.html\
+\
+S﻿erge Tateossian le 14/03/2024   Source : Armenews
