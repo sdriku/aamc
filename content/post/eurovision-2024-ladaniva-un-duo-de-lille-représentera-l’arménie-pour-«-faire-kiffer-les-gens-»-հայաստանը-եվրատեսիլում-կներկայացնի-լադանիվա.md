@@ -21,9 +21,7 @@ INTERVIEW•Jaklin Baghdasaryan et Louis Thomas ont créé le duo Ladavina en 2
 
 Jaklin Baghdasaryan et Louis Thomas forment le duo Ladaniva qui représentera l'Arménie à l'Eurovision 2024. - PIAS / Eurovision.tv
 
-[14](https://www.20minutes.fr/arts-stars/culture/eurovision/4080921-20240313-eurovision-2024-ladaniva-duo-lille-representera-armenie-faire-kiffer-gens#mbrs-comments-container)
 
-69
 
 [![Fabien Randanne](https://static.20mn.fr/users/avatars/bfd8b7a3-e361-4ae3-9272-83b26192996b.png)](https://www.20minutes.fr/journaliste/fabien-randanne)
 
@@ -37,13 +35,7 @@ Jaklin Baghdasaryan et Louis Thomas forment le duo Ladaniva qui représentera l'
 * « Jako, c’est mon surnom. Petite, je faisais un peu tout ce qui me passait par la tête et, parfois, ça dérangeait, raconte Jaklin à 20 Minutes. Quand on est une fille en Arménie, il faut se comporter d’une certaine façon, s’habiller d’une certaine manière. J’aime la tradition dans la chanson – on le ressent dans notre musique. Mais quand la tradition devient un obstacle à la liberté des femmes, je ne l’accepte plus. »
 * Si Louis compare l’Eurovision à « une Coupe du monde de la musique », le duo n’y va pas dans un esprit de compétition. « Cela me fait plaisir que le peuple arménien nous soutienne et nous encourage », confie Jacklin.
 
-Powered by[Audion](https://www.audion.fm/)
-
-Ecouter cet article
-
 Eurovision 2024 : Ladaniva, un duo de Lille, représentera l’Arménie pour « faire kiffer les gens »
-
-00:00
 
 «[Lille](https://www.20minutes.fr/lille/) est la ville où je suis né », nous déclare Louis Thomas. « C’est la ville où je me suis installée et qui m’a fait grandir », embraye l’arméno-biélorusse Jaklin Baghdasaryan. C’est aussi là que les deux artistes de 36 et 26 ans se sont rencontrés et ont donné naissance, en 2019, à leur duo, Ladaniva. Leur musique mêle sonorités folkloriques et instruments des Balkans avec succès. Le clip de leur morceau [Kef Chilini](https://www.youtube.com/watch?v=GXWXhXoFBWY), sorti il y a six ans, approche des 30 millions de vues sur YouTube. Le duo a sorti son premier album éponyme l’an passé, sur lequel figure Jako, la chanson avec laquelle il représentera l’[Arménie](https://www.20minutes.fr/monde/armenie/) à l’[Eurovision](https://www.20minutes.fr/arts-stars/culture/eurovision/), à Malmö (Suède), en mai.
 
