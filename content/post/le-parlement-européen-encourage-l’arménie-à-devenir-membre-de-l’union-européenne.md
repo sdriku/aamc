@@ -16,8 +16,6 @@ image: assets/img/europe-arménie-9.jpg
 
 # Le Parlement européen encourage l’Arménie à devenir membre de l’Union européenne
 
-
-
 ![](https://www.armenews.com/local/cache-gd2/e9/388ec64144d60bb5105c86fbb31130.jpg)
 
 Le Parlement européen a félicité l’Arménie pour avoir gelé son adhésion à une alliance militaire dirigée par la Russie et a déclaré que l’Union européenne devrait « tirer pleinement parti » du changement pro-occidental de la politique étrangère arménienne.
@@ -42,10 +40,7 @@ L’UE, selon leur résolution, « devrait répondre positivement et tirer plei
 
 Le président du Parlement arménien, Alen Simonian, a révélé en juillet qu’Erevan avait demandé une « assistance technique » de la part du fonds, mais que Bruxelles l’avait rejetée.
 
-
-
 Le texte de la résolution votée le 13 mars dernier\
-\
 https://www.armenews.com/IMG/pdf/1/a/2/ta-9-2024-0158_en_fr-1.pdf
 
 par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le jeudi 14 mars 2024\
