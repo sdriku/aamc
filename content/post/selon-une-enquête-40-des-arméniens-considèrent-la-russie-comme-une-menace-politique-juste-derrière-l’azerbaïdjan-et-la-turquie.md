@@ -14,8 +14,6 @@ image: assets/img/russie-une-menace-à-l-arménie.png
 
 # Selon une enquête, 40 % des Arméniens considèrent la Russie comme une menace politique
 
-
-
 ![](https://www.armenews.com/local/cache-gd2/d4/b063fc94a772b7c1bfeddbb70f6ec5.png)
 
 Une nouvelle enquête commandée par l’Institut républicain international (IRI) révèle que 40 % des Arméniens considèrent la Russie comme une menace politique, juste derrière l’Azerbaïdjan et la Turquie.
@@ -64,6 +62,4 @@ L’enquête a été menée par téléphone par Breavis et a inclus 1 508 répon
 par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le jeudi 14 mars 2024\
 © armenews.com 2024
 
-
-
-<!--EndFragment-->
+S﻿erge Tateossian Le 15/03/2024   Source : Armenews
