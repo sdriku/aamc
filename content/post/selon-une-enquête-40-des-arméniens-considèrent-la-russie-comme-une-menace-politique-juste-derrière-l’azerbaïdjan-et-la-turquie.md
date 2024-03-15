@@ -39,7 +39,7 @@ L’enquête a révélé que les Arméniens considéraient la Turquie, la Russie
 
 Ces dernières années, Erevan a radicalement modifié la trajectoire de sa politique étrangère en direction de l’Occident, en renforçant ses liens diplomatiques et sécuritaires avec des pays tels que la France et, plus récemment, en annonçant son intérêt pour une candidature à l’adhésion à l’Union européenne.
 
-\[Lire la suite : Le président du parlement arménien : L’Arménie devrait se porter candidate à l’adhésion à l’UE]
+[Lire la suite : https://www.armenews.com/spip.php?page=article&id_article=113689
 
 L’enquête a révélé que l’approbation de la politique étrangère de leur gouvernement par les Arméniens est passée de 36 % en mars 2023 à 45 % en décembre de la même année.
 
