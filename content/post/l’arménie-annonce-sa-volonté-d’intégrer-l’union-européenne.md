@@ -42,4 +42,4 @@ Si le pays du Caucase souhaite rejoindre l’Union européenne, c’est surtout 
 
 L’Arménie peut compter sur le soutien de la France. *« Nous réaffirmons le soutien indéfectible de la France à l’indépendance de l’Arménie, son intégrité territoriale et son aspiration à la paix »*, avait indiqué Emmanuel Macron lors de la visite de Nikol Pachinian à Paris pour la panthéonisation de Missak Manouchian. De plus, le 23 février dernier, le ministre des Armées Sébastien Lecornu avait rappelé, lors d’une visite en Arménie, qu’il *« est de notre devoir d’aider l’Arménie à protéger ses populations civiles en cas d’agression »*.
 
-<!--EndFragment-->
+S﻿erge tateossian Le / /  Source : Valeurs actuelles
