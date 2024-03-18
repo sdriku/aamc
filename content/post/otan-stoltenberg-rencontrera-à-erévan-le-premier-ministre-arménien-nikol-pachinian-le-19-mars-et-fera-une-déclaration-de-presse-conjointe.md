@@ -15,8 +15,6 @@ image: assets/img/otan-arménie.jpg
 
 # Le secrétaire général de l’OTAN Jens Stoltenberg rencontrera à Erévan le Premier ministre arménien Nikol Pachinian le 19 mars et fera une déclaration de presse conjointe
 
-
-
 ![](https://www.armenews.com/IMG/arton113768.jpg)
 
 L’OTAN, a détaillé les réunions régionales que le secrétaire général de l’OTAN, Jens Stoltenberg, tiendra lors de sa tournée au Sud-Caucase.\
@@ -31,4 +29,4 @@ Krikor Amirzayan
 par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=33) le samedi 16 mars 2024\
 © armenews.com 20
 
-<!--EndFragment-->
+S﻿erge Tateossian le 18/03/2024   Source : Armenews
