@@ -13,8 +13,6 @@ image: assets/img/peter-steno-europe.png
 
 # L’Arménie pourrait postuler à l’adhésion à l’UE
 
-
-
 ![](https://www.armenews.com/IMG/arton113772.png)
 
 L’Arménie peut demander à rejoindre l’Union européenne. C’est ce qu’a déclaré Peter Stano, porte-parole principal de la Commission européenne pour les affaires étrangères et la politique de sécurité. « Toutefois, la décision ultérieure sur l’intégration d’un pays particulier dépend de l’approbation unanime des pays de l’UE », a-t-il souligné.
@@ -40,4 +38,5 @@ M. Zatulin a déclaré à la station de radio russe Govorit Moskva que Bruxelle
 par [Jean Eckian](https://www.armenews.com/spip.php?page=auteur&id_auteur=34) le dimanche 17 mars 2024\
 © armenews.com 2024
 
+\
 <!--EndFragment-->
