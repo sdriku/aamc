@@ -11,7 +11,7 @@ image: assets/img/portrait-officiel-de-sébastien-lecornu-ministre-des-armées.j
 ---
 https://www.bfmtv.com/normandie/replay-emissions/normandie-week-end/vernon-le-prototype-du-premier-lanceur-de-fusee-reutilisable-devoile-devant-le-ministre-des-armees_VN-202403160397.html
 
-<!--StartFragment-->
+
 
 # Vernon: le prototype du premier lanceur de fusée réutilisable dévoilé devant le ministre des Armées
 
