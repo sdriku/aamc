@@ -13,3 +13,6 @@ https://youtu.be/90790_nh_o0
 <!--StartFragment-->
 
 André Manoukian est en interview pour *Le Mensuel Magazine*, afin de parler de son concert **Anouch duo** et de son spectacle **Les notes qui s’aiment**.
+
+\
+S﻿erge Tateossian Le 18/03/2024   Source Armenews - photos : Voici
