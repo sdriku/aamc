@@ -16,4 +16,4 @@ https://www.bfmtv.com/normandie/replay-emissions/normandie-week-end/vernon-le-pr
 # Vernon: le prototype du premier lanceur de fusée réutilisable dévoilé devant le ministre des Armées
 
 \
-<!--EndFragment-->
+S﻿erge Tateossian Le 18/03/2024  Source : BFM TV
