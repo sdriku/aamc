@@ -101,6 +101,6 @@ Ce célèbre courant artistique né à la fin du 19e siècle a son festival et i
 
 \
 \
-S﻿erge tateossian Le 20/03/2024\
+S﻿erge Tateossian Le 20/03/2024\
 \
 <!--EndFragment-->
