@@ -10,7 +10,6 @@ image: assets/img/giverny.jpg
 ---
 <!--StartFragment-->
 
-# \
 IVERNY, LE VILLAGE DE MONET
 
 Fondation Claude Monet
