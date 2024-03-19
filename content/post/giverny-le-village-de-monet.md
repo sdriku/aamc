@@ -80,8 +80,6 @@ La présence du peintre à Giverny attira de nombreux artistes de nationalités 
 
 2/5
 
-
-
 ### EN 2024, L’IMPRESSIONNISME A SON FESTIVAL
 
 Ce célèbre courant artistique né à la fin du 19e siècle a son festival et il se conjugue au présent. La 5eme édition, du 22 mars au 22 septembre 2024, marquera les 150 ans de l’impressionnisme.  Le focus sera mis sur l’esprit novateur du mouvement artistique.
@@ -101,6 +99,8 @@ Ce célèbre courant artistique né à la fin du 19e siècle a son festival et i
 * Pédalez sur la Seine à vélo, cet itinéraire qui relie Paris à Honfleur, Deauville et Le Havre.
 * Recueillez-vous un moment sur la tombe de Claude Monet au cimetière communal ou au Mémorial des Aviateurs Britanniques.
 
-
-
+\
+\
+S﻿erge tateossian Le 20/03/2024\
+\
 <!--EndFragment-->
