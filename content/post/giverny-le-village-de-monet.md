@@ -8,7 +8,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/giverny.jpg
 image: assets/img/giverny.jpg
 ---
-<!--StartFragment-->
+
 
 IVERNY, LE VILLAGE DE MONET
 
