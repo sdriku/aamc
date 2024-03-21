@@ -15,13 +15,13 @@ summary: " Comme le veut désormais la tradition, c’est à l’hôtel du
   Agresti-Roubache, ministre déléguée chargée de la Citoyenneté de France.
   D’autres leaders politiques avaient également souhaité participer à ce dîner
   dont l’ancien président François Hollande, mais également Xavier Bertrand,
-  président des Hauts-de-France, Jean-Luc Mélenchon, "
+  président des Hauts-de-France, Jean-Luc Mélenchon...."
 date: 2024-03-21T11:18:03.461Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/ccaf-diner.png
 image: assets/img/ccaf-dîner-30.png
 ---
-V﻿oir les phot
+V﻿oir les photos : https://www.armenews.com/spip.php?page=article&id_article=113939
 
 Attal, Hidalgo, Bertrand, Vardanyan, 6 ministres : la consécration politique
 
