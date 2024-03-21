@@ -21,6 +21,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/ccaf-diner.png
 image: assets/img/ccaf-dîner-30.png
 ---
+V﻿oir les phot
+
 Attal, Hidalgo, Bertrand, Vardanyan, 6 ministres : la consécration politique
 
 
