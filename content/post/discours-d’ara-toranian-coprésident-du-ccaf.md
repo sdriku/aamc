@@ -37,4 +37,5 @@ Besoin français aussi de l’Arménie, en matière stratégique, parce que si l
 JPEG - 2.7 Mo
 
 par capucine le jeudi 21 mars 2024
-© armenews.com 2024
+
+S﻿erge Tateossian Le 21/03/2024  Source :
