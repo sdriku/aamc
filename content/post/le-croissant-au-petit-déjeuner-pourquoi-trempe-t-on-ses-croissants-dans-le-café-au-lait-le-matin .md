@@ -35,4 +35,6 @@ Enfin, il sert aux tables des petites brioches en forme de croissant, symbole de
 Café, lait, croissant : Trilogie complète. Et miracle diététique.
 
 Et Belle Journée aux gourmets autrichiens.
-Cocorico aux croissants français mondialement appréciés.
+Cocorico aux croissants français mondialement 
+
+appréciés. Serge Tateossian Le 23/03/2024
