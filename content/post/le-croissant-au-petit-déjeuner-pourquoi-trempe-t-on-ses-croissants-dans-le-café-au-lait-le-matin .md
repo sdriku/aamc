@@ -3,9 +3,9 @@ title: "Le croissant au petit déjeuner  Pourquoi trempe-t-on ses croissants dan
   le café au lait le matin ? "
 description: Cocorico aux croissants français mondialement appréciés. - Le
   croissant au petit déjeuner
-summary: Enfin, il sert aux tables des petites brioches en forme de croissant,
-  symbole de l'empire ottoman, en souvenir de la victoire des Autrichiens sur
-  les turcs ottomans.
+summary: Tous les nutritionnsites vous assurent qu'il n'y a rien de plus
+  indigeste pour commencer la journée. Et pourtant, nous adorons mélanger notre
+  café à du lait, et l'accompagner de pâtisseries (copieusement lipidiques).
 date: 2024-03-22T23:53:18.622Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/café-chaud.jpg
