@@ -1,5 +1,6 @@
 ---
-title: "Débarquement Art. No 1: Charles DE Gaulle ... adolescent, raconte ses parents"
+title: "Général De Gaulle  Art. No 1: Charles DE Gaulle ... adolescent, raconte
+  ses parents"
 description: Charles De Gaulle adolescent - Débarquement no 1
 summary: Madame Henri De Gaulle, née Jeanne Maillot et Monsieur Henri De Gaulle
   ex-professeur au collège des Jésuites à Paris.
