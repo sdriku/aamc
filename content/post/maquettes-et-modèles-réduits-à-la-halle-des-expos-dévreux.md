@@ -10,7 +10,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/minikits-27.jpg
 image: assets/img/minikits-27-a.jpg
 ---
-L﻿a Dépêche
+
 S﻿erge Tateossian le 30/03/2024   Source : La Dépêche
 
 Maquettes et modèles réduits à la Halle des expos d'Évreux
