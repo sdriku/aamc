@@ -10,6 +10,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/minikits-27.jpg
 image: assets/img/minikits-27-a.jpg
 ---
+L﻿a Dépêche
+
 Maquettes et modèles réduits à la Halle des expos d'Évreux
 Une centaine d'exposants sont attendus, pendant le week-end de Pâques, au salon de la maquette et du modèle réduit organisé à la Halle des expositions d'Évreux.
 
