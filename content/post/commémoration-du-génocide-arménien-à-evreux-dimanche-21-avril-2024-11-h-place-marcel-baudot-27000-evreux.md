@@ -39,8 +39,8 @@ A cette occasion, les deux associations normandes franco-arméniennes, ANSA et A
 \
 \
 \
-AAMC ANSA\
-S. Tateossian V. Seraidarian\
+AAMC                                      ANSA         \
+S. Tateossian                     V. Seraidarian \
 \
 \
 \
