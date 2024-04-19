@@ -32,6 +32,9 @@ La cérémonie sera présidée par la représentante de la mairie d'Evreux Madam
 Des portes drapeaux de la République rendront hommage aux victimes du génocide arménien et à tous les génocides.\
 \
 \
+https://www.armenews.com/spip.php?page=article&id_article=114873\
+\
+\
 D'autres élus et dirigeants associatifs notamment présidents de cinq associations Euroises d'anciens combattants, résistants, et combattants bénévoles, honoreront la cérémonie par leur présence.\
 \
 \
