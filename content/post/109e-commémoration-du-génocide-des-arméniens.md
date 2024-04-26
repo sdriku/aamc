@@ -17,8 +17,6 @@ image: assets/img/paris-jn-2.png
 
 # 109e commémoration du génocide des Arméniens
 
-
-
 ![](https://www.armenews.com/local/cache-gd2/22/6ebb036fafb10241987742b6e95cfd.png)
 
 Une fois n’est pas coutume, la désormais traditionnelle commémoration du génocide à l’Hôtel de Ville de Paris a démarré avec la projection d’un documentaire - Jardin noir - d’Alexis Pazoumian sur des réfugiés de l’Artsakh en Arménie, au temps du Blocus. Des images qui dépeignaient le martyre des Arméniens du Karabagh, alors même qu’Artak Beglaryan, ancien Défenseur des droits de la République du Haut-Karabagh, était présent à Paris, dans les salons de la mairie de Paris.
@@ -49,4 +47,5 @@ Cette mise à l’honneur du régime Aliev, constitue un ultime affront à nos v
 
 Ce 24 avril doit forger notre esprit de résistance, « il est temps de dire non à Aliev et à Erdogan, nous devons mobiliser la communauté internationale pour préserver l’intégrité territoriale de l’Arménie et restaurer celle de l’Artsakh. » Le coprésident a conclu sur la situation des otages, et celle en particulier de Ruben Vardanyan, en grève de la faim depuis le 5 avril sans aucun encadrement médical. « Nous devons faire de cet homme-là et des 22 autres une priorité afin de les faire libérer rapidement. »
 
-<!--EndFragment-->
+\
+Serge Tateossian Le 26/04/2024 Source : Armenews
