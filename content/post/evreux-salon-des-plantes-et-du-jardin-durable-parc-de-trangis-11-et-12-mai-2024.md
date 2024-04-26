@@ -17,4 +17,6 @@ du 11 et 12 Mai 2024 \
 Entrée Gratuite \
 Horaires : 10h à 18h\
 \
+Salon organisé et sponsorisé par la ville d’Évreux \
+\
 Serge Tateossian le 27/04/2024
