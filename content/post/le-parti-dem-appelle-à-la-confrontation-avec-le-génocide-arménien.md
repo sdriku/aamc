@@ -1,5 +1,5 @@
 ---
-title: "Le parti DEM appelle à la confrontation avec le génocide arménien "
+title: "Turquie - Le parti DEM appelle à la confrontation avec le génocide arménien "
 description: "Parti politique turc DEM - Se confronter aux vérités historiques,
   présenter ses excuses. "
 summary: "le 24 avril, le Comité exécutif central du parti DEM a déclaré : “Se
