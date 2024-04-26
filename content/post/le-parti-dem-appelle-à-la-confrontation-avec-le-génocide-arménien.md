@@ -42,8 +42,6 @@ Plus d’infos sur le lien plus bas.
 par [La rédaction](https://www.armenews.com/spip.php?page=auteur&id_auteur=4) le vendredi 26 avril 2024\
 © armenews.com 2024
 
-
-
 - - -
 
 Pour aller plus loin... [https://rojinfo.com/le-parti-dem-ap...](https://rojinfo.com/le-parti-dem-appelle-a-la-confrontation-avec-le-genocide-armenien/)
@@ -52,4 +50,5 @@ Pour aller plus loin... [https://rojinfo.com/le-parti-dem-ap...](https://rojinfo
 
 Voir en ligne : [https://rojinfo.com/le-parti-dem-ap...](https://rojinfo.com/le-parti-dem-appelle-a-la-confrontation-avec-le-genocide-armenien/)
 
-<!--EndFragment-->
+\
+Serge Tateossian    Source : Armenews
