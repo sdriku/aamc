@@ -15,4 +15,6 @@ week-end \
 du 11 et 12 Mai 2024 \
 \
 Entrée Gratuite \
-Horaires : 10h à 18h
+Horaires : 10h à 18h\
+\
+Serge Tateossian le 27/04/2024
