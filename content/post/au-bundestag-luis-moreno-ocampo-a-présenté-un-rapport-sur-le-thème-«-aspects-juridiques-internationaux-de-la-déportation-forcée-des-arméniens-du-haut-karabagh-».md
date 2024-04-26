@@ -16,8 +16,6 @@ image: assets/img/luis-moreno-ocampo.jpg
 
 # Au Bundestag, Luis Moreno Ocampo a présenté un rapport sur le thème « Aspects juridiques internationaux de la déportation forcée des Arméniens du Haut-Karabagh »
 
-
-
 ![](https://www.armenews.com/IMG/arton115267.jpg)
 
 Le 25 avril, à la commission des droits de l’homme du Bundestag, l’ancien procureur général de la Cour pénale internationale de La Haye, Luis Moreno Ocampo, a présenté un rapport sur le thème *« Aspects juridiques internationaux de la déportation forcée des Arméniens du Haut-Karabagh »* indique l’ambassade d’Arménie en Allemagne.
@@ -31,4 +29,5 @@ Krikor Amirzayan
 par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=33) le vendredi 26 avril 2024\
 © armenews.com 2024
 
-<!--EndFragment-->
+\
+Serge Tateossian le vendredi 26/04/2024    Source : Armenews
