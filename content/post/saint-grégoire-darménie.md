@@ -13,7 +13,7 @@ image: assets/img/saint-grégoire-d-arménie-.jpg
 Saint Grégoire d'Arménie\
 \
 \
-Introduction : Chez les arméniens il y a trois saint-Grégoire (Saint Grégoire l'illuminateur, Saint Grégoire patron de Tallard et Saint Grégoire d'Arménie d'Orléans)\
+Introduction : Chez les arméniens, il existe trois Saint-Grégoire (Saint Grégoire l'illuminateur, Saint Grégoire d'Arménie patron de Tallard et Saint Grégoire d'Arménie d'Orléans)\
 \
 Vers le milieu du dixième siècle, les habitants de **l'Orléanais** virent arriver trois religieux qui venaient des lointains pays d'Orient, et cherchaient en Occident une solitude où ils pussent ensevelir le reste de leurs jours.\
 \
