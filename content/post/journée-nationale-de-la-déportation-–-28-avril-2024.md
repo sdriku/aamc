@@ -28,7 +28,7 @@ Pour un génocide, il est extrêmement difficile de trouver les mots qui corresp
 **A l'occasion de la Journée Nationale de la déportation, ces quelques lignes publiées par le site Evreux-Arménie nous invitent à une réflexion profonde sur notre humanité, nos faiblesses, comme notre force face à ces crimes contre l'humanité que tout un chacun parmi nous, peut affronter ; On ne doit jamais rester indifférent face à ces crimes.**\
 \
 Nombre de fois où l'on peut entendre des « intervenants » ou des simples « amis » qui pour exprimer leur « opinion » finissent par mettre dans le même panier le criminel négationniste et la victime, dans des termes comme ceci, ou encore considérer la commémoration du génocide comme du « communautarisme »,,\
-Je dis à tous ceux-là, leur pensée est médiocre, leur intelligence est réduite et leur positionnement est dangereux pour eux et pour notre humanité.\
+Je dis à tous ceux-là, que leur pensée est médiocre, leur intelligence est réduite et leur positionnement est dangereux pour eux et pour notre humanité.\
 \
 Une forte pensée et grand respect à toutes les victimes des génocides, et à cette occasion aux victimes juives, qui ont péri dans des circonstances insoutenables, inhumaines.
 
