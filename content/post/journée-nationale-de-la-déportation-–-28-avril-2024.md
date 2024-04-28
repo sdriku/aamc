@@ -8,8 +8,8 @@ summary: Journée Nationale de la déportation – 28 avril 2024  C'est le derni
   aura lieu le dimanche  28 avril.
 date: 2024-04-27T23:56:48.641Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/la-résistance-.jpg
-image: assets/img/la-résistance-.jpg
+thumbnailImage: assets/img/déportation-guetto-de-varsovie.jpg
+image: assets/img/déportation-guetto-de-varsovie.jpg
 ---
 ##### Journée Nationale de la déportation – 28 avril 2024\
 
