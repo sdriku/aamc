@@ -13,24 +13,25 @@ image: assets/img/la-résistance-.jpg
 ---
 ##### Journée Nationale de la déportation – 28 avril 2024\
 
-\
-C'est le dernier dimanche du mois d'avril de chaque année qui a été dédié à la célébration de la mémoire de la déportation dans les camps de concentration nazis lors de la seconde guerre mondiale.\
-**En 2024, la journée du souvenir de la déportation aura lieu le dimanche 28 avril.**\
-\
-La déportation concernait toute la population mais les juifs étaient particulièrement visés par les autorités allemandes nazies.\
-\
-**La déportation des juifs.\
-Avec quelle unité de mesure pourrez-vous en déterminer l'étendue ?\
-(Ces mots sont de Georges Horan, juif interné à Drancy)**\
-\
-Pour un génocide, il est extrêmement difficile de trouver les mots qui correspondent à ses milles souffrances humaines.\
-\
-**A l'occasion de la Journée Nationale de la déportation, ces quelques lignes publiées par le site Evreux-Arménie nous invitent à une réflexion profonde sur notre humanité, nos faiblesses, comme notre force face à ces crimes contre l'humanité que tout un chacun parmi nous, peut affronter ; On ne doit jamais rester indifférent face à ces crimes.**\
-\
-Nombre de fois où l'on peut entendre des « intervenants » ou des simples « amis » qui pour exprimer leur « opinion » finissent par mettre dans le même panier le criminel négationniste et la victime, dans des termes comme ceci, ou encore considérer la commémoration du génocide comme du « communautarisme »,,\
-Je dis à tous ceux-là, que leur pensée est médiocre, leur intelligence est réduite et leur positionnement est dangereux pour eux et pour notre humanité.\
-\
-Une forte pensée et grand respect à toutes les victimes des génocides, et à cette occasion aux victimes juives, qui ont péri dans des circonstances insoutenables, inhumaines.
+> \
+> C'est le dernier dimanche du mois d'avril de chaque année qui a été dédié à la célébration de la mémoire de la déportation dans les camps de concentration nazis lors de la seconde guerre mondiale.\
+> **En 2024, la journée du souvenir de la déportation aura lieu le dimanche 28 avril.**\
+> \
+> La déportation concernait toute la population mais les juifs étaient particulièrement visés par les autorités allemandes nazies.\
+> \
+> **La déportation des juifs.\
+> Avec quelle unité de mesure pourrez-vous en déterminer l'étendue ?\
+> (Ces mots sont de Georges Horan, juif interné à Drancy)**\
+> \
+> Pour un génocide, il est extrêmement difficile de trouver les mots qui correspondent à ses milles souffrances humaines.\
+> \
+> **A l'occasion de la Journée Nationale de la déportation, ces quelques lignes publiées par le site Evreux-Arménie nous invitent à une réflexion profonde sur notre humanité, nos faiblesses, comme notre force face à ces crimes contre l'humanité que tout un chacun parmi nous, peut affronter ; On ne doit jamais rester indifférent face à ces crimes.**\
+> \
+> **"Je ne veux pas entendre ni l'un, ni l'autre..."**\
+> Nombre de fois où l'on peut entendre des « intervenants » ou des simples « amis » qui pour exprimer leur « opinion » finissent par mettre dans le même panier le criminel négationniste et la victime, dans des termes comme ceci, ou encore considérer la commémoration d'un génocide comme du « communautarisme »,,\
+> Je dis à tous ceux-là, que leur pensée est médiocre, leur intelligence est réduite et leur positionnement est dangereux pour eux et pour notre humanité.\
+> \
+> Une forte pensée et grand respect à toutes les victimes des génocides, et à cette occasion aux victimes juives, qui ont péri dans des circonstances insoutenables, inhumaines.
 
 ##### \
 
