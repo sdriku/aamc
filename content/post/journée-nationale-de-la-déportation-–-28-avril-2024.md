@@ -23,7 +23,7 @@ La déportation concernait toute la population mais les juifs étaient particuli
 Avec quelle unité de mesure pourrez-vous en déterminer l'étendue ?\
 (Ces mots sont de Georges Horan, juif interné à Drancy)**\
 \
-Pour un génocide, il est extrêmemnt difficle de trouver les mots qui correspondent à ses milles souffrances humaines.\
+Pour un génocide, il est extrêmement difficile de trouver les mots qui correspondent à ses milles souffrances humaines.\
 \
 **A l'occasion de la Journée Nationale de la déportation, ces quelques lignes publiées par le site Evreux-Arménie nous invitent à une réflexion profonde sur notre humanité, nos faiblesses, comme notre force face à ces crimes contre l'humanité que tout un chacun parmi nous, peut affronter ; On ne doit jamais rester indifférent face à ces crimes.**\
 \
