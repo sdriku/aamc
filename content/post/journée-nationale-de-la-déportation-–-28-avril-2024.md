@@ -1,17 +1,17 @@
 ---
-title: Journée Nationale de la déportation – 28 avril 2024
-description: "Journée Nationale de la déportation – 28 avril 2024 - Evreux "
-summary: Journée Nationale de la déportation – 28 avril 2024  C'est le dernier
-  dimanche du mois d'avril de chaque année qui a été dédié à la célébration de
-  la mémoire de la déportation dans les camps de concentration nazis lors de la
-  seconde guerre mondiale.  En 2024, la journée du souvenir de la déportation
-  aura lieu le dimanche  28 avril.
+title: Journée Nationale du souvenir de la déportation – 28 avril 2024
+description: "Journée Nationale du souvenir de la déportation – 28 avril 2024 - Evreux "
+summary: Journée Nationale du souvenir de la déportation – 28 avril 2024  C'est
+  le dernier dimanche du mois d'avril de chaque année qui a été dédié à la
+  célébration de la mémoire de la déportation dans les camps de concentration
+  nazis lors de la seconde guerre mondiale.  En 2024, la journée du souvenir de
+  la déportation aura lieu le dimanche  28 avril.
 date: 2024-04-27T23:56:48.641Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/déportation-guetto-de-varsovie.jpg
 image: assets/img/déportation-guetto-de-varsovie.jpg
 ---
-##### Journée Nationale de la déportation – 28 avril 2024\
+##### Journée Nationale du souvenir de la déportation – 28 avril 2024\
 
 > \
 > C'est le dernier dimanche du mois d'avril de chaque année qui a été dédié à la célébration de la mémoire de la déportation dans les camps de concentration nazis lors de la seconde guerre mondiale.\
