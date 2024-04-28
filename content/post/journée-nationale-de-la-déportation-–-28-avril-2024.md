@@ -33,8 +33,6 @@ image: assets/img/la-résistance-.jpg
 > \
 > Une forte pensée et grand respect à toutes les victimes des génocides, et à cette occasion aux victimes juives, qui ont péri dans des circonstances insoutenables, inhumaines.
 
-##### \
-
 Alors que l'on évalue la population juive en France à environ 300 000 personnes en 1939, dont 90 000 issues de familles françaises depuis des générations et plus de 200 000 immigrés et leurs descendants, seuls 180 000 juifs y résident encore fin 1944.\
 \
 Plus de 74 000 juifs ont été déportés entre mars 1942 et août 1944 des zones nord et sud, principalement à Auschwitz-Birkenau, pour y être assassinés, et seuls près de 5% sont revenus. Près de 60% ont été gazés à l'arrivée. Il faut ajouter à ce bilan les 650 juifs déportés du Nord-Pas-de-Calais via la Belgique, les 259 juives épouses de prisonniers de guerre et leurs enfants déportés à Bergen-Belsen, ainsi que les juifs partis dans des différents transports formés à la fin de l'occupation.\
