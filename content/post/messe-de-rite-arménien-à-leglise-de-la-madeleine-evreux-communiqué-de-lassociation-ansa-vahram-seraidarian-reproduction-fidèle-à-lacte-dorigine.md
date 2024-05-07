@@ -34,4 +34,7 @@ V.Seraidarian \
 \
 PS ; Pour cette journée ANSA prend en charge les frais de la paroisse et de l'Eglise grâce aux adhérents et des donateurs\
 \
-**Vahram SERAIDARIAN  le 03/05/2024**
+**Vahram SERAIDARIAN  le 03/05/2024**\
+\
+**Contact : v.seraidarian@orange.fr**   \
+**ani.saf@outlook.fr**
