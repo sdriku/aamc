@@ -23,7 +23,7 @@ DIRAYR KELEDJIAN de la Paroisse de l'Eglise Apostolique Arménienne d'Alfortvill
 Venez nombreux,\
 \
 Après la messe, Nous allons partager avec les membres de la Paroisse un buffet froid,\
-Les personnes qui désirent se joindre à vous, Veuillez apporter votre participation au buffet vos plats?\
+Les personnes qui désirent se joindre à nous, Veuillez apporter votre participation au buffet vos plats,\
 \
 A bientôt, avec nos considérations.\
 \
