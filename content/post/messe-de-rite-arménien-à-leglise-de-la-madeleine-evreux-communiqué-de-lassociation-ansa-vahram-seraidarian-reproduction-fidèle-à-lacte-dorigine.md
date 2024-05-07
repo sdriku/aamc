@@ -1,7 +1,6 @@
 ---
-title: "Messe de rite arménien à l'Eglise de la madeleine - Evreux (communiqué
-  de l'association ANSA - Vahram SERAIDARIAN) (Reproduction fidèle à l'acte
-  d'origine) "
+title: Messe de rite arménien à l'Eglise de la madeleine - Evreux (communiqué de
+  l'association ANSA - Vahram SERAIDARIAN)
 description: "Messe de rite arménien Evreux "
 summary: "Messe de rite arménien, Samedi 11 mai 2024, à 11 heures, à l'Eglise de
   la madeleine : 10 Rue de la Paix : 27000 Evreux (Reproduction fidèle et
