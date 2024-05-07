@@ -4,10 +4,9 @@ title: "Messe de rite arménien à l'Eglise de la madeleine - Evreux (communiqu�
   d'origine) "
 description: "Messe de rite arménien Evreux "
 summary: "Messe de rite arménien, Samedi 11 mai 2024, à 11 heures, à l'Eglise de
-  la madeleine : 10 Rue de la Paix : 27000 Evreux (Cet article est une
-  reproduction fidèle et identique de la forme et du contenu du communiqué
-  d'origine de l'association ANSA, à la demande express de son Président Vahram
-  Seraidarian)"
+  la madeleine : 10 Rue de la Paix : 27000 Evreux (Reproduction fidèle et
+  identique de la forme et du contenu du communiqué d'origine de l'association
+  ANSA, à la demande express de son Président Vahram Seraidarian)"
 date: 2024-05-06T23:16:59.476Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/communiqué-ansa-messe.jpg
