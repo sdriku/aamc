@@ -15,9 +15,7 @@ image: assets/img/la-vie-selon-aznavour.jpg
 
 # La vie selon Charles
 
-
-
-![](https://www.armenews.com/IMG/arton115684.jpg)
+![](assets/img/aznavour.jpg)
 
 **Préfacé et présenté par Nicolas Aznavour**
 
