@@ -15,7 +15,7 @@ image: assets/img/la-vie-selon-aznavour.jpg
 
 # La vie selon Charles
 
-![](assets/img/aznavour.jpg)
+![]()
 
 **Préfacé et présenté par Nicolas Aznavour**
 
