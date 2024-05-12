@@ -15,11 +15,11 @@ image: assets/img/messe-arménienne-11-mai-2024.jpg
 ---
 Ascension à Évreux\
 \
-A l'occasion de la fête de l'Ascension, une Divine Liturgie de rite arménien apostolique a été célébrée le samedi 11 mai 2024 à 11h, à l’église de la Madeleine à Évreux, 10, rue de la Paix, par le Père DIRAYR KELEDJIAN de la Paroisse de l’Église Apostolique Arménienne d’Alfortville. (Val-de-Marne).\
+A l'occasion de la fête de l'Ascension, une Divine Liturgie de rite arménien apostolique a été célébrée le samedi 11 mai 2024 à 11h, à l’église de la Madeleine à Évreux, 10, rue de la Paix, par **le Père DIRAYR KELEDJIAN** de la Paroisse de **l’Église Apostolique Arménienne d’Alfortville. (Val-de-Marne)**.\
 \
-Après la lecture de l'évangile, le Père Kélédjian a consacré son homélie, à l'importance du symbolique de l'Ascension, l'élévation du Christ au ciel et sa réelle signification, et a rappelé l'importance de la préservation de la culture arménienne pour les futures générations. Le Révérend Père a également remercié Madame Eghikyan Rosa (à l'origine du projet) pour avoir entamé les démarches afin que cette célébration de la Sainte Liturgie se réalise à Évreux.\
+Après la lecture de l'évangile, le Père Kélédjian a consacré son homélie, à l'importance du symbolique de l'Ascension, l'élévation du Christ au ciel et sa réelle signification, et a rappelé l'importance de la préservation de la culture arménienne pour les futures générations. Le Révérend Père a également remercié **Madame** **Eghikyan Rosa (à l'origine du projet)** pour avoir entamé les démarches afin que cette célébration de la Sainte Liturgie se réalise à Évreux.\
 \
-La chorale, composée de deux magnifiques voix (avec l'organiste) ont assuré un répertoire de musique sacrée et liturgique de grande qualité (Des œuvres de Komitas, Srabian et Yegmelian).\
+La chorale, composée de deux magnifiques voix (avec l'organiste) ont assuré un répertoire de musique sacrée et liturgique de grande qualité **(Des œuvres de Komitas, Srabian et Yegmelian)**.\
 \
 La sainte messe a été suivie par un buffet froid (chaque famille apportait sa contribution).\
 \
