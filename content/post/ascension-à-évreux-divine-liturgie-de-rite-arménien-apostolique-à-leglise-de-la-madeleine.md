@@ -1,6 +1,6 @@
 ---
-title: Ascension à Évreux. Divine Liturgie de rite arménien apostolique à
-  l'Eglise de la Madeleine. ANSA
+title: Fête de l'Ascension à Évreux. Divine Liturgie de rite arménien
+  apostolique à l'Eglise de la Madeleine. ANSA
 description: "une Divine Liturgie de rite arménien apostolique a été célébrée le
   samedi 11 mai 2024 à 11h, à l’église de la Madeleine à Évreux. "
 summary: Ascension à Évreux\ \ A l'occasion de la fête de l'Ascension, une
