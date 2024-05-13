@@ -13,4 +13,8 @@ image: assets/img/meeting-mgr-bagratyan.png
 
 \
 Vidéo du meeting \
-https://youtu.be/p9ZuFtm_GiQ
+https://youtu.be/p9ZuFtm_GiQ\
+\
+La rédaction de Nouvelles d'Arménie Magazine - Armenews\
+\
+Serge Tateossian le 13/05/2024    Source : Armenews
