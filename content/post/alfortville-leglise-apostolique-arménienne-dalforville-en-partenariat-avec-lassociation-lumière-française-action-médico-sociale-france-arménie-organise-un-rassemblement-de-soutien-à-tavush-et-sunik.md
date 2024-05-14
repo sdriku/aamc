@@ -13,7 +13,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/action-médico-sociale-france-arménie.jpg
 image: assets/img/père-kélédjian.jpg
 ---
-#### Photo : Père KELEDJIAN Dirayr bénit les manifestatnts**.** \
+#### Photo : Père KELEDJIAN Dirayr bénit les manifestatnts**.** 
+
 \
 \
 ***Fermer les yeux signifierait « accepter » l'inacceptable !*** \
@@ -28,11 +29,14 @@ Je retrouve le Dr Levon Khatchatryan, chirurgien cardiaque et Président de l'as
 
 #### L'Europe ne peut abandonner ce Peuple soumis à la poursuite du génocide commencé en 1915 sous le regard indifférent de tous.  
 
-#### ***Fermer les yeux signifierait « accepter » l'inacceptable !*** \
-\
+#### ***Fermer les yeux signifierait « accepter » l'inacceptable !*** 
+
+
+
 <!--StartFragment-->
 
-### **\*\*\*Աչքերդ փակելը կնշանակի «ընդունել» անընդունելին:\*\*\***\
+### **\*\*\*Աչքերդ փակելը կնշանակի «ընդունել» անընդունելին:\*\*\***
+
 \
   Հանդիպելով հայ ժողովրդի տագնապին ու տագնապին, որը Լեռնային Ղարաբաղից հետո իրեն կողոպտված է տեսնում իր սահմանամերձ Տավուշի և շուտով Սունիքի տարածքները, ես ստիպված էի ներկա լինել Հայ Առաքելական եկեղեցու դ'Ալֆորվիլի կազմակերպած ցույցին:\
 \
@@ -42,15 +46,15 @@ Je retrouve le Dr Levon Khatchatryan, chirurgien cardiaque et Président de l'as
 
 ### **\*\*\*Աչքերդ փակելը կնշանակի «ընդունել» անընդունելին:\*\*\***
 
- 
-
 ### **Corinne MARE DUGUER**
 
-#### Maire adjointe déléguée\
-Action et patrimoine social, \
-Santé publique, jumelages et tourisme.\
-Ville du Plessis Robinson\
+#### Maire adjointe déléguée
+
+**Action et patrimoine social,** \
+**Santé publique, jumelages et tourisme.**\
+**Ville du Plessis Robinson**\
 \
-Le 14/02/2024 Plessis Robinson\
+**Le 14/02/2024 Plessis Robinson**\
 \
-**Avec les remerciements de [www.evreux-armenie.com](http://www.evreux-armenie.com/)**
+**Avec les remerciements de [www.evreux-armenie.com](http://www.evreux-armenie.com/)** \
+**à Madame Corinne DUGUER, maire-adjointe du Plessis Robinson**
