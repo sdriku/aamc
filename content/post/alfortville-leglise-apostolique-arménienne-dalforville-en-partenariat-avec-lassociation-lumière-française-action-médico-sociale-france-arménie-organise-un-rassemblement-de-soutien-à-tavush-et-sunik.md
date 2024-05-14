@@ -1,5 +1,5 @@
 ---
-title: "Alfortville : l'Eglise Apostolique Arménienne d'Alforville en
+title: "Alfortville : l'Eglise Apostolique Arménienne d'Alfortville en
   partenariat avec l'association Lumière Française - Action Médico-Sociale
   France Arménie organise un rassemblement de soutien à Tavush et Sunik"
 description: "Corinne DUGUER cofondatrice de Lumière Françaçaise - Action
