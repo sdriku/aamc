@@ -38,7 +38,7 @@ PUBLICITÉ
 
 ## Des "accusations infondées"
 
-Le ministre de l'Intérieur et des Outre-mer Gérald Darmanin [avait accusé jeudi l'Azerbaïdjan d'ingérence en Nouvelle-Calédonie](https://www.bfmtv.com/politique/emeutes-en-nouvelle-caledonie-pourquoi-l-azerbaidjan-est-accuse-d-ingerence-par-darmanin_AN-202405160396.html 'Émeutes en Nouvelle-Calédonie: pourquoi l'Azerbaïdjan est accusé "d'ingérence" par Darmanin'), au moment où l'archipel est en proie à des émeutes inédites depuis 1988 qui ont fait six morts.
+Le ministre de l'Intérieur et des Outre-mer Gérald Darmanin \[avait accusé jeudi l'Azerbaïdjan d'ingérence en Nouvelle-Calédonie](https://www.bfmtv.com/politique/emeutes-en-nouvelle-caledonie-pourquoi-l-azerbaidjan-est-accuse-d-ingerence-par-darmanin_AN-202405160396.html 'Émeutes en Nouvelle-Calédonie: pourquoi l'Azerbaïdjan est accusé "d'ingérence" par Darmanin'), au moment où l'archipel est en proie à des émeutes inédites depuis 1988 qui ont fait six morts.
 
 [![](https://cf-images.eu-west-1.prod.boltdns.net/v1/static/876450610001/564304ab-37dd-468f-be79-e784ebf9b036/40ee436e-e548-45c0-9002-22fbb22d4169/1280x720/match/image.jpg)](blob:https://www.bfmtv.com/497e1c4a-4472-4c83-bfe3-d8c48ccde35f)
 
@@ -52,4 +52,6 @@ Les autorités françaises ont également fait savoir qu'elles avaient détecté
 
 C.Bo. avec AFP
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+Serge Tateossian Le 22/05/2024  Source : BFMTV
