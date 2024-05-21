@@ -92,7 +92,7 @@ Une coproduction Sancho et Cie et France Télévisions • ©Un film de Laurent 
 
 À l’occasion du 80ᵉ anniversaire du Débarquement, France 3 Normandie vous propose une programmation inédite et exceptionnelle. Les équipes se mobilisent pour que jamais ne s’éteigne le souvenir du Débarquement sur nos côtes normandes... 
 
-Chaque jeudi, du 23 mai au 13 juin, France 3 Normandie propose* **Les Jeudis de l’Histoire**.* Dès 9h10, chaque jeudi, découvrez un documentaire suivi d'une émission spéciale, ***ICI, il y a 80 ans**,* à 10h10.
+Chaque jeudi, du 23 mai au 13 juin, France 3 Normandie propose* **Les Jeudis de l’Histoire**.* Dès 9h10, chaque jeudi, découvrez un documentaire suivi d'une émission spéciale, **\*ICI, il y a 80 ans**,* à 10h10.
 
 ***Les Jeudis de l'Histoire***, ce sont également quatre soirées composées d’un documentaire inédit, suivi d’une émission spéciale réalisée par les équipes de France 3 Normandie, liée à la thématique du documentaire.
 
@@ -107,4 +107,6 @@ Avec, en plateau :
 
 **À découvrir ce jeudi 23 mai à 23h30 sur France 3 Normandie et [sur france.tv](https://www.france.tv/france-3/normandie/).**
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+Serge Tateossian Le 21/05/2024    Source : France info
