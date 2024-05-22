@@ -14,8 +14,6 @@ image: assets/img/aznavour-100-ans.jpg
 
 # Charles Aznavour 100 ans aujourd’hui !
 
-
-
 ![](https://www.armenews.com/IMG/arton116131.jpg)
 
 Ce 22 mai, Charles Aznavour aurait eu 100 ans, l’occasion pour la Mairie de Paris d’inaugurer un espace vert à son nom au bas des Champs Elysées, à 17h45 - Kiosque du jardin des Champs-Élysées (8e) en présence de la famille de l’artiste.
@@ -32,7 +30,7 @@ Dans le rôle titre un Tahar Rahim remarquable de vérité après avoir travaill
 
 **For me Formidable** Direction Tigran Hekekyan au Tokyo Opera City Concert Hall (2012)
 
-[YouTube video player](https://www.youtube.com/embed/sjifBlRZKaw?si=ZirpeLi5dj0y6mJr)
+[YouTube video player](https://www.youtube.com/embed/sjifBlRZKaw?si=ZirpeLi5dj0y6mJr)  : Jeunes collégiennes d'Arménie chantent Aznavour. 
 
 Et le 19 mai au Festival de Cannes, autre hommage a été rendu à Charles Aznavour par l’harmonie de Lallaing (Hauts-de-France), une formation musicale mise en vedette dans le film d’Emmanuel Courcol « En Fanfare ». Plus de 15 minutes d’applaudissements à l’issue de la projection.
 
@@ -42,4 +40,5 @@ par [Jean Eckian](https://www.armenews.com/spip.php?page=auteur&id_auteur=34) le
 © armenews.com 202
 
 <!--EndFragment-->\
+
 Serge  Tateossian le 22/05/2024   Source : Armenews
