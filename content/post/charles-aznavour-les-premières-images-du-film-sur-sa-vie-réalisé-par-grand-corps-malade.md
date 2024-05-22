@@ -25,8 +25,6 @@ Alors que l'on fête le centenaire de Charles Aznavour, les réalisateurs Grand 
 
 [Dailymotion video player - Grand Corps Malade, Ben Mazué et Gaël Faye chantent &quot;On a pris le temps&quot;](https://geo.dailymotion.com/player/x1ht3.html?video=x8g62av&aspectRatio=16%3A9&mute=true&enableDMLogo=false)
 
-
-
 ### "Ils n'ont pas fini d'entendre parler d'Aznavour"
 
 \
@@ -37,5 +35,6 @@ En marge du Festival de Cannes, "Monsieur Aznavour" se dévoile à travers un pr
 \
 Pour **[Grand Corps Malade](https://www.chartsinfrance.net/Grand-Corps-Malade.html)**, Tahar Rahim s'est surpassé pour incarner au mieux l'interprète de ["La bohème"](https://www.chartsinfrance.net/Charles-Aznavour/news-108198.html). « *Il est allé au-delà de ce qu'on aurait imaginé. Il a bossé comme un fou. Il a regardé des heures et des heures d'interviews d'Aznavour, il a pris des cours de chant, de gestuelle, de piano... Il a bossé depuis des mois. Le travail ça paie, et vous allez voir que c'est quelque chose* » expliquait-il sur RTL. Assurément, "Monsieur Aznavour" est l'un des films les plus attendus de l'année !
 
-<!--EndFragment-->\
+Vidéo : https://www.chartsinfrance.net/Charles-Aznavour/news-128862.html
+
 Serge Tateossian le 22/05/2024   Source : Chartsinfrance.net
