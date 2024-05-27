@@ -39,9 +39,9 @@ Pour mémoire, Mr Frédéric Duché, Maire des Andelys, est un ancien marin, de 
 \
 Tous les porte-drapeaux ont reçu les félicitations de la Délégation Militaire en présence de Mr Monsieur Simon Babre, Préfet de l'Eure.\
 \
-La cérémonie militaire fut organisée, avec un détachement de militaires de la BA 105 d'Evreux, des jeunes issus de l’école de formation des porte drapeaux encadrés par les soins des ditsMajors de Réserves et de la musique militaire des troupes de marine.\
+La cérémonie militaire fut organisée, avec un détachement de militaires de la BA 105 d'Evreux, des jeunes issus de l’école de formation des porte drapeaux encadrés par les soins desdits Majors de Réserves et de la musique militaire des troupes de marine.\
 \
-Toutes nos chaleureuses félicitiations à Monsieur Eric KELECHIAN, qui saura rendre Hommage aux victimes des conflits, lors des cérémonies patriotiques, et des Journées Nationales, dont celle du génocide arménien, commémoration qui a lieu, chaque année, le 24 avril dans toute la France et dans le monde.\
+Toutes nos chaleureuses félicitations à Monsieur Eric KELECHIAN, qui saura rendre Hommage aux victimes des conflits, lors des cérémonies patriotiques, et des Journées Nationales, dont celle du génocide arménien, commémoration qui a lieu, chaque année, le 24 avril dans toute la France et dans le monde.\
 \
 « Je suis patriote, parce que, je suis homme et humain ».\
 Ghandi\
