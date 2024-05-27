@@ -23,7 +23,7 @@ image: assets/img/eric-kéléchian-25-mai-2024.jpg
 Samedi 25 mai 2024 fut une journée forte en émotion.
 
 \
-La Délégation militaire départementale de l'Eure (DMD 27) a organisé le premier Challenge de cadets réunissant 160 jeunes de 15 à 19 ans. Cindés en dix équipes, les jeunes se sont affrontés dans huit disciplines sportives dont deux éducatives, ainsi qu'une épreuve mémorielle écrite portant sur le 6 juin 1944. Les buts principaux de cette initiative sont la sensibilisation de la jeunesse autour des valeurs républicaines, renforcement du lien Armée-jeunesse, la cohésion sociale, l'amour de la patrie et le devoir de mémoire.
+La Délégation militaire départementale de l'Eure (DMD 27) a organisé le premier Challenge de cadets réunissant 160 jeunes de 15 à 19 ans. Scindés en dix équipes, les jeunes se sont affrontés dans huit disciplines sportives dont deux éducatives, ainsi qu'une épreuve mémorielle écrite portant sur le 6 juin 1944. Les buts principaux de cette initiative sont la sensibilisation de la jeunesse autour des valeurs républicaines, renforcement du lien Armée-jeunesse, la cohésion sociale, l'amour de la patrie et le devoir de mémoire.
 
 \
 Cette journée a été l'occasion pour beaucoup de familles de visiter, avec leurs enfants, les stands des partenaires, de cette initiative, dans un esprit festif. Le beau temps étant au rendez-vous,\
