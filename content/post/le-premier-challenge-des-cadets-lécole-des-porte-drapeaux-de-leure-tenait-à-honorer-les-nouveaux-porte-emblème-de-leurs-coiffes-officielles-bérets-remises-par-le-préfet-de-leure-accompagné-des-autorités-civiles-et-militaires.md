@@ -37,7 +37,7 @@ Eric Kelechian est présent, parmi les nouveaux porte-drapeaux, à cette cérém
 \
 Pour mémoire, Mr Frédéric Duché, Maire des Andelys, est un ancien marin, de ce fait, cette représentation de l'emblème de la Marine de la ville des Andelys, lors des cérémonies patriotiques sur cette commune, est un Honneur pour les Andelysiennes et les Andelysiens.\
 \
-Tous les porte drapeaux ont reçu les félicitations de la Délégation Militaire en présence de Mr Monsieur Simon Babre, Préfet de l'Eure.\
+Tous les porte-drapeaux ont reçu les félicitations de la Délégation Militaire en présence de Mr Monsieur Simon Babre, Préfet de l'Eure.\
 \
 La cérémonie militaire fut organisée, avec un détachement de militaires de la BA 105 d'Evreux, des jeunes issus de l’école de formation des porte drapeaux encadrés par les soins des ditsMajors de Réserves et de la musique militaire des troupes de marine.\
 \
