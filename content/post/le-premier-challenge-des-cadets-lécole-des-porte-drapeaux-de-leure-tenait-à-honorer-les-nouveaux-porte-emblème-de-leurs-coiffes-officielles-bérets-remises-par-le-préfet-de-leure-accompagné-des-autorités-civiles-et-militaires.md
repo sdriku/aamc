@@ -26,8 +26,7 @@ Samedi 25 mai 2024 fut une journée forte en émotion.
 La Délégation militaire départementale de l'Eure (DMD 27) a organisé le premier Challenge de cadets réunissant 160 jeunes de 15 à 19 ans. Scindés en dix équipes, les jeunes se sont affrontés dans huit disciplines sportives dont deux éducatives, ainsi qu'une épreuve mémorielle écrite portant sur le 6 juin 1944. Les buts principaux de cette initiative sont la sensibilisation de la jeunesse autour des valeurs républicaines, le renforcement du lien Armée-jeunesse, la cohésion sociale, l'amour de la patrie et le devoir de mémoire.
 
 \
-Cette journée a été l'occasion pour beaucoup de familles de visiter, avec leurs enfants, les stands des partenaires, de cette initiative, dans un esprit festif. Le beau temps étant au rendez-vous,\
-on découvrait les stands des jeunes sapeurs-pompiers, des cadets de la gendarmerie, de l’Escadrille Air Jeunesse, des scouts d'Europe, de l’association AL2E, de l’EPIDE et des classes de défense, puis à 17h30 la proclamation des résultats et la consécration des équipes gagnantes.\
+Cette journée a été l'occasion pour beaucoup de familles de visiter, avec leurs enfants, les stands des partenaires, de cette initiative, dans un esprit festif. Le beau temps étant au rendez-vous, on découvrait les stands des jeunes sapeurs-pompiers, des cadets de la gendarmerie, de l’Escadrille Air Jeunesse, des scouts d'Europe, de l’association AL2E, de l’EPIDE et des classes de défense, puis à 17h30 la proclamation des résultats et la consécration des équipes gagnantes.\
 \
 En marge de cette journée de sensibilisation de la jeunesse aux valeurs de la République, l'école des porte-drapeaux de l'Eure tenait à honorer les nouveaux porte emblème de leurs coiffes officielles (bérets), remises par Mr le Préfet de l'Eure accompagné des autorités civiles et militaires,
 
