@@ -31,7 +31,7 @@ on découvrait les stands des jeunes sapeurs-pompiers, des cadets de la gendarme
 \
 En marge de cette journée de sensibilisation de la jeunesse aux valeurs de la République, l'école des porte-drapeaux de l'Eure tenait à honorer les nouveaux porte emblème de leurs coiffes officielles (bérets), remises par Mr le Préfet de l'Eure accompagné des autorités civiles et militaires,
 
-Monsieur le Préfet de l'Eure avec d'autres dignitaires des armées et élus ont apporté leur félicitation en remettant les armes aux nouveaux jeunes (et moins jeunes) porte-drapeaux.
+Monsieur le Préfet de l'Eure avec d'autres dignitaires des armées et élus ont apporté leur félicitation en remettant les bérets aux nouveaux jeunes (et moins jeunes) porte-drapeaux.
 
 Eric Kelechian est présent, parmi les nouveaux porte-drapeaux, à cette cérémonie. Issu d'une formation militaire dans la Marine Nationale, Eric, s'est vu confié en récompense de sa Valeur Patriotique, le drapeau de la Marine des Andelys pour représentation, par le Major Honoraire de la Gendarmerie Nationale Christian DUBOIS, formateur (accompagné de Marc Druet, Major de Réserves de l'Air et de l'Espace, deuxième formateur) de l'école des porte-drapeaux.\
 \
