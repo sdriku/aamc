@@ -1,5 +1,6 @@
 ---
-title: Astrig Siranossian présente le premier Festival Nadia et Lili Boulanger
+title: Astrig Siranossian présente le premier Festival Nadia et Lili Boulanger à
+  Trouville-sur-Mer
 description: Astrig Siranossian - Trouville-Sur-Mer -  le premier Festival Nadia
   et Lili Boulanger
 summary: Astrig Siranossian présente le premier Festival Nadia et Lili Boulanger
