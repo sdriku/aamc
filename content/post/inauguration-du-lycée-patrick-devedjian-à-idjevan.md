@@ -14,8 +14,6 @@ image: assets/img/lycée-professionnel-patrick-dévedjian.jpg
 
 # Inauguration du Lycée Patrick Devedjian à Idjevan
 
-
-
 ![](https://www.armenews.com/IMG/arton116414.jpg)
 
 Moment fort de la visite de travail de la délégation d’élus du Département des Hauts-de-Seine conduite par son président, Georges Siffredi, ce mardi 28 mai, jour de l’indépendance de la première République d’Arménie, avait lieu l’inauguration du « Lycée professionnel Patrick Devedjian » à Idjevan, situé dans le Tavouch, au nord de l’Arménie.\
@@ -48,4 +46,12 @@ Symboles forts des liens fraternels qui lient la France et l’Arménie, sur son
 Texte : Alain Alexan Sarkissian\
 Photos : Crédit CD 92 et compte X de SE Olivier Decottignies
 
+<!--StartFragment-->
+
+par [Naïri](https://www.armenews.com/spip.php?page=auteur&id_auteur=475) le mercredi 29 mai 2024\
+© armenews.com 2024
+
+
+
+<!--EndFragment-->\
 <!--EndFragment-->
