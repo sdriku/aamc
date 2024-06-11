@@ -14,15 +14,13 @@ image: assets/img/elbakian.png
 # Récital de Rouben Elbakian
 
 Rouben ELBAKIAN - Récitak unique - Anthologie de la Musique arménienne porté par le ténor franco-arménien.\
-R﻿ouben ELBAKIAN gratifié "Golden Voice" par la presse internationale.\
+R﻿ouben ELBAKIAN gratifié "Golden Voice" par la presse internationale.
+
+![]()
+
 \
-1﻿2 juin 2024 à 20h30\
-P﻿aris, Eglise Saint-Roch\
-A﻿vec le soutien du Ministère de la Culture\
 \
 R﻿éservation : Classictic - FNAC - Ticketnet - FEVER
-
-
 
 Rouben Elbakian dans Art et Regard sur Ayp FM
 
@@ -30,8 +28,6 @@ Rouben Elbakian dans Art et Regard sur Ayp FM
 
 par [Naïri](https://www.armenews.com/spip.php?page=auteur&id_auteur=475) le mardi 11 juin 2024\
 © armenews.com 2024
-
-
 
 - - -
 
@@ -45,16 +41,12 @@ Voir en ligne : [Site de Rouben Elbakian](http://www.rouben-elbakian.com/)
 
 ![](https://www.armenews.com/IMG/arton116828.png)
 
-
-
 Rouben Elbakian dans Art et Regard sur Ayp FM
 
 [YouTube video player](https://www.youtube.com/embed/q0wy_rXaGHY?si=jpbFBKa-Ecq6GF4v)
 
 par [Naïri](https://www.armenews.com/spip.php?page=auteur&id_auteur=475) le mardi 11 juin 2024\
 © armenews.com 2024
-
-
 
 - - -
 
