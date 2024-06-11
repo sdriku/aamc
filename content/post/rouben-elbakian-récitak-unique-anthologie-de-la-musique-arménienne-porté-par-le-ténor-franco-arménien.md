@@ -16,7 +16,7 @@ image: assets/img/elbakian.png
 Rouben ELBAKIAN - Récitak unique - Anthologie de la Musique arménienne porté par le ténor franco-arménien.\
 R﻿ouben ELBAKIAN gratifié "Golden Voice" par la presse internationale.
 
-![]()
+![](assets/img/elbakian.jpg)
 
 \
 \
