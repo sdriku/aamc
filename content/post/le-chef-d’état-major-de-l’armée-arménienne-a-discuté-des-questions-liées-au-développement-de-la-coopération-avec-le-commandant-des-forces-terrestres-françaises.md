@@ -13,7 +13,7 @@ summary: Le premier vice-ministre de la Défense de la République d’Arménie,
 date: 2024-06-11T17:46:50.845Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/armée.jpg
-image: assets/img/raffarin-2.jpg
+image: assets/img/armée-2.jpg
 ---
 <!--StartFragment-->
 
