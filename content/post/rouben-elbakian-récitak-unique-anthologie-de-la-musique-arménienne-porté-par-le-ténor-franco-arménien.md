@@ -1,5 +1,5 @@
 ---
-title: Rouben ELBAKIAN - Récitak unique - Anthologie de la Musique arménienne
+title: Rouben ELBAKIAN - Récital unique - Anthologie de la Musique arménienne
   porté par le ténor franco-arménien
 description: "Récital de Rouben Elbakian "
 summary: Récital unique - Anthologie de la Musique arménienne porté par le ténor
