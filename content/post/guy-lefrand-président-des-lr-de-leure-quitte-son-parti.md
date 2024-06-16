@@ -21,7 +21,7 @@ Une page importante est tournée pour le Maire d'Evreux.\
 Certains lecteurs et lectrices du site Evreux-Arménie, ayant des origines arméniennes, sont pour la plupart, les descendants de survivants du génocide arménien perpétré par la Turquie en 1915, il est rassurant de savoir (en période d'incertitude politique), que le **« Mouvement France »** dont le Maire d'Evreux est membre, est dirigé par des politiques de premier rang, humanistes et engagés en faveur de l'Arménie et la cause arménienne.\
 \
 \
-Vidéo au même sujet : https://youtu.be/cPTuyw8C0Qg\
+Vidéo même sujet : https://youtu.be/cPTuyw8C0Qg\
 \
 Le Président du **« Mouvement France »** et de la région des Hauts-de-France Xavier Bertrand, est assurément un ami de l'Arménie, et des arméniens, entourés de nombreux autres responsables politiques de taille, comme Jean-François Rapin, Dominique Estrosi-Sassone, Jean-Didier Berthault ,,,et beaucoup d'autres.\
 \
