@@ -23,7 +23,7 @@ Certains lecteurs et lectrices du site Evreux-Arménie, ayant des origines armé
 \
 Vidéo même sujet : https://youtu.be/cPTuyw8C0Qg\
 \
-Le Président du **« Mouvement France »** et de la région des Hauts-de-France Xavier Bertrand, est assurément un ami de l'Arménie, et des arméniens, entourés de nombreux autres responsables politiques de taille, comme Jean-François Rapin, Dominique Estrosi-Sassone, Jean-Didier Berthault ,,,et beaucoup d'autres.\
+Le Président du **« Mouvement France »** et de la région des Hauts-de-France Xavier Bertrand, est assurément un ami de l'Arménie, et des arméniens, entourés de nombreux autres responsables politiques de taille, comme Jean-François Rapin, Dominique Estrosi-Sassone, Jean-Didier Berthault ... et beaucoup d'autres.\
 \
 Les français d'origine arménienne d'Evreux et ses agglomérations attendent et espèrent plus d'engagement et de présence lors des commémorations officielles du génocide arménien (pour ne citer que cet événement à caractère national) de la part du Maire d'Evreux Guy Lefrand, et d'autres politiques et représentants locaux.\
 \
