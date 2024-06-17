@@ -29,11 +29,11 @@ Les français d'origine arménienne d'Evreux et ses agglomérations attendent et
 \
 Je rappelle que le génocide arménien est commémoré chaque année le 24 avril à 11 heures, devant la stèle dédié aux victimes du génocide arménien, Place Marcel Baudot, à Evreux.\
 \
-Le génocide arménien perpétré par la Turquie ottomane en 1915 et qui a fait 1,5 millions de victimes arméniennes, hommes, femmes et enfants ont été extérminés, et les rares victimes échappées aux déportations et à la mort, ont été islamisés de force.\
+Le génocide arménien perpétré par la Turquie ottomane en 1915 et qui a fait 1,5 millions de victimes arméniennes, hommes, femmes et enfants ont été exterminées, et les rares victimes échappées aux déportations et à la mort, ont été islamisées de force.\
 \
 Ils sont tombés de Charles Aznavour : https://youtu.be/EVEodiOlxu4\
 \
-La diaspora arménienne en France et dans le monde forme l'essentiel de descendants de survivants échapés des massacres et déportations planifiés.\
+La diaspora arménienne en France et dans le monde forme l'essentiel de descendants de survivants échappés des massacres et déportations planifiés.\
 \
 Des français d'origine arménienne : Charles Aznavour, Alice Sapricth, Henri Verneuil, Alain Prost, Michel Legrand, Patrick Fiori, Hélène Ségara, François Berleand, Alain Terzian, Sylvie Vartan, André Manoukian, Pascal Légitimus, et des milliers d'autres arméniens plus ou moins célèbres, qui couvrent toutes les couches de la société française et qui ont embrassé sa culture.\
 \
