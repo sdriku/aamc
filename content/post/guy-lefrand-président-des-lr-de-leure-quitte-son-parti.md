@@ -25,9 +25,9 @@ Vidéo même sujet : https://youtu.be/cPTuyw8C0Qg\
 \
 Le Président du **« Mouvement France »** et de la région des Hauts-de-France Xavier Bertrand, est assurément un ami de l'Arménie, et des arméniens, entourés de nombreux autres responsables politiques de taille, comme Jean-François Rapin, Dominique Estrosi-Sassone, Jean-Didier Berthault ,,,et beaucoup d'autres.\
 \
-Les français d'origine arménienne d'Evreux et ses agglomérations attendent et espèrent plus d'engagement et de présence lors des comméorations officielles du génocide arménien (pour ne citer que cet événement à caractère national) de la part du Maire d'Evreux Guy Lefrand, et d'autres politiques et représentants locaux.\
+Les français d'origine arménienne d'Evreux et ses agglomérations attendent et espèrent plus d'engagement et de présence lors des commémorations officielles du génocide arménien (pour ne citer que cet événement à caractère national) de la part du Maire d'Evreux Guy Lefrand, et d'autres politiques et représentants locaux.\
 \
-Je rappelle que le génocide arménien est commémoré chaque année le 24 avril à 11 heures, devant la stèle dédié aux victimes du génocide arménien, Place Marcel Baudot, à Evreux.\
+Je rappelle que le génocide arménien est commémoré chaque année le 24 avril à 11 heures, devant la stèle dédiée aux victimes du génocide arménien, Place Marcel Baudot, à Evreux.\
 \
 Le génocide arménien perpétré par la Turquie ottomane en 1915 et qui a fait 1,5 millions de victimes arméniennes, hommes, femmes et enfants ont été exterminées, et les rares victimes échappées aux déportations et à la mort, ont été islamisées de force.\
 \
