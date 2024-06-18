@@ -204,4 +204,4 @@ Jean-Claude Zylberstein, avocat, éditeur, écrivain
 * ### [Les relais politiques français du régime de Bakou](https://www.lepoint.fr/monde/les-relais-politiques-francais-du-regime-de-bakou-23-05-2024-2560939_24.php)
 * ### [Aliev, ce dictateur qui en veut à la France](https://www.lepoint.fr/monde/aliev-le-dictateur-d-azerbaidjan-qui-en-veut-a-la-france-22-05-2024-2560908_24.php)
 
-<!--EndFragment-->
+S﻿erge Tateossian le 19/06/2024    Source et photos : Le Point
