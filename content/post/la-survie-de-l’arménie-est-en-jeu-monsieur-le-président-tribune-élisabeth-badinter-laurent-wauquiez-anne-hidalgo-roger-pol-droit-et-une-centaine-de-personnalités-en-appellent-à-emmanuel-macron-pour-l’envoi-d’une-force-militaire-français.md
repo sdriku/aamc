@@ -17,6 +17,10 @@ image: assets/img/le-point-armenie.webp
 ---
 <!--StartFragment-->
 
+Élisabeth Badinter, Laurent Wauquiez, Anne Hidalgo, Roger-Pol Droit et une centaine de personnalités en appelle à Emmanuel Macron pour l’envoi d’une force militaire française en Arménie menacée par l’Azerbaïdjan. © COPYRIGHT: ANTOINE AGOUDJIAN / ANTOINE AGOUDJIAN POUR « LE POINT »
+
+<!--EndFragment-->
+
 # La survie de l’Arménie est en jeu, monsieur le président !
 
 TRIBUNE. Élisabeth Badinter, Laurent Wauquiez, Anne Hidalgo, Roger-Pol Droit et une centaine de personnalités en appellent à Emmanuel Macron pour l’envoi d’une force militaire française en Arménie menacée par l’Azerbaïdjan.
