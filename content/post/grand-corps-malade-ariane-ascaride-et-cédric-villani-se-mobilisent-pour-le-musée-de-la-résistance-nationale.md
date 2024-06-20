@@ -27,7 +27,9 @@ Déjà, de grands noms ont accepté de cosigner l'appel aux dons. On retrouve pa
 
 Une « crise financière menaçant la survie du musée »
 
-Cette souscription est lancée à la veille des célébrations du 80e anniversaire de la Libération, alors que « le musée de la Résistance nationale à Champigny-sur-Marne est en péril », insistent les Amis du musée. Ils décrivent une « crise financière menaçant la survie du musée en raison de la suppression de subventions municipales et territoriales ces dernières années ».
+Cette souscription est lancée à la veille des célébrations du 80e anniversaire de la Libération, alors que « le musée de la Résistance nationale à Champigny-sur-Marne est en péril », insistent les Amis du musée. Ils décrivent une « crise financière menaçant la survie du musée en raison de la suppression de subventions municipales et territoriales ces dernières années ».\
+\
+https://www.defense.gouv.fr/actualites/missak-manouchian-au-pantheon-hommage-national-francais-preference
 
 Selon nos informations, il manque 85 000 euros à l'association pour boucler le budget 2024. Des difficultés financières qui font suite à des difficultés de gouvernance entre deux instances se revendiquant à la tête du site. Depuis six mois, une conservatrice du patrimoine a été nommée par le ministère de la Culture et les activités du musée se poursuivent.
 
@@ -35,11 +37,13 @@ Mais faute de moyens, aucune nouvelle exposition n'a été lancée ces derniers 
 
 Si l'Association des amis du musée ne souhaite lister ni les institutions ayant diminué leur subvention, ni les nouvelles communes les ayant rejoints, l'opposition Val-de-Marne en commun du conseil départemental s'est emparé du sujet.
 
-À lire aussiVal-de-Marne : après des couacs à répétition, quelles nouvelles bases pour le musée de la Résistance ?
+À lire aussi Val-de-Marne : après des couacs à répétition, quelles nouvelles bases pour le musée de la Résistance ?
 
 Lors de la dernière commission permanente, Fatiha Aggoune, chef de file de la gauche, a souligné « l'importance de garantir un financement départemental » au musée alors qu'un premier volet de 100 000 euros de subvention a été voté, contre un total de 260 000 euros l'an dernier. « Nous resterons attentifs à ce que cette première aide puisse être complétée au cours de l'année pour permettre le bon fonctionnement du musée », insiste Val-de-Marne en commun.
 
-Le département, contacté, précise avoir« voté une subvention de 100 000 euros lors de la Commission permanente du 10 juin. Ce versement ne préjuge pas du montant total de la subvention annuelle accordée au musée, comme précisé dans un courrier du Président du département à Monsieur Georges Duffau-Epstein, datant du 30 mai 2024. »
+Le département, contacté, précise avoir« voté une subvention de 100 000 euros lors de la Commission permanente du 10 juin. Ce versement ne préjuge pas du montant total de la subvention annuelle accordée au musée, comme précisé dans un courrier du Président du département à Monsieur Georges Duffau-Epstein, datant du 30 mai 2024. »\
+\
+R﻿eplay France 24 - Hommage national à Missak Manouchian : https://youtu.be/CVGBygUn96s
 
 L'Association des Amis du musée de la Résistance nationale en appelle aussi directement au président de la République pour obtenir un soutien crucial, « à une période où les idées révisionnistes refont surface ».
 
@@ -47,7 +51,10 @@ Un courrier personnel à Emmanuel Macron
 
 « J'ai écrit au président Macron, à titre personnel, après avoir échangé avec lui en février dernier lors de la Panthéonisation de Missak Manouchian », précise Georges Duffau-Epstein, fils de Joseph Epstein, chef des Francs-tireurs et Partisans (FTP) de la région parisienne arrêté fin 1943 en même temps que Missak Manouchian, mais exécuté au Mont-Valérien (Hauts-de-Seine) le 11 avril 1944 avec d'autres résistants.
 
-« Nous avons aussi rédigé un nouveau dossier de mécénat, avec lequel nous allons convaincre des entreprises de nous aider », ajoute le président de l'association.
+« Nous avons aussi rédigé un nouveau dossier de mécénat, avec lequel nous allons convaincre des entreprises de nous aider », ajoute le président de l'association.\
+\
+l﻿'Affiche Rouge par Feu! Chatterton : https://youtu.be/YaA3R3ghrV4
 
 Le musée conserve et valorise une collection exceptionnelle de plus d'un million de pièces sur la Résistance française, dont la dernière lettre de Guy Môquet et l'original du poème « Liberté » de Paul Éluard. « C'est un beau musée pour tout public, avec des trésors dans ces collections, défend avec verveFrancine Deroudille, fille du photographe Robert Doisneau. Ce site est un endroit rare et indispensable, surtout en ce moment, dans lequel on rappelle jusqu'en octobre avec l'exposition sur mon père l'importance de l'esprit de résistance. Un esprit qu'il faut faire vivre chaque jour. Le pire serait l'oubli. »\
+\
 S﻿erge Tateossian le 20/06/2024   Source : Le Parisien
