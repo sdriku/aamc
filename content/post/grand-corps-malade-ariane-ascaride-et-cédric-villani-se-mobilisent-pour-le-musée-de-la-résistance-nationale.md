@@ -37,8 +37,6 @@ Mais faute de moyens, aucune nouvelle exposition n'a été lancée ces derniers 
 
 Si l'Association des amis du musée ne souhaite lister ni les institutions ayant diminué leur subvention, ni les nouvelles communes les ayant rejoints, l'opposition Val-de-Marne en commun du conseil départemental s'est emparé du sujet.
 
-À lire aussi Val-de-Marne : après des couacs à répétition, quelles nouvelles bases pour le musée de la Résistance ?
-
 Lors de la dernière commission permanente, Fatiha Aggoune, chef de file de la gauche, a souligné « l'importance de garantir un financement départemental » au musée alors qu'un premier volet de 100 000 euros de subvention a été voté, contre un total de 260 000 euros l'an dernier. « Nous resterons attentifs à ce que cette première aide puisse être complétée au cours de l'année pour permettre le bon fonctionnement du musée », insiste Val-de-Marne en commun.
 
 Le département, contacté, précise avoir« voté une subvention de 100 000 euros lors de la Commission permanente du 10 juin. Ce versement ne préjuge pas du montant total de la subvention annuelle accordée au musée, comme précisé dans un courrier du Président du département à Monsieur Georges Duffau-Epstein, datant du 30 mai 2024. »\
