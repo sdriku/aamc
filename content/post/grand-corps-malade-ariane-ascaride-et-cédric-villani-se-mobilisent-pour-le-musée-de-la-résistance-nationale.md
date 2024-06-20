@@ -17,7 +17,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/musée-de-la-résistance-nationale.jpg
 image: assets/img/musée-de-la-résistance-nationale.jpg
 ---
-Grand Corps Malade, Ariane Ascaride et Cédric Villani se mobilisent pour le musée de la Résistance nationale.\
+Grand Corps Malade, Ariane Ascaride et Cédric Villani se mobilisent pour le musée de la Résistance nationale\
 
 Par Laure Parny
 
