@@ -18,7 +18,7 @@ thumbnailImage: assets/img/musée-de-la-résistance-nationale.jpg
 image: assets/img/musée-de-la-résistance-nationale.jpg
 ---
 Grand Corps Malade, Ariane Ascaride et Cédric Villani se mobilisent pour le musée de la Résistance nationale
-Laure Ny
+Par Laure Parny
 
 « Tous ceux qui chérissent l'histoire et les valeurs de la Résistance » sont appelés à se mobiliser. Pour sauver le musée de la résistance nationale, véritable « institution » installée à Champigny-sur-Marne (Val-de-Marne), une souscription nationale a été lancée ce week-end. C'est Georges Duffau-Epstein, fils du résistant Joseph Epstein et président de la société des Amis du musée de la Résistance nationale qui en appelle aux Val-de-Marnais, et plus largement à tous ceux qui sont attachés à l'apport de ce musée créé en 1985 et labellisé « Musée de France ».
 
