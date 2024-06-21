@@ -21,6 +21,9 @@ image: assets/img/lori-antounian.jpg
 
 C’est avec une immense fierté que l’Orchestre Classique Terrebonne annonce l’arrivée de Maestra [Lori Antounian](https://www.facebook.com/profile.php?id=48306063&__cft__[0]=AZWRF6PWJ9BcSbsN6JO5FTy6prn13blwPuvnGqVQCuqoIMu4DHlQqD8IQ9jWFrEH_Rdmzwx9xUVeMNLn1Bvq8irG-ZaskMb5X-qjgUHshmwJUQqKLo6EJkG-J6V01O5ununUa0ApYgLdi_4Mgja8pymIlPI3pRyrGtyRSZIIvwEgKofopStOg5G2xytSe1O9F5vd0Rws6exBM2GYEO_xnaJy9MMO76XlJxCb0kS9BPBZHQ&__tn__=-]K-y-R) en tant que nouvelle cheffe d’orchestre. Artiste [](<>)polyvalente et cheffe de renommée internationale, Maestra Antounian apportera son expertise, son énergie et sa passion pour la musique à notre orchestre.
 
+\
+<https://plus.lapresse.ca/screens/d0fce1bf-2081-4af7-930d-6f253e5e6762%7CNxqUbpiAn1ch.html>\
+\
 Issue d’une famille de musiciens, elle a étudié le piano classique, le chant, la composition et la direction d’orchestre, obtenant un doctorat de l’Université de Montréal. Fondatrice de l’Orchestre Impérial et directrice de nombreux chœurs prestigieux, elle a dirigé des orchestres renommés à travers le monde, de l’Argentine à l’Italie.
 
 Son répertoire varié et son engagement envers la musique comme langage universel promettent d’inspirer notre public et de transformer chaque performance en une expérience inoubliable.
@@ -37,6 +40,10 @@ Rejoignez-nous pour accueillir chaleureusement Maestra Lori Antounian dans notre
 
 Երաժիշտների ընտանիքից նա սովորել է դասական դաշնամուր, երգեցողություն, կոմպոզիցիա և դիրիժորություն՝ դոկտորի կոչում ստանալով Մոնրեալի համալսարանից։ Orchester Impérial-ի հիմնադիրը և բազմաթիվ հեղինակավոր երգչախմբերի ղեկավար, նա ղեկավարել է հայտնի նվագախմբեր ամբողջ աշխարհում՝ Արգենտինայից մինչև Իտալիա:
 
+\
+<https://plus.lapresse.ca/screens/d0fce1bf-2081-4af7-930d-6f253e5e6762%7CNxqUbpiAn1ch.html>\
+\
+\
 Նրա բազմազան երգացանկը և նվիրվածությունը երաժշտությանը որպես համընդհանուր լեզվի խոստանում են ոգեշնչել մեր հանդիսատեսին և յուրաքանչյուր կատարում վերածել անմոռանալի փորձի:
 
 Մաեստրա Անթունյանը նախընտրեց ապրել Տերեբոնում իր մշակույթի հարստության և իր քաղաքացիների ընկերասիրության համար:
