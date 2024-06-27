@@ -17,8 +17,6 @@ image: assets/img/la-russie-a-permis-à-l-azerbaïdjan.jpg
 
 # Le secrétaire du Conseil de sécurité de l’Arménie, Armen Grigorian, accuse la Russie d’avoir remis le Karabagh à l’Azerbaidjan
 
-
-
 ![](https://www.armenews.com/local/cache-gd2/78/7cc4234948b4ce977844a5ed83f92d.jpg)
 
 La Russie a permis à l’Azerbaïdjan de déclencher la guerre de 2020 au Nagorny-Karabakh et de reprendre le contrôle total de la région en septembre dernier, a accusé mercredi un haut fonctionnaire arménien, ajoutant aux tensions croissantes entre Moscou et Erevan.
@@ -48,4 +46,6 @@ Reprinted with permission from RFE/RL Copyright(c)2007 Radio Free Europe / Rad
 par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le jeudi 27 juin 2024\
 © armenews.com 2024
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+S﻿erge Tateossian le 28/06/2028   Source : Armenews
