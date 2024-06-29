@@ -22,9 +22,9 @@ Par [TAMAR URIEL-BEERI](https://www.jpost.com/author/tamar-uriel-beeri)
 
 28 JUIN 2024 10:31
 
-* ![E-mail](https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/mail-icon-small.svg) 
-* ![Twitter](https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/twitter-icon-small.svg) 
-* ![Facebook](https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/fb-icon-small.svg) 
+* ![E-mail](https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/mail-icon-small.svg)
+* ![Twitter](https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/twitter-icon-small.svg)
+* ![Facebook](https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/fb-icon-small.svg)
 * ![messager fb](https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/messenger-icon-small.svg)
 
 ![Des membres de la diaspora arménienne se rassemblent devant l'ambassade turque après que le président américain Joe Biden a reconnu que les massacres d'Arméniens dans l'Empire ottoman en 1915 constituaient un génocide à Washington, États-Unis, le 24 avril 2021. (Crédit photo : REUTERS/Joshua Roberts)](https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_537,w_822/606643 "Des membres de la diaspora arménienne se rassemblent devant l'ambassade de Turquie après que le président américain Joe Biden a reconnu que les massacres d'Arméniens en 1915 dans l'Empire ottoman constituaient un génocide à Washington, aux États-Unis, le 24 avril 2021.")
@@ -99,4 +99,6 @@ Mettez votre ego de côté. Reconnaissez le génocide arménien.
 
 *L'auteur est rédacteur en chef adjoint du Jerusalem Post.*
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+S﻿erge Tateossian Le 29/06/2024     Source : The Jerusalem Pot
