@@ -58,6 +58,6 @@ Une foule heureuse et du soleil. Que demander de plus ? ©Cyrill Roy / La Dép
 
 En espérant que tout se déroule mieux ce samedi 29 juin. Le festival ouvrira ses portes à 17 h avec Möön (17 h 30), Eagle Eye Cherry (19 h), FFF (20 h 30), Shaka Ponk (22 h 15), Danakil (0 h 30) et Doorshan (2 h). DJ Sam puis Grys s’occuperont des transitions entre les artistes.
 
-<!--EndFragment-->\
+\
 \
 S﻿erge Tateossian  Le 29/06/2024   Source : La Dépêche
