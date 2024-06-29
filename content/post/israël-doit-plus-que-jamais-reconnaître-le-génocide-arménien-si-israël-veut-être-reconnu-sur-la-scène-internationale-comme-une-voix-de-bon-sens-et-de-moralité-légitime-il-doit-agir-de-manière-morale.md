@@ -1,12 +1,13 @@
 ---
 title: "Israël doit plus que jamais reconnaître le génocide arménien. Si Israël
-  veut être reconnu sur la scène internationale comme une voix de bon sens et de
-  moralité légitime, il doit agir de manière morale.  "
+  veut être r                                                econnu sur la scène
+  internationale comme une voix de bon sens et de moralité légitime, il doit
+  agir de manière morale.  "
 description: "Si Israël veut être reconnu sur la scène internationale comme une
   voix de bon sens et de moralité légitime, il doit agir de manière morale.  "
 summary: Si Israël veut être reconnu sur la scène internationale comme une voix
   de bon sens et de moralité légitime, il doit agir de manière morale.   Mettez
-  votre ego de côté. Reconnaissez le génocide arménien.
+  votre ego de côté. Reconnaissez le génocide arménien. The Jerusalem Post
 date: 2024-06-29T18:49:03.003Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/jérusalem-post.jpeg
