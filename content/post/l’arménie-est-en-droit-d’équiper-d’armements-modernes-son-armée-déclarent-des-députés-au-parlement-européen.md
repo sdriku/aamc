@@ -26,8 +26,6 @@ Les députés du Parlement européen ont déclaré que *« les accusations por
 Les députés ont exprimé leur surprise que des pays autoritaires et agresseurs comme l’Azerbaïdjan et la Russie condamnent la France, un État membre de l’UE, essayant d’utiliser les différences et les contradictions existantes au sein ou entre les pays comme un outil pour atteindre leurs propres objectifs opportunistes.\
 *« Cela ne peut en aucun cas être accepté par l’Union européenne, et il est grand temps d’imposer des sanctions au régime dictatorial d’Aliev pour ses actions destructrices qui portent atteinte à la paix et à la sécurité régionales et pour violation des droits de l’homme. Nous condamnons fermement les déclarations officielles de Bakou et de Moscou et appelons la Commission européenne et l’UEE à réagir immédiatement à cette situation »*, indique le communiqué commun signé par de nombreux députés européens Slovaques, Francis, Suédois, Lituaniens et Chypriotes.
 
-Krikor Amirzayan
-
-<!--EndFragment-->\
+Krikor Amirzayan\
 \
 S﻿erge Tateossian Le 29/06/2024    Source : Armenews
