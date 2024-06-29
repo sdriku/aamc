@@ -1,5 +1,5 @@
 ---
-title: Réflexion No 3    Le 30/06/2024  LA CULTURE  - Անդրադարձ թիվ 3 30
+title: Réflexion No 3    Le 30/06/2024  LA CULTURE  - Անդրադարձ թիվ 3 - 30
   հունիսի, 2024 թ.  ՄՇԱԿՈՒՅԹ
 description: LA CULTURE  - ՄՇԱԿՈՒՅԹ
 summary: "La culture n'a pas tenu ses promesses en développant des pans entiers
