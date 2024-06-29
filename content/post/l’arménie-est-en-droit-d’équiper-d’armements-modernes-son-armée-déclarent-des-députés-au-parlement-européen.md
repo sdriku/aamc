@@ -16,8 +16,6 @@ image: assets/img/europe-arménie.jpg
 
 # L’Arménie est en droit d’équiper d’armements modernes son armée déclarent des députés au Parlement européen
 
-
-
 ![](https://www.armenews.com/IMG/arton117402.jpg)
 
 Un groupe de députés des factions du Parlement européen a publié une déclaration commune en réponse aux critiques, réactions négatives et menaces de l’Azerbaïdjan et de la Russie concernant la coopération militaire arméno-française.
@@ -30,4 +28,6 @@ Les députés ont exprimé leur surprise que des pays autoritaires et agresseurs
 
 Krikor Amirzayan
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+S﻿erge Tateossian Le 29/06/2024    Source : Armenews
