@@ -14,13 +14,13 @@ thumbnailImage: assets/img/julien-canin.jpg
 image: assets/img/canin-loir.jpeg
 ---
 **Dans le cadre des élections législatives du 30 juin et du 7 juillet 2024, le site d'information « evreux-armenie » adresse un questionnaire aux principaux candidats des législatives en cours sur des questions spécifiques susceptibles d'intéresser son lectorat (plusiuers centaines par jour).\
-Pouvez-vous répondre SVP aux trois questions suivantes afin que leurs réponses soient diffusées (le plus vite est préférable).****\
-Avec nos remerciements anticipés.****\
-Questions aux candidats des législatives 2024 de la première circonscriptions de l'Eure – Normandie.****\
+Pouvez-vous répondre SVP aux trois questions suivantes afin que leurs réponses soient diffusées (le plus vite est préférable).\*\***\
+Avec nos remerciements anticipés.***\*\
+Questions aux candidats des législatives 2024 de la première circonscriptions de l'Eure – Normandie.\*\***\
 Serge Tateossian\
 Président AAMC\
-Tel : 06 36 12 23 73****[www.evreux-armenie.com](http://www.evreux-armenie.com/)****\
-e-mail : [aamcevreux@gmail.com](mailto:aamcevreux@gmail.com)****\
+**[www.evreux-armenie.com](http://www.evreux-armenie.com/)\*\***\
+e-mail : [aamcevreux@gmail.com](mailto:aamcevreux@gmail.com)***\*\
 ---------------------------------------------------------**\
 \
 **A l'attention de Julien Canin (Candidat majorité présidentielle – Maire adjoint de Pacy-Sur-Eure)**\
@@ -41,13 +41,11 @@ Quelles sont vos perspectives de développement des liens avec l'Arménie ?*\
 Julien Canin : Pour le moment, je ne suis pas élu mais au lendemain de l’élection, il est évident que je serai au sein du groupe parlementaire d’amitié France-Arménie.\
 \
 \
-*Question 3 : Prendrez-vous l'engagement de soutenir les associations franco-arméniennes de notre départements dans les différentes manifestations mémorielles ou autres, notamment en rendant hommage aux victimes du génocide arménien et de leurs descendants lors des journées nationales de commémoration du génocide arménien tous les 24 avril ?**\
+*Question 3 : Prendrez-vous l'engagement de soutenir les associations franco-arméniennes de notre départements dans les différentes manifestations mémorielles ou autres, notamment en rendant hommage aux victimes du génocide arménien et de leurs descendants lors des journées nationales de commémoration du génocide arménien tous les 24 avril ?\*\*\
 Un projet mémoriel d'une stèle dédiée à Missak Manouchian, héros de la Résistance, récemment panthéonisé, porté par l'association AAMC à Evreux, est en cours d'élaboration, Prenez-vous l'engagement de soutenir ce projet patriotique qui concerne toutes les nouvelles générations de notre nation et la France dans sa diversité ?*\
 \
 \
 Julien Canin : Je prends l’engagement de soutenir les associations et d’être présent, dans la mesure du possible, aux commémorations. En complément, vous pouvez compter sur mon soutien pour votre projet patriotique. 
-
-
 
 Au plaisir de vous rencontrer. 
 
