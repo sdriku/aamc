@@ -16,8 +16,6 @@ image: assets/img/artsakh-2.jpg
 
 # La paix entre l’Arménie et l’Azerbaïdjan est un objectif noble, mais son prix ne peut pas être un nettoyage ethnique au Haut-Karabakh écrit le magazine américain « Washington Examiner »
 
-
-
 ![](https://www.armenews.com/IMG/arton117634.jpg)
 
 Le magazine américain *« Washington Examiner »* a publié un article intitulé *« Le nettoyage ethnique ne peut pas être le prix d’une paix stable entre l’Arménie et l’Azerbaïdjan »*, soulignant que l’ancien État arménien du Haut-Karabakh, transféré à l’Azerbaïdjan par le dirigeant de l’URSS Joseph Staline, a d’une grande importance historique, car « c’est le berceau du mouvement démocratique ».\
@@ -41,4 +39,5 @@ Krikor Amirzayan
 par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=33) le dimanche 7 juillet 2024\
 © armenews.com 2024
 
-<!--EndFragment-->
+\
+S﻿erge Tateossian le 07/07/2024    Source : Armenews
