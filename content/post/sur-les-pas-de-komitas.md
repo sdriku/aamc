@@ -9,7 +9,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/gomitas.png
 image: assets/img/gomitas.png
 ---
-<!--StartFragment-->
+
 
 # Sur les pas de Komitas
 
@@ -20,4 +20,6 @@ Les pianistes Mari Poshotyan et Godefroi Bernier ont conçu un ouvrage à l’at
 Une interview de présentation du projet est visible ci-dessous :
 
 Lecture vidéo :\
-https://youtu.be/vFVaz5_YHrE
+https://youtu.be/vFVaz5_YHrE\
+\
+S﻿erge Tateossian le 07/07/2024  Source : Armenews
