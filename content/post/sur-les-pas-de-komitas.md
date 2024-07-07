@@ -14,12 +14,12 @@ image: assets/img/gomitas.png
 # Sur les pas de Komitas
 
 <!--EndFragment-->\
+
 <!--StartFragment-->
 
 Les pianistes Mari Poshotyan et Godefroi Bernier ont conçu un ouvrage à l’attention d’un jeune public (de un à cinq ans) qui sera disponible dès 2025.
 
 Une interview de présentation du projet est visible ci-dessous :
 
-<!--EndFragment-->\
-\
+Lecture vidéo :\
 https://youtu.be/vFVaz5_YHrE
