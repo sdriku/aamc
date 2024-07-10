@@ -1,6 +1,6 @@
 ---
-title: Jean MOULIN  - La France livre un seul combat Extraits du discours de M,
-  André MALRAUX au Panthéon le 19 décembre 1964
+title: Jean MOULIN  - Ժան ՄՈՒԼԵՆ  La France livre un seul combat Extraits du
+  discours de M, André MALRAUX au Panthéon le 19 décembre 1964
 description: Jean Moulin - Discours de André Malraux au Panthéon 19 décembre 1964
 summary: Jean MOULIN  - La France livre un seul combat Extraits du discours de
   M, André MALRAUX au Panthéon le 19 décembre 1964
