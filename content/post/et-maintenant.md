@@ -15,8 +15,6 @@ On attend tous le nouveau gouvernement. Ce n'est pas déjà fait parce que c'est
 \
 V﻿idéo Même sujet :  https://www.lemonde.fr/politique/article/2024/07/11/au-senat-l-avertissement-de-gerard-larcher-si-le-premier-ministre-appartient-au-nfp-nous-nous-mettrons-en-travers_6248459_823448.html#:~:text=%C2%AB%20Cette%20dissolution%20est%20un%20g%C3%A2chis,Tout%20un%20symbole.\
 \
-\
-\
 Pour commencer, le Président de la République doit nommer le  Premier Ministre, qui doit choisir à son tour ses ministres pour composer le gouvernement, et selon le droit constitutionnel (donc officiellement), "sur la proposition du Premier ministre, le Président de la République nomme les membres du gouvernement et met fin à leurs fonctions également". \
 Autrement dit : Le Premier ministre propose des noms et le Président décide. \
 \
