@@ -11,19 +11,23 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/14-juillet-ambasade-france-yerevan-2024.jpg
 image: assets/img/14-juillet-gaillon-2024.jpg
 ---
-###  **la France honore son histoire\
+##### Photo couverture article : Le 14 juillet fêté à Yerevan - Arménie \
+Photo page d'article : Ville de Gaillon Eure - Normndie 14 juillet 2024\
+\
+ \*\*la France honore son histoire\
+
 14 juillet – Fête nationale\
 \
 *Quel est le sens de la fête Nationale en France ?*\
 \
 Nous pouvons résumer ainsi la fête nationale du 14 juillet en France :\
-Le 14 juillet, jour de la fête nationale française, est un symbole de l’unité et de la liberté. Cette date marque deux événements majeurs de l’histoire française : la prise de la Bastille en 1789 et la Fête de la Fédération en 1790.**
+Le 14 juillet, jour de la fête nationale française, est un symbole de l’unité et de la liberté. Cette date marque deux événements majeurs de l’histoire française : la prise de la Bastille en 1789 et la Fête de la Fédération en 1790.\*\*
 
 ## **La Prise de la Bastille**
 
 En 1789, la Bastille, une forteresse royale utilisée comme prison d’État, est prise d’assaut par les Parisiens en colère. Ce jour-là, la Bastille, qui symbolisait l’arbitraire du pouvoir royal, tombe, marquant le début de la Révolution française. Cet événement est célébré comme un acte fondateur de la République Française, incarnant la lutte pour la liberté et l’égalité.
 
-## **La Fête de la Fédération**  
+## **La Fête de la Fédération**
 
 Le 14 juillet 1790, la première Fête de la Fédération est organisée pour célébrer l’unité nationale et la réconciliation. Ce jour-là, des représentants de toutes les provinces françaises se réunissent sur le Champ-de-Mars à Paris pour unifier le pays et affirmer la souveraineté nationale. Depuis 1880, le 14 juillet est officiellement devenu la fête nationale française, célébrée avec des défilés militaires, des feux d’artifice, et des festivités partout en France.
 
