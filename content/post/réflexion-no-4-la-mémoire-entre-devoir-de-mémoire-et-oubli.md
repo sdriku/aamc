@@ -11,7 +11,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/devoir-de-mémoire.jpg
 image: assets/img/devoir-de-mémoire.jpg
 ---
-## **Réflexion no 4 - La Mémoire**\
+## **Réflexion no 4 - La Mémoire**
+
 \
 \
 La faculté de nous remémrer le passé, de le convoquer quand bon nous semble malgré des oublis, nous situe dans un lieu paradoxal:dans le temps, la remémoration nous place en même temps en dehors du temps. Nous pouvons voyager à travers en esprit. La mémoire attesterait-elle une immortalité de l'âme dont nous ferions l'expérience ? Pour autant que la mémoire de nos rêves nocturnes nous fait expérimenter la dissociation de l'esprit et du corps,,,\
