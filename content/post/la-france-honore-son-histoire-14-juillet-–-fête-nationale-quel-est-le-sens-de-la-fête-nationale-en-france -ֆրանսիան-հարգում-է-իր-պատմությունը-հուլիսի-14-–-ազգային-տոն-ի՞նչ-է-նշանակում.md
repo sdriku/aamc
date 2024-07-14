@@ -11,7 +11,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/14-juillet-ambasade-france-yerevan-2024.jpg
 image: assets/img/14-juillet-gaillon-2024.jpg
 ---
-##### Photo page article : Cérémonie de la Fête Nationale ville de Gaillon Eure - Normandie\
+##### Photo : Cérémonie de la Fête Nationale ville de Gaillon Eure - Normandie
+
 \
 \
 Photo couverture article : Le 14 juillet fêté à Yerevan - Arménie 
