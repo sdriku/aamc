@@ -14,7 +14,7 @@ image: assets/img/usa-arménie-exercice-militaire.png
 
 # Les troupes américaines et arméniennes entament un nouvel exercice conjoint
 
-<!--EndFragment-->
+
 
 Les troupes américaines et arméniennes ont entamé lundi un nouvel exercice militaire conjoint en Arménie, critiqué par la Russie.\
 Soulignant l’importance de ces exercices de dix jours pour le gouvernement arménien, le ministre de la défense, Suren Papikian, a assisté à la cérémonie d’ouverture qui s’est déroulée dans l’enceinte de l’académie militaire Vazgen Sargsian d’Erevan.\
