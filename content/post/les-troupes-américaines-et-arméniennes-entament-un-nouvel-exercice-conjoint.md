@@ -8,9 +8,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/usa-arménie-exercice-militaire.png
 image: assets/img/usa-arménie-exercice-militaire.png
 ---
-\
-\
-<!--StartFragment-->
+
 
 # Les troupes américaines et arméniennes entament un nouvel exercice conjoint
 
