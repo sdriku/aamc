@@ -51,6 +51,4 @@ par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=
 
 
 
-\
-\
 <!--EndFragment-->
