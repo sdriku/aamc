@@ -14,8 +14,6 @@ image: assets/img/autoroute-arménie-armavir.jpg
 
 # Le tronçon Erevan-Gumri de la route Nord-Sud sera entièrement construit en 2025 selon le ministre Gnel Sanosyan
 
-
-
 ![](https://www.armenews.com/IMG/arton118095.jpg)
 
 Lors de la réunion du Cabinet des ministres, le ministre des Territoires et des infrastructures d’Arménie, Gnel Sanosyan, a évoqué le processus de construction de la route Nord-Sud. Selon lui, les tronçons allant d’Achtarak à Gumri sont inachevés.
@@ -29,4 +27,5 @@ Krikor Amirzayan
 
 par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=33) le jeudi 25 juillet 2024
 
-<!--EndFragment-->
+\
+S﻿erge Tateossian le 25/07/2024   Source : Armenews
