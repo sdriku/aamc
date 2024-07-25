@@ -18,4 +18,6 @@ Lors d’une conversation avec les journalistes, la chanteuse D’Litte a décla
 Lusine Achoyan, fondatrice de The Moon Production, a souligné que lors d’un événement d’une telle ampleur, des situations imprévues sont inévitables. "Le festival est organisé pour la quatrième fois. Cette fois-ci, nous avons invité six groupes musicaux, en choisissant les artistes les plus populaires. Malgré la pluie, le public a apprécié le concert et a fait preuve d’une énergie positive. Notre objectif est de nous développer davantage chaque année et, si possible, d’inviter à Erevan des artistes de renommée mondiale », a souligné Lusine Achoyan.
 
 par capucine le jeudi 25 juillet 2024
-© armenews.com 2024
+© armenews.com 2024\
+\
+S﻿erge Tateossian le 25/07/2024   Source : Armenews
