@@ -1,10 +1,8 @@
 ---
-title: VILLAGE DU SPORT ET DE LA CULTURE Email   Facebook   Twitter   Imprimer
-  Du 20 juillet 2024 au 11 août 2024 - Du mardi à dimanche de 14h à 20 h
-description: VILLAGE DU SPORT ET DE LA CULTURE
-  Email   Facebook   Twitter   Imprimer Du 20 juillet 2024 au 11 août 2024
-summary: VILLAGE DU SPORT ET DE LA CULTURE Email   Facebook   Twitter   Imprimer
-  Du 20 juillet 2024 au 11 août 2024
+title: VILLAGE DU SPORT ET DE LA CULTURE - Du 20 juillet 2024 au 11 août 2024 -
+  Du mardi à dimanche de 14h à 20 h
+description: VILLAGE DU SPORT ET DE LA CULTURE - Du 20 juillet 2024 au 11 août 2024
+summary: VILLAGE DU SPORT ET DE LA CULTURE -  Du 20 juillet 2024 au 11 août 2024
 date: 2024-07-25T21:00:56.191Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/village-evreux-2024.png
