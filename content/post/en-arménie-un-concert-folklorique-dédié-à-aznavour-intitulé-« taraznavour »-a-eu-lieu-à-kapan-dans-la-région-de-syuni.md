@@ -1,6 +1,6 @@
 ---
 title: En Arménie, un concert folklorique dédié à Aznavour intitulé
-  « Taraznavour » a eu lieu à Kapan dans la région de Syuni
+  « Taraznavour » a eu lieu à Kapan dans la région de Syunik
 description: "En Arménie, un concert folklorique dédié à Aznavour intitulé « Taraznavour » "
 summary: Dans le cadre des célébrations du 100e anniversaire de Charles
   Aznavour, un concert folklorique dédié à Aznavour intitulé « Taraznavour »
