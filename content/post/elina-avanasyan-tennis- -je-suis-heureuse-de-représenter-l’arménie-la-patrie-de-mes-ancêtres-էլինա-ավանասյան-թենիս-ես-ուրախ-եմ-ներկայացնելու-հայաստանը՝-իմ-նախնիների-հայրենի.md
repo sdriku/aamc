@@ -37,6 +37,7 @@ Krikor Amirzayan
 *\
 Հիշեցնենք, որ երեկ տեղեկացանք, որ Ռուսաստանի գույների ներքո հանդես եկող Էլինա Ավանեսյանն արդեն ստացել է Հայաստանի քաղաքացիություն և հաջորդ մրցաշարում հանդես է գալու Հայաստանի դրոշի ներքո։*\
 \
+\
 https://www.armenews.com/spip.php?page=article&id_article=118434\
 \
 E﻿lina Avanesyan recevant son passeport arménien\
