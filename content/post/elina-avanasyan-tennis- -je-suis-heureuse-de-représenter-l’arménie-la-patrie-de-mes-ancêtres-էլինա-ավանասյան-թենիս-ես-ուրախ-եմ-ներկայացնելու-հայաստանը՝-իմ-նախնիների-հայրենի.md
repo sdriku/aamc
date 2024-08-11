@@ -15,10 +15,6 @@ image: assets/img/elina-avanesyan-tennis.jpg
 ---
 *Elina Avanasyan (tennis) : Je suis heureuse de représenter l’Arménie, la patrie de mes ancêtres*
 
-
-
-
-
 La joueuse de tennis Elina Avanesyan (21 ans), 58e joueuse mondiale au classement de la WTA, a annoncé qu’elle avait obtenu la citoyenneté arménienne et qu’elle représenterait l’Arménie à partir du tournoi Open de Cincinnati, qui débutera le 11 août, avant même l’US Open du 26 août.
 
 Elina Avanesyan a écrit à ce sujet sur sa page Instagram.\
@@ -40,5 +36,8 @@ Krikor Amirzayan
 «Պատիվ ունեմ հայտարարելու, որ ստացել եմ Հայաստանի քաղաքացիություն և ներկայացնելու եմ Հայաստանը երկուշաբթի օրը մեկնարկող Ցինցինատիի բաց առաջնությունում։ Այս ճանապարհորդությունը ապշեցուցիչ է եղել, և ես ուրախ եմ իմ հնարավորությունների չափով ցույց տալ իմ կարողությունները և ներկայացնել իմ պապենական հայրենիքը: Շնորհակալ եմ բոլորին անմնացորդ աջակցության համար»,- գրել է Էլինա Ավանեսյանը։*\
 *\
 Հիշեցնենք, որ երեկ տեղեկացանք, որ Ռուսաստանի գույների ներքո հանդես եկող Էլինա Ավանեսյանն արդեն ստացել է Հայաստանի քաղաքացիություն և հաջորդ մրցաշարում հանդես է գալու Հայաստանի դրոշի ներքո։*\
-*\
-Serge Tateossian le 11/08/2024*
+https://www.armenews.com/spip.php?page=article&id_article=118434\
+E﻿lina Avanesyan recevant son passeport arménien\
+\
+\
+*Serge Tateossian le 11/08/2024*
