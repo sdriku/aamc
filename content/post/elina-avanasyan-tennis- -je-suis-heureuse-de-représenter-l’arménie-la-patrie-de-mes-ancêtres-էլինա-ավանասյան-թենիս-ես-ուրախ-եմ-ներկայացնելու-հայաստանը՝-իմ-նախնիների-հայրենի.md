@@ -11,7 +11,7 @@ summary: " La joueuse de tennis Elina Avanesyan (21 ans), 58e joueuse mondiale
 date: 2024-08-11T14:52:18.357Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/elina-avanesyan-tennis.jpg
-image: assets/img/elina-avanesyan-tennis.jpg
+image: assets/img/elina-avanesyan-2.jpg
 ---
 *Elina Avanasyan (tennis) : Je suis heureuse de représenter l’Arménie, la patrie de mes ancêtres*
 
