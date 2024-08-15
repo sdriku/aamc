@@ -14,7 +14,7 @@ image: assets/img/sky-argo.png
 
 \
 \
-" Nous prévoyons de créer jusqu’à 100 groupes de trois-quatre personnes chacun en Arménie pour mettre en œuvre des agrodrones dans le but de fertiliser les cultures et de numériser l’agriculture, a déclaré Mihran Sahakyan, le cofondateur et directeur technique de SkyAgro Armenia, dans une interview accordée à un NEWS.am Tech le 14 août.\
+" Nous prévoyons de créer jusqu’à 100 groupes de trois-quatre personnes chacun en Arménie pour mettre en œuvre des agrodrones dans le but de fertiliser les cultures et de numériser l’agriculture, a déclaré Mihran Sahakyan, le cofondateur et directeur technique de SkyAgro Armenia, dans une interview accordée à  NEWS.am Tech le 14 août.\
 \
 \
 Il a expliqué que chacun d’entre eux disposera d’une voiture, d’un drone et d’un ordinateur. Selon lui, chaque groupe aura l’obligation de numériser 1 000 hectares de terres agricoles.\
@@ -28,7 +28,5 @@ Il a expliqué qu’il s’agissait d’un élément important dans le cadre du 
 Saakyan a noté que l’entreprise a l’intention d’attirer chaque année 30 à 50 enfants des laboratoires Armatհ dans le projet.
 
 *par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le jeudi 15 août 2024*
-
-
 
 *Serge Tateossian le 15/08/2024 Evreux*
