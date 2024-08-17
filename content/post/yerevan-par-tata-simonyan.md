@@ -1,13 +1,13 @@
 ---
-title: "YEREVAN par Tata SIMONYAN "
-description: "Yerevan chantée par Tata Simonyan "
-summary: "La ville de Yerevan chantée par Tata SIMONYAN "
+title: "YEREVAN interprétée par Tata SIMONYAN "
+description: "Yerevan interprétée par Tata Simonyan "
+summary: "La ville de Yerevan interprétée par Tata SIMONYAN "
 date: 2024-08-17T22:04:22.691Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/yerevan.jpg
 image: assets/img/yerevan.jpg
 ---
-YEREVAN la ville splendide, la ville du cœur\
+YEREVAN la ville splendide, la ville du cœur de tous les arméniens \
 \
 \
 Cliquer ici :
