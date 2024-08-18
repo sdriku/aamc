@@ -25,6 +25,9 @@ Alain Delon avait également signé avec 120 personnalités du monde de la litt�
 \
 Il faut dire que l’immense star avait côtoyé tout le long de sa carrière de nombreux Arméniens. Il était notamment l’acteur fétiche d’Henri Verneuil pour lequel il a tourné entre autres chefs-d’œuvres, « Mélodie en sous-sol » ou le « Clan des Siciliens ». Profondément attristé par son décès il s’était naturellement rendu à ses obsèques en 2002 à l’Eglise Saint-Jean-Baptiste de la rue Jean Goujon. Il avait notamment à cette occasion déclaré "*qu’Henri Verneuil était un des plus grands metteurs en scène français. C’était un homme extraordinaire, et j’ai eu le privilège de tourner avec lui certains des films les plus importants de ma carrière.* »\
 \
+\
+\
+﻿voir photos :\
 https://www.armenews.com/spip.php?page=article&id_article=118654\
 \
 \
