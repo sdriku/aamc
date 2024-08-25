@@ -34,4 +34,4 @@ Apollon est le dieu de la poésie et de la musique. Il préside aux concerts des
 \
 Le mythe d'Orphée est demeuré célèbre. Fils de la muse Calliope, Orphée chante en s'accompagnant d'une cithare. Il charme ainsi les animaux féroces aussi bien que les hommes, les arbres et les fleuves.\
 \
-Serge Tatessian le 25/08/2024 Source : Karine Delobbe édition : PEMF
+Serge Tateossian le 25/08/2024 Source : Karine Delobbe édition : PEMF
