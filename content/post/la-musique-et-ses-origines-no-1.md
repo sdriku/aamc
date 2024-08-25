@@ -1,6 +1,6 @@
 ---
-title: La Musique et ses origines. No 1
-description: La Musique et ses origines. No 1
+title: La Musique et son origine. No 1
+description: La Musique et son origine. No 1
 summary: Les premiers instruments de musique seraient apparus au cours du
   paléolithique, il y a environ trente ou quarante mille ans. La musique
   primitive a, semble-t-il, consiste d'abord à utiliser le corps (chant avec ou
