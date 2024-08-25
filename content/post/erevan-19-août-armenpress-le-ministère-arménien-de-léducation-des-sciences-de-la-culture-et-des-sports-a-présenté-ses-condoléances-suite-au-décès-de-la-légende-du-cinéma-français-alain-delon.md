@@ -9,9 +9,11 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/alain-delon-sa-visite-de-l-arménie-en-2012-et-son-recueillement-au-mémorial-du-génocide-à-erevan.png
 image: assets/img/alain-delon-2.webp
 ---
+Alain Delon au-delà de nos frontières\
  Vidéo : https://youtu.be/Ywr7IkTUFAc\
 \
 \
+
 <!--StartFragment-->
 
 EREVAN, 19 AOÛT, ARMENPRESS: Le ministère arménien de l'éducation, des sciences, de la culture et des sports a présenté ses condoléances suite au décès de la légende du cinéma français Alain Delon :
@@ -21,5 +23,6 @@ EREVAN, 19 AOÛT, ARMENPRESS: Le ministère arménien de l'éducation, des scien
 Published by [Armenpress](https://armenpress.am/fr), original at <https://armenpress.am/fr/article/1197901>
 
 <!--EndFragment-->\
+
 \
 S﻿erge Tateossian le 25/08/2024    Source - Armenews et Armenpress
