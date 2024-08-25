@@ -10,9 +10,7 @@ thumbnailImage: assets/img/alain-delon-sa-visite-de-l-arménie-en-2012-et-son-re
 image: assets/img/alain-delon-2.webp
 ---
 Alain Delon au-delà de nos frontières\
- Vidéo : https://youtu.be/Ywr7IkTUFAc\
-\
-\
+ Vidéo : https://youtu.be/Ywr7IkTUFAc
 
 <!--StartFragment-->
 
