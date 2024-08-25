@@ -15,9 +15,8 @@ image: assets/img/sofia-titova-arménie-patinage-artistique.jpg
 
 # La patineuse artistique russe Sofia Titova (15 ans) fera ses débuts sous les couleurs de l’Arménie au Grand Prix de Pologne
 
-<!--EndFragment-->\
-\
-<!--StartFragment-->\
+
+
 \
 L﻿ire également : https://www.armenews.com/spip.php?page=article&id_article=116423
 
@@ -31,5 +30,6 @@ par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=
 © armenews.com 2024
 
 <!--EndFragment-->\
+
 \
 S﻿erge Tateossian le 25/08/2024   Source : Armenews
