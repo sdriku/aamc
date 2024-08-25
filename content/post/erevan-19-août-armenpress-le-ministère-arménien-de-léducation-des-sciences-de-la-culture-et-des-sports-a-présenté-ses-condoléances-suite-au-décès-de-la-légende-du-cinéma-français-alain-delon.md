@@ -1,8 +1,8 @@
 ---
-title: "EREVAN, 19 AOÛT, ARMENPRESS: Le ministère arménien de l'éducation, des
-  sciences, de la culture et des sports a présenté ses condoléances suite au
-  décès de la légende du cinéma français Alain Delon "
-description: Alain Delon à Yerevan - Erevan
+title: "Décès d'Alain Delon: Le ministère arménien de l'éducation, des sciences,
+  de la culture et des sports a présenté ses condoléances suite au décès de la
+  légende du cinéma français Alain Delon "
+description: "Alain Delon à Yerevan -  Alain Delon au-delà de nos frontières "
 summary: "Alain Delon au-delà de nos frontières - A Yerevan "
 date: 2024-08-25T12:50:54.947Z
 thumbnailImagePosition: left
