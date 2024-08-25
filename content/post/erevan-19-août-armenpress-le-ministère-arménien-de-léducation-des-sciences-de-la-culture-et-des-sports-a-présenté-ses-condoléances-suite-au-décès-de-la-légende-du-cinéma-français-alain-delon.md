@@ -20,7 +20,7 @@ EREVAN, 19 AOÛT, ARMENPRESS: Le ministère arménien de l'éducation, des scien
 
 Published by [Armenpress](https://armenpress.am/fr), original at <https://armenpress.am/fr/article/1197901>
 
-<!--EndFragment-->\
+
 
 \
 S﻿erge Tateossian le 25/08/2024    Source - Armenews et Armenpress
