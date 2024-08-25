@@ -11,7 +11,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/musique-antique-grèce.webp
 image: assets/img/musique-antique-grèce.webp
 ---
-\
+La Musique et son origine. No 1\
 \
 Faute de documents écrits, on ne peut préciser ce qu'a été la musique dans les civilisations très anciennes. Les fouilles archéologiques ont seulement mis au jour des fragments d'instruments de musique, des fresques et des bas-reliefs représentant des musiciens.\
 \
