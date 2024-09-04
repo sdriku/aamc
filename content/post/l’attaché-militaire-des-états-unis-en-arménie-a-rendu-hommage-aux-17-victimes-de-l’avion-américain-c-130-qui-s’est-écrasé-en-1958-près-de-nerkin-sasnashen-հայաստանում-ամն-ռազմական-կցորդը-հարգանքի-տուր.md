@@ -13,8 +13,8 @@ summary: "L’attaché militaire des États-Unis en Arménie a rendu hommage aux
   հիշատակին. "
 date: 2024-09-04T20:29:37.390Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/attaché-militaire-américain-en-arménie.jpg
-image: assets/img/attaché-militaire-américain-en-arménie.jpg
+thumbnailImage: assets/img/14-juillet-7.jpg
+image: assets/img/14-juillet-7.jpg
 ---
 \
 \
