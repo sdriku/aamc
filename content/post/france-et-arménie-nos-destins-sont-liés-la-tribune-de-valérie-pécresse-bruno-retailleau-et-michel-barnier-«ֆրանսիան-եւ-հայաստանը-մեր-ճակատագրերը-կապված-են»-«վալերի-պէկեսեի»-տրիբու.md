@@ -1,6 +1,6 @@
 ---
 title: '"France et Arménie: nos destins sont liés", la tribune de Valérie
-  Pécresse, Bruno Retailleau et Michel Barnier  «Ֆրանսիան եւ Հայաստանը. Մեր
+  Pécresse, Bruno Retailleau et Michel Barnier   -   «Ֆրանսիան եւ Հայաստանը. Մեր
   ճակատագրերը կապված են», «Վալերի Պէկեսեի» տրիբունան, Բրունո Ռետաիլո եւ Միշել
   Բայրի'
 description: '"France et Arménie: nos destins sont liés", la tribune de Valérie
