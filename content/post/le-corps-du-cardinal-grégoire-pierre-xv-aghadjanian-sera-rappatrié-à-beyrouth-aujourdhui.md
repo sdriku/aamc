@@ -1,8 +1,8 @@
 ---
-title: Le corps du Cardinal Grégoire Pierre XV Aghadjanian sera rappatrié à
+title: Le corps du Cardinal Grégoire Pierre XV Aghadjanian sera rapatrié à
   Beyrouth aujourd'hui.
-description: Le corps du Cardinal Grégoire Pierre XV Aghadjanian sera rappatrié
-  à Beyrouth aujourd'hui.
+description: Le corps du Cardinal Grégoire Pierre XV Aghadjanian sera rapatrié à
+  Beyrouth aujourd'hui.
 summary: "Կարդինալ Գրեգուար Պիեռ XV Աղաջանյանի աճյունն այսօր կհանձնվի Բեյրութ։
   Այս առթիւ պաշտօնական արարողութիւն մը պիտի կատարուի Լիբանանի մայրաքաղաքի
   գլխաւոր հրապարակում՝ Նահատակաց հրապարակին մէջ, Հայ Կաթողիկէ Մայր տաճարին շատ
