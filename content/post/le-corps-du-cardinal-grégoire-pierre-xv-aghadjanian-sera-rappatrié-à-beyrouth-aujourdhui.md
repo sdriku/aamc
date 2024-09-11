@@ -21,7 +21,7 @@ Photo d'archives de Saint Camond, où s'est installée, une communauté arménie
 
 \
 \
-Le corps du Cardinal Grégoire Pierre XV Aghadjanian sera rapatrié à Beyrouth aujourd'hui. Une cérémonie officielle sera célébrée à cette occasion sur la place principale de la capitale libanaise, la place des martyres, tout près de la basilique de arménienne catholique.\
+Le corps du Cardinal Grégoire Pierre XV Aghadjanian sera rapatrié à Beyrouth aujourd'hui. Une cérémonie officielle sera célébrée à cette occasion sur la place principale de la capitale libanaise, la place des martyres, tout près de la cathédrale arménienne catholique.\
 \
 Կարդինալ Գրեգուար Պիեռ XV Աղաջանյանի աճյունն այսօր կհանձնվի Բեյրութ։ Այս առթիւ պաշտօնական արարողութիւն մը պիտի կատարուի Լիբանանի մայրաքաղաքի գլխաւոր հրապարակում՝ Նահատակաց հրապարակին մէջ, Հայ Կաթողիկէ Մայր տաճարին շատ մօտ։
 
