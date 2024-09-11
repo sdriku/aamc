@@ -15,13 +15,11 @@ thumbnailImage: assets/img/arménie-terre-d-héritage.jpg
 image: assets/img/arménie-terre-d-héritage.jpg
 ---
 https://youtu.be/7fX3H6yA90s\
-V﻿idéo\
-\
+V﻿idéo
+
 <!--StartFragment-->
 
 # « Arménie : petit pays, grande histoire », présenté dans l’émission « Le Dessous des Cartes » d’ARTE
-
-
 
 ![](https://www.armenews.com/IMG/arton119239.jpg)
 
