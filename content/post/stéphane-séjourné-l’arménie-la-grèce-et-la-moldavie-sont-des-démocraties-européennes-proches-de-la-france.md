@@ -1,8 +1,10 @@
 ---
 title: "Stéphane Séjourné : l’Arménie, la Grèce et la Moldavie sont des
-  démocraties européennes proches de la France"
+  démocraties européennes proches de la France - Ստեֆան Սեժուրնե. Հայաստանը,
+  Հունաստանը և Մոլդովան Ֆրանսիային մոտ եվրոպական ժողովրդավարական երկրներ են"
 description: "Stéphane Séjourné : l’Arménie, la Grèce et la Moldavie sont des
-  démocraties européennes proches de la France"
+  démocraties européennes proches de la France - Ստեֆան Սեժուրնե. Հայաստանը,
+  Հունաստանը և Մոլդովան Ֆրանսիային մոտ եվրոպական ժողովրդավարական երկրներ են"
 summary: Le ministre français de l’Europe et des Affaires étrangères, Stéphane
   Séjourné, a évoqué sa visite prévue en Arménie lundi, au sujet de laquelle le
   ministère des Affaires étrangères de la République d’Arménie a publié un
