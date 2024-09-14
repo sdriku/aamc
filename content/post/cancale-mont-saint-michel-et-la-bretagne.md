@@ -6,8 +6,8 @@ summary: Au Mont Saint-Michel, qu'un détour du Couesnon mit en Normandie
   singulière, qui rappelle les polders hollandais.
 date: 2024-09-14T21:39:24.744Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/mont-saint-michel.avif
-image: assets/img/mont-saint-michel.avif
+thumbnailImage: assets/img/mont-saint-michel.jpg
+image: assets/img/mont-saint-michel-3.jpg
 ---
 **Cancale, Mont-Saint-Michel et la Bretagne...**\
 \
