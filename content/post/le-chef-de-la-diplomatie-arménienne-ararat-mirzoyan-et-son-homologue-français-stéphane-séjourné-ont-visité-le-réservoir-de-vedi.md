@@ -13,11 +13,11 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/stéphane-séjourné-ministre.jpg
 image: assets/img/stéphane-séjourné.jpg
 ---
-<!--StartFragment-->
+\
+\
+https://www.armenews.com/spip.php?page=article&id_article=119345
 
 # Le chef de la diplomatie arménienne Ararat Mirzoyan et son homologue français Stéphane Séjourné ont visité le réservoir de Vedi
-
-
 
 ![](https://www.armenews.com/IMG/arton119346.jpg)
 
