@@ -1,7 +1,9 @@
 ---
-title: "Le président de la République d’Arménie Vahagn Khachaturyan a reçu la
+title: Le président de la République d’Arménie Vahagn Khachaturyan a reçu la
   joueuse de tennis Elina Avanesyan qui évolue sous les couleurs arméniennes -
-  En fin d'article, les origines d'Elina Avanesyan "
+  En fin d'article, les origines d'Elina Avanesyan -  ՀՀ նախագահ Վահագն
+  Խաչատուրյանն ընդունել է հայկական գույների խաղացող թենիսիստուհի Էլինա
+  Ավանեսյանին.
 description: Le président de la République d’Arménie Vahagn Khachaturyan a reçu
   la joueuse de tennis Elina Avanesyan qui évolue sous les couleurs arméniennes
 summary: Le Président de la République d’Arménie Vahagn Khachaturyan a reçu la
