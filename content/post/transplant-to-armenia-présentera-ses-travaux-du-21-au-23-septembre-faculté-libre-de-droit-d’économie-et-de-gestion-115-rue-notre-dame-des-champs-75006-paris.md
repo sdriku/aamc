@@ -31,7 +31,7 @@ Faculté Libre de droit, d’économie et de gestion\
 RER B - station Port Royal
 
 Programme complet : https://www.armenews.com/IMG/pdf/8/7/1/programme_2024.pdf\
-[![PDF - 1.3 Mo](https://www.armenews.com/local/cache-vignettes/L52xH52/pdf-39070.png?1697771703)](https://www.armenews.com/IMG/pdf/8/7/1/programme_2024.pdf "pdf/8/7/1/programme_2024.pdf")
+[](https://www.armenews.com/IMG/pdf/8/7/1/programme_2024.pdf "pdf/8/7/1/programme_2024.pdf")
 
 LUNDI 23 SEPTEMBRE À 18H\
 Cocktail et Vernissage de l’exposition de l’artiste-peintre ASILVA sur le thème **Peinture pour la Paix**\
