@@ -16,13 +16,11 @@ image: assets/img/jérusalem-post.png
 ---
 
 
-Pour aller plus loin... [https://www.jpost.com/israel-news/a...](https://www.jpost.com/israel-news/article-820411)
+Pour aller plus loin... [https://www.jpost.com/israel-news/](https://www.jpost.com/israel-news/article-820411)
 
-<!--EndFragment-->\
 
-\
 
-<!--StartFragment-->
+
 
 # Le rôle d’Israël dans la crise du Haut-Karabakh : Un héritage troublant
 
