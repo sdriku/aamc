@@ -18,8 +18,6 @@ image: assets/img/congrès-scientifique-arménie.png
 
 # Transplant to Armenia présentera ses travaux
 
-
-
 ![](https://www.armenews.com/IMG/arton119260.png)
 
 Ce Congrès, dédié au cinquantenaire du 1er Congrès Médical Arménien Mondial՝tenu à Beyrouth en 1974, compte parmi ses organisateurs **L’Académie internationale des sciences Ararat** et **l’Association médicale arménienne mondiale.**
@@ -32,7 +30,7 @@ Faculté Libre de droit, d’économie et de gestion\
 115, rue Notre Dame des Champs, 75006 Paris\
 RER B - station Port Royal
 
-Programme complet :\
+Programme complet : https://www.armenews.com/IMG/pdf/8/7/1/programme_2024.pdf\
 [![PDF - 1.3 Mo](https://www.armenews.com/local/cache-vignettes/L52xH52/pdf-39070.png?1697771703)](https://www.armenews.com/IMG/pdf/8/7/1/programme_2024.pdf "pdf/8/7/1/programme_2024.pdf")
 
 LUNDI 23 SEPTEMBRE À 18H\
