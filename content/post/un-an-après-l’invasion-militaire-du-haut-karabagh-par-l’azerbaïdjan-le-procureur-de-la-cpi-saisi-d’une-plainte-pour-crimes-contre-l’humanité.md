@@ -30,7 +30,9 @@ Le Haut-Karabagh est une enclave à population de majorité arménienne située 
 A partir de décembre 2022, le corridor de Lachin, qui est la seule route reliant le Haut-Karabakh à l’Arménie, fut bloqué par des groupes liés à l’Azerbaïdjan. Le Haut-Karabakh se trouva ainsi en situation d’isolement total, avec des pénuries de nourriture Le 19 septembre 2023, l’Azerbaïdjan attaqua le Haut-Karabagh, bombardant lourdement l’enclave et lançant une offensive terrestre. 24 heures après le début de l’attaque, un cessez-le-feu fut conclu et l’Azerbaïdjan prit le contrôle total du territoire.
 Compte tenu de la rapidité de l’offensive azerbaïdjanaise, du nombre de morts, de blessés et de déplacés internes et au regard des menaces de violence et de nettoyage ethnique, la population, en état d’alarme, n’eut d’autre choix que de quitter le Haut-Karabakh. En conséquence, plus de 100,000 arméniens furent contraints de fuir, ce qui représente la quasi-totalité de la population arménienne de la région avant l’offensive.
 La majeure partie des déportés trouva refuge en République d’Arménie, Etat partie au Statut de Rome de la Cour Pénale Internationale.
-La déportation ou le transfert forcé de population est un crime contre l’humanité en vertu de l’article 7 du Statut de Rome. La CPI a ainsi compétence pour faire la lumière sur les faits de déportation de population survenus au Haut-Karabakh en septembre 2023 et en juger les individus responsables.
+La déportation ou le transfert forcé de population est un crime contre l’humanité en vertu de l’article 7 du Statut de Rome. La CPI a ainsi compétence pour faire la lumière sur les faits de déportation de population survenus au Haut-Karabakh en septembre 2023 et en juger les individus responsables.\
+\
+Nettoyage ethnique : https://www.armenews.com/spip.php?page=article&id_article=11945
 
 * A propos du cabinet Zimeray & Finelle Avocats -
   Zimeray & Finelle est un cabinet d’avocats international associant ingénierie juridique et savoir-faire diplomatique dans les domaines des droits de l’Homme et du droit pénal.
