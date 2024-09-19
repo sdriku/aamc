@@ -34,7 +34,9 @@ La déportation ou le transfert forcé de population est un crime contre l’hum
 \
 Nettoyage ethnique : https://www.armenews.com/spip.php?page=article&id_article=11945
 
-* A propos du cabinet Zimeray & Finelle Avocats -
+* \
+  \
+  A propos du cabinet Zimeray & Finelle Avocats -
   Zimeray & Finelle est un cabinet d’avocats international associant ingénierie juridique et savoir-faire diplomatique dans les domaines des droits de l’Homme et du droit pénal.
   François Zimeray, avocat aux Barreaux de Paris, de Genève et à la Cour Pénale Internationale, fut Ambassadeur de France chargé des droits de l’Homme, puis Ambassadeur de France au Danemark. Il exerça d’abord durant plus de 20 ans dans un grand cabinet français et fut également membre de la Commission Juridique du Parlement européen. En septembre 2018, il s’associe avec Jessica Finelle pour créer le cabinet Zimeray & Finelle, spécialisé sur les droits de l’Homme, le droit pénal et le droit pénal des affaires. Dans le même temps, il établit un partenariat avec une équipe d’avocats engagés sur la défense des droits fondamentaux au cabinet londonien Doughty Street Chambers.
   Catalina de la Sota, avocate au barreau de Paris exerce principalement en droit pénal français et international. Elle intervient sur de nombreux dossiers où les droits de l’Homme sont en cause tant devant des juridictions que des organes internationaux. Dernièrement, elle a déposé une communication au Groupe de travail de l’ONU sur la détention arbitraire ainsi qu’une plainte devant une juridiction spécialisée pour séquestration aggravée survenue à l’étranger. Elle représente aussi régulièrement des personnes sollicitant l’asile politique à la France devant la Cour Nationale du Droit d’Asile.
