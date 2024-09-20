@@ -13,6 +13,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/vincent-duclert.jpeg
 image: assets/img/vincent-duclert.jpeg
 ---
+https://www.lemonde.fr/international/article/2023/09/02/au-haut-karabakh-l-arme-de-la-faim-de-l-azerbaidjan_6187566_3210.html\
+\
 **Vincent Duclert Le sort du Caucase arménien est indissociable de celui de l’Ukraine ou de la Géorgie**
 
 Un an après l’annexion de la république autoproclamée du Haut-Karabakh par l’Azerbaïdjan, les Arméniens, qui vivent toujours sous la menace de leur voisin, ont besoin de toute l’aide que la France peut leur apporter, met en garde l’historien
