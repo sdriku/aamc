@@ -27,6 +27,10 @@ Ce blocus, mis en place en vue de briser la résistance des Artsakhiotes, eut po
 
 Le traumatisme et la terreur suscités par cet épisode expliquent que pas un n’accepta de demeurer dans sa patrie, le 19 septembre 2023, quand l’armée azerbaïdjanaise et la tyrannie de Bakou déferlèrent sur la république autoproclamée du Haut-Karabakh. Les méthodes du dictateur Ilham Aliev, cette destruction massive par la faim et l’effroi qui s’ensuivit, tinrent toutes leurs promesses – au prix d’un retour vers l’entreprise génocidaire.
 
+\
+https://www.lemonde.fr/idees/article/2024/09/20/vincent-duclert-historien-le-sort-du-caucase-armenien-est-indissociable-de-celui-de-l-ukraine-ou-de-la-georgie_6325348_3232.html\
+\
+\
 ***Arme du génocide***
 
 Même si l’extermination par la faim n’alla pas jusqu’à son terme, puisque interrompue par l’offensive terrestre, un objectif de destruction complète fut bien enclenché par l’Azerbaïdjan. Et le fait d’engager un tel processus relève de l’acte de génocide : un génocide existe fondamentalement par sa préparation, celle-ci fondant la possible prévention du crime avant sa commission définitive. C’est le sens de la Convention pour la prévention et la répression du crime de génocide des Nations unies, voulue en 1948, par Raphaël Lemkin (1900-1959).
