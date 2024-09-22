@@ -17,11 +17,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/barnier-1.jpg
 image: assets/img/barnier-1.jpg
 ---
-
-
 # DIAPORAMA - Nouveau gouvernement : découvrez la liste des ministres de Michel Barnier
-
-
 
 * [Flavien Groye](https://www.francebleu.fr/les-equipes/flavien-groyer)[](https://twitter.com/share?lang=fr&text=DIAPORAMA%20-%20Nouveau%20gouvernement%20:%20d%C3%A9couvrez%20la%20liste%20des%20ministres%20de%20Michel%20Barnier&url=https://www.francebleu.fr/infos/politique/diaporama-nouveau-gouvernement-decouvrez-la-liste-des-ministres-de-michel-barnier-1504347)[](mailto:?subject=DIAPORAMA%20-%20Nouveau%20gouvernement%20:%20d%C3%A9couvrez%20la%20liste%20des%20ministres%20de%20Michel%20Barnier&body=undefined%20https://www.francebleu.fr/infos/politique/diaporama-nouveau-gouvernement-decouvrez-la-liste-des-ministres-de-michel-barnier-1504347.%20Plus%20d%E2%80%99informations%20sur%20https://www.francebleu.fr.)
 
@@ -32,8 +28,6 @@ La France a un nouveau gouvernement. Plus de deux mois après le second tour des
 Bruno Retailleau, Rachida Dati et Didier Migaud ont été nommés ministres dans le gouvernement Barnier ce samedi © Maxppp - ANDRE PAIN / Franck Castel / Alexis Sciard/ IP3
 
 Le nouveau gouvernement français, [mené par Michel Barnier, nommé Premier ministre le 5 septembre dernier](https://www.francebleu.fr/infos/politique/gouvernement-michel-barnier-est-nomme-premier-ministre-3608468) par Emmanuel Macron, a été annoncé ce samedi par le secrétaire général de l'Élysée. Après plusieurs consultations ces deux dernières semaines, des ajustements de dernière minute avec Renaissance, Horizons, le MoDem et Les Républicains pour composer son équipe (et contenter tous les partis), Michel Barnier dispose à présent [d'un **gouvernement de 39 membres**, dont 19 ministres](https://www.francebleu.fr/infos/politique/nouveau-gouvernement-renaissance-en-force-les-lr-bien-places-ce-qu-il-faut-retenir-de-l-equipe-de-michel-barnier-5448086) de plein exercice. Emmanuel Macron réunira le gouvernement au complet ce lundi à 15h pour un Conseil des ministres.
-
-
 
 ![]()
 
@@ -101,4 +95,5 @@ Le gouvernement a été **nommé seize jours après l'arrivée de Michel Barnie
 
 Les nouveaux ministres vont désormais devoir plancher [sur plusieurs sujets épineux](https://www.francebleu.fr/infos/politique/budget-assurance-chomage-fin-de-vie-les-dossiers-qui-attendent-michel-barnier-nouveau-premier-ministre-1839018), dont le budget, le plus urgent, mais aussi la réforme des retraites, l'assurance chômage ou encore la fin de vie, dont les travaux au Parlement ont été jetés à la poubelle [après la dissolution](https://www.francebleu.fr/infos/politique/direct-video-elections-europeennes-suivez-l-allocution-d-emmanuel-macron-9625454).
 
+\
 <!--EndFragment-->
