@@ -57,30 +57,10 @@ Le représentant du gouvernement a aussi tenu à rendre hommage à Hasmik Tomaji
 
 Reportage photos Lydia Kasparian
 
-[![PNG - 2.1 Mo](https://www.armenews.com/local/cache-vignettes/L670xH446/capture_d_e_cran_2024-09-21_a_09.09_22-ec449.png?1726904500)](https://www.armenews.com/IMG/png/5/c/3/capture_d_e_cran_2024-09-21_a_09.09_22.png "png/5/c/3/capture_d_e_cran_2024-09-21_a_09.09_22.png")
-
-[![PNG - 1.3 Mo](https://www.armenews.com/local/cache-vignettes/L670xH749/capture_d_e_cran_2024-09-21_a_08.58_20-d2572.png?1726904500)](https://www.armenews.com/IMG/png/d/4/9/capture_d_e_cran_2024-09-21_a_08.58_20.png "png/d/4/9/capture_d_e_cran_2024-09-21_a_08.58_20.png")
-
-[![PNG - 1.9 Mo](https://www.armenews.com/local/cache-vignettes/L670xH457/capture_d_e_cran_2024-09-21_a_09.05_40-79b23.png?1726904500)](https://www.armenews.com/IMG/png/a/9/5/capture_d_e_cran_2024-09-21_a_09.05_40.png "png/a/9/5/capture_d_e_cran_2024-09-21_a_09.05_40.png")
-
-[![PNG - 2 Mo](https://www.armenews.com/local/cache-vignettes/L670xH464/capture_d_e_cran_2024-09-21_a_09.02_17-2a7b3.png?1726904501)](https://www.armenews.com/IMG/png/c/b/5/capture_d_e_cran_2024-09-21_a_09.02_17.png "png/c/b/5/capture_d_e_cran_2024-09-21_a_09.02_17.png")
-
-[![PNG - 1.9 Mo](https://www.armenews.com/local/cache-vignettes/L670xH482/capture_d_e_cran_2024-09-21_a_08.58_49-bb4d9.png?1726904501)](https://www.armenews.com/IMG/png/4/8/3/capture_d_e_cran_2024-09-21_a_08.58_49.png "png/4/8/3/capture_d_e_cran_2024-09-21_a_08.58_49.png")
-
-[![PNG - 2.1 Mo](https://www.armenews.com/local/cache-vignettes/L670xH466/capture_d_e_cran_2024-09-21_a_09.06_48-97f2a.png?1726904501)](https://www.armenews.com/IMG/png/c/a/4/capture_d_e_cran_2024-09-21_a_09.06_48.png "png/c/a/4/capture_d_e_cran_2024-09-21_a_09.06_48.png")
-
-[![PNG - 924.2 ko](https://www.armenews.com/local/cache-vignettes/L584xH867/capture_d_e_cran_2024-09-21_a_09.00_27-59a40.png?1726904501)](https://www.armenews.com/IMG/png/4/5/4/capture_d_e_cran_2024-09-21_a_09.00_27.png "png/4/5/4/capture_d_e_cran_2024-09-21_a_09.00_27.png")
-
-[![PNG - 1.8 Mo](https://www.armenews.com/local/cache-vignettes/L670xH454/capture_d_e_cran_2024-09-21_a_09.11_09-7ae50.png?1726904501)](https://www.armenews.com/IMG/png/d/c/3/capture_d_e_cran_2024-09-21_a_09.11_09.png "png/d/c/3/capture_d_e_cran_2024-09-21_a_09.11_09.png")
-
-[![PNG - 1.6 Mo](https://www.armenews.com/local/cache-vignettes/L670xH595/capture_d_e_cran_2024-09-21_a_09.13_23-98373.png?1726904501)](https://www.armenews.com/IMG/png/e/e/9/capture_d_e_cran_2024-09-21_a_09.13_23.png "png/e/e/9/capture_d_e_cran_2024-09-21_a_09.13_23.png")
-
-[![PNG - 1.9 Mo](https://www.armenews.com/local/cache-vignettes/L670xH445/capture_d_e_cran_2024-09-21_a_09.00_57-ef9d9.png?1726904501)](https://www.armenews.com/IMG/png/9/5/f/capture_d_e_cran_2024-09-21_a_09.00_57.png "png/9/5/f/capture_d_e_cran_2024-09-21_a_09.00_57.png")
-
-[![PNG - 2.1 Mo](https://www.armenews.com/local/cache-vignettes/L670xH455/capture_d_e_cran_2024-09-21_a_09.06_21-72d6f.png?1726904502)](https://www.armenews.com/IMG/png/2/2/d/capture_d_e_cran_2024-09-21_a_09.06_21.png "png/2/2/d/capture_d_e_cran_2024-09-21_a_09.06_21.png")
+[](https://www.armenews.com/IMG/png/5/c/3/capture_d_e_cran_2024-09-21_a_09.09_22.png "png/5/c/3/capture_d_e_cran_2024-09-21_a_09.09_22.png")
 
 par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le samedi 21 septembre 2024\
 © armenews.com 2024
 
 \
-S﻿erge Tateossian le 22/09/2024
+S﻿erge Tateossian le 22/09/2024    Source : Armenews
