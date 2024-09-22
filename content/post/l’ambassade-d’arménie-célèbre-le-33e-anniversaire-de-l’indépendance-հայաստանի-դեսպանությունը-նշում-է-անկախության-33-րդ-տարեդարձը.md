@@ -83,5 +83,4 @@ par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le
 © armenews.com 2024
 
 \
-\
-<!--EndFragment-->
+S﻿erge Tateossian le 22/09/2024
