@@ -23,17 +23,7 @@ image: assets/img/barnier-1.jpg
 
 
 
-* [Flavien Groyer](https://www.francebleu.fr/les-equipes/flavien-groyer)
-
-
-
-
-
-
-
-[](https://www.facebook.com/sharer.php?u=https://www.francebleu.fr/infos/politique/diaporama-nouveau-gouvernement-decouvrez-la-liste-des-ministres-de-michel-barnier-1504347)
-
-[](https://twitter.com/share?lang=fr&text=DIAPORAMA%20-%20Nouveau%20gouvernement%20:%20d%C3%A9couvrez%20la%20liste%20des%20ministres%20de%20Michel%20Barnier&url=https://www.francebleu.fr/infos/politique/diaporama-nouveau-gouvernement-decouvrez-la-liste-des-ministres-de-michel-barnier-1504347)[](mailto:?subject=DIAPORAMA%20-%20Nouveau%20gouvernement%20:%20d%C3%A9couvrez%20la%20liste%20des%20ministres%20de%20Michel%20Barnier&body=undefined%20https://www.francebleu.fr/infos/politique/diaporama-nouveau-gouvernement-decouvrez-la-liste-des-ministres-de-michel-barnier-1504347.%20Plus%20d%E2%80%99informations%20sur%20https://www.francebleu.fr.)
+* [Flavien Groye](https://www.francebleu.fr/les-equipes/flavien-groyer)[](https://twitter.com/share?lang=fr&text=DIAPORAMA%20-%20Nouveau%20gouvernement%20:%20d%C3%A9couvrez%20la%20liste%20des%20ministres%20de%20Michel%20Barnier&url=https://www.francebleu.fr/infos/politique/diaporama-nouveau-gouvernement-decouvrez-la-liste-des-ministres-de-michel-barnier-1504347)[](mailto:?subject=DIAPORAMA%20-%20Nouveau%20gouvernement%20:%20d%C3%A9couvrez%20la%20liste%20des%20ministres%20de%20Michel%20Barnier&body=undefined%20https://www.francebleu.fr/infos/politique/diaporama-nouveau-gouvernement-decouvrez-la-liste-des-ministres-de-michel-barnier-1504347.%20Plus%20d%E2%80%99informations%20sur%20https://www.francebleu.fr.)
 
 La France a un nouveau gouvernement. Plus de deux mois après le second tour des élections législatives et après plusieurs semaines de consultations, le nom de la nouvelle équipe, dirigée par le Premier ministre Michel Barnier, a été annoncée ce samedi. Découvrez les 39 ministres.
 
