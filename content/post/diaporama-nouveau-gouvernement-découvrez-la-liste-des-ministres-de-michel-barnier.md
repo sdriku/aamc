@@ -41,9 +41,7 @@ Le Premier ministre Les Républicains, âgé de 73 ans, avait pour mission de fo
 
 ## Le gouvernement de Michel Barnier
 
-[Interactive or visual content](https://flo.uri.sh/visualisation/19057951/embed?auto=1)
-
-[![Flourish logo](https://public.flourish.studio/resources/bosh.svg)A Flourish map](https://flourish.studio/visualisations/maps/?utm_source=showcase&utm_campaign=visualisation/19057951)
+[A Flourish map](https://flourish.studio/visualisations/maps/?utm_source=showcase&utm_campaign=visualisation/19057951)
 
 **Les ministres de plein exercice :**
 
