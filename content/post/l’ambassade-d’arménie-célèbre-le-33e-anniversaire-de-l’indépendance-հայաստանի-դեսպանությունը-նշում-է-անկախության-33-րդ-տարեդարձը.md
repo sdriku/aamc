@@ -33,7 +33,7 @@ Quatre présidents de la République française se sont succédé en Arménie, s
 \
 \
 L﻿es photos :\
-https://www.armenews.com/spip.php?page=article&id_article=11950\
+https://www.armenews.com/spip.php?page=article&id_article=119508\
 \
 [](https://www.armenews.com/IMG/png/a/7/d/capture_d_e_cran_2024-09-21_a_09.15_06.png "png/a/7/d/capture_d_e_cran_2024-09-21_a_09.15_06.png")
 
