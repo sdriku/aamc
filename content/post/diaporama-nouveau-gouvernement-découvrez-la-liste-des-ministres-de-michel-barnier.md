@@ -93,7 +93,5 @@ Le Premier ministre Les Républicains, âgé de 73 ans, avait pour mission de fo
 
 Le gouvernement a été **nommé seize jours après l'arrivée de Michel Barnier** à Matignon. Il avait fallu attendre quatre jours seulement pour connaître la composition du gouvernement d’[Élisabeth Borne](https://www.francebleu.fr/infos/politique/gouvernement-elisabeth-borne-est-nommee-premiere-ministre-1652713831), en mai 2022. En début d’année, le gouvernement de Gabriel Attal avait quant à lui été composé en deux temps : une première liste de ministres de plein exercice avait été dévoilée au bout de deux jours, puis la nomination des ministres délégués et des secrétaires d’État était intervenue au bout d'un mois.
 
-Les nouveaux ministres vont désormais devoir plancher [sur plusieurs sujets épineux](https://www.francebleu.fr/infos/politique/budget-assurance-chomage-fin-de-vie-les-dossiers-qui-attendent-michel-barnier-nouveau-premier-ministre-1839018), dont le budget, le plus urgent, mais aussi la réforme des retraites, l'assurance chômage ou encore la fin de vie, dont les travaux au Parlement ont été jetés à la poubelle [après la dissolution](https://www.francebleu.fr/infos/politique/direct-video-elections-europeennes-suivez-l-allocution-d-emmanuel-macron-9625454).
-
 \
-﻿Serge Tateossian le 22/09/2024  S
+﻿Serge Tateossian le 22/09/2024  Source : Diaporama
