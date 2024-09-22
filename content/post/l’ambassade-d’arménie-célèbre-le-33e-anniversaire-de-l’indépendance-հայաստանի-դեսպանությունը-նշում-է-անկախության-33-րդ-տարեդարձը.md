@@ -12,11 +12,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/33-anniversaire-de-l-indépendance.png
 image: assets/img/ambasade-arménie-33-anniversaire.png
 ---
-
-
 # L’ambassade d’Arménie célèbre le 33e anniversaire de l’indépendance
-
-
 
 ![](https://www.armenews.com/local/cache-gd2/a2/95a4d0156386ede5feac5fb4113a02.png)
 
@@ -86,4 +82,6 @@ Reportage photos Lydia Kasparian
 par [capucine](https://www.armenews.com/spip.php?page=auteur&id_auteur=541) le samedi 21 septembre 2024\
 © armenews.com 2024
 
+\
+\
 <!--EndFragment-->
