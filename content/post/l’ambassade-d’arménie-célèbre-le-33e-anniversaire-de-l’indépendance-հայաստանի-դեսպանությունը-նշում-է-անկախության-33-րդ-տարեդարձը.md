@@ -18,15 +18,7 @@ image: assets/img/ambasade-arménie-33-anniversaire.png
 
 A 18h30, les splendides salons de l’Hôtel InterContinental Paris Le Grand accueillaient une foule élégante venue assister à la réception donnée par l’ambassade d’Arménie en France.
 
-[![PNG - 1.8 Mo](https://www.armenews.com/local/cache-vignettes/L670xH466/capture_d_e_cran_2024-09-21_a_09.08_26-5437f.png?1726904498)](https://www.armenews.com/IMG/png/9/5/a/capture_d_e_cran_2024-09-21_a_09.08_26.png "png/9/5/a/capture_d_e_cran_2024-09-21_a_09.08_26.png")
 
-[![PNG - 2.2 Mo](https://www.armenews.com/local/cache-vignettes/L670xH418/capture_d_e_cran_2024-09-21_a_09_12.03-59d81.png?1726904499)](https://www.armenews.com/IMG/png/f/6/9/capture_d_e_cran_2024-09-21_a_09_12.03.png "png/f/6/9/capture_d_e_cran_2024-09-21_a_09_12.03.png")
-
-[![PNG - 1.7 Mo](https://www.armenews.com/local/cache-vignettes/L670xH448/capture_d_e_cran_2024-09-21_a_09.14_28-70ea0.png?1726904499)](https://www.armenews.com/IMG/png/2/e/c/capture_d_e_cran_2024-09-21_a_09.14_28.png "png/2/e/c/capture_d_e_cran_2024-09-21_a_09.14_28.png")
-
-[![PNG - 1.6 Mo](https://www.armenews.com/local/cache-vignettes/L670xH503/capture_d_e_cran_2024-09-21_a_09.07_04-a464b.png?1726904499)](https://www.armenews.com/IMG/png/b/9/b/capture_d_e_cran_2024-09-21_a_09.07_04.png "png/b/9/b/capture_d_e_cran_2024-09-21_a_09.07_04.png")
-
-[![PNG - 2.1 Mo](https://www.armenews.com/local/cache-vignettes/L670xH439/capture_d_e_cran_2024-09-21_a_09.17_44-73f7b.png?1726904499)](https://www.armenews.com/IMG/png/4/5/4/capture_d_e_cran_2024-09-21_a_09.17_44.png "png/4/5/4/capture_d_e_cran_2024-09-21_a_09.17_44.png")
 
 De nombreuses personnalités politiques et religieuses comme du monde des arts étaient présentes.
 
