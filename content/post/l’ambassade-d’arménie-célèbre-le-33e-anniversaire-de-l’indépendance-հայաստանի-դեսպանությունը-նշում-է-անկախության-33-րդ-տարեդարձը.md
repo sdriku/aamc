@@ -30,13 +30,7 @@ A 18h30, les splendides salons de l’Hôtel InterContinental Paris Le Grand acc
 
 De nombreuses personnalités politiques et religieuses comme du monde des arts étaient présentes.
 
-[![PNG - 2.1 Mo](https://www.armenews.com/local/cache-vignettes/L670xH452/capture_d_e_cran_2024-09-21_a_09.16_18-4e3f9.png?1726904499)](https://www.armenews.com/IMG/png/f/5/9/capture_d_e_cran_2024-09-21_a_09.16_18.png "png/f/5/9/capture_d_e_cran_2024-09-21_a_09.16_18.png")
-
-[![PNG - 2 Mo](https://www.armenews.com/local/cache-vignettes/L670xH468/capture_d_e_cran_2024-09-21_a_09.00_42-d823a.png?1726904499)](https://www.armenews.com/IMG/png/e/c/f/capture_d_e_cran_2024-09-21_a_09.00_42.png "png/e/c/f/capture_d_e_cran_2024-09-21_a_09.00_42.png")
-
-[![PNG - 2 Mo](https://www.armenews.com/local/cache-vignettes/L670xH426/capture_d_e_cran_2024-09-21_a_09.16_49-8517c.png?1726904499)](https://www.armenews.com/IMG/png/3/b/e/capture_d_e_cran_2024-09-21_a_09.16_49.png "png/3/b/e/capture_d_e_cran_2024-09-21_a_09.16_49.png")
-
-[![PNG - 2.4 Mo](https://www.armenews.com/local/cache-vignettes/L670xH450/capture_d_e_cran_2024-09-21_a_09.25_17-aac83.png?1726904500)](https://www.armenews.com/IMG/png/9/0/3/capture_d_e_cran_2024-09-21_a_09.25_17.png "png/9/0/3/capture_d_e_cran_2024-09-21_a_09.25_17.png")
+[](https://www.armenews.com/IMG/png/f/5/9/capture_d_e_cran_2024-09-21_a_09.16_18.png "png/f/5/9/capture_d_e_cran_2024-09-21_a_09.16_18.png")
 
 Pour célébrer le trentième anniversaire de l’indépendance, le chœur de la Maitrise des Hauts-de-Seine a interprété l’hymne national arménien, suivi de la Marseillaise.
 
