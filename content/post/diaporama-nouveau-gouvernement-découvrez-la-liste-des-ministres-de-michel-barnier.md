@@ -17,11 +17,11 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/barnier-1.jpg
 image: assets/img/barnier-1.jpg
 ---
-<!--StartFragment-->
+
 
 # DIAPORAMA - Nouveau gouvernement : découvrez la liste des ministres de Michel Barnier
 
-De 
+
 
 * [Flavien Groyer](https://www.francebleu.fr/les-equipes/flavien-groyer)
 
