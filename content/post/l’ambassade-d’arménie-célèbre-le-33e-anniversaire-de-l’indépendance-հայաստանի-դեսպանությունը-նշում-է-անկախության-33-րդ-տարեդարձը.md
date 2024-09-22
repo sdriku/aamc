@@ -18,8 +18,6 @@ image: assets/img/ambasade-arménie-33-anniversaire.png
 
 A 18h30, les splendides salons de l’Hôtel InterContinental Paris Le Grand accueillaient une foule élégante venue assister à la réception donnée par l’ambassade d’Arménie en France.
 
-
-
 De nombreuses personnalités politiques et religieuses comme du monde des arts étaient présentes.
 
 [](https://www.armenews.com/IMG/png/f/5/9/capture_d_e_cran_2024-09-21_a_09.16_18.png "png/f/5/9/capture_d_e_cran_2024-09-21_a_09.16_18.png")
@@ -32,6 +30,11 @@ Puis, **Hasmik Tolmajian**, ambassadrice d’Arménie en France, a pris la paro
 Hier comme aujourd’hui, remarque-t-elle, la cause arménienne continuer de fédérer dans la continuité des échanges à tout niveaux. L’ambassadrice rappelle que les deux seuls étrangers reposant dans les grandes nécropoles françaises sont le gisant Léon VI de Lusignan dans la basilique de Saint-Denis, et Manouchian au Panthéon, « seul étranger au côté des grands hommes français ». « Depuis le génocide, dit-elle, une partie de l’histoire des Arméniens s’écrit en France et l’histoire des Arméniens est devenue l’histoire de France ». En témoignent le parcours de personnalités comme Charles Aznavour, Michel Legrand, Anita Conti, Patrick Devedjian etc.\
 Quatre présidents de la République française se sont succédé en Arménie, sans parler des ministres et des élus. Il existe un dialogue « de haut niveau » entre les deux Etats, souligne la diplomate. cependant, l’Arménie reste « menacée dans sa survie ». Hasmik Tolmajian a dit avoir une « pensée pour les 120 000 Arméniens du Haut-Karabagh qui ont du quitter leur terre ancestrale », il y a un an. Elle exprime « sa profonde reconnaissance à la France pour son amitié et sa solidarité envers les Arméniens, l’Arménie et le Haut-Karabagh », enclave qui a fait à plusieurs reprises depuis quatre ans l’objet de votes de soutien de l’Assemblée nationale et du Sénat. « En célébrant cette indépendance, nous célébrons cette fraternité intangible » entre les deux Etats a conclu l’ambassadrice.
 
+\
+\
+\
+https://www.armenews.com/spip.php?page=article&id_article=11950\
+\
 [](https://www.armenews.com/IMG/png/a/7/d/capture_d_e_cran_2024-09-21_a_09.15_06.png "png/a/7/d/capture_d_e_cran_2024-09-21_a_09.15_06.png")
 
 **Jean-Noël Barrot**, Président de la Commission des Affaires étrangères de l’Assemblée nationale, a, au nom du gouvernement, répondu à l’ambassadrice.\
