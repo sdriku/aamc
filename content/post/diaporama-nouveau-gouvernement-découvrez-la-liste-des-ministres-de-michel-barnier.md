@@ -96,4 +96,4 @@ Le gouvernement a été **nommé seize jours après l'arrivée de Michel Barnie
 Les nouveaux ministres vont désormais devoir plancher [sur plusieurs sujets épineux](https://www.francebleu.fr/infos/politique/budget-assurance-chomage-fin-de-vie-les-dossiers-qui-attendent-michel-barnier-nouveau-premier-ministre-1839018), dont le budget, le plus urgent, mais aussi la réforme des retraites, l'assurance chômage ou encore la fin de vie, dont les travaux au Parlement ont été jetés à la poubelle [après la dissolution](https://www.francebleu.fr/infos/politique/direct-video-elections-europeennes-suivez-l-allocution-d-emmanuel-macron-9625454).
 
 \
-<!--EndFragment-->
+﻿Serge Tateossian le 22/09/2024  S
