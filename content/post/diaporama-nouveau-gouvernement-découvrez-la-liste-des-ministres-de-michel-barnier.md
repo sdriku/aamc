@@ -33,9 +33,9 @@ Bruno Retailleau, Rachida Dati et Didier Migaud ont été nommés ministres dans
 
 Le nouveau gouvernement français, [mené par Michel Barnier, nommé Premier ministre le 5 septembre dernier](https://www.francebleu.fr/infos/politique/gouvernement-michel-barnier-est-nomme-premier-ministre-3608468) par Emmanuel Macron, a été annoncé ce samedi par le secrétaire général de l'Élysée. Après plusieurs consultations ces deux dernières semaines, des ajustements de dernière minute avec Renaissance, Horizons, le MoDem et Les Républicains pour composer son équipe (et contenter tous les partis), Michel Barnier dispose à présent [d'un **gouvernement de 39 membres**, dont 19 ministres](https://www.francebleu.fr/infos/politique/nouveau-gouvernement-renaissance-en-force-les-lr-bien-places-ce-qu-il-faut-retenir-de-l-equipe-de-michel-barnier-5448086) de plein exercice. Emmanuel Macron réunira le gouvernement au complet ce lundi à 15h pour un Conseil des ministres.
 
-ⓘPublicité
 
-![](https://www.francebleu.fr/client/immutable/assets/logo-ici-sad.C8Ts0-h1.svg)
+
+![]()
 
 Le Premier ministre Les Républicains, âgé de 73 ans, avait pour mission de former une équipe *"de rassemblement au service du pays"*, selon les mots de la présidence, alors que [l'Assemblée nationale est désormais fracturée en trois blocs](https://www.francebleu.fr/infos/politique/legislatives-2024-ce-qu-il-faut-retenir-du-second-tour-6497141) (NFP, bloc central et le RN et ses alliés). Si Michel Barnier n'a fait aucune prise de guerre à gauche, le parti d'Emmanuel Macron reste bien représenté tout comme LR, dont certaines figures entrantes font grincer des dents. **Découvrez le gouvernement de Michel Barnier,** qui fait la part belle aux nouveaux visages.
 
