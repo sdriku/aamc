@@ -11,7 +11,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/amour.jpg
 image: assets/img/amour.jpg
 ---
-![](assets/img/antranik-ozanian.jpg "Antranik Ozounian")
+![]()
 
 **L'Amour** – Réflexion no 7 Le 22/09/2024\
 \
