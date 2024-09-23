@@ -13,8 +13,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/musique-arménienne.png
 image: assets/img/musique-arménienne.png
 ---
-https://www.radiofrance.fr/franceculture/podcasts/la-serie-musicale/la-musique-armenienne-7393990﻿\
-\
+https://www.radiofrance.fr/franceculture/podcasts/la-serie-musicale/la-musique-armenienne-7393990﻿
+
 <!--StartFragment-->
 
 Une heure de voyage à travers les musiques arméniennes
