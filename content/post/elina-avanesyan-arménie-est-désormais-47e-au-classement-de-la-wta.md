@@ -1,6 +1,6 @@
 ---
-title: Elina Avanesyan (Arménie est désormais 47e au classement de la WTA
-description: Elina Avanesyan (Arménie est désormais 47e au classement de la WTA
+title: Elina Avanesyan (Arménie est désormais 47e au classement de la WTA)
+description: Elina Avanesyan (Arménie est désormais 47e au classement de la WTA)
 summary: La WTA a publié le classement mis à jour des joueuses de tennis
   professionnelles. Elina Avanesyan, représentant l’Arménie, pointe désormais à
   la 47e place au nouveau classement
