@@ -11,6 +11,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/amour.jpg
 image: assets/img/amour.jpg
 ---
+![](assets/img/antranik-ozanian.jpg "Antranik Ozounian")
+
 **L'Amour** – Réflexion no 7 Le 22/09/2024\
 \
 Quand il se présente, l'amour est souvent le révélateur de l'individu qui sommeillait jusqu'alors en nous. Un inconnu ou du moins un être nouveau. Au-delà de l'affection et de l'attirance sexuelle que les êtres humains se portent les uns aux autres, l'amour pourrait bien avoir une fonction autre que sociale ou reproductive : celle d'une évolution spirituelle, une initiation à la connaissance de soi et à la sagesse de l'existence...\
