@@ -26,4 +26,6 @@ Préfet de l’Eure depuis 2022
 
 **Lire aussi :** [Michel Barnier : voici l’équipe qui va accompagner le nouveau Premier ministre à Matignon](https://www.ouest-france.fr/politique/michel-barnier/michel-barnier-voici-lequipe-qui-va-accompagner-le-nouveau-premier-ministre-a-matignon-d4abeed4-74ec-11ef-a1b1-27949002d4f5)\
 \
-L’ex-préfet a déjà évolué dans l’ombre des plus hauts dirigeants de l’État par le passé puisqu’il était chef de cabinet adjoint à la présidence de la République de 2010 à 2012, sous Nicolas Sarkozy. L’intérim à la préfecture de l’Eure sera assuré par le secrétaire général et sous-préfet d’Évreux, Alaric Malves.
+L’ex-préfet a déjà évolué dans l’ombre des plus hauts dirigeants de l’État par le passé puisqu’il était chef de cabinet adjoint à la présidence de la République de 2010 à 2012, sous Nicolas Sarkozy. L’intérim à la préfecture de l’Eure sera assuré par le secrétaire général et sous-préfet d’Évreux, Alaric Malves.\
+\
+S﻿erge Tateossian le 25/09/2024    source: ICI France Bleu et France 3
