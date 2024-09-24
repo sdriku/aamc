@@ -12,6 +12,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/simon-babre.webp
 image: assets/img/simon-babre.webp
 ---
+Photo : S﻿imon Babre à gauche \
+\
 Le préfet de l’Eure, Simon Babre prend la tête d’un pôle régalien dans le cabinet de Michel Barnier
 
 Simon Babre, qui exerçait les fonctions de préfet de l’Eure depuis 2022, rejoint le cabinet du Premier ministre, Michel Barnier, à la tête du pôle sécurité, justice et immigration comme l’a annoncé le journal officiel mardi 17 septembre 2024.
