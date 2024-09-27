@@ -32,7 +32,7 @@ XVè siècle avant J,C : Une période fertile et prospère commence. Les phéni
 \
 **XIIIe-XIIe siècles av,J,C : Les premières traces d'écriture phénicienne (l'alphabet) sont visibles (le sarcophage d'Ahiram, roi de Byblos**XIIè siècle av,J,C : Première expédition vers la Méditerranée occidentale, sous la conduite de Tyr. C'est le début de l'expension assyrienne vers la Phénicie.\
 \
-IXe-VIIe siècles av, J,C : C'est la fondation de Carthage (814 av,J,C) et de colonnies à Malte, en Silicie, en Afrique du Nord, en Sardaigne et en Espagne.\
+IXe-VIIe siècles av, J,C : C'est la fondation de Carthage (814 av,J,C) et des colonies à Malte, en Silicie, en Afrique du Nord, en Sardaigne et en Espagne.\
 \
 700 av, J,C : La prise de Tyr par les Assyriens.\
 677 av, J,C : La destruction de Sidon,\
