@@ -1,6 +1,6 @@
 ---
-title: Concert de Fred Manoukian Big Ban
-description: Concert de Fred Manoukian Big Ban
+title: Concert de Fred Manoukian Big Band
+description: Concert de Fred Manoukian Big Band
 summary: Dans le cadre des Journée Culturelles de l’Arménie à Palaiseau, Le Fred
   Manoukian Big Band avec ses 23 musiciens, donne un concert
   exceptionnel.  Samedi 19 octobre à 20h Théâtre de la Passerelle 16 avenue de
