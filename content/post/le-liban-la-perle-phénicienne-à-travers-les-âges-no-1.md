@@ -8,6 +8,9 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/drapeaux-liban-et-france.jpg
 image: assets/img/place-des-martyres-1970.jpg
 ---
+\
+\
+\
 **P﻿hoto : Place des martyrs 1970 (tous les libanais s'accordent à y honorer les résistants à l'oppresseur ottoman)**\
 \
 **Le Liban, la Perle Phénicienne à travers les âges - No 1**\
@@ -17,7 +20,7 @@ Cette publication n'a pas la prétention de présenter aux lecteurs de « Evreu
 \
 L'histoire du Liban remonte à la Paléolithique (900 000 av, J,C) avec les premières communautés de chasseurs (Vallée du Nahr el-Kébir, sur la frontière syro-libanaise),\
 Rapidement on arrive à la période Néolithique (Vè millénaire av,J,C) Les huttes néolithiques de Byblos, A Telle Arqa.\
-Ivè millénaire avant J,C avec l'arrivée des Cananéens , ancètres des phénicéens (les premiers exemples de rites funéraires à Byblos et mur d'enceinte de Beyrouth.\
+IVè millénaire avant J,C avec l'arrivée des Cananéens , ancètres des phénicéens (les premiers exemples de rites funéraires à Byblos et mur d'enceinte de Beyrouth.\
 \
 Ensuite vient les Phéniciens au IIIè millénaire avant J,C : fondation des cités marchandes (Tyr fondée en 2750 av,J,C, d'après Hérodote). Des relations fructueuses avec l'Egypte sont racontées.\
 \
