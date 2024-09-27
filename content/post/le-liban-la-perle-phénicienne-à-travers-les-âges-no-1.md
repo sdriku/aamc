@@ -57,7 +57,7 @@ Ixe-Xe siècles : morcellement de l'Empire abbasside. Les Byzantins reprennent 
 **Les Croisades**\
 1095-1099 : La Première Croisade s'achève avec la prise de Jérusalem par les francs. Tripoli tombe aux mains des croisés en 1109, Saïda en 1110 et Tyr en 1124.\
 1187 : Salâh ed-Dîn (Saladin) s'empare de Jérusalem.\
-1289-1291 : Tripoli, Beyrouth, Saïda et Tyr sont reprises par les musulmans. Fin des etats latins d'Orient. Le Liban passe sous la domination des Mamelouks.\
+1289-1291 : Tripoli, Beyrouth, Saïda et Tyr sont reprises par les musulmans. Fin des états latins d'Orient. Le Liban passe sous la domination des Mamelouks.\
 \
 **Les Mamelouks et les Turcs**\
 1292-1305 : une rébellion des musulmans du Kesrouan est sévèrement réprimée.\
@@ -68,7 +68,7 @@ XIVe-XVe siècles : Les échanges commerciaux s'intensifient entre le levant et
 1572-1635 : L'émir Fakh ed-Dîn II entre en rébellion contre les ottomans. Cela est considérée comme la première tentative d'indépendance du Liban.\
 1789-1841 : L'émir Bachir Chehab II dit « le Grand », devient maître du Liban, sous la tutelle de Méhémet Ali, vice-roi d'Egypte. Sous la pression des Anglais, il abandonne le pouvoir en 1840. Livré à l'anarchie, le Liban est divisé en deux caïmacamats (districts).\
 \
-1860 : Après les massacres orchestrés par les ottomans, où de très nombreux libanais chrétiens disparaissent, les grandes puissances européennes imposrent aux turcs, le rétablissement de l'autonomie libanaise perdue depuis la reddition de Bachir III, les Turcs finissent par octroyer au Mont Liban un statut de « région autonome » (mutesarrifat). Le nouveau compromis stipulait la nomination d'un gouverneur (moutassarif) catholique mais d'origine non libanaise, ce qui ous entend sujet ottoman ? Dans ces conditions cette période de mutassarifia a été guverné par deux « Pacha arméniens », le premier fut **Garabet Artin Daoud Pacha** (entre 1861 et 1868) et le second, fut Ohannès Pacha Kouyoumdjian entre (1912 et 1915) un mandat interrompu par la Première Guerre mondiale.\
+1860 : Après les massacres orchestrés par les ottomans, où de très nombreux libanais chrétiens disparaissent, les grandes puissances européennes imposèrent aux turcs, le rétablissement de l'autonomie libanaise perdue depuis la reddition de Bachir III, les Turcs finissent par octroyer au Mont Liban un statut de « région autonome » (mutesarrifat). Le nouveau compromis stipulait la nomination d'un gouverneur (moutassarif) catholique mais d'origine non libanaise, ce qui sous entend sujet ottoman ? Dans ces conditions cette période de mutassarifia a été guverné par deux « Pacha arméniens », le premier fut **Garabet Artin Daoud Pacha** (entre 1861 et 1868) et le second, fut Ohannès Pacha Kouyoumdjian entre (1912 et 1915) un mandat interrompu par la Première Guerre mondiale.\
 \
 **La période du mandat français**\
 1914-1918 : A la première Guerre Mondiale, les Anglais et les Français conviennent d'un plan de partage lors des accords « Sykes-Picot » des possessions que les turcs occupaient,\
