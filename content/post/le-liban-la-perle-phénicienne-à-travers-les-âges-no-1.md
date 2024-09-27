@@ -22,7 +22,7 @@ Cette publication n'a pas la prétention de présenter aux lecteurs de « Evreu
 \
 L'histoire du Liban remonte à la Paléolithique (900 000 av, J,C) avec les premières communautés de chasseurs (Vallée du Nahr el-Kébir, sur la frontière syro-libanaise),\
 Rapidement on arrive à la période Néolithique (Vè millénaire av,J,C) Les huttes néolithiques de Byblos, A Telle Arqa.\
-IVè millénaire avant J,C avec l'arrivée des Cananéens , ancètres des phénicéens (les premiers exemples de rites funéraires à Byblos et mur d'enceinte de Beyrouth.\
+IVè millénaire avant J,C avec l'arrivée des Cananéens , ancêtres des phéniciens (les premiers exemples de rites funéraires à Byblos et mur d'enceinte de Beyrouth.\
 \
 Ensuite vient les Phéniciens au IIIè millénaire avant J,C : fondation des cités marchandes (Tyr fondée en 2750 av,J,C, d'après Hérodote). Des relations fructueuses avec l'Egypte sont racontées.\
 \
@@ -30,7 +30,7 @@ Fin du XVIIIè siècle av,J,C : venus de Haute-Syrie, les Hyksôs envahissent l
 \
 XVè siècle avant J,C : Une période fertile et prospère commence. Les phéniciens fondent des petits royaumes.\
 \
-**XIIIe-XIIe siècles av,J,C : Les premières traces d'écriture phénicienne (l'alphabet) sont visibles (le sarcophage d'Ahiram, roi de Byblos**XIIè siècle av,J,C : Première expédition vers la Méditerranée occidentale, sous la conduite de Tyr. C'est le début de l'expension assyrienne vers la Phénicie.\
+**XIIIe-XIIe siècles av,J,C : Les premières traces d'écriture phénicienne (l'alphabet) sont visibles (le sarcophage d'Ahiram, roi de Byblos)** XIIè siècle av,J,C : Première expédition vers la Méditerranée occidentale, sous la conduite de Tyr. C'est le début de l'expansion assyrienne vers la Phénicie.\
 \
 IXe-VIIe siècles av, J,C : C'est la fondation de Carthage (814 av,J,C) et des colonies à Malte, en Silicie, en Afrique du Nord, en Sardaigne et en Espagne.\
 \
@@ -44,15 +44,15 @@ Ive siècle avant J,C : Sidon est détruite par les perses en 351, et Tyr par A
 64 av, J,C : La Phénicie est incluse dans l'empire romain. C'est le début de l'urbanisation du Liban (aménagement de Baalbek-Héliopolis)\
 57 après J,C l'apôtre Paul est de passage à Tyr.\
 395 : C'est le partage de l'Empire romain : La Phénicie devient une province de l'Empire byzantin.\
-Début du VIIIe siècle : **Les maronites** s'installent dans le Nord-liban.\
+Début du VIIIe siècle : **Les maronites** s'installent dans le Nord-Liban.\
 \
 **La conquête arabe**\
 636 : Les Arabes s'emparent de la Syrie et de la Palestine.\
 650 : (Damas) début du règne du calife Muâwiya, fondateur de la dynastie des Omeyyades. C'est une période de prospérité pour le Liban.\
 Début du VIIIe siècle : fondation d'Aanjar par le calife Al-Walid.\
 750 : califat abbasside d'Abu al Abbas à Bagdad.\
-Ixe-Xe siècles : morcellement de l'Empire abbasside. Les Byzantins reprennent pied au Liban.\
-1071 : Les Turcs seldjoukids écrasent l'armée byzantine. L'Occident commence à se mobiliser.\
+IXe-Xe siècles : morcellement de l'Empire abbasside. Les Byzantins reprennent pied au Liban.\
+1071 : Les Turcs seldjoukides écrasent l'armée byzantine. L'Occident commence à se mobiliser.\
 \
 **Les Croisades**\
 1095-1099 : La Première Croisade s'achève avec la prise de Jérusalem par les francs. Tripoli tombe aux mains des croisés en 1109, Saïda en 1110 et Tyr en 1124.\
@@ -62,7 +62,7 @@ Ixe-Xe siècles : morcellement de l'Empire abbasside. Les Byzantins reprennent 
 **Les Mamelouks et les Turcs**\
 1292-1305 : une rébellion des musulmans du Kesrouan est sévèrement réprimée.\
 XIVe-XVe siècles : Les échanges commerciaux s'intensifient entre le levant et l'Europe (développement de Beyrouth et son port)\
-1516 : Les Turcs ottomans écrasent les Mamelouks et s'emparent du Liban. Les libanais supporteront la domination ottomane jusqu'en 1918, (lire nottament « la famine du Mont-liban » imposée par les turcs, que les chrétiens du Liban la considère un génocide)\
+1516 : Les Turcs ottomans écrasent les Mamelouks et s'emparent du Liban. Les libanais supporteront la domination ottomane jusqu'en 1918, (lire notamment « la famine du Mont-Liban » imposée par les turcs, que les chrétiens du Liban la considère un génocide)\
 \
 **Les émirs de la montagne**\
 1572-1635 : L'émir Fakh ed-Dîn II entre en rébellion contre les ottomans. Cela est considérée comme la première tentative d'indépendance du Liban.\
@@ -77,9 +77,9 @@ XIVe-XVe siècles : Les échanges commerciaux s'intensifient entre le levant et
 1926 : Le 23 mai, proclamation de la « République Libanaise » , la France conserve toutefois le pouvoir réel.\
 \
 **L'indépendance**\
-1936 : Le traité reconnaissant l'indépendance du Liban n'est pas présenté à la ratification du parlement francais.\
+1936 : Le traité reconnaissant l'indépendance du Liban n'est pas présenté à la ratification du parlement Français.\
 1941 ; Les forces Françaises libres chassent du Liban les troupes de Vichy.\
-1943 : Le 8 novembre, le parlement libanais abroge le mandat et proclame l'indépendance. Le 22 novembre (c'est la fpete nationale), la France libre du Général De Gaulle reconnaît l'entière souveraineté de l'Etat libanais.\
+1943 : Le 8 novembre, le parlement libanais abroge le mandat et proclame l'indépendance. Le 22 novembre (c'est la fête nationale), la France libre du Général De Gaulle reconnaît l'entière souveraineté de l'Etat libanais.\
 \
 Serge Tateossian Le 27/09/2024\
 Source : La Perle Phénicienne de Jean-Paul Planquin\
