@@ -11,6 +11,8 @@ image: assets/img/place-des-martyres-1970.jpg
 \
 \
 \
+\
+\
 **P﻿hoto : Place des martyrs 1970 (tous les libanais s'accordent à y honorer les résistants à l'oppresseur ottoman)**\
 \
 **Le Liban, la Perle Phénicienne à travers les âges - No 1**\
@@ -30,7 +32,7 @@ XVè siècle avant J,C : Une période fertile et prospère commence. Les phéni
 \
 **XIIIe-XIIe siècles av,J,C : Les premières traces d'écriture phénicienne (l'alphabet) sont visibles (le sarcophage d'Ahiram, roi de Byblos**XIIè siècle av,J,C : Première expédition vers la Méditerranée occidentale, sous la conduite de Tyr. C'est le début de l'expension assyrienne vers la Phénicie.\
 \
-Ixe-VIIe siècles av, J,C : C'est la fondation de Carthage (814 av,J,C) et de colonnies à Malte, en Silicie, en Afrique du Nord, en Sardaigne et en Espagne.\
+IXe-VIIe siècles av, J,C : C'est la fondation de Carthage (814 av,J,C) et de colonnies à Malte, en Silicie, en Afrique du Nord, en Sardaigne et en Espagne.\
 \
 700 av, J,C : La prise de Tyr par les Assyriens.\
 677 av, J,C : La destruction de Sidon,\
