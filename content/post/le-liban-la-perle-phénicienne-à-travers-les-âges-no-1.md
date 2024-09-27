@@ -62,7 +62,7 @@ Ixe-Xe siècles : morcellement de l'Empire abbasside. Les Byzantins reprennent 
 **Les Mamelouks et les Turcs**\
 1292-1305 : une rébellion des musulmans du Kesrouan est sévèrement réprimée.\
 XIVe-XVe siècles : Les échanges commerciaux s'intensifient entre le levant et l'Europe (développement de Beyrouth et son port)\
-1516 : Les Turcs ottomans écrasent les Mamelouks et s'emparent du Liban. Les libanais supporteront la domination ottomane jusqu'en 1918, (lire nottament « la famine du Mont-liban » imosée par les turcs, que les chréteins du Liban la considère un génocide)\
+1516 : Les Turcs ottomans écrasent les Mamelouks et s'emparent du Liban. Les libanais supporteront la domination ottomane jusqu'en 1918, (lire nottament « la famine du Mont-liban » imposée par les turcs, que les chrétiens du Liban la considère un génocide)\
 \
 **Les émirs de la montagne**\
 1572-1635 : L'émir Fakh ed-Dîn II entre en rébellion contre les ottomans. Cela est considérée comme la première tentative d'indépendance du Liban.\
