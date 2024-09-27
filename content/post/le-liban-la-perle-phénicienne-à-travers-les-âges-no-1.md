@@ -9,10 +9,6 @@ thumbnailImage: assets/img/drapeaux-liban-et-france.jpg
 image: assets/img/place-des-martyres-1970.jpg
 ---
 \
-\
-\
-\
-\
 **P﻿hoto : Place des martyrs 1970 (tous les libanais s'accordent à y honorer les résistants à l'oppresseur ottoman)**\
 \
 **Le Liban, la Perle Phénicienne à travers les âges - No 1**\
