@@ -14,9 +14,7 @@ image: assets/img/matignon-pachinyan.jpg
 https://www.armenews.com/spip.php?page=article&id_article=119885\
 \
 \
-Le Président français Emmanuel Macron a réaffirmé son soutien à l’Arménie aujourd’hui à l’Elysée lors de sa rencontre avec le Premier ministre arménien
-
-\
+**Le Président français Emmanuel Macron a réaffirmé son soutien à l’Arménie aujourd’hui à l’Elysée lors de sa rencontre avec le Premier ministre arménien**\
 \
 Le Premier ministre de la République d’Arménie Nikol Pachinian a rencontré le président français Emmanuel Macron à l’Elysée aujourd’hui.\
 \
