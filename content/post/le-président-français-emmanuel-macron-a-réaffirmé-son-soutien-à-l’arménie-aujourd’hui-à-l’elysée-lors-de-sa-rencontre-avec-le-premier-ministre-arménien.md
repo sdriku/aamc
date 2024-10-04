@@ -11,6 +11,9 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/elysée-pachinyan.jpg
 image: assets/img/matignon-pachinyan.jpg
 ---
+https://www.armenews.com/spip.php?page=article&id_article=119885\
+\
+\
 Le Président français Emmanuel Macron a réaffirmé son soutien à l’Arménie aujourd’hui à l’Elysée lors de sa rencontre avec le Premier ministre arménien
 
 \
