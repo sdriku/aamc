@@ -11,6 +11,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/elysée-pachinyan.jpg
 image: assets/img/matignon-pachinyan.jpg
 ---
+P﻿hotos de la visite :\
 https://www.armenews.com/spip.php?page=article&id_article=119885\
 \
 \
