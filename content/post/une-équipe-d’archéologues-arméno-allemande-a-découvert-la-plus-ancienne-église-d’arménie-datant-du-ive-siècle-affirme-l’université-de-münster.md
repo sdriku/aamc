@@ -26,6 +26,7 @@ Des archéologues ont découvert la plus ancienne église d’Arménie, rapporte
 Des archéologues de l’Académie arménienne des sciences et de l’Université allemande de Münster ont découvert les restes d’une église paléochrétienne jusqu’alors inconnue dans l’ancienne ville d’Artaxata.\
 Ce qui a été découvert est un bâtiment octogonal aux ailes déployées comme une croix. L’information est étayée par des photos et des matériaux exclusifs de la prestigieuse université allemande de Münster, qui est l’un des principaux centres de géo-informatique et de technologies géographiques. Les spécialistes de cette université fouillent actuellement avec des archéologues arméniens dans la région d’Ararat, près de Khor Vira\
 \
+L﻿es photos :\
 https://www.armenews.com/spip.php?page=article&id_article=120149\
 \
 \
