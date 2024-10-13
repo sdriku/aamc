@@ -14,7 +14,9 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/plus-ancienen-église-arménienne-4ème-siècle.jpg
 image: assets/img/plus-ancienen-église-arménienne-4ème-siècle.jpg
 ---
-# Une équipe d’archéologues arméno-allemande a découvert la plus ancienne église d’Arménie datant du IVe siècle affirme l’Université de Münster
+# \
+\
+Une équipe d’archéologues arméno-allemande a découvert la plus ancienne église d’Arménie datant du IVe siècle affirme l’Université de Münster
 
 \
 \
@@ -23,6 +25,9 @@ Des archéologues ont découvert la plus ancienne église d’Arménie, rapporte
 \
 Des archéologues de l’Académie arménienne des sciences et de l’Université allemande de Münster ont découvert les restes d’une église paléochrétienne jusqu’alors inconnue dans l’ancienne ville d’Artaxata.\
 Ce qui a été découvert est un bâtiment octogonal aux ailes déployées comme une croix. L’information est étayée par des photos et des matériaux exclusifs de la prestigieuse université allemande de Münster, qui est l’un des principaux centres de géo-informatique et de technologies géographiques. Les spécialistes de cette université fouillent actuellement avec des archéologues arméniens dans la région d’Ararat, près de Khor Vira\
+\
+https://www.armenews.com/spip.php?page=article&id_article=120149\
+\
 \
 \
 L’article intitulé *« Découverte conjointe de l’équipe arméno-allemande dans la ville antique d’Artaxata »* cite le professeur Achim Leittenberger de l’Université de Münster, selon lequel :\
