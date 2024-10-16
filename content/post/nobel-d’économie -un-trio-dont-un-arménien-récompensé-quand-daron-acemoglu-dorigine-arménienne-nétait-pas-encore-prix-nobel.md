@@ -32,6 +32,7 @@ Les lauréats reçoivent un chèque de 11 millions de couronnes (920.000 euros),
 
 AFP avec NAM
 
+https://armenpress.am/fr/article/1064726\
 \
 \
 Armenews par Capucine\
@@ -40,8 +41,8 @@ Armenews par Capucine\
 \
 \
 -------------------------------------------------------------------\
-**Quand Daron ACEMOGLU d'origine arménienne, n'était pas encore prix Nobel****\
-TURQUIE-ARMENIENS**
+**Quand Daron ACEMOGLU d'origine arménienne, n'était pas encore prix Nobel\*\***\
+TURQUIE-ARMENIENS\*\*
 
 Daron Acemoglu (Adjemoglu), le célèbre économiste Arménien de Turquie aurait été victime de discriminations lors de ses études selon l’un de ses camarades.
 
