@@ -14,7 +14,7 @@ image: assets/img/daron-acemoglu-3.jpg
 ---
 **Nobel d’économie : un trio dont un Arménien récompensé pour leur recherche sur les inégalités de richesses entre pays**
 
-\
+https://www.challenges.fr/economie/l-incroyable-destin-de-daron-acemoglu-le-nouveau-prix-nobel-d-economie_908125\
 \
 \
 Le prix Nobel d’économie, qui clôt la saison 2024, a récompensé lundi 14 octobre l’Américano-turc d’origine arménienne Daron Acemoglu et les Britanno-américains Simon Johnson et James A. Robinson pour leur recherche sur les différences de prospérité entre les nations.\
