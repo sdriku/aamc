@@ -1,16 +1,16 @@
 ---
-title: "Nobel d’économie : un trio dont un Arménien récompensé - Quand Daron
-  ACEMOGLU d'origine arménienne, n'était pas encore prix Nobel"
-description: "Nobel d’économie : un trio dont un Arménien récompensé - Quand
-  Daron ACEMOGLU d'origine arménienne, n'était pas encore prix Nobel"
+title: "Nobel d’économie : un trio dont un Arménien récompensé pour leur
+  recherche sur les inégalités de richesses entre pay"
+description: "Nobel d’économie : un trio dont un Arménien récompensé pour leur
+  recherche sur les inégalités de richesses entre pay"
 summary: Le prix Nobel d’économie, qui clôt la saison 2024, a récompensé lundi
   14 octobre l’Américano-turc d’origine arménienne Daron Acemoglu et les
   Britanno-américains Simon Johnson et James A. Robinson pour leur recherche sur
   les différences de prospérité entre les nations.
-date: 2024-10-16T00:22:45.129Z
+date: 2024-10-16T00:27:36.225Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/daron-acemoglu-3.jpg
-image: assets/img/daron-acemoglu.jpeg
+thumbnailImage: assets/img/daron-acemoglu.jpeg
+image: assets/img/daron-acemoglu-3.jpg
 ---
 **Nobel d’économie : un trio dont un Arménien récompensé pour leur recherche sur les inégalités de richesses entre pays**
 
