@@ -32,6 +32,7 @@ Les lauréats reçoivent un chèque de 11 millions de couronnes (920.000 euros),
 
 AFP avec NAM
 
+M﻿ême sujet :\
 https://armenpress.am/fr/article/1064726\
 \
 \
