@@ -46,10 +46,10 @@ Remise de la médaille de la Défense nationale à son Excellence
 
 [![](https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/463396771_572588378624686_3113594012233904894_n.jpg?stp=dst-jpg_s600x600&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=aRMrxiipHH8Q7kNvgG60uK9&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=Ax4F6K0QHS1wwJjTL1gL3Y1&oh=00_AYAlfP2ceIB3VAh1fx-kmb_0qE6q4xiFgo9DMLc5SqGp6w&oe=67173D8C)](https://www.facebook.com/photo/?fbid=572588228624701&set=pcb.572588258624698&__cft__[0]=AZVmznurEgKFarEMAMW8FASjgUtE_HeXlK5tgrRbqC3C6LIfJnte7CAjT6O9J3WgI2-nxhOplc8otsCaW8tYa1GnecIwzRfR-aZNv0_mWITPE2PPIB6SItiGOK-Xbc_BXpX5n55auhTIXNYV698BVGpuPPM2AgPUlIEADoViM_iMJMmZqsnV-KZOs0ip5ln4TZs&__tn__=*bH-y-R)
 
-[\[](https://www.facebook.com/ambassadearmenie?**cft**\[0]=AZVmznurEgKFarEMAMW8FASjgUtE_HeXlK5tgrRbqC3C6LIfJnte7CAjT6O9J3WgI2-nxhOplc8otsCaW8tYa1GnecIwzRfR-aZNv0_mWITPE2PPIB6SItiGOK-Xbc_BXpX5n55auhTIXNYV698BVGpuPPM2AgPUlIEADoViM_iMJMmZqsnV-KZOs0ip5ln4TZs&**tn**=%3C%3C%2CP-y-R)](https://www.facebook.com/ambassadearmenie?__cft__[0]=AZVmznurEgKFarEMAMW8FASjgUtE_HeXlK5tgrRbqC3C6LIfJnte7CAjT6O9J3WgI2-nxhOplc8otsCaW8tYa1GnecIwzRfR-aZNv0_mWITPE2PPIB6SItiGOK-Xbc_BXpX5n55auhTIXNYV698BVGpuPPM2AgPUlIEADoViM_iMJMmZqsnV-KZOs0ip5ln4TZs&__tn__=%3C%2CP-y-R)
+[[](https://www.facebook.com/ambassadearmenie?**cft**[0]=AZVmznurEgKFarEMAMW8FASjgUtE_HeXlK5tgrRbqC3C6LIfJnte7CAjT6O9J3WgI2-nxhOplc8otsCaW8tYa1GnecIwzRfR-aZNv0_mWITPE2PPIB6SItiGOK-Xbc_BXpX5n55auhTIXNYV698BVGpuPPM2AgPUlIEADoViM_iMJMmZqsnV-KZOs0ip5ln4TZs&**tn**=%3C%3C%2CP-y-R)](https://www.facebook.com/ambassadearmenie?**cft**\[0]=AZVmznurEgKFarEMAMW8FASjgUtE_HeXlK5tgrRbqC3C6LIfJnte7CAjT6O9J3WgI2-nxhOplc8otsCaW8tYa1GnecIwzRfR-aZNv0_mWITPE2PPIB6SItiGOK-Xbc_BXpX5n55auhTIXNYV698BVGpuPPM2AgPUlIEADoViM_iMJMmZqsnV-KZOs0ip5ln4TZs&**tn**=%3C%2CP-y-R)
 
 ###### ﻿Serge Tateossian le 17/10/2024    Source : Ambassade d'Arménie en France et Ministère des armées de France\
-\
+
 <!--StartFragment-->
 
 ![🇦🇲](https://static.xx.fbcdn.net/images/emoji.php/v9/tc3/1/16/1f1e6_1f1f2.png)![🇨🇵](https://static.xx.fbcdn.net/images/emoji.php/v9/tc8/1/16/1f1e8_1f1f5.png)Ֆրանսիայում Հայաստանի դեսպանը պարգևատրվեց Ֆրանսիայի Զինված Ուժերի նախարարության ոսկե մեդալով
