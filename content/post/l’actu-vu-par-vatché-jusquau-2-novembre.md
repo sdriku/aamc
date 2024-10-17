@@ -9,7 +9,10 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/vatché-sculpteur.png
 image: assets/img/vatché-artiste-sculpteur.jpg
 ---
-# L’actu vu par Vatché
+# \
+\
+\
+L’actu vu par Vatché
 
 \
 \
@@ -23,7 +26,7 @@ Faisant face à cet immense panneau, quelques-unes des grandes toiles de Vatché
 \
 L’artiste a choisi d’orner la vitrine de ses sculptures humanoïdes, à la frontière entre l’automate et le robot doté de pensée.
 
-\
+﻿photos : https://www.armenews.com/spip.php?page=article&id_article=120291\
 \
 \
 **Vis-à-vis, Peintures/sculptures**\
