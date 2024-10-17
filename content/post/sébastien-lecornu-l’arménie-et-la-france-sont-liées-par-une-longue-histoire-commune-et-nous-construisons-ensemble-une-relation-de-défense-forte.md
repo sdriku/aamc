@@ -48,4 +48,18 @@ Remise de la médaille de la Défense nationale à son Excellence
 
 [\[](https://www.facebook.com/ambassadearmenie?**cft**\[0]=AZVmznurEgKFarEMAMW8FASjgUtE_HeXlK5tgrRbqC3C6LIfJnte7CAjT6O9J3WgI2-nxhOplc8otsCaW8tYa1GnecIwzRfR-aZNv0_mWITPE2PPIB6SItiGOK-Xbc_BXpX5n55auhTIXNYV698BVGpuPPM2AgPUlIEADoViM_iMJMmZqsnV-KZOs0ip5ln4TZs&**tn**=%3C%3C%2CP-y-R)](https://www.facebook.com/ambassadearmenie?__cft__[0]=AZVmznurEgKFarEMAMW8FASjgUtE_HeXlK5tgrRbqC3C6LIfJnte7CAjT6O9J3WgI2-nxhOplc8otsCaW8tYa1GnecIwzRfR-aZNv0_mWITPE2PPIB6SItiGOK-Xbc_BXpX5n55auhTIXNYV698BVGpuPPM2AgPUlIEADoViM_iMJMmZqsnV-KZOs0ip5ln4TZs&__tn__=%3C%2CP-y-R)
 
-###### ﻿Serge Tateossian le 17/10/2024    Source : Ambassade d'Arménie en France et Ministère des armées de France[](https://www.facebook.com/ambassadearmenie?__cft__[0]=AZVmznurEgKFarEMAMW8FASjgUtE_HeXlK5tgrRbqC3C6LIfJnte7CAjT6O9J3WgI2-nxhOplc8otsCaW8tYa1GnecIwzRfR-aZNv0_mWITPE2PPIB6SItiGOK-Xbc_BXpX5n55auhTIXNYV698BVGpuPPM2AgPUlIEADoViM_iMJMmZqsnV-KZOs0ip5ln4TZs&__tn__=%3C%2CP-y-R)
+###### ﻿Serge Tateossian le 17/10/2024    Source : Ambassade d'Arménie en France et Ministère des armées de France\
+\
+<!--StartFragment-->
+
+![🇦🇲](https://static.xx.fbcdn.net/images/emoji.php/v9/tc3/1/16/1f1e6_1f1f2.png)![🇨🇵](https://static.xx.fbcdn.net/images/emoji.php/v9/tc8/1/16/1f1e8_1f1f5.png)Ֆրանսիայում Հայաստանի դեսպանը պարգևատրվեց Ֆրանսիայի Զինված Ուժերի նախարարության ոսկե մեդալով
+
+Հոկտեմբերի 16-ին Ֆրանսիայում Հայաստանի դեսպան Հասմիկ Տոլմաջյանին ընդունեց Ֆրանսիայի Զինված ուժերի նախարար Սեբաստիան Լըկորնյուն։
+
+Հանդիպման ընթացքում Ֆրանսիայի ԶՈՒ նախարարն ու Հայաստանի դեսպանը հանգամանալից անդրադարձ կատարեցին Հայաստանի ու Ֆրանսիայի միջև պաշտպանական համագործակցության ընթացքին և փոխգործակցության խորացման հեռանկարներին, այդ թվում՝ ՀՀ պաշտպանության նախարար Սուրեն Պապիկյանի՝ առաջիկայում ծրագրված Ֆրանսիա այցի օրակարգին։
+
+Դեսպան Տոլմաջյանն իր երախտագիտությունը հայտնեց նախարար Լըկորնյուին Հայաստանի ու Ֆրանսիայի միջև բարեկամության ամրապնդման և պաշտպանական համագործակցության ընդլայնման հարցում վերջինիս սկզբունքային հանձնառության և այդ ուղղությամբ ձեռնարկվող քայլերի համար։
+
+Հանդիպման ավարտին նախարար Լըկորնյուն Հասմիկ Տոլմաջյանին պարգևատրեց Ֆրանսիայի ԶՈՒ նախարարության «Ազգային պաշտպանության» ոսկե մեդալով` Ֆրանսիայում դիվանագիտական գործունեության ընթացքում նշանակալի ձեռքբերումների և պաշտպանական ոլորտում հայ-ֆրանսիական հարաբերությունների ամրապնդման գործում ունեցած նշանակալի ավանդի համար։
+
+S﻿erge Tateossian le 17/10/2024[](https://www.facebook.com/ambassadearmenie?__cft__[0]=AZVmznurEgKFarEMAMW8FASjgUtE_HeXlK5tgrRbqC3C6LIfJnte7CAjT6O9J3WgI2-nxhOplc8otsCaW8tYa1GnecIwzRfR-aZNv0_mWITPE2PPIB6SItiGOK-Xbc_BXpX5n55auhTIXNYV698BVGpuPPM2AgPUlIEADoViM_iMJMmZqsnV-KZOs0ip5ln4TZs&__tn__=%3C%2CP-y-R)
