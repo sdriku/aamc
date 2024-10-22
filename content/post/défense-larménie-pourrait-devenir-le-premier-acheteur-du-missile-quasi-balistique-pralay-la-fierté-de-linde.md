@@ -14,10 +14,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/missile-balistique-inde-arménie.webp
 image: assets/img/missile-balistique-inde-arménie.webp
 ---
-\
-\
-\
-<!--StartFragment-->
+
 
 # L’Inde intègre un des clubs les plus prestigieux du monde : le cercle des vendeurs de missiles avec ce pays prêt à acheter son Pralay
 
@@ -76,6 +73,5 @@ Le missile Pralay et le missile LORA d'Israël sont deux systèmes quasi-balisti
 
 *Cet article explore les développements récents concernant le missile Pralay de l'Inde, envisagé comme une addition majeure à l'arsenal défensif de l'Arménie. Dans un contexte de tensions régionales croissantes, l'Arménie cherche à diversifier ses capacités défensives en intégrant des technologies avancées, telles que le Pralay, pour renforcer ses positions stratégiques et améliorer sa réactivité face aux menaces potentielles.*
 
-Source : [News Az](https://news.az/news/india-approves-supply-of-pralay-quasi-ballistic-missiles-to-armenia)
-
-<!--EndFragment-->
+Source : [News Az](https://news.az/news/india-approves-supply-of-pralay-quasi-ballistic-missiles-to-armenia)\
+<!--EndFragment-->Serge Tateossian le 21/10/2024  Source : Secret Défense
