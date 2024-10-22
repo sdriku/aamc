@@ -14,6 +14,9 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/missile-balistique-inde-arménie.webp
 image: assets/img/missile-balistique-inde-arménie.webp
 ---
+\
+\
+\
 <!--StartFragment-->
 
 # L’Inde intègre un des clubs les plus prestigieux du monde : le cercle des vendeurs de missiles avec ce pays prêt à acheter son Pralay
@@ -25,8 +28,6 @@ Par
 \-
 
  20/10/2024 
-
-
 
 [![L'Inde intègre un des clubs les plus prestigieux du monde : le cercle des vendeurs de missiles avec ce pays prêt à acheter son Pralay](https://www.secret-defense.org/wp-content/uploads/2024/10/Pu-33-640x427.jpg "L'Inde intègre un des clubs les plus prestigieux du monde : le cercle des vendeurs de missiles avec ce pays prêt à acheter son Pralay")](https://www.secret-defense.org/wp-content/uploads/2024/10/Pu-33.jpg)
 
