@@ -42,4 +42,6 @@ Claude Mutafian, maître de conférences à Paris (*), spécialiste de l’Armé
 
 (*) Claude Mutafian, né le 21 juillet 1942 à Clamart, est un mathématicien et historien français spécialisé dans l’histoire arménienne. Enseignant-chercheur en mathématiques, il enseigne à l’université Paris-XIII et en histoire à l’université Paris-I Panthéon-Sorbonne.
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+S﻿erge Tateossian le 22/10/2024  Source : La Montagne
