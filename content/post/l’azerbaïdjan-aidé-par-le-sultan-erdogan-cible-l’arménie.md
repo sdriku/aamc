@@ -13,7 +13,7 @@ image: assets/img/bardella-jordan.png
 \
 \
 \
-L’Azerbaïdjan, aidé par le sultan Erdogan, cible l’Arménie    **[Jordan Bardella](https://twitter.com/J_Bardella?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1849005338919666157%7Ctwgr%5Ef9fba04de9e554c867f044d605d8d62653041cf3%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.armenews.com%2Fspip.php%3Fpage%3Darticleid_article%3D120547)**
+L’Azerbaïdjan, aidé par le sultan Erdogan, cible l’Arménie   
 
 [@J_Bardella](https://twitter.com/J_Bardella?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1849005338919666157%7Ctwgr%5Ef9fba04de9e554c867f044d605d8d62653041cf3%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.armenews.com%2Fspip.php%3Fpage%3Darticleid_article%3D120547)
 
