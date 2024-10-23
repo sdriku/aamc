@@ -12,8 +12,8 @@ summary: Jean-Pierre Sakoun, président de l’association Unité Laïque et du
   ville de Valence et de nombreuses organisations.
 date: 2024-10-23T21:37:36.444Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/jp-sakoun.jpg
-image: assets/img/j.p-sakoun.jpg
+thumbnailImage: assets/img/j.p-sakoun.jpg
+image: assets/img/jp-sakoun.jpg
 ---
 <!--StartFragment-->
 
