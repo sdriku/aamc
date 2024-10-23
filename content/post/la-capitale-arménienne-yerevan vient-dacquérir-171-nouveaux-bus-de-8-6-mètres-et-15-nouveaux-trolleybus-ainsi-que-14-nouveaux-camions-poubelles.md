@@ -12,6 +12,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/camions-poubelles.jpg
 image: assets/img/bus-yerevan.jpg
 ---
+\
+\
 **Tigran Avinyan le maire de Yerevan : nous avons acquis 171 nouveaux bus de 8,6 mètres et 15 nouveaux trolleybus**
 
 ![](https://www.armenews.com/IMG/arton120398.jpg)
@@ -26,8 +28,6 @@ Le maire de la capitale arménienne Yerevan, Tigran Avinyan, a informé les habi
 --------------------------------------------\
 \
 Yerevan s’est dotée de 14 nouveaux camions poubelles
-
-
 
 La station de collecte des installations communautaires de collecte et d’assainissement des ordures de Yerevan a été équipée de camions poubelles, à savoir 8 nouveaux camions *« KamAz »* et 6 *« Howo »*.\
 \
@@ -50,4 +50,6 @@ Vidéo : <https://youtu.be/PtkdxFkcwmo>\
 par [ԵՐԵՎԱՆԻ ՔԱՂԱՔԱՊԵՏԱՐԱՆ](https://www.youtube.com/@yerevan_municipality)*
 
 *par [Krikor Amirzayan](https://www.armenews.com/spip.php?page=auteur&id_auteur=33) le mercredi 23 octobre 2024\
-© armenews.com 2024*
+© armenews.com 2024*\
+\
+*S﻿erge Tateossian Le 23/10/2024    Source : Armenews*
