@@ -11,11 +11,9 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/aznavour-film.jpg
 image: assets/img/aznavour-2.jpg
 ---
-## \
 \
 **« Monsieur Aznavour » truste tous les podiums de l’audimat**
 
-\
 \
 \
 **La vague médiatique autour de la sortie nationale ce mercredi 23 février du film « Monsieur Aznavour », réalisé par Grand Corps Malade et Mehdi Idir avec Tahar Rahim dans le rôle principal du grand Charles a conquis les téléspectateurs français.**\
@@ -27,8 +25,6 @@ image: assets/img/aznavour-2.jpg
 \* Le record de l’audimat revient au 20 Heures d’Audrey Crespo-Mara sur TF1 qui recevait Grand Corps Malade et Tahar Rahim le dimanche 13 octobre, avec près de 6,5 millions de téléspectateurs.
 
 \* Sur TMC le 16 octobre, Yann Barthès présentait une spéciale « Monsieur Aznavour » en présence de Tahar Rahim. Plus d’1 million de téléspectateurs ont regardé l’émission.
-
-
 
 * Ce vendredi 18 octobre, France 3 diffusait le concert événement}} « Monsieur Aznavour » avec un plateau d’artistes qui reprenaient avec un grand orchestre les standards de Charles Aznavour. La voix de Katia Aznavour, accompagnait les vidéos diffusées lors de l’émission.\
   L’émission s’est classée 3è en terme d’audience avec 1, 623 000 téléspectateurs, soit 9,9% de PDM.\
