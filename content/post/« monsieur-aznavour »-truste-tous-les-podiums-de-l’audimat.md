@@ -11,7 +11,10 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/aznavour-film.jpg
 image: assets/img/aznavour-2.jpg
 ---
-## **« Monsieur Aznavour » truste tous les podiums de l’audimat**\
+## \
+\
+**« Monsieur Aznavour » truste tous les podiums de l’audimat**\
+
 \
 \
 \
@@ -28,11 +31,12 @@ image: assets/img/aznavour-2.jpg
 \
 \
 \
+
 * Ce vendredi 18 octobre, France 3 diffusait le concert événement}} « Monsieur Aznavour » avec un plateau d’artistes qui reprenaient avec un grand orchestre les standards de Charles Aznavour. La voix de Katia Aznavour, accompagnait les vidéos diffusées lors de l’émission.\
-L’émission s’est classée 3è en terme d’audience avec 1, 623 000 téléspectateurs, soit 9,9% de PDM.\
-Il est important de rappeler que le score est supérieur de plus de 615 000 téléspectateurs par rapport à la diffusion du documentaire du précédent vendredi.\
-\
-\
+  L’émission s’est classée 3è en terme d’audience avec 1, 623 000 téléspectateurs, soit 9,9% de PDM.\
+  Il est important de rappeler que le score est supérieur de plus de 615 000 téléspectateurs par rapport à la diffusion du documentaire du précédent vendredi.\
+  \
+  \
 * Très attendue le docu-fiction intitulé « Dans la peau de Charles » réalisé par François -Julien Piednoir et diffusé dans l’émission « 13H15, le dimanche » par Laurent Delahousse a dépassé les 2 millions de téléspectateurs ce dimanche 20 octobre sur France 2 est se classe 2è en terme d’audience.
 
 \* Toujours dans sa dynamique, le présentateur vedette recevait dans son son émission « 20H30, le dimanche » Tahar Rahim et André Manoukian entre autres pour évoquer longuement la sortie du film « Monsieur Aznavour ». Combo gagnant pour France 2 et Laurent Delahousse qui ont rassemblé autour du piano d’André Manoukian plus de 4 millions de téléspectateurs avec 21,3 % de PDM.
