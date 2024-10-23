@@ -23,7 +23,9 @@ image: assets/img/j.p-sakoun.jpg
 
 A la salle des mariages de la Mairie de Valence (Drôme) fut procédé ce mercredi 23 octobre la cérémonie de la nomination de Jean-Pierre Sakoun à l’ordre national de la Légion d’Honneur au titre du Ministère des Armées. Outre le public, les amis et les membres de la famille de Jean-Pierre Sakoun, on notait la présence de S.E. Hasmik Tolmajian Ambassadrice d’Arménie en France, ainsi que Nariné Nikolyan, Consule d’Arménie à Lyon.
 
-Jean-Pierre Sakoun, président de l’association Unité Laïque et du Comité pour l’entrée de Missak Manouchian au Panthéon était ainsi honoré par la République.\
+\
+\
+**Jean-Pierre Sakoun, président de l’association Unité Laïque et du Comité pour l’entrée de Missak Manouchian au Panthéon était ainsi honoré par la République.**\
 Nikolas Daragon, Ministre, maire de Valence et vice-président de la Région Auvergne-Rhône-Alpes dans un message diffusé sur écran, tenait à saluer l’œuvre de Jean-Pierre Sakoun, notamment pour la panthéonisation de Missak et Méliné Manouchian le 21 février dernier. Un projet soutenu par la ville de Valence et de nombreuses organisations.
 
 Jean-Claude Van Dam Conservateur général honoraire des Bibliothèques, ancien directeur régional des Affaires culturelles et Chevalier de la Légion d’Honneur, retraça la vie et l’œuvre de Jean-Pierre Sakoun au service de la République.
