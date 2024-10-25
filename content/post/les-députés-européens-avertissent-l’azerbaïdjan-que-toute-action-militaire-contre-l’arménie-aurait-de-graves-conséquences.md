@@ -36,6 +36,10 @@ Le Parlement européen estime que les violations persistantes des droits de l’
 
 Les députés rappellent au gouvernement azerbaïdjanais ses obligations internationales de préserver la dignité et les droits des détenus, en veillant à ce qu’ils reçoivent des soins médicaux adéquats, soient détenus dans des conditions humaines et soient protégés contre tout mauvais traitement.
 
+\
+https://www.armenews.com/spip.php?page=article&id_article=120575\
+\
+\
 Le Parlement européen insiste pour que tout futur accord de partenariat entre l’UE et l’Azerbaïdjan soit conditionné à la libération de tous les prisonniers politiques, à la mise en œuvre de réformes juridiques et à l’amélioration générale de la situation des droits de l’homme dans le pays, ainsi qu’à la démonstration par l’Azerbaïdjan de sa réelle volonté de s’engager fidèlement dans la négociation d’un accord de paix avec l’Arménie et de respecter les droits des Arméniens du Haut-Karabakh.
 
 Elle appelle l’UE à mettre fin à sa dépendance à l’égard des exportations de gaz d’Azerbaïdjan et exhorte la Commission à suspendre le protocole d’accord de 2022 sur le partenariat stratégique dans le domaine de l’énergie et à agir en conséquence ;
