@@ -32,6 +32,10 @@ https://www.armenews.com/spip.php?page=article&id_article=120610\
 Le Parlement européen a voté par 453 voix contre 31 et 89 abstentions pour l’adoption d’une résolution sur la situation en Azerbaïdjan, la violation des droits de l’homme et du droit international et les relations avec l’Arménie.\
 La résolution condamne fermement la répression nationale et extraterritoriale exercée par le régime azerbaïdjanais contre les militants, les journalistes, les dirigeants de l’opposition et d’autres, y compris les ressortissants de l’UE, qui s’est sensiblement intensifiée à l’approche de la COP29 ; exhorte les autorités azerbaïdjanaises à libérer toutes les personnes détenues arbitrairement ou emprisonnées en raison de leurs opinions politiques, à abandonner toutes les charges motivées par des raisons politiques et à cesser toute forme de répression, tant à l’intérieur qu’à l’extérieur de l’Azerbaïdjan.
 
+\
+https://www.armenews.com/spip.php?page=article&id_article=120649\
+\
+\
 Le Parlement européen estime que les violations persistantes des droits de l’homme en Azerbaïdjan sont incompatibles avec l’accueil de la COP29 par ce pays ; exhorte les dirigeants de l’UE, en particulier la présidente de la Commission, Ursula von der Leyen, à utiliser la COP29 comme une occasion de rappeler à l’Azerbaïdjan ses obligations internationales et d’aborder de manière significative la situation du pays en matière de droits de l’homme dans leurs interactions avec les autorités azerbaïdjanaises.
 
 Les députés rappellent au gouvernement azerbaïdjanais ses obligations internationales de préserver la dignité et les droits des détenus, en veillant à ce qu’ils reçoivent des soins médicaux adéquats, soient détenus dans des conditions humaines et soient protégés contre tout mauvais traitement.
