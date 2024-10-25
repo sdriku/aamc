@@ -24,10 +24,11 @@ image: assets/img/parlement-européen-strasbourg.png
 
 # Les députés européens avertissent l’Azerbaïdjan que toute action militaire contre l’Arménie aurait de graves conséquences
 
-
-
 ![](https://www.armenews.com/IMG/arton120617.png)
 
+https://www.armenews.com/spip.php?page=article&id_article=120610\
+\
+\
 Le Parlement européen a voté par 453 voix contre 31 et 89 abstentions pour l’adoption d’une résolution sur la situation en Azerbaïdjan, la violation des droits de l’homme et du droit international et les relations avec l’Arménie.\
 La résolution condamne fermement la répression nationale et extraterritoriale exercée par le régime azerbaïdjanais contre les militants, les journalistes, les dirigeants de l’opposition et d’autres, y compris les ressortissants de l’UE, qui s’est sensiblement intensifiée à l’approche de la COP29 ; exhorte les autorités azerbaïdjanaises à libérer toutes les personnes détenues arbitrairement ou emprisonnées en raison de leurs opinions politiques, à abandonner toutes les charges motivées par des raisons politiques et à cesser toute forme de répression, tant à l’intérieur qu’à l’extérieur de l’Azerbaïdjan.
 
@@ -62,5 +63,6 @@ Le Parlement charge son Président de transmettre la présente résolution au Co
 par [Jean Eckian](https://www.armenews.com/spip.php?page=auteur&id_auteur=34) le vendredi 25 octobre 2024
 
 <!--EndFragment-->\
+
 \
 S﻿erge Tateossian le 26/10/2024     Source : Armenews
