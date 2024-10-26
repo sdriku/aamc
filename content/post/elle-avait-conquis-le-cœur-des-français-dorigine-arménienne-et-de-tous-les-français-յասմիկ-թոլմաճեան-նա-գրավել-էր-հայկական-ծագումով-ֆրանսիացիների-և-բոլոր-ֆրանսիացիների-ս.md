@@ -17,6 +17,7 @@ thumbnailImage: assets/img/hasmik-tolmajyan.jpg
 image: assets/img/hasmik-tolmajyan.jpg
 ---
 ### **Hasmik TOLMAJIAN**\
+
 \
 Le départ de S.E. Mme Hasmik Tolmajian - Elle avait conquis le cœur des français d'origine arménienne, et de tous les français s'intéressant à la diplomatie et à l'Arménie en général.\
 \
@@ -27,8 +28,8 @@ Son excellence depuis sa nomination à Paris, avait joué un rôle essentiel et 
 Les derniers mois, Madame Hasmik TOLMAJIAN avait reçu les hommages de toute la classe politqique passant du Sénat,à l'Assemblée Nationale, la Mairie de Paris et d'autres repésentations gouvernementales et locales.\
 \
 \
-Le 16 octobre Sébastien Lecornu a rendu hommage à Mme Hasmik Tolmajian en lui remettant la médaille de la Défense nationale. Ce qui constitue pour un diplomate étranger une immense marque d’honneur et de confiance. Un geste qui en dit long, compte tenu de la place que tient aujourd’hui la France dans le dispositif diplomatico-militaire de l’Arménie.\
-\
+Le 16 octobre Sébastien Lecornu a rendu hommage à Mme Hasmik Tolmajian en lui remettant la médaille de la Défense nationale. Ce qui constitue pour un diplomate étranger une immense marque d’honneur et de confiance. Un geste qui en dit long, compte tenu de la place que tient aujourd’hui la France dans le dispositif diplomatico-militaire de l’Arménie.
+
 <!--StartFragment-->
 
 > Hasmik Tolmajian (@tolmajian) [October 16, 2024](https://twitter.com/tolmajian/status/1846613016378294471?ref_src=twsrc%5Etfw)
@@ -39,7 +40,7 @@ Le 16 octobre Sébastien Lecornu a rendu hommage à Mme Hasmik Tolmajian en lu
 >
 > — Sébastien Lecornu (@SebLecornu) [October 16, 2024](https://twitter.com/SebLecornu/status/1846584106592666048?ref_src=twsrc%5Etfw)
 
-##### <!--EndFragment-->\
+##### \
 \
 L’ambassadrice sera remplacée par Arman Khachatryan, un diplomate qui occupait le poste de représentant permanent de l’Arménie auprès du Conseil de l’Europe.\
 \
