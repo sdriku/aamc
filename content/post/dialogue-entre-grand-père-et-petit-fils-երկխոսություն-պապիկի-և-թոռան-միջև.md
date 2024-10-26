@@ -40,4 +40,4 @@ image: assets/img/hayrig.jpg
   Կյանքը ՉԻ կորչում, երբ դադարում ես շնչել,\
   ԲԱՅՑ ԵՐԲ ԴԱԴԱՐԵՍ ԵՐՋԱՆԻԿ ԼԻՆԵԼ**\
   Serge Tateossian Evreux,\
-  le 26/10/2024 Source : Belle Littérature FB\*\*
+  le 26/10/2024 Source : Belle Littérature
