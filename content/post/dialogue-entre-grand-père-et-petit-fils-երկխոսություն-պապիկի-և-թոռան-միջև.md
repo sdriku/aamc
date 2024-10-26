@@ -23,7 +23,11 @@ image: assets/img/hayrig.jpg
   C'est perdu quand tu te concentres uniquement sur les choses négatives,\
   et tu arrêtes de profiter des bonnes choses.\
   La vie n'est PAS perdue quand tu arrêtes de respirer,\
-  MAIS QUAND TU CESSES D'ÊTRE HEUREUXԻՆՉՊԵՍ ԿՈՐՑՆԵԼ ՔՈ ԿՅԱՆՔԸ.**\
+  MAIS QUAND TU CESSES D'ÊTRE HEUREUX\
+  \
+  \
+  **ԻՆՉՊԵՍ ԿՈՐՑՆԵԼ ՔՈ ԿՅԱՆՔԸ.**\
+  **\
   -Պապի՛կ, ինչպե՞ս կարող ես կյանքդ կորցնել։**\
   **\-Կյանքդ կորցնելու շատ ձեւեր կան, տղաս...\
   Դու կորցնում ես ինքդ քեզ, երբ ուզում ես ապրել ուրիշի կյանքով, այլ ոչ քո:\
