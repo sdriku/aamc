@@ -40,7 +40,6 @@ Le 16 octobre Sébastien Lecornu a rendu hommage à Mme Hasmik Tolmajian en lu
 >
 > — Sébastien Lecornu (@SebLecornu) [October 16, 2024](https://twitter.com/SebLecornu/status/1846584106592666048?ref_src=twsrc%5Etfw)
 
-##### \
 \
 L’ambassadrice sera remplacée par Arman Khachatryan, un diplomate qui occupait le poste de représentant permanent de l’Arménie auprès du Conseil de l’Europe.\
 \
