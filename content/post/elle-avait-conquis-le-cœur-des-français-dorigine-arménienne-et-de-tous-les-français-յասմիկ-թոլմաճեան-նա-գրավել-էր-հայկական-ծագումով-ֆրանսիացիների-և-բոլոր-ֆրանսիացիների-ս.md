@@ -3,8 +3,8 @@ title: " Elle avait conquis le cœur des français d'origine arménienne, et de
   tous les français  ... Յասմիկ ԹՈԼՄԱՃԵԱՆ - Նա գրավել էր հայկական ծագումով
   ֆրանսիացիների և բոլոր ֆրանսիացիների սրտերը ..."
 description: " Elle avait conquis le cœur des français d'origine arménienne, et
-  de tous les français  ... Յասմիկ ԹՈԼՄԱՃԵԱՆ - Նա գրավել էր հայկական ծագումով
-  ֆրանսիացիների և բոլոր ֆրանսիացիների սրտերը ..."
+  de tous les français  ... (Photo Armenews)  Յասմիկ ԹՈԼՄԱՃԵԱՆ - Նա գրավել էր
+  հայկական ծագումով ֆրանսիացիների և բոլոր ֆրանսիացիների սրտերը ..."
 summary: "Hasmik TOLMAJIAN  Le départ de S.E. Mme Hasmik Tolmajian - Elle avait
   conquis le cœur des français d'origine arménienne, et de tous les français
   s'intéressant à la diplomatie et à l'Arménie en général. Նորին Գերազանցություն
