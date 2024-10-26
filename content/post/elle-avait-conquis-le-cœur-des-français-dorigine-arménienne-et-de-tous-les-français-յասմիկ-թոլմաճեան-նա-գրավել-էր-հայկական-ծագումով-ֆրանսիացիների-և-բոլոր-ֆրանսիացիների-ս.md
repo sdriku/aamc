@@ -16,7 +16,9 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/hasmik-tolmajyan.jpg
 image: assets/img/hasmik-tolmajyan.jpg
 ---
-### **Hasmik TOLMAJIAN**\
+### \
+\
+**Hasmik TOLMAJIAN**
 
 \
 Le départ de S.E. Mme Hasmik Tolmajian - Elle avait conquis le cœur des français d'origine arménienne, et de tous les français s'intéressant à la diplomatie et à l'Arménie en général.\
