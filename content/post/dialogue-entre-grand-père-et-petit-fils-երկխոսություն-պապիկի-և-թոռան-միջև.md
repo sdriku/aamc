@@ -13,7 +13,7 @@ image: assets/img/hayrig.jpg
 ---
 **COMMENT PERDRE LA VIE.**
 
-* Grand-père, comment peut-on perdre la vie ?\
+* Grand-père, comment peut-on perdre la vie ?
 * On peut perdre la vie de bien des façons mon garçon...\
   On se perd quand on veut vivre la vie des autres et pas la tienne.\
   Tu te perds en critiquant les erreurs des autres, et non en améliorant les tiennes.\
