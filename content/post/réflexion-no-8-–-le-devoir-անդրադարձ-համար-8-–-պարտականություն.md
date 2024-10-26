@@ -22,8 +22,6 @@ La nécessité de réguler la vie d'une société justifie l'existence de loi, d
 \
 La seule façon pour l'humanité de cohabiter dans une relative harmonie consiste : ne pas faire à autrui ce que nous n'aimerions pas qu'il nous fasse. Selon Kant, l'impératif catégorique, le « tu dis », est exigé en matière d'obéissance au devoir. Le respect pour la loi morale universelle tient en ceci : « Agis comme si le précepte de ton action devait être érigé par ta volonté en loi universelle de la nature. »
 
-
-
 S'il n'est pas souhaitable, alors c'est l'indice d'une action immorale et mauvaise. Dans le cas inverse, je peux être assuré que mon action est morale, donc bonne.\
 \
 \
@@ -36,7 +34,7 @@ Un devoir absolu fait ouvrir le risque d'être aveuglé. Il faut de surcroît qu
 Ainsi le principe même du devoir doit lui-même obéir à un principe juste et légitime.\
 \
 \
-Notre humanité a encore un long chemin à parcourir pour arriver à un état de juste gouvernance et de moralité acceptables. La longueur et la durée de ce chemin dépend de nos actions de tout instant.\
+Notre humanité a encore un long chemin à parcourir pour arriver à un état de juste gouvernance et de moralité acceptables. La longueur et la durée de ce chemin dépendent de nos actions de tout instant.\
 \
 \
 \
