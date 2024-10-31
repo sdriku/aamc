@@ -10,6 +10,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/eure-90-kmh.jpg
 image: assets/img/eure-90-kmh.jpg
 ---
+\
 <!--StartFragment-->
 
 # Les routes départementales de l’Eure vont repasser à 90 km/h
@@ -56,4 +57,4 @@ La baisse de la mortalité sur les routes est, par ailleurs, l’une des priorit
 
 *Suivez toute l’actualité de vos villes et médias favoris en vous inscrivant à [Mon Actu](https://moncompte.actu.fr/ "Découvez Mon Actu").*
 
-<!--EndFragment-->
+S﻿erge Tateossian le 31/10/2024    Source
