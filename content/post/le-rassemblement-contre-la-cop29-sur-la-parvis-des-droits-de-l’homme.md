@@ -7,11 +7,13 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/trocadero-cop29.png
 image: assets/img/trocadero-cop29.png
 ---
+
+
+
+
 <!--StartFragment-->
 
 # Le rassemblement contre la COP29 sur la Parvis des Droits de l’Homme
-
-
 
 ![](https://www.armenews.com/IMG/arton121087.png)
 
