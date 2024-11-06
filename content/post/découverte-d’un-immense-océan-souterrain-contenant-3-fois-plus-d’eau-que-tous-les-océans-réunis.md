@@ -8,8 +8,8 @@ summary: Dans une avancée scientifique remarquable, des chercheurs ont révél�
   potentiellement trois fois plus d’eau que tous les océans de surface réunis
 date: 2024-11-06T22:03:57.565Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/terre.avif
-image: assets/img/terre.avif
+thumbnailImage: assets/img/terre-eau.jpg
+image: assets/img/terre-eau.jpg
 ---
 <!--StartFragment-->
 
