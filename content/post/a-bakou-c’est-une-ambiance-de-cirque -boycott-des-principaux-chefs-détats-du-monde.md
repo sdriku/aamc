@@ -54,6 +54,8 @@ Lors de la COP29, Aliev s’est disputé avec des militants non gouvernementaux
 \
 Josep Borrell, responsable des affaires étrangères de l’Union européenne, a déclaré que le discours de M. Aliev nuisait à la capacité de fonctionnement de la COP29. « Ces déclarations inacceptables risquent de compromettre les objectifs climatiques essentiels de la conférence et la crédibilité de la présidence azerbaïdjanaise de la COP29 », a-t-il écrit sur X.\
 \
+https://www.armenews.com/spip.php?page=article&id_article=121556\
+En pleine COP29 l'Azerbaidjan triple son budget de la défense pour atteindre les 8 milliards\
 \
 \
 Au-delà du préjudice qu’Aliev s’est infligé en termes de relations publiques, les experts et les activistes environnementaux souhaiteraient que le dirigeant azerbaïdjanais accorde plus d’attention aux défis auxquels sont confrontés les États et les régions montagneux, tels que l’Azerbaïdjan et le Caucase en général. La région est confrontée à une pénurie d’eau imminente due à la fonte des glaciers.\
