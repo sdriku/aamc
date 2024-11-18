@@ -14,8 +14,6 @@ image: assets/img/bakou-cirque.jpg
 ---
 # **A Bakou, c’est une ambiance de cirque** ! Boycott des principaux chefs d'états du monde, Organisation approximative Dérives des conférenciers notamment du président Aliev et ses ministres,,, On ne compte plus les bévues
 
-
-
 ![](https://www.armenews.com/local/cache-gd2/7e/b8054f19b754105d59fcdf5a3eecf1.jpg)
 
 L’espoir d’une percée dans le domaine du financement de la lutte contre le changement climatique s’estompe rapidement lors de la COP29 à Bakou, ce qui alimente la frustration liée au dysfonctionnement du cadre des Nations unies pour la lutte contre le réchauffement climatique.\
@@ -30,8 +28,6 @@ Le fait que de nombreux dirigeants mondiaux, y compris des hauts fonctionnaires 
 <https://www.armenews.com/spip.php?page=article&id_article=121417>\
 Josep Borrell : Les déclarations d’Aliev sapent les objectifs de la COP29
 
-
-
 \
 \
 Ailleurs, les militants du climat se plaignent du manque d’espace pour organiser des activités mettant en lumière des défis climatiques spécifiques. Les autorités azerbaïdjanaises ont imposé des restrictions importantes aux rassemblements en plein air. « Il n’y a pratiquement pas d’espace pour des actions significatives lors de cette COP », a déclaré un participant régulier à la réunion annuelle.\
@@ -43,6 +39,8 @@ Les défenseurs du climat qui assistent à la réunion de Bakou ont l’impressi
 \
 \
 Lors de la préparation de la COP29, l’hôte de l’événement, le dirigeant azerbaïdjanais Ilham Aliyev, espérait que l’événement redorerait l’image de son pays (et, par extension, celle de son administration). Au lieu de cela, les observateurs ont qualifié la COP29 de cirque, condamnant la façon dont Aliyev a dirigé les débats.\
+\
+https://www.lemonde.fr/planete/article/2024/11/18/cop29-l-onu-presse-d-arreter-le-theatre-et-de-passer-aux-choses-serieuses_6400639_3244.html\
 \
 \
 \
