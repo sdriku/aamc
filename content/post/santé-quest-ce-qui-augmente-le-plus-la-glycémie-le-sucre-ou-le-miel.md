@@ -9,8 +9,8 @@ summary: "Lorsque nous parlons de sucre et de miel, nous nous intéressons
   une meilleure personne parce que vous portez un costume."
 date: 2024-11-23T23:13:21.484Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/miel.webp
-image: assets/img/le-sucre-ou-le-miel-glycémie.webp
+thumbnailImage: assets/img/le-sucre-ou-le-miel-glycémie.webp
+image: assets/img/miel.webp
 ---
 <!--StartFragment-->
 
