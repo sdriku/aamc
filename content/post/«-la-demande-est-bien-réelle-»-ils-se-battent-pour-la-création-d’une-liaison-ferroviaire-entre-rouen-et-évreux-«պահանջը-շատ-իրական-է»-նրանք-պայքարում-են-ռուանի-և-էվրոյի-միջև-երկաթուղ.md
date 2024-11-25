@@ -16,7 +16,9 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/train.jpg
 image: assets/img/train.jpg
 ---
-# « La demande est bien réelle » : ils se battent pour la création d’une liaison ferroviaire entre Rouen et Évreux
+# L﻿e Parisien\
+\
+« La demande est bien réelle » : ils se battent pour la création d’une liaison ferroviaire entre Rouen et Évreux
 
 Dans l’Eure, l’association Brionne Écomobilités milite pour la création d’une ligne ferroviaire directe entre Rouen et Évreux. Face au manque de transports en commun en milieu rural, cette liaison, passant par Serquigny, représente une solution rapide, économique et écologique pour les habitants.
 
