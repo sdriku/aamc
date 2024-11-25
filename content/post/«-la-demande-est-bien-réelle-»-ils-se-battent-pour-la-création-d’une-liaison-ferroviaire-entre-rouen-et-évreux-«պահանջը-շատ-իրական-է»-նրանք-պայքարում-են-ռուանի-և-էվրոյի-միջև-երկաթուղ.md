@@ -16,7 +16,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/train.jpg
 image: assets/img/train.jpg
 ---
-<!--StartFragment-->
+
 
 # « La demande est bien réelle » : ils se battent pour la création d’une liaison ferroviaire entre Rouen et Évreux
 
@@ -52,4 +52,6 @@ Avec la Fédération nationale des associations d’usagers des transports (Fnau
 
 Le projet est bien accueilli par les élus locaux. Il permettrait de faciliter les déplacements des habitants, des travailleurs et des étudiants. « Beaucoup d’étudiants quittent la Normandie pour étudier à Paris, faute de transports en commun efficaces », explique Xavier Braud.
 
+\
+\
 <!--EndFragment-->
