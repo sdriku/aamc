@@ -13,6 +13,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/danse-arménie-4.jpg
 image: assets/img/danse-arménie-6.jpg
 ---
+\
 **Evreux : Une OVATION pour l'Arménie\
 L'Ensemble de Danse Nationale « BERT » au palais de congrès d'Evreux (au Cadran)**\
 \
@@ -22,12 +23,10 @@ Le mardi 26 novembre, le public ébroïcien a accueilli par des ovations l'ensem
 \
 Chansons, Danses et Costumes de l'Arménie étaient au redez-vous au Cadran, au palais de congrès d'Evreux.\
 \
-Le présentateur du spectacle, Monsieur André CHENEVIERE, (représentant de la société de production) avec un grannd talent informait le public du thème de chaque danse, son histoire et sa légende. Auparavent un bref docuemntaire (vidéo) sur l'Arménie avait été diffusé.\
+Le présentateur du spectacle, Monsieur André CHENEVIERE, (représentant de la société de production) avec un grand talent informait le public du thème de chaque danse, son histoire et sa légende. Auparavent un bref docuemntaire (vidéo) sur l'Arménie avait été diffusé.\
 \
 Le programme se composait de deux parties:\
 Première Partie : incluait « les noces arméniennes » - Ma chère Arménie _ Les fiancées du MOKS- Les danses folkloriques Kotchari et Tsap Par – Zov Kicher ou encore la Danse de Vaspourakan
-
-
 
 La deuxième partie : Encore plus énérgique que la première partie, se composait d'une série de danse comme « SASOON » - Cérisiers en fleurs – Khélé Khélé de Gomitas – Haï atcher ou encore « BERT » (la forteresse)\
 \
