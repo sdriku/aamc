@@ -11,20 +11,17 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/cour-pénale-internationale.png
 image: assets/img/cour-pénale-internationale.png
 ---
-\
+
+
 <!--StartFragment-->
 
 # L’Arménie se dit à l’avant-garde de l’action internationale contre le génocide
 
 <!--EndFragment-->\
 
-
-
 <!--StartFragment-->
 
 [5 décembre 2024](https://www.armenews.com/larmenie-se-dit-a-lavant-garde-de-laction-internationale-contre-le-genocide/)
-
-
 
 par
 
@@ -37,8 +34,6 @@ par
 [2024](https://www.armenews.com/larmenie-se-dit-a-lavant-garde-de-laction-internationale-contre-le-genocide/)
 
 <!--EndFragment-->\
-
-
 
 <!--StartFragment-->
 
