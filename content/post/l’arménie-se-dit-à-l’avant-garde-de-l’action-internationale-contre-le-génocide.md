@@ -11,17 +11,20 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/cour-pénale-internationale.png
 image: assets/img/cour-pénale-internationale.png
 ---
+\
 <!--StartFragment-->
 
 # L’Arménie se dit à l’avant-garde de l’action internationale contre le génocide
 
 <!--EndFragment-->\
-\
+
+
+
 <!--StartFragment-->
 
 [5 décembre 2024](https://www.armenews.com/larmenie-se-dit-a-lavant-garde-de-laction-internationale-contre-le-genocide/)
 
-–
+
 
 par
 
@@ -34,8 +37,9 @@ par
 [2024](https://www.armenews.com/larmenie-se-dit-a-lavant-garde-de-laction-internationale-contre-le-genocide/)
 
 <!--EndFragment-->\
-\
-\
+
+
+
 <!--StartFragment-->
 
 L’Arménie a été à l’avant-garde de l’action internationale pour le renforcement des politiques et des pratiques contre le crime de génocide, a déclaré le ministre des Affaires étrangères Ararat Mirzoyan dans son discours lors de la 23e session de l’Assemblée des États parties au Statut de Rome de la Cour pénale internationale, lundi 2 décembre.
