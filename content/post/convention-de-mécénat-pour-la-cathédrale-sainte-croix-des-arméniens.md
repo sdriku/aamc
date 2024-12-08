@@ -10,6 +10,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/mécénat-eglise-sainte-croix.jpeg
 image: assets/img/mécénat-eglise-sainte-croix.jpeg
 ---
+\
+\
 <!--StartFragment-->
 
 # Convention de mécénat pour la Cathédrale Sainte-Croix-des-Arméniens
@@ -21,8 +23,6 @@ image: assets/img/mécénat-eglise-sainte-croix.jpeg
 
 [7 décembre 2024](https://www.armenews.com/convention-de-mecenat-pour-la-cathedrale-sainte-croix-des-armeniens/)
 
-–
-
 par
 
 [La rédaction](https://www.armenews.com/author/toranian/)
@@ -33,6 +33,7 @@ par
 
 \
 \
+
 <!--StartFragment-->
 
 À l’heure où la cathédrale Notre-Dame rouvre ses portes, la mairie de
@@ -48,6 +49,7 @@ et
 [@AnouchToranian](https://x.com/AnouchToranian)
 
 <!--EndFragment-->\
+
 \
 [2024](https://www.armenews.com/convention-de-mecenat-pour-la-cathedrale-sainte-croix-des-armeniens/)
 
