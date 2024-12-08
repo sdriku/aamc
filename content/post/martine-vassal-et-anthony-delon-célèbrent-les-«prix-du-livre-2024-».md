@@ -10,6 +10,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/cérémonie-de-remise-des-prix-du-livre-2024.jpg
 image: assets/img/abnousse-shalmani.jpg
 ---
+\
 <!--StartFragment-->
 
 # Martine Vassal et Anthony Delon célèbrent les «Prix du Livre 2024 »
@@ -49,8 +50,6 @@ par
 >
 > ![](https://www.armenews.com/wp-content/uploads/2024/12/IMG_5665-300x225.jpg)
 >
->  
->
 > Elise Boghossian et Jean-Claude Ribaut, lauréats dans leur catégorie étaient présents dans l’assistance pour recevoir leur Prix sous les applaudissements du public. Les élus Sabine Bernasconi, Frédéric Collart et Didier Parakian
 >
 > étaient également présents au premier rang avec de nombreuses personnalités de la communauté arménienne.
@@ -76,9 +75,7 @@ par
 ![](https://www.armenews.com/wp-content/uploads/2024/12/IMG_5738-300x225.jpg)
 
 > « NATURELLEMENT ELLE EST POUR MON PÈRE. JE ME FAIS UNE JOIE DE LA DÉPOSÉE MARDI DANS LA PROPRIÉTÉ À DOUCHY » A.D
-
- 
-
+>
 > Allure élancée, veste de cuir noir et regard de félin comme celui de son père, Anthony Delon a fait part de sa grande émotion lors la remise de cette distinction.
 >
 > Évoquant les grands classiques de son père, Il a déclaré que son film préféré était «Rocco et ses frères» tourné sous l’œil de Luchino Visconti en 1960. « J’aime beaucoup Rocco, car je retrouve dans l’âme de Rocco l’essence de l’âme de mon père », dit-il avant l’attribution des Prix du Livre 2024.
@@ -93,16 +90,12 @@ par
 >
 > Via un message vidéo emplit d’énergie, André Manoukian a déclaré : «Je suis très fier de coller mon nom à un Prix littéraire. Mathias est un musi-poète. C’est un poète qui écrit comme un musicien et un musicien qui écrit comme un poète ». Toujours par message vidéo, Mathias Malzieu s’est dit : « Je suis incroyablement touché de recevoir ce Prix de la part d’André Manoukian reconnu par ses pairs passionnés et passionnants ».
 
- 
-
 ![](https://www.armenews.com/wp-content/uploads/2024/12/IMG_5772-300x225.jpg)
 
 > « PRIX MAISON PETROSSIAN »
 >
 > Le Prix du meilleur ouvrage sur la gastronomie a été décerné à Jean-Claude Ribaut, ancien chroniqueur gastronomique au journal Le Monde, pour « Le Dictionnaire gourmand du bien boire et du bien manger » paru aux éditions du Rocher.
-
- 
-
+>
 > Ambassadeur du luxe à la française, la moustache savamment soignée, Armen Petrossian s’est adressé au public en affirmant: « Cet ouvrage n’est pas un livre de cuisine, mais un livre de gastronomes, un livre d’érudit. La cuisine n’est pas de la magie, ni de l’improvisation. Elle est la recherche d’un absolu, du meilleur équilibre et d’un plat autour de saveurs différentes », dit-il avant de saluer l’heureux lauréat. Jean-Claude Ribaut présent auprès d’Armen Petrossian, a remercié le jury pour sa nomination avant de citer le philosophe néerlandais Spinoza : « Nous n’aimons pas les choses parce quelles sont bonnes, elles sont bonnes parce que nous les aimons ».
 
 ![](https://www.armenews.com/wp-content/uploads/2024/12/IMG_5794-300x225.jpg)
@@ -120,25 +113,17 @@ par
 > « PRIX CHARLES VILLENEUVE »
 >
 > Très attendu, ce Prix qui récompense le meilleur ouvrage dans la catégorie « Actualité » a été attribué sous les applaudissements chaleureux du public à Élise Boghossian pour « Les sacrifiés, au cœur de la tragédie arménienne » paru aux Éditions Plon.
-
- 
-
+>
 > Joint en direct par téléphone, Charles Villeneuve s’est excusé de ne pouvoir assister à la cérémonie, souffrant et contraint de garder le lit suite aux séquelles d’un mauvais saut en parachute.
 >
 > Journaliste et grande voix d’Europe 1, il a rendu un hommage appuyé à Elise Boghossian en saluant son travail à la tête de son ONG Elise Care présente sur les différents théâtres de guerre afin de soigner les populations meurtries.
-
- 
-
+>
 > « IL FAUT SAVOIR QU’ISRAËL ARME D’UNE MANIÈRE EXTRÊMEMENT MODERNE LES AZÉRIS. 62% DE L’ARMEMENT AZÉRI, NOTAMMENT LES DRONES, VIENNENT D’ISRAËL » CH. V
 >
 > Né à Beyrouth, Charles Villeneuve a évoqué la mémoire de sa maman arménienne avec qui il avait 16 ans et 9 mois de différence d’âge. Le journaliste a fait le parallèle entre les récits glaçants d’Elise Boghossian et les témoignages que lui racontait sa maman.
-
- 
-
+>
 > « J’AI VRAIMENT VOULU RACONTER CETTE GUERRE DEPUIS 2020 EN ARTSAKH ET EN ARMÉNIE À LA LUMIÈRE DE 1915 » E.B
-
- 
-
+>
 > Elise Boghossian s’est dite émue et heureuse d’être présente et surtout d’avoir pu écrire ce livre sur l’Arménie. Témoin de nombreux conflits et des horreurs de la guerre, elle a voulu témoigner du nettoyage ethnique sans fin des populations arméniennes. Un génocide qui continue dans un monde habitué à la guerre » dit-elle.
 >
 > Elle a rendu hommage à son père, tailleur, qui était venu en France avec son dé à coudre et à son grand-père, héros sauvé des camps de la mort qui fut déporté en Syrie.
@@ -160,19 +145,13 @@ par
 > « PRIX ALAIN TERZIAN »
 >
 > Visage et producteur incontournable du Cinéma français, longtemps patron de l’Académie des César, Alain Terzian était heureux de remettre le Prix du meilleur livre sur le cinéma à Anthony Delon pour son livre paru en 2022 intitulé « Entre chiens et loups » aux Éditions Le Cherche-Midi.
-
- 
-
+>
 > Ami intime de la famille Delon, Alain Terzian a évoqué avec une profonde émotion de nombreux souvenirs, en rappelant avoir tourné une douzaine de films avec la star qui resteront à ses yeux ses plus belles années de cinéma. Avec affection il s’est souvenu de la naissance du petit Anthony à Hollywood avant de déclarer avoir une pensée très forte pour son père.
 
 ![](https://www.armenews.com/wp-content/uploads/2024/12/IMG_5843-225x300.jpg)
 
- 
-
 > « C’EST UN LIVRE SUR LA RÉSILIENCE, SUR LE PARDON, SUR LA VIE. IL PARLE AUSSI BEAUCOUP D’AMOUR » A.D
-
- 
-
+>
 > Anthony Delon a salué Alain Terzian affirmant qu’ils se connaissaient depuis très longtemps et qu’il faisait partie de la famille. « Il se considère un peu comme mon oncle, et je l’appelle aussi comme ça », dit-il avant de rendre un hommage particulièrement touchant à sa maman, Nathalie Delon. Sensible par l’accueil du public et de la bienveillance d’Alain Terzian, Anthony Delon a de nouveau remercié le producteur en déclarant que ce « Prix du Livre » prendra place également au cœur de la propriété familiale de Douchy où repose «Le Samouraï » Alain Delon.
 
 ![](https://www.armenews.com/wp-content/uploads/2024/12/IMG_5860-300x225.jpg)
@@ -181,4 +160,4 @@ par
 >
 > Texte & photos: Alain Sarkissian
 
-<!--EndFragment-->
+S﻿erge Tateossian le 08/12/2024    Source : Armenew
