@@ -10,8 +10,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/mécénat-eglise-sainte-croix.jpeg
 image: assets/img/mécénat-eglise-sainte-croix.jpeg
 ---
-\
-\
+
+
 <!--StartFragment-->
 
 # Convention de mécénat pour la Cathédrale Sainte-Croix-des-Arméniens
@@ -30,8 +30,6 @@ par
 [Communauté](https://www.armenews.com/categorie/communaute/)
 
 ©armenews.com
-
-
 
 <!--StartFragment-->
 
