@@ -14,6 +14,7 @@ thumbnailImage: assets/img/danse-arménie-4.jpg
 image: assets/img/danse-arménie-6.jpg
 ---
 \
+\
 **Evreux : Une OVATION pour l'Arménie\
 L'Ensemble de Danse Nationale « BERT » au palais de congrès d'Evreux (au Cadran)**\
 \
@@ -21,9 +22,11 @@ Le mardi 26 novembre, le public ébroïcien a accueilli par des ovations l'ensem
 \
 26 jeunes danseuses et danseurs professionnels venus spécialement d'Arménie ont présenté au public ébroïcien venu nombreux, (un peu plus de 750 personnes), un spectacle à couper le souffle !\
 \
-Chansons, Danses et Costumes de l'Arménie étaient au redez-vous au Cadran, au palais de congrès d'Evreux.\
+Chansons, Danses et Costumes de l'Arménie étaient au rendez-vous au Cadran, au palais de congrès d'Evreux.\
 \
-Le présentateur du spectacle, Monsieur André CHENEVIERE, (représentant de la société de production) avec un grand talent informait le public du thème de chaque danse, son histoire et sa légende. Auparavent un bref docuemntaire (vidéo) sur l'Arménie avait été diffusé.\
+https://youtu.be/-KOPnSdXIjw\
+\
+Le présentateur du spectacle, Monsieur André CHENEVIERE, (représentant de la société de production) avec un grand talent informait le public du thème de chaque danse, son histoire et sa légende. Auparavant un bref documentaire (vidéo) sur l'Arménie avait été diffusé.\
 \
 Le programme se composait de deux parties:\
 Première Partie : incluait « les noces arméniennes » - Ma chère Arménie _ Les fiancées du MOKS- Les danses folkloriques Kotchari et Tsap Par – Zov Kicher ou encore la Danse de Vaspourakan
@@ -31,7 +34,7 @@ Première Partie : incluait « les noces arméniennes » - Ma chère Arménie
 La deuxième partie : Encore plus énérgique que la première partie, se composait d'une série de danse comme « SASOON » - Cérisiers en fleurs – Khélé Khélé de Gomitas – Haï atcher ou encore « BERT » (la forteresse)\
 \
 \
-En tout 19 danses et chants exceptionnels ont été offerts, à plsuieurs reprises le public debout acclamait les jeunes danseurs arméniens.\
+En tout 19 danses et chants exceptionnels ont été offerts, à plusieurs reprises le public debout acclamait les jeunes danseurs arméniens.\
 \
 \
 Un grand BRAVO à tous les acteurs de l'ensemble de danse nationale « BERT » et spécialement à leur corégraphe de génie le Professeur Karen Gevorgyan.\
