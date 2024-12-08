@@ -31,8 +31,7 @@ par
 
 ©armenews.com
 
-\
-\
+
 
 <!--StartFragment-->
 
