@@ -13,6 +13,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/arménie-europe.webp
 image: assets/img/arménie-europe.webp
 ---
+![](assets/img/14-juillet-ambasade-france-yerevan-2024.jpg)
+
 <!--StartFragment-->
 
 # L’Arménie et l’UE lancent la phase opérationnelle du dialogue sur la libéralisation des visas
@@ -41,7 +43,5 @@ par
 Le 11 décembre, à Erevan, le directeur général adjoint chargé des migrations et des affaires intérieures de la Commission européenne, Johannes Luchner, et le ministre de l’intérieur de la République d’Arménie, Arpine Sargsyan, ont lancé la phase opérationnelle du dialogue sur la libéralisation des visas lors d’une réunion de hauts fonctionnaires.\
 Les hauts fonctionnaires, qui supervisent le processus de dialogue sur les visas, ont procédé à un premier échange de vues sur les réformes nécessaires dans des domaines essentiels pour parvenir à un déplacement sans visa vers l’UE. Ces domaines comprennent la sécurité des documents, la gestion des frontières et des migrations, les politiques de mobilité et d’asile, la lutte contre la corruption et la criminalité organisée, et le respect des droits fondamentaux. La réunion a également permis d’examiner comment l’UE pourrait continuer à soutenir ces réformes.\
 Les deux parties ont rappelé que le processus est basé sur le fond, qu’il n’y a pas d’automatisme ni de date limite pour le conclure. Les hauts fonctionnaires ont convenu que les prochaines étapes de la libéralisation des visas consisteront en deux visites de cadrage au début de l’année 2025, afin de permettre aux experts des institutions de l’UE et des États membres de procéder à une analyse des lacunes. Les résultats des missions d’évaluation prévues contribueront à établir la liste des conditions nécessaires pour atteindre l’objectif à long terme d’une exemption de visa pour les citoyens arméniens se rendant dans l’UE.
-
-
 
 <!--EndFragment-->
