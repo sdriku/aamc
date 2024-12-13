@@ -15,6 +15,9 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/le-pape-et-arméniens-catholiques.jpg
 image: assets/img/raphaël-bedros-xxi-patriarche-de-cilicie-des-arméniens-catholiques.jpg
 ---
+**P**\
+\
+\
 **Mgr Laurent Ulrich devient membre du dicastère pour les Églises orientales**
 
 **Par Cyprien Viet : L’archevêque de Paris, Mgr Laurent Ulrich, qui est aussi l’ordinaire des catholiques orientaux résidant en France mais ne disposant pas d’une hiérarchie propre, figure parmi les nouveaux membres du dicastère pour les Églises orientales, dont la liste a été publiée mardi.** \
@@ -26,8 +29,6 @@ image: assets/img/raphaël-bedros-xxi-patriarche-de-cilicie-des-arméniens-catho
 **Mgr Ulrich est nommé en même temps que deux autres archevêques de grandes capitales qui exerce la même juridiction sur les fidèles orientaux ne disposant pas d’une hiérarchie propre dans leur pays d’accueil : le cardinal José Cobo Cano, archevêque de Madrid (Espagne), et Mgr Jorge Ignacio García Cuerva, archevêque de Buenos Aires (Argentine). Deux chefs d’Églises orientales deviennent également membres de ce dicastère : le patriarche de Cilicie des Arméniens Raphaël Bedros XXI Minassian, élu en septembre 2021, et l’archevêque majeur des Syro-malabars, SB Raphael Thattil, élu en janvier 2024.**\
 \
 **Mgr Salvatore Fisichella, pro-préfet du dicastère pour l’Évangélisation, et Mgr Filippo Iannone, préfet du dicastère pour les Textes législatifs, en font également partie. Complètent la liste Mgr Jozef Maxim, archevêque de Prešov pour les catholiques de rite byzantin (Slovaquie) et Mgr Gregor Maria Hanke,  évêque d’Eichstätt (Allemagne).** 
-
-
 
 **Serge Tateossian le 12/12/2024 Source : ALETEIA Lettre du Vatican**\
 \
