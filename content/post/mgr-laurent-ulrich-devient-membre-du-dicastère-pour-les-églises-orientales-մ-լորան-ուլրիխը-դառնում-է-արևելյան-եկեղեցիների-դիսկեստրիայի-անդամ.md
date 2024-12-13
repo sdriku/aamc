@@ -15,7 +15,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/le-pape-et-arméniens-catholiques.jpg
 image: assets/img/raphaël-bedros-xxi-patriarche-de-cilicie-des-arméniens-catholiques.jpg
 ---
-**P**\
+**Photo : Monseigneur Raphaël Bedros XXI Minassian Patriarche de Cilicie des Arméniens catholiques**\
 \
 \
 **Mgr Laurent Ulrich devient membre du dicastère pour les Églises orientales**
