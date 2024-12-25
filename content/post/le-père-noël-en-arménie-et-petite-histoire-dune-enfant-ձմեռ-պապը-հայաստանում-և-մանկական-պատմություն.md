@@ -1,5 +1,5 @@
 ---
-title: Le Père Noël en Arménie l'histoire d'une petite enfant.  Ձմեռ պապը
+title: Le Père Noël en Arménie et l'histoire d'une petite enfant.  Ձմեռ պապը
   Հայաստանում և մանկական պատմություն.
 description: Le Père Noël en Arménie et l'histoire d'une petite enfant.  Ձմեռ
   պապը Հայաստանում և մանկական պատմություն.
