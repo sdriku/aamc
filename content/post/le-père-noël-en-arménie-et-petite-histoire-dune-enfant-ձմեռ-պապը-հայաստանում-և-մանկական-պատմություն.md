@@ -9,8 +9,8 @@ summary: "La veille de Noël, devant un grand magasin, une petite fille
   fille le regarde avec des yeux tout ronds et commence à sangloter :"
 date: 2024-12-25T19:06:42.559Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/père-noël-2.jpg
-image: assets/img/père-noêl.jpg
+thumbnailImage: assets/img/père-noêl.jpg
+image: assets/img/père-noël-2.jpg
 ---
 P﻿hoto : Magasin Carrefour Evreux\
 \
