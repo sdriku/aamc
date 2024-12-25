@@ -1,8 +1,8 @@
 ---
-title: Le Père Noël en Arménie et petite histoire d'une enfant.  Ձմեռ պապը
+title: Le Père Noël en Arménie l'histoire d'une petite enfant.  Ձմեռ պապը
   Հայաստանում և մանկական պատմություն.
-description: Le Père Noël en Arménie et petite histoire d'une enfant.  Ձմեռ պապը
-  Հայաստանում և մանկական պատմություն.
+description: Le Père Noël en Arménie et l'histoire d'une petite enfant.  Ձմեռ
+  պապը Հայաստանում և մանկական պատմություն.
 summary: "La veille de Noël, devant un grand magasin, une petite fille
   s'approche du père Noël qui l'installe sur ses genoux et lui dit :  - Bonjour,
   mon enfant. Dites-moi : qu'est-ce que tu aimerais pour Noël ?   La petite
