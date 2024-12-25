@@ -12,6 +12,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/père-noël-2.jpg
 image: assets/img/père-noêl.jpg
 ---
+P﻿hoto : Magasin Carrefour Evreux\
+\
 **Le Père Noël en Arménie et l'histoire d'une petite enfant.**\
 \
 La veille de Noël, devant un grand magasin, une petite fille s'approche du père Noël qui l'installe sur ses genoux et lui dit :\
