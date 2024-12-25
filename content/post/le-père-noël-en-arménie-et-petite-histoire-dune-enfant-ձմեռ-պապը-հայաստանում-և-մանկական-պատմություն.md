@@ -23,7 +23,7 @@ La veille de Noël, devant un grand magasin, une petite fille s'approche du pèr
   \
   Serge Tateossian Evreux Le 25/12/2024\
   \
-  Moralité : j'ai plus de soixante ans et j'aimerais toujours croire au Père Noël. Oui, il existe biensûr.\
+  Moralité : j'ai plus de soixante ans et j'aimerais toujours croire au Père Noël. Oui, il existe bien sûr.\
   \
   **\
   Ձմեռ պապը Հայաստանում և մանկական պատմություն.**\
