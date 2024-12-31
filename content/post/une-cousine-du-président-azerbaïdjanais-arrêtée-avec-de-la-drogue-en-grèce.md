@@ -7,7 +7,7 @@ summary: Le jour de la cérémonie funéraire en mémoire de l’équipage de l�
   organisait une soirée techno "Underground".
 date: 2024-12-31T19:12:37.016Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/cousine-d-aliev.avif
+thumbnailImage: assets/img/cousine-du-dictateur-aliev.avif
 image: assets/img/cousine-du-dictateur-aliev.avif
 ---
 <!--StartFragment-->
