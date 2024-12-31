@@ -24,7 +24,7 @@ Que l'année 2025 nous Ouvre de nouveaux horizons, pleins de promesses. Nous esp
 Ensemble, continuons à faire briller cette lumière qui nous unit à travers nos valeurs, harmonisons nos efforts pour un monde meilleur. Prenons le temps d'être solidaires et bienveillants, car ensemble, nous pouvons créer des chemins qui mènent vers un monde meilleurs. que nous souhaitons de tous nos voeux.\
 \
 \
-Un grand merci à tous les membres actifs de l'association AAMC ainsi que les mamans qui nous ont soutenu à l'école de samedi, en cette année un peu spécial.\
+Un grand merci à tous les membres actifs de l'association AAMC ainsi que les mamans qui nous ont soutenu à l'école de samedi, en cette année un peu spéciale.\
 \
 \
 Enfin, l'Association AAMC présente ses vœux chaleureux d'amitiés et de solidarité envers l'association sœur ANSA (Normandie).\
@@ -69,6 +69,6 @@ AAMC ասոցիացիան և Evreux-Armenia կայքը\
 \
 \
 \
-**Շնորհավոր Ամանոր և Սուրբ Ծնունդ 2025****\
+**Շնորհավոր Ամանոր և Սուրբ Ծնունդ 2025\*\***\
 Au nom de tous les membres de l'association AAMC\
-Serge Tateossian, Evreux Le 30/12/2024**
+Serge Tateossian, Evreux Le 30/12/2024\*\*
