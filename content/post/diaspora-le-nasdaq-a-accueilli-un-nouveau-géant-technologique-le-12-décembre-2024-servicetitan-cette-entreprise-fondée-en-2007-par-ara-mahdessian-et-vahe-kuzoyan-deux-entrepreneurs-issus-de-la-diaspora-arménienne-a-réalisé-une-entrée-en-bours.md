@@ -16,6 +16,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/diaspora-nasdaq.jpeg
 image: assets/img/vahé-et-ara-technoloie.jpg
 ---
+Vahe Kuzoyan (à gauche) et Ara Mahdessian sont des immigrants arméniens arrivés aux États-Unis alors qu'ils étaient enfants\
+\
 ServiceTitan : une entrée au Nasdaq qui marque les esprits
 
 * Partager sur WhatsApp
