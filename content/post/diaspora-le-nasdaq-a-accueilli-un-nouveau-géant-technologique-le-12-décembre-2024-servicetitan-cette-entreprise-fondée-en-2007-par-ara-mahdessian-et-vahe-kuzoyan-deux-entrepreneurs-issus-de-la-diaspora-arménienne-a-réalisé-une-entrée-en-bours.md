@@ -57,4 +57,4 @@ Le 06/01/2025 Source Armenews\
 \
 **(﻿Information complémentaire)**\
 **Ara Mahdessian est né à Téhéran en plein guerre Iran-Irak dans un hôpital**\
-**éclairé par des générateurs de secours ; alors que la famille de Vahe Kuzoyan se préparait à fuir l'Arménie soviétique (cela se passe en 1985)**
+**éclairé par des générateurs de secours ; alors que la famille de Vahe Kuzoyan se préparait à fuir les conditions économiques difficiles de l'Arménie soviétique (cela se passe en 1985)**
