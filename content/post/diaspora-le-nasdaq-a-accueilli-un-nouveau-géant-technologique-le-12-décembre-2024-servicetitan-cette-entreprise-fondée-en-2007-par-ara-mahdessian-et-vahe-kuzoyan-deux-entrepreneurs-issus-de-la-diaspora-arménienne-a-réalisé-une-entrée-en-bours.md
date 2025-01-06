@@ -20,12 +20,6 @@ Vahe Kuzoyan (à gauche) et Ara Mahdessian sont des immigrants arméniens arriv�
 \
 ServiceTitan : une entrée au Nasdaq qui marque les esprits
 
-* Partager sur WhatsApp
-
-  Partager sur X
-
-  Partager sur LinkedIn
-
 [5 janvier 2025](https://www.armenews.com/servicetitan-une-entree-au-nasdaq-qui-marque-les-esprits/)
 
 par
