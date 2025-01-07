@@ -1,6 +1,6 @@
 ---
-title: Ara Malikian en tournée en France du 10 au 14 janvier  3 janvier 2025
-description: Ara Malikian en tournée en France du 10 au 14 janvier  3 janvier 2025
+title: Ara Malikian en tournée en France du 10 au 14 janvier 2025
+description: Ara Malikian en tournée en France du 10 au 14 janvier 2025
 summary: "Nous sommes heureux de vous annoncer le retour en France d’Ara
   Malikian, violoniste, pour une tournée exceptionnelle de 4 dates : Nice,
   Marseille Lyon et Paris pour son prochain spectacle Intruso du 10 au 14
