@@ -7,7 +7,7 @@ summary: Joseph Aoun, commandant en chef de l'armée libanaise a été élu jeud
 date: 2025-01-09T23:22:24.146Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/joseph-aoun-président-du-liban.avif
-image: assets/img/joseph-aoun-lecornu.avif
+image: ""
 ---
 # **Liban : qui est Joseph Aoun, le nouveau président de la République ?**
 
