@@ -9,7 +9,9 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/joseph-aoun-président-du-liban.avif
 image: assets/img/joseph-aoun-lecornu.avif
 ---
-# **Liban : qui est Joseph Aoun, le nouveau président de la République ?**
+# \
+\
+**Liban : qui est Joseph Aoun, le nouveau président de la République ?**
 
 MOYEN-ORIENT
 
@@ -74,8 +76,6 @@ Car certains ex-présidents au profil similaire ont laissé aux Libanais "un arr
 Michel Aoun était aussi un ancien commandant des forces armées libanaises, et les trois prédécesseurs étaient également issus des rangs de l'armée.
 
 *Avec AFP*
-
-
 
 \
 \
