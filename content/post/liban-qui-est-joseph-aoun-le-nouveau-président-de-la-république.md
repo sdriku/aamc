@@ -1,13 +1,13 @@
 ---
 title: "Liban : qui est Joseph Aoun, le nouveau président de la République ?"
-description: "Liban : qui est Joseph Aoun, le nouveau président de la République ?"
+description: "Liban : qui est Joseph Aoun, le nouveau président de la République "
 summary: Joseph Aoun, commandant en chef de l'armée libanaise a été élu jeudi 9
   janvier président du Liban à l'issue du second tour, par 99 voix sur un total
   de 128 députés
-date: 2025-01-09T23:22:24.146Z
+date: 2025-01-09T23:37:26.819Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/joseph-aoun-président-du-liban.avif
-image: ""
+image: assets/img/joseph-aoun-lecornu.avif
 ---
 # **Liban : qui est Joseph Aoun, le nouveau président de la République ?**
 
