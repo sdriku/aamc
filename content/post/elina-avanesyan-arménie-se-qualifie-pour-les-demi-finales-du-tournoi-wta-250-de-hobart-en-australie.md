@@ -5,7 +5,7 @@ description: Elina Avanesyan (Arménie) se qualifie pour les demi-finales du
   tournoi WTA-250 de Hobart en Australie
 summary: La joueuse de tennis Elina Avanesyan (22 ans), représentant l’Arménie,
   a atteint les demi-finales du tournoi WTA-250 de Hobart en Australie.
-date: 2025-01-09T23:46:41.646Z
+date: 2025-01-09T23:49:03.336Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/elina.jpg
 image: assets/img/elina.jpg
