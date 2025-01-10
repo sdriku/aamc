@@ -7,7 +7,7 @@ summary: Après deux ans sans président de la République, le Liban a désormai
   nouveau chef d’Etat. Il s’agit du commandant en chef de l’armée libanaise,
   Joseph Aoun, qui a été élu par les députés, jeudi 9 janvier, au second tour,
   obtenant 99 voix, sur 128 députés.
-date: 2025-01-10T00:13:02.812Z
+date: 2025-01-10T00:23:40.171Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/le-président-du-liban.avif
 image: assets/img/le-président-du-liban.avif
