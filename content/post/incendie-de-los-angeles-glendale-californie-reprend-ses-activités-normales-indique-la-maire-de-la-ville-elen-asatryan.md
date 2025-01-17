@@ -8,7 +8,7 @@ summary: Après les incendies dévastateurs de Los Angeles, la ville de Glendale
   sur sa page Instagram.  « Grâce à votre résilience et au dévouement de nos
   équipes, nous sommes maintenant au niveau d’urgence 3 », a-t-elle déclaré,
   s’adressant aux habitants, aux propriétaires d’entreprises et au personnel de
-  la ville. Un ville de près de 200 000 habitants dont 70% sont Arméniens.
+  la ville. Une ville de près de 200 000 habitants dont 70% sont Arméniens.
 date: 2025-01-17T23:29:20.941Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/glendale.jpeg
