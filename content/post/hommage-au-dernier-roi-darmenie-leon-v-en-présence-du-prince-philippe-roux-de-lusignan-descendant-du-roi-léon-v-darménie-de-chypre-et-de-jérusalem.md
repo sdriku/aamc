@@ -31,9 +31,11 @@ Cet hommage a été organisé par mon ami, Le Prince Philippe Roux de Lusignan, 
 * Et de nombreuses personnalités.
 
 \
-Hommage en vidéo : \
+Hommage en vidéo :  
+
 \
-Lien  youtube https://youtu.be/zUKcBf7MgGA
+\
+youtube https://youtu.be/zUKcBf7MgGA
 
 
 
