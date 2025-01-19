@@ -86,5 +86,5 @@ La langue française reste au cœur de la mission de l’atelier, non seulement 
 
 <!--EndFragment-->\
 \
-S﻿erge Tateossian Evreux     - 19/01/2025   \
- Source : Le Courrier d'Erevan (l'information francophone en Arménie)
+**S﻿erge Tateossian Evreux     - 19/01/2025**   \
+ **Source : Le Courrier d'Erevan (l'information francophone en Arménie)**
