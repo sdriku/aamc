@@ -35,9 +35,7 @@ Hommage en vidéo :
 
 \
 \
-youtube https://youtu.be/zUKcBf7MgGA
-
-
+ https://youtu.be/zUKcBf7MgGA
 
 Pour moi, le fait que le dernier roi d’Arménie soit un français représente un des deux symboles les plus forts qui lient les nations française et arménienne.
 L’autre symbole étant l’opération d’évacuation des Arméniens du Musa Dagh par la Marine française en septembre 1915, pendant le génocide des Arméniens.
