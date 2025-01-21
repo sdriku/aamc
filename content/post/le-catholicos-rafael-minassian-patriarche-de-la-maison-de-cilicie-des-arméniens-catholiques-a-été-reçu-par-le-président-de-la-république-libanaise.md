@@ -13,7 +13,7 @@ image: assets/img/catholique-arménien.jpg
 ---
  Le Catholicos Rafael Menasian Patriarche de la maison de Cilicie pour les arméniens catholiques accompagné d'une délégation a été reçu par le Président de la République libanaise :\
 \
-La Catholicos se dit Prêt à travailler et à se sacrifier pour la réussite du mandat du Président et appelle tous les libanais à soutenir le Présidnet.
+La Catholicos se dit Prêt à travailler et à se sacrifier pour la réussite du mandat du Président et appelle tous les libanais à soutenir le Président.
 
 Le Président Aoun rappelle que le Liban grandit avec tous ses enfants de toute les communautés confessionnelles, et remercie le Catholicos.\
 \
