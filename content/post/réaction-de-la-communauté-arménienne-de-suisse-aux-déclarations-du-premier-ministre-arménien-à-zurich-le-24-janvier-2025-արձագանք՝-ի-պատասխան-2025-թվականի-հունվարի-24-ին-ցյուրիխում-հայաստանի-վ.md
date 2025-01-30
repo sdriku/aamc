@@ -22,17 +22,6 @@ image: assets/img/pachinyan-sketch.jpeg
 
 # Réaction de la communauté arménienne de Suisse aux déclarations du Premier ministre arménien à Zurich le 24 janvier 2025
 
-* [Partager sur Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.armenews.com%2Freaction-de-la-communaute-armenienne-de-suisse-aux-declarations-du-premier-ministre-armenien-a-zurich-le-24-janvier-2025%2F&title=R%C3%A9action%20de%20la%20communaut%C3%A9%20arm%C3%A9nienne%20de%20Suisse%20aux%20d%C3%A9clarations%20du%20Premier%20ministre%20arm%C3%A9nien%20%C3%A0%20Zurich%20le%2024%20janvier%202025)
-* [Partager sur LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.armenews.com%2Freaction-de-la-communaute-armenienne-de-suisse-aux-declarations-du-premier-ministre-armenien-a-zurich-le-24-janvier-2025%2F&title=R%C3%A9action%20de%20la%20communaut%C3%A9%20arm%C3%A9nienne%20de%20Suisse%20aux%20d%C3%A9clarations%20du%20Premier%20ministre%20arm%C3%A9nien%20%C3%A0%20Zurich%20le%2024%20janvier%202025)
-* [Partager sur X](https://x.com/share?url=https%3A%2F%2Fwww.armenews.com%2Freaction-de-la-communaute-armenienne-de-suisse-aux-declarations-du-premier-ministre-armenien-a-zurich-le-24-janvier-2025%2F&text=R%C3%A9action%20de%20la%20communaut%C3%A9%20arm%C3%A9nienne%20de%20Suisse%20aux%20d%C3%A9clarations%20du%20Premier%20ministre%20arm%C3%A9nien%20%C3%A0%20Zurich%20le%2024%20janvier%202025)
-* [Partager sur WhatsApp](https://api.whatsapp.com/send?text=R%C3%A9action%20de%20la%20communaut%C3%A9%20arm%C3%A9nienne%20de%20Suisse%20aux%20d%C3%A9clarations%20du%20Premier%20ministre%20arm%C3%A9nien%20%C3%A0%20Zurich%20le%2024%20janvier%202025%20%E2%80%94%20https%3A%2F%2Fwww.armenews.com%2Freaction-de-la-communaute-armenienne-de-suisse-aux-declarations-du-premier-ministre-armenien-a-zurich-le-24-janvier-2025%2F)
-
-[30 janvier 2025](https://www.armenews.com/reaction-de-la-communaute-armenienne-de-suisse-aux-declarations-du-premier-ministre-armenien-a-zurich-le-24-janvier-2025/)
-
-–
-
-par
-
 [La rédaction](https://www.armenews.com/author/toranian/)
 
 [Communauté](https://www.armenews.com/categorie/communaute/)
