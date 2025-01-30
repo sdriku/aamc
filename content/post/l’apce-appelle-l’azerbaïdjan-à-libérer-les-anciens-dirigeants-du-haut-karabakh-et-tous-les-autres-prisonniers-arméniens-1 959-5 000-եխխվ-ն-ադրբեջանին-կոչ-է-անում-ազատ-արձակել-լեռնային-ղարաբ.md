@@ -1,8 +1,8 @@
 ---
 title: L’APCE appelle l’Azerbaïdjan à libérer les anciens dirigeants du
-  Haut-Karabakh et tous les autres prisonniers Arméniens -  1 959 / 5 000 ԵԽԽՎ-ն
-  Ադրբեջանին կոչ է անում ազատ արձակել Լեռնային Ղարաբաղի նախկին ղեկավարներին և
-  մնացած բոլոր հայ գերիներին
+  Haut-Karabakh et tous les autres prisonniers Arméniens -  ԵԽԽՎ-ն Ադրբեջանին
+  կոչ է անում ազատ արձակել Լեռնային Ղարաբաղի նախկին ղեկավարներին և մնացած բոլոր
+  հայ գերիներին
 description: L’APCE appelle l’Azerbaïdjan à libérer les anciens dirigeants du
   Haut-Karabakh et tous les autres prisonniers Arméniens -  1 959 / 5 000 ԵԽԽՎ-ն
   Ադրբեջանին կոչ է անում ազատ արձակել Լեռնային Ղարաբաղի նախկին ղեկավարներին և
