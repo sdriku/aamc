@@ -15,8 +15,8 @@ summary: Le Conseil des Associations Arméniennes et Arménophiles de Suisses
   contre l’humanité et sa reconnaissance internationale.
 date: 2025-01-30T15:03:21.368Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/sarkis-shahinian.jpeg
-image: assets/img/sarkis-shahinian.jpeg
+thumbnailImage: assets/img/pachinyan-sketch.jpeg
+image: assets/img/pachinyan-sketch.jpeg
 ---
 <!--StartFragment-->
 
