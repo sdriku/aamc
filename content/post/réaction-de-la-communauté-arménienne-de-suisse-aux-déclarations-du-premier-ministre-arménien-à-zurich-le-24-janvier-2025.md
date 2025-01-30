@@ -11,10 +11,10 @@ summary: Le Conseil des Associations Arméniennes et Arménophiles de Suisses
   Arméniens et suscitent des interrogations légitimes quant à l’engagement du
   gouvernement arménien envers la compréhension, dans sa totalité, de ce crime
   contre l’humanité et sa reconnaissance internationale
-date: 2025-01-30T15:41:43.820Z
+date: 2025-01-30T16:07:20.252Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/caas.jpg
-image: assets/img/caas.jpg
+thumbnailImage: assets/img/juge-cour-européenne-des-droits-de-l-homme.jpg
+image: assets/img/juge-cour-européenne-des-droits-de-l-homme.jpg
 ---
 <!--StartFragment-->
 
