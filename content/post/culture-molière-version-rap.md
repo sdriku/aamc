@@ -16,8 +16,6 @@ image: assets/img/molière-version-rap.png
 
 [3 février 2025](https://www.armenews.com/moliere-version-rap/)
 
-–
-
 par
 
 [Naïri](https://www.armenews.com/author/carolik/)
