@@ -44,13 +44,9 @@ par
 
 [2025](https://www.armenews.com/lambassadeur-darmenie-en-france-arman-khachatryan-a-rencontre-le-conseiller-militaire-du-president-francais-chef-detat-major-special-le-general-darmee-fabien-mandon/)
 
-
-
 L’ambassade d’Arménie à Paris communique que l’ambassadeur d’Arménie en France, S.E. Arman Khachatryan a rencontré le conseiller militaire du président français, chef d’état-major spécial, le général d’armée Fabien Mandon.
 
 Au cours de la réunion, les relations amicales entre l’Arménie et la France ont été débattues, y compris un large éventail de questions liées à la coopération indique dans le communiqué l’ambassade d’Arménie à Paris.
-
- 
 
 \
 \
@@ -58,15 +54,6 @@ Au cours de la réunion, les relations amicales entre l’Arménie et la France 
 \
 \
 ![](https://www.armenews.com/wp-content/uploads/2025/02/3322.jpg)\
-\
-\
-\
-\
-\
-\
-\
-\
-\
 \
 \
 \
