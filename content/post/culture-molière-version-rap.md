@@ -12,12 +12,7 @@ image: assets/img/molière-version-rap.png
 ---
 <!--StartFragment-->
 
-# Molière version rap
-
-* [Partager sur Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.armenews.com%2Fmoliere-version-rap%2F&title=Moli%C3%A8re%20version%20rap)
-* [Partager sur LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.armenews.com%2Fmoliere-version-rap%2F&title=Moli%C3%A8re%20version%20rap)
-* [Partager sur X](https://x.com/share?url=https%3A%2F%2Fwww.armenews.com%2Fmoliere-version-rap%2F&text=Moli%C3%A8re%20version%20rap)
-* [Partager sur WhatsApp](https://api.whatsapp.com/send?text=Moli%C3%A8re%20version%20rap%20%E2%80%94%20https%3A%2F%2Fwww.armenews.com%2Fmoliere-version-rap%2F)
+# Molière version r[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.armenews.com%2Fmoliere-version-rap%2F&title=Moli%C3%A8re%20version%20rap)
 
 [3 février 2025](https://www.armenews.com/moliere-version-rap/)
 
@@ -48,7 +43,6 @@ Théâtre de la Madeleine, 19 rue de Surène 75008 Paris\
 
 ![](https://www.armenews.com/wp-content/uploads/2025/01/affiche-212x300.png)
 
-
-
 <!--EndFragment-->\
+
 S﻿erge Tateossian Evreux   le 04/02/2025     Source : Armenews
