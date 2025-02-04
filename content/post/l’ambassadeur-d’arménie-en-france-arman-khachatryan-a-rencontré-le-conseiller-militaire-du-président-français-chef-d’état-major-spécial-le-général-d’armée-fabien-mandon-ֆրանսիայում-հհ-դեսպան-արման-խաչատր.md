@@ -50,9 +50,6 @@ Au cours de la réunion, les relations amicales entre l’Arménie et la France 
 
 \
 \
-\
-\
-\
 ![](https://www.armenews.com/wp-content/uploads/2025/02/3322.jpg)\
 \
 \
