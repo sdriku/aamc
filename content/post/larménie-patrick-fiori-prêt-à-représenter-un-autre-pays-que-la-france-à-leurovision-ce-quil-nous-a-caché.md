@@ -11,8 +11,8 @@ summary: "L’Eurovision 2025 approche à grands pas, et cette année, c’est L
   représenter… un autre pays !"
 date: 2025-02-09T22:30:53.002Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/patrick-fiori.webp
-image: assets/img/patrick-fiori.webp
+thumbnailImage: assets/img/patrick-f.jpg
+image: assets/img/patrick-f.jpg
 ---
 Eurovision : Patrick Fiori dévoile le pays qu’il songe à représenter… et ce n’est pas la France !Le 09/02/2025 à 15h31  par Coralie Vincent
 Crédits photos : BEST_IMAGE﻿\
