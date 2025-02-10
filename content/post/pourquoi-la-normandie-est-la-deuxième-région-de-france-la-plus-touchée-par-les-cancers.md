@@ -10,8 +10,8 @@ summary: Ce mardi 4 février 2025, c'est la journée mondiale contre le cancer,
   l'alcool.
 date: 2025-02-06T00:11:25.555Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/maladie-cancer.avif
-image: assets/img/maladie-cancer.avif
+thumbnailImage: 
+image: 
 ---
 <!--StartFragment-->
 
