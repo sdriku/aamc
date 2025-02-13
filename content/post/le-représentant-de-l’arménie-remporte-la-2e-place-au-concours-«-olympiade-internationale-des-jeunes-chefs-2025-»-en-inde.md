@@ -16,11 +16,7 @@ image: assets/img/jeune-chef-concours.jpg
 
 * Partager sur WhatsApp
 
-  Partager sur X
 
-  Partager sur LinkedIn
-
-  Partager sur Facebook
 
 [13 février 2025](https://www.armenews.com/le-representant-de-larmenie-remporte-la-2e-place-au-concours-olympiade-internationale-des-jeunes-chefs-2025-en-inde/)
 
@@ -41,7 +37,5 @@ Des représentants d’environ 60 pays ont participé au concours *« XIe Olymp
 Afin de sélectionner les délégués aux concours internationaux de la République d’Arménie, le concours *« Jeune étudiant chef »* a été organisé à Yerevan en 2024 dans le cadre de l’événement , qui a été remporté par Arsen Armenakyan, étudiant du Collège professionnel d’État d’Erevan n° 6 (maître de formation à la production Edita Parsamyan).
 
 En préparation du plus grand concours culinaire international, Arsen Armenakyan a été encadré par le célèbre chef Arbi Gharakhani (assistant : Gor Gabrielyan).
-
- 
 
 Krikor Amirzayan
