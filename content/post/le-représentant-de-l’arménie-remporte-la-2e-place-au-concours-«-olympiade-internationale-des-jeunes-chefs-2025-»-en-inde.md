@@ -14,8 +14,6 @@ image: assets/img/jeune-chef-concours.jpg
 ---
 **Le représentant de l’Arménie remporte la 2e place au concours « Olympiade internationale des jeunes chefs-2025 » en Inde**
 
-* Partager sur WhatsApp
-
 
 
 [13 février 2025](https://www.armenews.com/le-representant-de-larmenie-remporte-la-2e-place-au-concours-olympiade-internationale-des-jeunes-chefs-2025-en-inde/)
