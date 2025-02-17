@@ -1,6 +1,7 @@
 ---
-title: Parg avec sa chanson « Survivor » représentera l’Arménie au Concours
-  Eurovision de la chanson 2025 en mai prochain à Bâle (Suisse)
+title: "Concours Eurovision 2025 : Parg avec sa chanson « Survivor »
+  représentera l’Arménie au Concours Eurovision de la chanson 2025 en mai
+  prochain à Bâle (Suisse)"
 description: Parg avec sa chanson « Survivor » représentera l’Arménie au
   Concours Eurovision de la chanson 2025 en mai prochain à Bâle (Suisse)
 summary: La sélection du délégué de l’Arménie dans le cadre du projet « Vers
