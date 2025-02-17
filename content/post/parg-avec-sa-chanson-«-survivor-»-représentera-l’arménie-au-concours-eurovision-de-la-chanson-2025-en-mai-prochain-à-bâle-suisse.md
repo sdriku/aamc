@@ -40,6 +40,6 @@ La sélection du délégué de l’Arménie dans le cadre du projet « Vers l’
 
 Krikor Amirzayan
 
-[PARG - SURVIVOR (Official Audio) Depi Evratesil 2025](https://www.youtube.com/embed/zySCY9ZY3Ks?feature=oembed)
+V﻿idéo : [PARG - SURVIVOR (Official Audio) Depi Evratesil 2025](https://www.youtube.com/embed/zySCY9ZY3Ks?feature=oembed)
 
 <!--EndFragment-->
