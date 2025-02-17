@@ -16,11 +16,6 @@ image: assets/img/eurovision-2025.webp
 
 # Parg avec sa chanson « Survivor » représentera l’Arménie au Concours Eurovision de la chanson 2025 en mai prochain à Bâle (Suisse)
 
-* [Partager sur Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.armenews.com%2Fparg-avec-sa-chanson-survivor-representera-larmenie-au-concours-eurovision-de-la-chanson-2025-en-mai-prochain-a-bale-suisse%2F&title=Parg%20avec%20sa%20chanson%20%C2%AB%20Survivor%20%C2%BB%20repr%C3%A9sentera%20l%26rsquo%3BArm%C3%A9nie%20au%20Concours%20Eurovision%20de%20la%20chanson%202025%20en%20mai%20prochain%20%C3%A0%20B%C3%A2le%20%28Suisse%29)
-* [Partager sur LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.armenews.com%2Fparg-avec-sa-chanson-survivor-representera-larmenie-au-concours-eurovision-de-la-chanson-2025-en-mai-prochain-a-bale-suisse%2F&title=Parg%20avec%20sa%20chanson%20%C2%AB%20Survivor%20%C2%BB%20repr%C3%A9sentera%20l%26rsquo%3BArm%C3%A9nie%20au%20Concours%20Eurovision%20de%20la%20chanson%202025%20en%20mai%20prochain%20%C3%A0%20B%C3%A2le%20%28Suisse%29)
-* [Partager sur X](https://x.com/share?url=https%3A%2F%2Fwww.armenews.com%2Fparg-avec-sa-chanson-survivor-representera-larmenie-au-concours-eurovision-de-la-chanson-2025-en-mai-prochain-a-bale-suisse%2F&text=Parg%20avec%20sa%20chanson%20%C2%AB%20Survivor%20%C2%BB%20repr%C3%A9sentera%20l%26rsquo%3BArm%C3%A9nie%20au%20Concours%20Eurovision%20de%20la%20chanson%202025%20en%20mai%20prochain%20%C3%A0%20B%C3%A2le%20%28Suisse%29)
-* [Partager sur WhatsApp](https://api.whatsapp.com/send?text=Parg%20avec%20sa%20chanson%20%C2%AB%20Survivor%20%C2%BB%20repr%C3%A9sentera%20l%26rsquo%3BArm%C3%A9nie%20au%20Concours%20Eurovision%20de%20la%20chanson%202025%20en%20mai%20prochain%20%C3%A0%20B%C3%A2le%20%28Suisse%29%20%E2%80%94%20https%3A%2F%2Fwww.armenews.com%2Fparg-avec-sa-chanson-survivor-representera-larmenie-au-concours-eurovision-de-la-chanson-2025-en-mai-prochain-a-bale-suisse%2F)
-
 [16 février 2025](https://www.armenews.com/parg-avec-sa-chanson-survivor-representera-larmenie-au-concours-eurovision-de-la-chanson-2025-en-mai-prochain-a-bale-suisse/)
 
 –
