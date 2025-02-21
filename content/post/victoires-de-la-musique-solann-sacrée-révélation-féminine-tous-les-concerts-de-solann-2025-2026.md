@@ -11,26 +11,15 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/solann-2025.webp
 image: assets/img/solann.webp
 ---
-Victoires de la musique: Solann sacrée révélation fémininePartager sur Facebook
-Partager sur LinkedIn
-Partager sur X\
+Victoires de la musique: Solann sacrée révélation féminine Partager sur Facebook
+\
 \
 
 Partager sur WhatsApp
 15 février 2025
 –
 
-par
 
-La rédaction
-Culture
-©armenews.com
-
-2025
-
-\
-\
-<!--StartFragment-->
 
 ## Tous les concerts de Solann
 
@@ -203,6 +192,10 @@ Culture
   39,90 € - 59,90 €
 
 <!--EndFragment-->\
+
+\
 https://www.jds.fr/artistes/solann-9984_N\
+\
+\
 \
 https://youtu.be/DAf_ApQNQlU
