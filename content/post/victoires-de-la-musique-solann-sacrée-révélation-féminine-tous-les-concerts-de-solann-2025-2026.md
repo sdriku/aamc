@@ -12,12 +12,10 @@ thumbnailImage: assets/img/solann-2025.webp
 image: assets/img/solann.webp
 ---
 Victoires de la musique: Solann sacrée révélation féminine Partager sur Facebook
-\
-\
+
 
 Partager sur WhatsApp
 15 février 2025
-–
 
 
 
