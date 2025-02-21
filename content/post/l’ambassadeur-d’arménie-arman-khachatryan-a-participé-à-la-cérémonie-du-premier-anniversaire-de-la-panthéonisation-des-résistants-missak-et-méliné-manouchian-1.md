@@ -19,8 +19,7 @@ thumbnailImage: assets/img/panthéon-manouchian.webp
 image: assets/img/panthéon-missak-manouchian.webp
 ---
 Photos\
-https://www.armenews.com/lambassadeur-darmenie-arman-khachatryan-a-participe-a-la-ceremonie-du-premier-anniversaire-de-la-pantheonisation-des-resistants-missak-et-meline-manouchian/\
-\
+https://www.armenews.com/lambassadeur-darmenie-arman-khachatryan-a-participe-a-la-ceremonie-du-premier-anniversaire-de-la-pantheonisation-des-resistants-missak-et-meline-manouc
 
 <!--StartFragment-->
 
@@ -34,8 +33,6 @@ https://www.armenews.com/lambassadeur-darmenie-arman-khachatryan-a-participe-a-l
 * [Partager sur WhatsApp](https://api.whatsapp.com/send?text=L%E2%80%99Ambassadeur%20d%E2%80%99Arm%C3%A9nie%20Arman%20Khachatryan%20a%20particip%C3%A9%20%C3%A0%20la%20c%C3%A9r%C3%A9monie%20du%20premier%20anniversaire%20de%20la%20panth%C3%A9onisation%20des%20r%C3%A9sistants%20Missak%20et%20M%C3%A9lin%C3%A9%20Manouchian%20%E2%80%94%20https%3A%2F%2Fwww.armenews.com%2Flambassadeur-darmenie-arman-khachatryan-a-participe-a-la-ceremonie-du-premier-anniversaire-de-la-pantheonisation-des-resistants-missak-et-meline-manouchian%2F)
 
 [21 février 2025](https://www.armenews.com/lambassadeur-darmenie-arman-khachatryan-a-participe-a-la-ceremonie-du-premier-anniversaire-de-la-pantheonisation-des-resistants-missak-et-meline-manouchian/)
-
-–
 
 par
 
