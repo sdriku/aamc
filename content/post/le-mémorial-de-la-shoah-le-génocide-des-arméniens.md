@@ -36,8 +36,6 @@ La légende veut que les **Arméniens** descendent de **Haïk, arrière-arri�
 
 **L’adoption précoce du christianisme** (IVe siècle), une Église nationale et la création d’un alphabet (Ve siècle) ont forgé une identité forte, qui a survécu même en l’absence d’État. Le dernier, le royaume de Cilicie, disparaît en 1375. L’Arménie est bientôt partagée entre les empires ottoman et persan.
 
- 
-
 ## L’INACCESSIBLE ÉGALITÉ DES DROITS
 
 ![Recueil des différents costumes des principaux officiers et magistrats de la Porte et des peuples sujets de l’Empire ottoman.](http://genocide-des-armeniens.memorialdelashoah.org/img/principale_1_2.jpg)
@@ -50,8 +48,6 @@ Face à l’expansion de la puissance rivale russe dans les Balkans et au Caucas
 
 Mais le coût des réformes paupérise la population rurale, tandis que s’accroissent la pression sur la terre et l’insécurité dans les provinces orientales, du fait des tribus kurdes et de l’arrivée massive de réfugiés musulmans chassés par la conquête russe. Au 13 juin-13 juillet 1878, en posant la nécessité de réformes pour l’amélioration du sort des Arméniens de l’Empire ottoman, que la Russie vient de battre dans les Balkans et au Caucase, le congrès de Berlin internationalise la Question arménienne. Congrès de Berlin, la Question arménienne entre sur la scène internationale comme élément de la Chronique, de 1774 à 1923, du déclin de l’Empire ottoman jusqu’à son éclatement, en raison de son mode de gouvernance et de son incapacité à se réformer, et du fait de l’intervention – militaire, économique, culturelle, humanitaire – des puissances européennes en rivalité pour le partage des dépouilles.
 
- 
-
 ## LA POLITIQUE DU SULTAN : LE TEMPS DES MASSACRES
 
 Hanté par le danger révolutionnaire et la montée des séparatismes des Balkans aux provinces arabes, Sultan de l’Empire ottoman et calife des musulmans, de la déposition de son frère Mourad V le 31 août 1876 à sa propre destitution par les Jeunes-Turcs le 27 avril 1909.Abdülhamid II suspecte une éventuelle tentation indépendantiste des Arméniens qui aurait l’appui de l’ennemi russe et des puissances européennes. Il suspend la constitution de 1876 à peine promulguée, opte pour un régime policier et une politique panislamiste.
@@ -59,8 +55,6 @@ Hanté par le danger révolutionnaire et la montée des séparatismes des Balkan
 Créés sur le modèle des Cosaques, les régiments de cavalerie tribaux *hamidiye* font régner la terreur. Déçus par les promesses de réformes non appliquées, les Arméniens commencent à s’organiser autour de partis politiques qui prônent l’émancipation sociale et nationale ainsi que l’autodéfense.
 
 Le sultan réplique par des massacres de masse : plus de 200 000 morts, des milliers d’orphelins, des conversions forcées, l’exode vers le Caucase russe, la Perse ou les États-Unis. L’opinion publique européenne s’indigne et un large mouvement arménophile mobilise des personnalités issues de tous les courants politiques. Le sultan promet à nouveau des réformes, tout en jetant l’opprobre sur les victimes, relayé par une presse achetée et quelques intellectuels « amis ».
-
- 
 
 ## LES ESPOIRS DÉÇUS DE LA RÉVOLUTION CONSTITUTIONNELLE JEUNE-TURQUE
 
@@ -84,8 +78,6 @@ Parti unique, contrôlant tous les rouages administratifs et militaires, le **C
 
 **Dès le 3 août 1914,** un décret de mobilisation générale, incluant les Arméniens, avait été promulgué. Le Comité central du CUP décide aussi de la formation d’une organisation spéciale (OS), la *Teşkilât-ı Mahsusa*, un groupe paramilitaire chargé de la lutte contre les « tumeurs internes ». L’entrée en guerre permet également de légitimer les réquisitions militaires, s’apparentant à un pillage, visant entrepreneurs arméniens et grecs.
 
- 
-
 ## VERS UN PROJET D’ÉRADICATION TOTALE DES ARMÉNIENS
 
 ![Villageois kurdes dans le quartier arménien de Van. Empire ottoman, 1916](http://genocide-des-armeniens.memorialdelashoah.org/img/principale_2_2.jpg)
@@ -97,8 +89,6 @@ La terminologie des Unionistes, qualifiant les Arméniens de « tumeurs internes
 Le désastre militaire de *Sarıkamış* sur le front du Caucase face aux Russes, les 2 et 3 janvier 1915, a certainement décidé le Comité central jeune-turc à compenser ces revers cinglants par une politique intérieure encore plus radicale à l’égard des Arméniens, avec l’appui de l’OS.
 
 L’offensive ottomane sur le front caucasien s’accompagne déjà de massacres localisés, le long de la frontière avec la Russie et la Perse. La population arménienne d’une vingtaine de villages est massacrée, y compris en Azerbaïdjan persan, où des chefs tribaux kurdes se joignent aux contingents de l’armée ottomane.
-
- 
 
 ## LA MISE EN ŒUVRE DE LA DESTRUCTION DES ARMÉNIENS
 
@@ -116,13 +106,9 @@ L’élimination des Arméniens des six Subdivision administrative équivalente
 
 L’ultime étape du processus de destruction a pour cadre les vingt-cinq camps de concentration de Syrie et de Haute-Mésopotamie mis en place à partir d’octobre 1915, et qui accueillent environ 800 000 déportés. D’avril à décembre 1916, quelque 500 000 Arméniens qui y survivent encore sont systématiquement massacrés, en particulier sur les sites de *Ras ul-Ayn* et *Deir es-Zor*.
 
- 
-
 ## LA FIN D’UN MONDE
 
 Au lendemain de **l’armistice de Moudros**, on recense quelque 300 000 rescapés, principalement des femmes et des enfants, qui pourront retourner dans leurs foyers ou seront recueillis dans des refuges et des orphelinats gérés par des organisations caritatives arméniennes ou étrangères, dont le Near East Relief américain.
-
- 
 
 ### Bilan
 
@@ -139,8 +125,6 @@ Au lendemain de **l’armistice de Moudros**, on recense quelque 300 000 rescap
 * Près de 400 000 morts dans les camps de concentration d’octobre 1915 à juin 1916.
 * Près de 300 000 autres internés des camps massacrés entre juillet et novembre 1916.
 
- 
-
 ### Rescapés
 
 **Environ 700 000 Arméniens ottomans :**
@@ -149,8 +133,6 @@ Au lendemain de **l’armistice de Moudros**, on recense quelque 300 000 rescap
 * Plusieurs dizaines de milliers à avoir fui vers le Caucase russe.
 * Des milliers d’artisans et leurs familles convertis et maintenus sur place.
 * Environ 100 000 rescapés des camps ou des lieux de relégation retrouvés en Syrie, en Mésopotamie, en Palestine, en Jordanie, au Sinaï.
-
- 
 
 ## EXCLURE DU TERRITOIRE
 
@@ -163,8 +145,6 @@ Passeport d’Hagop Handjian portant la mention « Retour interdit » délivré 
 Avec la création de la République de Turquie en 1923, les preuves du programme d’extermination administrées lors des Procès par des tribunaux turcs, au lendemain de la guerre, des principaux responsables du génocide des Arméniens, et condamnés à mort par contumace (1919-1920).procès de Constantinople sont effacées, et les rescapés revenus dans leurs foyers à nouveau chassés.
 
 Le premier recensement de la Turquie républicaine en 1927 ne comptabilise plus que 65 000 Arméniens. Dans l’histoire officielle de la Turquie, rédigée dans les années 1930, l’Arménie n’est pas mentionnée, comme si les Arméniens n’avaient existé que comme rebelles et traîtres à la patrie. Les assassins de la mémoire prennent le relais des tueurs.
-
- 
 
 ## EFFACER DE L’HISTOIRE
 
@@ -180,4 +160,5 @@ Tandis que la recherche scientifique conduite par historiens et juristes confirm
 
 La tabatière de Serpouhie. « Cette tabatière porte le souffle de ma mère, et je voudrais qu’elle retourne dans une famille arménienne ». © Bardig Kouyoumdjian.
 
-<!--EndFragment-->
+<!--EndFragment-->\
+S﻿erge Tateossian Evreux     Le 28/02/2025    Source : Le Mémorial de la Shoah
