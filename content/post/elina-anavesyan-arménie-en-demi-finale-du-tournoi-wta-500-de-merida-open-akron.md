@@ -9,8 +9,8 @@ summary: Au tournoi WTA-500 de Merida Open Akron au Mexique, Elina Avanesyan
   ainsi une grande chance d’accéder à la finale du tournoi.
 date: 2025-03-01T22:57:29.904Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/elina-avanesyan-3.avif
-image: assets/img/elina-avanesyan-3.avif
+thumbnailImage: assets/img/elina-avanesyan-2.jpg
+image: assets/img/elina-avanesyan-2.jpg
 ---
 <!--StartFragment-->
 
