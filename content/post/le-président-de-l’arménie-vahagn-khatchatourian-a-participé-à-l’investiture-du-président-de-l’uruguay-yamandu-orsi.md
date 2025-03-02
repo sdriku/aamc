@@ -6,8 +6,8 @@ description: Le Président de l’Arménie Vahagn Khatchatourian a participé à
 summary: "Le président de la République d’Arménie, Vahagn Khatchatourian, qui se
   trouve après l’Argentine, en Uruguay pour une visite de travail, a participé
   aux cérémonies d’investiture et de transfert de pouvoir du nouveau président
-  élu de l’Uruguay, Yamando Orsi. (C'est en 1965 que l'Uruguay a reconnu le
-  génocide arménien). "
+  élu de l’Uruguay, Yamando Orsi. (En1965 l'Uruguay fût le premier pays à
+  reconnaître le génocide arménien). "
 date: 2025-03-02T21:38:03.242Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/uruguay-arménie.webp
