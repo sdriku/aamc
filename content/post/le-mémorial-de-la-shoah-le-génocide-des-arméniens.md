@@ -161,4 +161,8 @@ Tandis que la recherche scientifique conduite par historiens et juristes confirm
 La tabatière de Serpouhie. « Cette tabatière porte le souffle de ma mère, et je voudrais qu’elle retourne dans une famille arménienne ». © Bardig Kouyoumdjian.
 
 <!--EndFragment-->\
+
+\
+https://www.memorialdelashoah.org/archives-et-documentation/genocides-xx-siecle/le-genocide-des-armeniens.html\
+\
 S﻿erge Tateossian Evreux     Le 28/02/2025    Source : Le Mémorial de la Shoah
