@@ -15,7 +15,8 @@ thumbnailImage: assets/img/anora-2.webp
 image: assets/img/anora-1.webp
 ---
 https://youtu.be/xcU_JQB_t7M\
-\
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Falec.yaverian%2Fvideos%2F1148134309778760%2F%3Fidorvanity%3D1389492271374451&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 <!--StartFragment-->
 
 # Le film « Anora » avec les acteurs Arméniens Vatche Tovmasyan et Karen Karagulyan remporte 5 Oscars à Hollywood
@@ -56,8 +57,6 @@ Vatche Tovmasyan a posté une *« story »* sur Instagram dans laquelle lui et
 Les acteurs Arméniens exhibent ensuite les statuettes des Oscars qu’ils ont remportées.
 
 Ainsi lors des Oscars, *« Anora »* a remporté le prix du meilleur film, de la meilleure actrice (Mikey Madison), du meilleur montage, du meilleur réalisateur (Sean Baker) et du meilleur scénario original.
-
- 
 
 Krikor Amirzayan
 
