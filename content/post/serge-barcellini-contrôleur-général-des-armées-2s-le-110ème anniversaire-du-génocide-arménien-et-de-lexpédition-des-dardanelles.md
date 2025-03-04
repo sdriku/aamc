@@ -24,14 +24,6 @@ image: assets/img/la-lettre-d-information-du-souvenir-français-2.jpg
 
 ![](https://ci3.googleusercontent.com/meips/ADKq_Na1VhEYqoS8nBAQRSzCNL0dFRtkiYcXkPD8WeXkqW5niCwiaJyJDJT_Wop2ZOlvnMou2U15vCz-RHZzP4B2RKJTD72BJh1xWjSyOJ27JfQF1bAzUemiJYQdScP_o3USAP-hWBn9yssqwSO4xL5IR6wqxtngxfPDyy6BTTxn9GLPzWYPzmK3R41IwpnR3OJzrfg=s0-d-e1-ft#https://img.news-souvenir-francais.fr/5a6841cfb85b536a9f4beade/7JB5IHiuRaSXYfBU8F218g/BEFgbxXBQuqUKVpjipeUkg-Musa%20Ler.jpg "Mémorial de Musaler (Arménie)")
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-![](https://ci3.googleusercontent.com/meips/ADKq_NYbIgEoSgVXTqi1ZLtzidEJmfmehYGChhZaN02qTpx8NeuxpVwa9W3Xdv-L9Uw1b9J4WKXnqfhIbVTXTxTgfUCU20SOHH2Ln39odVl7dqdOg6jnqFnusR6ZZJsRd4lG2WheuDhMjrmixTAqBO87n2m25_VUlCmgazG3BAt1616ULkpPuAgzsMfwwLqREuwmQxgU2d2jTArucSEOBIpE=s0-d-e1-ft#https://img.news-souvenir-francais.fr/5a6841cfb85b536a9f4beade/7JB5IHiuRaSXYfBU8F218g/BEFgbxXBQuqUKVpjipeUkg-Titre%20news%20%281%29.jpg)
-
-<!--EndFragment-->\
-
 \
 \
 ***C'était il y a 110 ans***
