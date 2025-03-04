@@ -1,7 +1,7 @@
 ---
 title: "Serge BARCELLINI Contrôleur Général des Armées (2s) : Le
   110ème anniversaire du génocide arménien et de l'expédition des Dardanelles
-  (Lettre d'information No 103, Mars 2025)"
+  (La Lettre No 103, Mars 2025)"
 description: "Serge BARCELLINI Contrôleur Général des Armées (2s) : Le
   110ème anniversaire du génocide arménien et de l'expédition des Dardanelles"
 summary: Des seconds, rappelons la mise en œuvre du génocide arménien, entre
