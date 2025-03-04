@@ -1,0 +1,92 @@
+---
+title: "Serge BARCELLINI Contrôleur Général des Armées (2s) : Le
+  110ème anniversaire du génocide arménien et de l'expédition des Dardanelles"
+description: "Serge BARCELLINI Contrôleur Général des Armées (2s) : Le
+  110ème anniversaire du génocide arménien et de l'expédition des Dardanelles"
+summary: Des seconds, rappelons la mise en œuvre du génocide arménien, entre
+  avril 1915 et juillet 1916. Les deux tiers des Arméniens qui vivaient sur le
+  territoire actuel de la Turquie périrent par les déportations massives, les
+  famines et les massacres de grande ampleur.   1 200 000 victimes.   C’était il
+  y a 110 ans.   L’expédition des Dardanelles est oubliée, à l’exception de
+  l’Australie et de la Nouvelle-Zélande qui commémorent chaque année le 25 avril
+  l’Anzac Day, moment fondateur de leur identité nationale.   Le génocide
+  arménien, lui, est au centre des réflexions mémorielles.  
+date: 2025-03-04T15:52:15.753Z
+thumbnailImagePosition: left
+thumbnailImage: assets/img/la-lettre-d-information-du-souvenir-français.jpg
+image: assets/img/la-lettre-d-information-du-souvenir-français-2.jpg
+---
+**Serge BARCELLINI**\
+**Contrôleur Général des Armées (2s)**\
+**Président Général de l'association "Le Souvenir Françai**\
+\
+<!--StartFragment-->
+
+![](https://ci3.googleusercontent.com/meips/ADKq_NYbIgEoSgVXTqi1ZLtzidEJmfmehYGChhZaN02qTpx8NeuxpVwa9W3Xdv-L9Uw1b9J4WKXnqfhIbVTXTxTgfUCU20SOHH2Ln39odVl7dqdOg6jnqFnusR6ZZJsRd4lG2WheuDhMjrmixTAqBO87n2m25_VUlCmgazG3BAt1616ULkpPuAgzsMfwwLqREuwmQxgU2d2jTArucSEOBIpE=s0-d-e1-ft#https://img.news-souvenir-francais.fr/5a6841cfb85b536a9f4beade/7JB5IHiuRaSXYfBU8F218g/BEFgbxXBQuqUKVpjipeUkg-Titre%20news%20%281%29.jpg)
+
+<!--EndFragment-->\
+\
+\
+***C'était il y a 110 ans***
+
+ 
+
+En 1915, l’Empire ottoman devenait un acteur central de la Première Guerre mondiale.
+
+ 
+
+D’abord, par la volonté des responsables politiques français et anglais, et en particulier par celle de Winston Churchill, alors Premier Lord de l'Amirauté.
+
+ 
+
+Ensuite, par la volonté des autorités ottomanes.
+
+ 
+
+Des premiers, retenons l’expédition des Dardanelles, du 18 mars 1915 au 9 janvier 1916. Un échec pour les armées alliées, un élément fondateur de l’identité nationale turque.
+
+ 
+
+Des seconds, rappelons la mise en œuvre du génocide arménien, entre avril 1915 et juillet 1916. Les deux tiers des Arméniens qui vivaient sur le territoire actuel de la Turquie périrent par les déportations massives, les famines et les massacres de grande ampleur.
+
+ 
+
+1 200 000 victimes.
+
+ 
+
+C’était il y a 110 ans.
+
+ 
+
+L’expédition des Dardanelles est oubliée, à l’exception de l’Australie et de la Nouvelle-Zélande qui commémorent chaque année le 25 avril l’*Anzac Day*, moment fondateur de leur identité nationale.
+
+ 
+
+Le génocide arménien, lui, est au centre des réflexions mémorielles.
+
+ 
+
+Premier génocide reconnu de notre histoire contemporaine, un événement que la Turquie refuse d'inscrire dans son histoire et qui est un point d'opposition entre l’Occident et la Turquie.
+
+ 
+
+Un moment d'histoire que le Souvenir Français a l'ardente obligation de sauvegarder.
+
+ 
+
+Une histoire universelle,
+
+Une histoire arménienne,
+
+Mais aussi une histoire française.
+
+ 
+
+*Photo* : Mémorial de Musaler (Arménie).
+
+ 
+
+**Serge BARCELLINI**\
+**Contrôleur Général des Armées (2s)**\
+**Président Général de l'association "Le Souvenir Français**
