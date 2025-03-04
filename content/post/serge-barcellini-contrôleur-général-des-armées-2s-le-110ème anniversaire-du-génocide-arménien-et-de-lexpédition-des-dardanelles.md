@@ -24,7 +24,11 @@ image: assets/img/la-lettre-d-information-du-souvenir-français-2.jpg
 
 ![](https://ci3.googleusercontent.com/meips/ADKq_Na1VhEYqoS8nBAQRSzCNL0dFRtkiYcXkPD8WeXkqW5niCwiaJyJDJT_Wop2ZOlvnMou2U15vCz-RHZzP4B2RKJTD72BJh1xWjSyOJ27JfQF1bAzUemiJYQdScP_o3USAP-hWBn9yssqwSO4xL5IR6wqxtngxfPDyy6BTTxn9GLPzWYPzmK3R41IwpnR3OJzrfg=s0-d-e1-ft#https://img.news-souvenir-francais.fr/5a6841cfb85b536a9f4beade/7JB5IHiuRaSXYfBU8F218g/BEFgbxXBQuqUKVpjipeUkg-Musa%20Ler.jpg "Mémorial de Musaler (Arménie)")
 
-\
+<!--StartFragment-->
+
+ Président Général du Souvenir Français Serge BARCELLINI, Historien de formation, Contrôleur général des armées, ancien Directeur de cabinet de trois Secrétaires d'Etat aux anciens combattants et à la mémoire, et Président du Souvenir Français depuis 2015.
+
+<!--EndFragment-->\
 \
 ***C'était il y a 110 ans***
 
