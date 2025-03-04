@@ -26,7 +26,7 @@ image: assets/img/la-lettre-d-information-du-souvenir-français-2.jpg
 
 <!--StartFragment-->
 
- Président Général du Souvenir Français Serge BARCELLINI, Historien de formation, Contrôleur général des armées, ancien Directeur de cabinet de trois Secrétaires d'Etat aux anciens combattants et à la mémoire, et Président du Souvenir Français depuis 2015.
+######  *Président Général du Souvenir Français Serge BARCELLINI, Historien de formation, Contrôleur général des armées, ancien Directeur de cabinet de trois Secrétaires d'Etat aux anciens combattants et à la mémoire, et Président du Souvenir Français depuis 2015.*
 
 \
 \
