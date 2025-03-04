@@ -21,7 +21,8 @@ Le ministère de l’Intérieur lui rend hommage.
 
 Bruno Retailleau, ministre de l'Intérieur
 
-<!--EndFragment-->\
+<!--EndFragment-->
+
 \
 Serge Tateossian Evreux    Le 04/03/2025    Source : Ministère de l'Intérieur\
 \
