@@ -19,9 +19,10 @@ image: assets/img/la-lettre-d-information-du-souvenir-français-2.jpg
 **Serge BARCELLINI**\
 **Contrôleur Général des Armées (2s)**\
 **Président Général de l'association "Le Souvenir Françai**\
+
 <!--StartFragment-->
 
-![](https://ci3.googleusercontent.com/meips/ADKq_Na1VhEYqoS8nBAQRSzCNL0dFRtkiYcXkPD8WeXkqW5niCwiaJyJDJT_Wop2ZOlvnMou2U15vCz-RHZzP4B2RKJTD72BJh1xWjSyOJ27JfQF1bAzUemiJYQdScP_o3USAP-hWBn9yssqwSO4xL5IR6wqxtngxfPDyy6BTTxn9GLPzWYPzmK3R41IwpnR3OJzrfg=s0-d-e1-ft#https://img.news-souvenir-francais.fr/5a6841cfb85b536a9f4beade/7JB5IHiuRaSXYfBU8F218g/BEFgbxXBQuqUKVpjipeUkg-Musa%20Ler.jpg)
+![](https://ci3.googleusercontent.com/meips/ADKq_Na1VhEYqoS8nBAQRSzCNL0dFRtkiYcXkPD8WeXkqW5niCwiaJyJDJT_Wop2ZOlvnMou2U15vCz-RHZzP4B2RKJTD72BJh1xWjSyOJ27JfQF1bAzUemiJYQdScP_o3USAP-hWBn9yssqwSO4xL5IR6wqxtngxfPDyy6BTTxn9GLPzWYPzmK3R41IwpnR3OJzrfg=s0-d-e1-ft#https://img.news-souvenir-francais.fr/5a6841cfb85b536a9f4beade/7JB5IHiuRaSXYfBU8F218g/BEFgbxXBQuqUKVpjipeUkg-Musa%20Ler.jpg "Mémorial de Musaler (Arménie)")
 
 <!--EndFragment-->
 
