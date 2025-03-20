@@ -12,7 +12,7 @@ summary: "Dans le cadre du tour des éliminatoires de la Ligue des Nations de
   կհյուրընկալի Վրաստանին:   Պատասխան խաղ"
 date: 2025-03-20T15:58:38.030Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/arménie-géorgie-.jpg
+thumbnailImage: assets/img/arménie-géorgie-uefa-2025.jpg
 image: assets/img/arménie-géorgie-.jpg
 ---
 **Football La Ligue des Nations : Arménie - Géorgie**\
