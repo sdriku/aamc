@@ -45,17 +45,7 @@ Serge Tateossian Evreux Le 20/03/2025\*\***\
 Article Armenews\*\***\
 Arménie-Géorgie ce soir à 18h00 au stade Républicain de Yerevan, match de barrage de la Ligue des Nations\*\*
 
-* Partager sur WhatsApp
-
-  Partager sur X
-
-  Partager sur LinkedIn
-
-  Partager sur Facebook
-
 [20 mars 2025](https://www.armenews.com/armenie-georgie-ce-soir-a-18h00-au-stade-republicain-de-yerevan-match-de-barrage-de-la-ligue-des-nations/)
-
-–
 
 par
 
