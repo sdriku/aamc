@@ -15,6 +15,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/arménie-géorgie-uefa-2025.jpg
 image: assets/img/arménie-géorgie-.jpg
 ---
+**P﻿hoto couverture : Gibrahayer EMagazine**\
+\
 **Football La Ligue des Nations : Arménie - Géorgie**\
 \
 Dans le cadre du tour des éliminatoires de la Ligue des Nations de l'UEFA, l'équipe nationale arménienne de football accueillera la Géorgie à Erevan le jeudi 20 mars à 18 heures heure de Paris.\
