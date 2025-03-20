@@ -26,7 +26,7 @@ Toute la communauté franco-arménienne d'Evreux et de la région Normande souti
 \
 \
 \
-Ֆուտբոլի Ազգերի Լիգա. Հայաստան - Վրաստան\
+**Ֆուտբոլի Ազգերի Լիգա. Հայաստան - Վրաստան**\
 \
 ՈՒԵՖԱ-ի Ազգերի լիգայի որակավորման փուլի շրջանակներում Հայաստանի ֆուտբոլի հավաքականը հինգշաբթի օրը՝ մարտի 20-ին, Փարիզի ժամանակով ժամը 18:00-ին կհյուրընկալի Վրաստանին:\
 \
@@ -38,10 +38,10 @@ Toute la communauté franco-arménienne d'Evreux et de la région Normande souti
 Էվրոյի և Նորմանդիայի տարածաշրջանի ողջ ֆրանսահայ համայնքն ակնհայտորեն աջակցում է Հայաստանի հավաքականին։\
 \
 **\
-Serge Tateossian Evreux Le 20/03/2025****\
-----------------------------------------------------------------------****\
-Article Armenews****\
-Arménie-Géorgie ce soir à 18h00 au stade Républicain de Yerevan, match de barrage de la Ligue des Nations**
+Serge Tateossian Evreux Le 20/03/2025\*\***\
+----------------------------------------------------------------------***\*\
+Article Armenews\*\***\
+Arménie-Géorgie ce soir à 18h00 au stade Républicain de Yerevan, match de barrage de la Ligue des Nations\*\*
 
 * Partager sur WhatsApp
 
@@ -72,7 +72,5 @@ Dans un stade Républicain « Vazgen Sargsyan » de la capitale arménienne ar
 L’Arménie, privée de Lucas Zelarayan et Eduard Spertsyan aura affaire à une équipe de Géorgie solide et dans une dynamique de victoires. Un match difficile pour l’Arménie.
 
 Les deux équipes se sont déjà rencontrées 5 fois depuis 1997, le dernier match entre les deux sélections nationales et pays voisins, a été remporté par Arménie le 15 novembre 2020 (Ligue des nations C – 5e journée : 2-1). Si l’Arménie prend l’avantage au terme des deux rencontres, elle montera dans le groupe B de la Ligue des Nations de l’UEFA (Europe). Et si la Géorgie remporte, elle évitera de descendre dans le groupe B.
-
- 
 
 Krikor Amirzayan
