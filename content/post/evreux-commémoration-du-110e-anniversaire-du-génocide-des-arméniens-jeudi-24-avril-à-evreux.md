@@ -5,7 +5,7 @@ description: EVREUX ; Commémoration du 110e anniversaire du génocide des
   Arméniens, jeudi 24 Avril à Evreux
 summary: Evreux commémorera le 110e anniversaire du génocide des Arméniens à
   l’occasion de la Journée nationale du génocide des Arméniens (Décret No
-  2019-291 du 10 avril 2019).
+  2019-291 du 10 avril 2019). Serge Tateossian 25/03/2025
 date: 2025-03-25T23:24:48.473Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/aamc-ansa-commun.jpeg
