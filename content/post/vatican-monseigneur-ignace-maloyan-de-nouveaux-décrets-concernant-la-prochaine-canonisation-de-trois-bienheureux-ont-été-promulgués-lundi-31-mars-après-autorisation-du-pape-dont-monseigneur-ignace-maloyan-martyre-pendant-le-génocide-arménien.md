@@ -63,4 +63,4 @@ Merci d'avoir lu cet article. Si vous souhaitez rester informé, inscrivez-vous 
 
 [](https://www.comunicazione.va/en/sostienici/fr.html "Votre contribution pour une grande mission: soutenez-nous pour apporter la parole du Pape dans chaque maison")
 
-S﻿erge Tateossian le 01/04/2025         Source : VATICAN N
+S﻿erge Tateossian le 01/04/2025         Source : VATICAN NEWS
