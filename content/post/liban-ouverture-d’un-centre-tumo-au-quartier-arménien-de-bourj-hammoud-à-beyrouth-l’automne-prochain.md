@@ -10,6 +10,7 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/tumo-bourj-hamoud.jpg
 image: assets/img/tumo-allemagne.jpg
 ---
+P﻿hoto centre Tumo (Allemagne)\
 <!--StartFragment-->
 
 # Ouverture d’un centre Tumo au quartier arménien de Bourj Hammoud à Beyrouth l’automne prochain
@@ -43,9 +44,8 @@ Grâce au soutien de Mihran et Aline Hazarian, 1 500 adolescents auront accès c
 
 La directrice exécutive de Tumo, Marie Lou Papazian, a partagé la nouvelle avec le quotidien arménien Azdak paraissant à Beyrouth. Le nouveau bâtiment est conçu par l’architecte libanais de renommée mondiale et ami de longue date de Tumo, Bernard Khoury. L’ouverture du centre est prévue pour l’automne prochain.
 
- 
-
 Krikor Amirzayan
 
 <!--EndFragment-->\
+
 S﻿erge Tateossian le 30/03/2025     Source : Armenews
