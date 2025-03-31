@@ -8,8 +8,8 @@ summary: Il y a cinq ans, le 29 mars 2020, Patrick Devedjian nous quittait
   en France.
 date: 2025-03-31T21:54:38.450Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/dévedjian-patrick.png
-image: assets/img/dévedjian-patrick.png
+thumbnailImage: assets/img/dévedjian.jpg
+image: assets/img/dévedjian.jpg
 ---
 **Patrick Devedjian, cinq ans après**
 
