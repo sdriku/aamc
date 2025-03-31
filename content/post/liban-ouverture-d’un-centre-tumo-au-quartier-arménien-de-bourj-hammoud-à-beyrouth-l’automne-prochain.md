@@ -49,6 +49,7 @@ La directrice exécutive de Tumo, Marie Lou Papazian, a partagé la nouvelle ave
 
 Krikor Amirzayan
 
-<!--EndFragment-->\
+<!--EndFragment-->\\
+A﻿ctuellement il existe une dizaine de centres TUMO dans le monde. 
 
 S﻿erge Tateossian le 30/03/2025     Source : Armenews
