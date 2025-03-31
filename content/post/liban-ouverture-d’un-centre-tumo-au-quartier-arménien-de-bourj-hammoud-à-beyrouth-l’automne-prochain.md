@@ -42,6 +42,9 @@ Grâce au soutien de Mihran et Aline Hazarian, 1 500 adolescents auront accès c
 
 ![](https://www.armenews.com/wp-content/uploads/2025/03/334A-1-300x251.jpg)
 
+T﻿umo : https://www.auvergnerhonealpes-orientation.fr/wp-content/uploads/2021/11/dossier-de-presse_annonce-tumo.pdf\
+\
+\
 La directrice exécutive de Tumo, Marie Lou Papazian, a partagé la nouvelle avec le quotidien arménien Azdak paraissant à Beyrouth. Le nouveau bâtiment est conçu par l’architecte libanais de renommée mondiale et ami de longue date de Tumo, Bernard Khoury. L’ouverture du centre est prévue pour l’automne prochain.
 
 Krikor Amirzayan
