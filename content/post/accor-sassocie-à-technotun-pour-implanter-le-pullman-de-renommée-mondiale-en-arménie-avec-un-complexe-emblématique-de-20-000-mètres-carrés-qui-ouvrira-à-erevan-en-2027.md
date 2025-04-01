@@ -23,10 +23,6 @@ image: assets/img/accor-hotel.webp
 
 [Nouvelles](https://zartonkmedia.com/category/news/ "Voir tous les articles dans Actualités")[Arménie](https://zartonkmedia.com/category/news/news-armenia/ "Voir tous les articles en Arménie")Accor s'associe à Technotun pour implanter le Pullman de renommée mondiale en Arménie avec un complexe emblématique de 20 000 mètres carrés qui ouvrira à Erevan en 2027.
 
-
-
- 
-
 Partager
 
 [](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fzartonkmedia.com%2F2024%2F12%2F24%2Faccor-partners-with-technotun-to-bring-the-world-renowned-pullman-to-armenia-with-a-landmark-20000-square-meter-complex-opening-in-yerevan-in-2027%2F "Facebook")
