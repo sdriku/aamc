@@ -65,4 +65,7 @@ Pullman Residences Yerevan et Pullman Living Yerevan refléteront l'esprit avant
 
 [Accor](https://group.accor.com/en) est un groupe hôtelier de premier plan mondial, proposant des expériences hôtelières dans plus de 110 pays avec 5 700 établissements, 10 000 points de restauration, des centres de bien-être et des espaces de travail flexibles. Le Groupe possède l'un des écosystèmes hôteliers les plus diversifiés du secteur, regroupant plus de 45 marques hôtelières, du luxe à l'économique, ainsi que l'offre Lifestyle avec Ennismore. Accor s'engage à promouvoir des actions positives en favorisant l'éthique des affaires, le tourisme responsable, le développement durable, l'engagement communautaire, la diversité et l'inclusion. Fondé en 1967, Accor SA a son siège social en France et est coté à la Bourse Euronext Paris (code ISIN : FR0000120404) et sur le marché OTC aux États-Unis (mnémo : ACCYY). Pour plus d'informations, rendez-vous sur [group.accor.com](http://group.accor.com/) ou suivez Accor sur [X](https://twitter.com/Accor) , [Facebook](https://www.facebook.com/Accor/) , [LinkedIn](https://www.linkedin.com/company/accor/) , [Instagram](https://www.instagram.com/accor) et [TikTok](https://www.tiktok.com/@accor?lang=fr) .
 
+\
+﻿Serge Tateossian Le 02/04/2025      Source : Zartonk\
+\
 <!--EndFragment-->
