@@ -14,8 +14,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/alfred-recoure.jpg
 image: assets/img/alfred-recoure.jpg
 ---
-**Alfred Recours n'est plus.\
-Le 25 mai 1999, Lionel JOSPIN Premier Ministre lui confiait la mission\
+**Alfred Recours n'est plus.**\
+**Le 25 mai 1999, Lionel JOSPIN Premier Ministre lui confiait la mission\
 d'examiner les pistes qui permettraient de diminuer la consommation du tabac dans notre pays. Alfred Recours bénéficiant du concours\
 de la ministre de l'emploi et de la solidarité, du ministre de l'économie, des finances, du secrétaire d'Etat à la santé et à l'action sociale ainsi que du secrétaire d'Etat au budget, a rédigé un rapport complet et l'a remis au gouvernement. Ces mesures importantes ont contribué en 25 ans à la baisse de la consommation du tabac de manière irréversible.\
 (pour l'anecdote : Alfred Recours continuait de fumer)**\
@@ -28,7 +28,7 @@ Figure socialiste de la politique euroise pendant plus de 50 ans, l’ancien mai
 
 Ce fidèle de Laurent Fabius avait soutenu Emmanuel Macron à l'élection présidentielle de 2017. L'homme était très apprécié dans le monde politique eurois, au-delà de son propre camp.\
 \
-Avant de poursuivre : *"Visionnaire, on lui doit la création d'Eure Numérique, la Maison de l'Europe et de l'une des toutes premières intercommunalités de France.  Profondément humain, proche des gens, il a été Conches-en-Ouche pendant près de 40 ans."***\
+Avant de poursuivre : *"Visionnaire, on lui doit la création d'Eure Numérique, la Maison de l'Europe et de l'une des toutes premières intercommunalités de France.  Profondément humain, proche des gens, il a été Conches-en-Ouche pendant près de 40 ans."**\*\
 Alfred Recours**, né le 19 mars 1945 à [Mostaganem](https://fr.wikipedia.org/wiki/Mostaganem) en [Algérie](https://fr.wikipedia.org/wiki/Algérie) et mort le 1er avril 2025 est un homme politique français. Il a notamment été député socialiste de l'[Eure](https://fr.wikipedia.org/wiki/Eure_(département)).
 
 Biographie :
@@ -37,7 +37,7 @@ Biographie :
 
 Jusqu‘en 2020, il était maire de la commune de [Conches-en-Ouche](https://fr.wikipedia.org/wiki/Conches-en-Ouche), qu'il dirigeait depuis 1984. Il est président de la [communauté de communes du Pays de Conches](https://fr.wikipedia.org/wiki/Communauté_de_communes_du_Pays_de_Conches), qu'il a fondée en 1993, l'une des premières communautés de communes de France.
 
-Vice-président du conseil général de l'Eure jusqu'en mars 2015 et ancien président d'Eure Habitat, il est inspecteur de l'Éducation nationale honoraire[\[1]](https://fr.wikipedia.org/wiki/Alfred_Recours#cite_note-1). Il est réélu en mars 2015 conseiller départemental du nouveau [canton de Conches-en-Ouche](https://fr.wikipedia.org/wiki/Canton_de_Conches-en-Ouche) pour un ultime mandat.
+Vice-président du conseil général de l'Eure jusqu'en mars 2015 et ancien président d'Eure Habitat, il est inspecteur de l'Éducation nationale honoraire\[[1]](https://fr.wikipedia.org/wiki/Alfred_Recours#cite_note-1). Il est réélu en mars 2015 conseiller départemental du nouveau [canton de Conches-en-Ouche](https://fr.wikipedia.org/wiki/Canton_de_Conches-en-Ouche) pour un ultime mandat.
 
 [](<>)Ex-président (jusqu'en mai 2015) et fondateur du syndicat mixte Eure-Numérique, Alfred Recours s'est beaucoup investi dans le développement du Très Haut Débit pour tous. La communauté de communes du Pays de Conches est ainsi un des territoires ruraux les plus avancés en termes d'accès à l'[internet](https://fr.wikipedia.org/wiki/Internet) en très haut débit par [fibre optique](https://fr.wikipedia.org/wiki/Fibre_optique).
 
