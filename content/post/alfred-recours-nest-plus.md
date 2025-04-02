@@ -15,6 +15,7 @@ thumbnailImage: assets/img/alfred-recoure.jpg
 image: assets/img/alfred-recoure.jpg
 ---
 **Alfred Recours n'est plus.**\
+\
 **Le 25 mai 1999, Lionel JOSPIN Premier Ministre lui confiait la mission\
 d'examiner les pistes qui permettraient de diminuer la consommation du tabac dans notre pays. Alfred Recours bénéficiant du concours\
 de la ministre de l'emploi et de la solidarité, du ministre de l'économie, des finances, du secrétaire d'Etat à la santé et à l'action sociale ainsi que du secrétaire d'Etat au budget, a rédigé un rapport complet et l'a remis au gouvernement. Ces mesures importantes ont contribué en 25 ans à la baisse de la consommation du tabac de manière irréversible.\
