@@ -1,7 +1,7 @@
 ---
-title: "Entrée en Europe : Je soutiens le peuple arménien comme on soutient un
-  peuple frère - Նատալի Լոիզա. Մուտք դեպի Եվրոպա. ես աջակցում եմ հայ ժողովրդին,
-  ինչպես եղբայր ժողովրդին"
+title: "Nathalie Loiseau. . Entrée en Europe : Je soutiens le peuple arménien
+  comme on soutient un peuple frère - Նատալի Լոիզա. Մուտք դեպի Եվրոպա. ես
+  աջակցում եմ հայ ժողովրդին, ինչպես եղբայր ժողովրդին"
 description: "Entrée en Europe : Je soutiens le peuple arménien comme on
   soutient un peuple frère - Նատալի Լոիզա. Մուտք դեպի Եվրոպա. ես աջակցում եմ հայ
   ժողովրդին, ինչպես եղբայր ժողովրդին"
