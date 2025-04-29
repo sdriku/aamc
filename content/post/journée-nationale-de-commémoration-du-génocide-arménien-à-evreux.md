@@ -1,6 +1,8 @@
 ---
-title: "Journée Nationale de commémoration du Génocide arménien à Evreux "
-description: "Journée Nationale de commémoration du Génocide arménien à Evreux "
+title: "Journée Nationale de commémoration du Génocide arménien à Evreux :
+  Discours du Président de AAMC Serge Tateossian  "
+description: "Journée Nationale de commémoration du Génocide arménien à Evreux :
+  Discours du Président de AAMC Serge Tateossian  "
 summary: "C'est un moment particulièrement solennel pour les français d'origine
   arménienne et les arméniens normands qui se recueillent aujourd'hui ici même,
   au parc Marcel Baudot à Evreux, pour rendre hommage aux 1,5 millions de
