@@ -1,6 +1,7 @@
 ---
-title: "Discours du 24 avril de l'association ANSA  Vahram Seraidarian "
-description: "Discours du 24 avril de l'association ANSA  Vahram Seraidarian "
+title: "Journée Nationale de commémoration du génocide arménien : Discours de
+  Vahram Seraidarian Président de l'association ANSA  "
+description: "Discours de Vahram Seraidarian Président de l'association ANSA  "
 summary: "Discours de Monsieur Vahram Seraidarian : Je rappelle que dans cette
   ville d’Evreux, depuis 18 ans ANSA et notre communauté nous commémorons le 24
   Avril, mais depuis l’année 2018 grâce aux membres et aux donateurs d’ANSA nous
