@@ -14,7 +14,7 @@ summary: "Le 24 avril 2025, fut l’occasion de commémorer le 110e anniversaire
 date: 2025-05-08T00:04:19.973Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/24-avril-57.jpg
-image: assets/img/evreux-24-avril-2025.jpeg
+image: assets/img/24-avril-57.jpg
 ---
 <!--StartFragment-->
 
