@@ -38,7 +38,8 @@ Alors, EVREUX !*\
 \
 **\
 *Avec amitiés et affection à tous mes amis(es) qu'ils soient de droite ou de gauche.*\
-*Le Respect nous fait grandir, le contraire nous diminue.*\
+*Le Respect nous fait grandir, le contraire nous diminue.***\
+**\
 Mon soutien amical à Madame Aurélie Lefrand Lemoine.\*\****\
 \
 \
