@@ -19,7 +19,7 @@ image: assets/img/evreux-paisible.jpg
 ##### \
 **OPINION**\
 **EVREUX VILLE PAISIBLE,\
-QUE CELA EN SOIT AINSI !\*\***\
+QUE CELA EN SOIT AINSI !**\
 \
 \
 A un an des élections municipales\
@@ -41,7 +41,7 @@ Alors, EVREUX !*\
 *Avec amitiés et affection à tous mes amis(es) qu'ils soient de droite ou de gauche.*\
 *Le Respect nous fait grandir, le contraire nous diminue.***\
 **\
-Mon soutien amical à Madame Aurélie Lefrand Lemoine.\*\****\
+Mon soutien amical à Madame Aurélie Lefrand Lemoine.**\
 \
 \
 Serge Tateossian\
