@@ -23,7 +23,8 @@ QUE CELA EN SOIT AINSI !\*\***\
 \
 \
 A un an des élections municipales\
-Le débat politique vire-t-il aux attaques personnelles ?***\*\
+Le débat politique vire-t-il aux attaques personnelles ?***\***\
+**\
 Ancien militant socialiste, (2000-2010) (je le revendique fièrement, ce fut mon école d'apprentissage, pour le respect des institutions, l'amour de la vie, la nature et l'humain), le respect et l'acceptation d'autrui étant le fondement de mes principes.\*\***\
 \
 \
