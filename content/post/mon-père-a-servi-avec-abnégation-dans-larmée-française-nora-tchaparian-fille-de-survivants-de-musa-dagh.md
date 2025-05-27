@@ -37,7 +37,7 @@ Et à propos du Monument dédié à Musa Ler à Fresno aux états unis :\
 \
 \
 Il y a des dizaines de monuments dans le monde érigés par les descendants des rescapés de Musa Dagh, pour remercier la France et l'Amiral Louis Dartigue Du Fournet.\
-Pour sa bravoure, et pour sa grandeur.\
+Honneur Pour sa bravoure, et pour sa grandeur.\
 \
 \
 \
