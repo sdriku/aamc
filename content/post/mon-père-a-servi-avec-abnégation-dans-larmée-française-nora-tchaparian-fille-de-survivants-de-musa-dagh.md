@@ -16,9 +16,9 @@ image: assets/img/papa-de-nora-tchaparian.jpg
 \
 \
 **Mon père a servi avec abnégation dans l'armée française.\
-Nora Tchaparian fille de survivants de Musa Dagh (Musa Ler en arménien)****\
+Nora Tchaparian petite-fille de survivants de Musa Dagh (Musa Ler en arménien)\*\***\
 Opération de sauvetage de l'Armée Française sous le commandement\
-de l'Amiral Louis Dartigue Du Fournet**
+de l'Amiral Louis Dartigue Du Fournet\*\*
 
 *Voici ce que dit Nora Tchaparian*
 
