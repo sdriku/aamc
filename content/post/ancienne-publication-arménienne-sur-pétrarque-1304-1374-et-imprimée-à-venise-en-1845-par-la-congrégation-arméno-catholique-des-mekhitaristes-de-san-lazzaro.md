@@ -2,17 +2,17 @@
 title: Ancienne publication arménienne sur Pétrarque (1304-1374) et imprimée à
   Venise en 1845 par la Congrégation arméno-catholique des Mekhitaristes de San
   Lazzaro
-description: Texte d'origine de Nil AGOPOFF - Ancienne publication arménienne
-  sur Pétrarque (1304-1374) et imprimée à Venise en 1845 par la Congrégation
-  arméno-catholique des Mekhitaristes de San Lazzaro
-summary: article en arménien sur Pétrarque (1304-1374)... ?  Cet article dans
-  son authenticité, mentionne-t-il les Ermites de Saint-Augustin d'Hippone
-  (354-430) qui étaient des amis de Pétrarque ? [(*1)] Cela d'autant plus que le
-  nouveau souverain pontif LÉON XIV, a déclaré qu'il est un des fils de
-  Saint-Augustin en exprimant son désir de faire un pélérinage en Algérie. Il
-  sera fructueux de trouver et d'étudier dans les publications arméniennes,
-  l'écho des relations de Pétrarque avec des augustins et sa considération
-  envers les écrits de Augustin d'Hippone.
+description: " Ancienne publication arménienne sur Pétrarque (1304-1374) et
+  imprimée à Venise en 1845 par la Congrégation arméno-catholique des
+  Mekhitaristes de San Lazzaro"
+summary: Texte d'origine de Nil AGOPOFF - - Article en arménien sur Pétrarque
+  (1304-1374)... ?  Cet article dans son authenticité, mentionne-t-il les
+  Ermites de Saint-Augustin d'Hippone (354-430) qui étaient des amis de
+  Pétrarque ? [(*1)] Cela d'autant plus que le nouveau souverain pontif LÉON
+  XIV, a déclaré qu'il est un des fils de Saint-Augustin en exprimant son désir
+  de faire un pélérinage en Algérie. Il sera fructueux de trouver et d'étudier
+  dans les publications arméniennes, l'écho des relations de Pétrarque avec des
+  augustins et sa considération envers les écrits de Augustin d'Hippone.
 date: 2025-06-02T23:49:00.700Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/pétrarque.jpeg
