@@ -49,6 +49,7 @@ La Ville s’apprête à faire enfin les travaux nécessaires pour faire redesce
 
 ![Les supporters du 6e Homme vont migrer à l'opposé de leur emplacement habituel pour s'installer dans une tribune entièrement déployée dès la rentrée prochaine.](https://static.actu.fr/uploads/2025/06/286237e7b14863c6237e7b14800723v-960x640.jpg)
 
+\
 Les supporters du 6e Homme vont migrer à l’opposé de leur emplacement habituel pour s’installer dans une tribune entièrement déployée dès la rentrée prochaine. ©Archives La Dépêche/F.B.
 
 Et l’argent dans tout ça ?
@@ -91,4 +92,4 @@ Marc Namura ne sait pas encore s’il pourra compter la saison prochaine sur son
 
 Rendez-vous donc à la fin du mois de juin pour en savoir plus sur ce qui attend l’ALM Évreux Basket Eure à la rentrée prochaine.
 
-<!--EndFragment-->
+S﻿erge Tateossian le 06/06/2025    Source : La Dépêche
