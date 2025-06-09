@@ -9,7 +9,7 @@ summary: "La morale pose problème aujourd'hui, à une époque où l'emporte le
 date: 2025-06-09T17:46:29.887Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/la-morale-de-la-république.jpeg
-image: assets/img/la-morale.jpeg
+image: assets/img/la-morale-de-la-république.jpeg
 ---
 Réflexion No 10 - **La Morale**\
 \
