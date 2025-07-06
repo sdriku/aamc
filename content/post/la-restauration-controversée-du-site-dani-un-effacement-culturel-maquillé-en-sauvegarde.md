@@ -12,8 +12,8 @@ summary: "Parmi les nombreux signaux alarmants que connaît actuellement le
   Turquie et le Pakistan."
 date: 2025-07-06T21:51:13.071Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/ani.avif
-image: assets/img/ani.avif
+thumbnailImage: assets/img/ani.jpg
+image: assets/img/ani.jpg
 ---
 <!--StartFragment-->
 
