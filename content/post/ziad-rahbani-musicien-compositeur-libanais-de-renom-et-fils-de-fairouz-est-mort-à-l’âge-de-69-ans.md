@@ -36,9 +36,7 @@ Lire plus tard
 
 Partager
 
-*
-* Partager sur Linkedin
-* Copier le lien
+
 
 ![Le compositeur libanais Ziad Rahbani en concert dans la citadelle de Damas, le 15 juillet 2009.](https://img.lemde.fr/2025/07/26/0/0/3524/2349/664/0/75/0/00e4966_ftp-import-images-1-cewlalrmuij2-5501320-01-06.jpg)
 
