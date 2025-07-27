@@ -36,9 +36,7 @@ Lire plus tard
 
 Partager
 
-* Partager sur Messenger
-* Partager sur Facebook
-* Envoyer par e-mail
+*
 * Partager sur Linkedin
 * Copier le lien
 
