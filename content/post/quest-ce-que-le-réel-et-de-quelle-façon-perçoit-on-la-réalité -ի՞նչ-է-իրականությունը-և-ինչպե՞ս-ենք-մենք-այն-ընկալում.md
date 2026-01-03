@@ -14,6 +14,8 @@ thumbnailImagePosition: left
 thumbnailImage: assets/img/david-hume-դևիդ-հյում.jpg
 image: assets/img/philosophie-livre.jpg
 ---
+![David Hume - Դեյվիդ Հյում](assets/img/david-hume-դևիդ-հյում.jpg)
+
 Réflexion no 11 - **Le REEL**\
 \
 \
