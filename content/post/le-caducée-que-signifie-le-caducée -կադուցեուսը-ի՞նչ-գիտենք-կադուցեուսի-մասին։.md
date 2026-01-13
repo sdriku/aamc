@@ -16,7 +16,7 @@ image: assets/img/pharmacie.jpg
 Que signifie le caducée ?**\
 \
 Wikipédia nous dit ceci :\
-Le caducée **est un des attributs du dieu Hermès dans la mythologie grecque** ; il est représenté comme une baguette de laurier ou d'olivier surmontée de deux ailes et entourée de deux serpents entrelacés. Le caducée sert à guérir les morsures de serpents, c'est pourquoi il en est orné.\
+"Le caducée **est un des attributs du dieu Hermès dans la mythologie grecque** ; il est représenté comme une baguette de laurier ou d'olivier surmontée de deux ailes et entourée de deux serpents entrelacés. Le caducée sert à guérir les morsures de serpents, c'est pourquoi il en est orné".\
 \
 Allons creuser plus loin,,\
 Le caducée, aussi nommé serpentarius le guérisseur, est aussi paradoxalement le serpent destructeur, image de la mort et du chaos, est aussi doté de vertus thérapeutiques.\
@@ -28,7 +28,7 @@ Le caducée, baguette entourée de serpents, est l'emblème du commerce. Pourvu 
 **Կադուցեուսը\
 Ի՞նչ գիտենք կադուցեուսի մասին։**\
 Վիքիպեդիան մեզ ասում է հետևյալը.\
-Կադուցեուսը հունական դիցաբանության մեջ Հերմես աստծո հատկանիշներից մեկն է. այն պատկերվում է որպես դափնու կամ ձիթենու ճյուղ, որը պսակված է երկու թևերով և միահյուսված է երկու օձերի հետ։ Կադուցեուսն օգտագործվում է օձի խայթոցները բուժելու համար, այդ իսկ պատճառով այն զարդարված է դրանցով։\
+"Կադուցեուսը հունական դիցաբանության մեջ Հերմես աստծո հատկանիշներից մեկն է. այն պատկերվում է որպես դափնու կամ ձիթենու ճյուղ, որը պսակված է երկու թևերով և միահյուսված է երկու օձերի հետ։ Կադուցեուսն օգտագործվում է օձի խայթոցները բուժելու համար, այդ իսկ պատճառով այն զարդարված է դրանցով։"\
 \
 Եկեք ավելի խորը խորանանք։\
 Կադուցեուսը, որը կոչվում է նաև օձի խայթոցներ բուժող, պարադոքսալ կերպով նաև կործանարար օձ է, մահվան և քաոսի պատկեր, բայց այն նաև օժտված է թերապևտիկ առաքինություններով։\
