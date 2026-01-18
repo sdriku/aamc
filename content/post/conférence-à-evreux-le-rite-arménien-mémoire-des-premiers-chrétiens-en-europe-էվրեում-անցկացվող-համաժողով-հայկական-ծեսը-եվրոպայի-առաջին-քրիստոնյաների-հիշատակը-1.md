@@ -8,7 +8,7 @@ summary: "Conférence œcuménique organisée par le Diocèse d’Évreux   Le R
   arménien, Mémoire des premiers chrétiens en Europe   Conférence du père Bedros
   Hammalian   Mardi 20 janvier 2026 à 20 heures  Espace Jacques David 17 rue
   Charles Corbeau, Evreux.   (Non loin de la Cathédrale)    "
-date: 2026-01-18T16:59:43.218Z
+date: 2026-01-19T19:52:40.616Z
 thumbnailImagePosition: left
 thumbnailImage: assets/img/conférence-arménie-diocèse-evreux.jpg
 image: assets/img/conférence-diocèse-evreux-arménie.jpeg
