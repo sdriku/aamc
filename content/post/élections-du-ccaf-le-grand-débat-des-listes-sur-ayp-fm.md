@@ -32,6 +32,4 @@ par
 
 ![](https://www.armenews.com/wp-content/uploads/2026/01/Capture-decran-2026-01-17-a-14.42.07.png)
 
-
-
-<!--EndFragment-->
+https://www.facebook.com/watch/?ref=embed_video&v=901694762237642
