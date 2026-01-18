@@ -14,18 +14,15 @@ thumbnailImage: assets/img/conférence-arménie-diocèse-evreux.jpg
 image: assets/img/conférence-diocèse-evreux-arménie.jpeg
 ---
 1. ### Conférence œcuménique organisée par le Diocèse d’Évreux\
+
    \
-   **Le Rite arménien, Mémoire des premiers chrétiens en Europe\
-   \
-   Conférence du père Bedros Hammalian\
-   \
+   **Le Rite arménien, Mémoire des premiers chrétiens en Europe****\
+   Conférence du père Bedros Hammalian****\
    Mardi 20 janvier 2026 à 20 heures**
 2. ### **Espace Jacques David 17 rue Charles Corbeau, Evreux. (Non loin de la Cathédrale)**
 
-
-
 Protestants, Orthodoxes, Catholiques réunis.\
-www,unitedeschretiens,fr\
+www.unitedeschretiens.fr  \
 \
 \
 \
