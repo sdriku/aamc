@@ -11,8 +11,8 @@ summary: Le Musée du génocide arménien est installé dans l'ancien bâtiment 
   du National Mall.
 date: 2026-01-18T19:30:33.922Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/le-musée-du-génocide-arménien-usa.jpg
-image: assets/img/le-musée-du-ga-aux-etats-unis.jpg
+thumbnailImage: assets/img/le-musée-du-ga-aux-etats-unis.jpg
+image: assets/img/le-musée-du-génocide-arménien-usa.jpg
 ---
 ## **Le Musée du Génocide Arménien de Washington bientôt inauguré.**\
 \
