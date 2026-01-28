@@ -1,6 +1,6 @@
 ---
 title: "Sébastien Lecornu : Un dîner du CCAF très politique : les premières
-  images de Lydia Kaspari"
+  images de Lydia Kasparian"
 description: "Sébastien Lecornu : Un dîner du CCAF très politique : les
   premières images de Lydia Kasparian"
 summary: Le 27 janvier au soir, plus de 4OO personnes se sont réunies dans les
