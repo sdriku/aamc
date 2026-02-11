@@ -59,7 +59,10 @@ l’action déterminée pour la libération des otages arméniens détenus en Az
 
 le renforcement, à tous les niveaux, de la communauté des Français d’origine arménienne et de leurs amis.
 
-L’ensemble de ces orientations s’inscrit dans le cadre de la charte du CCAF, qui exprime les valeurs fondatrices de notre organisation et constitue le socle de son action.
+L’ensemble de ces orientations s’inscrit dans le cadre de la charte du CCAF, qui exprime les valeurs fondatrices de notre organisation et constitue le socle de son action.\
+\
+l﻿ire aussi :\
+https://www.armenews.com/elections-du-ccaf-communique-de-la-liste-rassembler-construire-transmettre/
 
 Cette réaffirmation des fondamentaux, face aux tentatives de déstabilisation multiformes du monde arménien, représente une base indispensable pour avancer. Car sans assises solides, aucune progression durable n’est possible dans la réalisation de nos objectifs.
 
@@ -71,5 +74,6 @@ Pour fédérer, défendre, rayonner
 **Liste Unis pour l’Arménie**
 
 <!--EndFragment-->\
+
 \
 S﻿erge Tateossian Evreux Normandie - le 12/02/2026   Source : CCAF
