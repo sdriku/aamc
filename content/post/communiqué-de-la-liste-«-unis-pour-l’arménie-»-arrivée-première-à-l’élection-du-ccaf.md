@@ -53,7 +53,11 @@ la priorité absolue accordée à la sécurité de l’Arménie ;
 
 l’accompagnement des transformations démocratiques et économiques du pays ;
 
-le soutien aux droits du peuple d’Artsakh, symbolisé par l’élection au Conseil national de M. Hovhannès Guévorguian ;
+le soutien aux droits du peuple d’Artsakh, symbolisé par l’élection au Conseil national de M. Hovhannès Guévorguian ;\
+\
+\
+V﻿oir la vidéo du discours de Sébastien Lecornu : \
+https://youtu.be/6FmnW28kp9I
 
 l’action déterminée pour la libération des otages arméniens détenus en Azerbaïdjan ;
 
