@@ -36,8 +36,6 @@ par
 
 [2026](https://www.armenews.com/lambassade-des-etats-unis-en-armenie-se-joint-aux-armeniens-pour-commemorer-les-pogroms-anti-armeniens-de-sumgait/)
 
-![]()
-
 L’ambassade des États-Unis en Arménie a publié une déclaration sur son site web à l’occasion du 38e anniversaire des massacres (pogroms anti-arméniens) de Sumgait du 26 au 28 février 1988, au cours desquelles plusieurs centaines d’Arméniens furent victimes de la barbarie azerbaïdjanaise, dans cette ville à une vingtaine de kilomètres de Bakou.
 
 *« Aujourd’hui, nous nous joignons aux Arméniens pour commémorer le massacre de Sumgait de 1988 et rendre hommage à sa mémoire »*, peut-on lire dans la déclaration de l’ambassade des États-Unis à Yerevan.
