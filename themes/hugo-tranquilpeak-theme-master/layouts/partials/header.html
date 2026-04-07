@@ -15,7 +15,7 @@
       <i class="fa fa-lg fa-{{ .icon }}"></i>
     {{ end }}
     {{ if not $.Site.Params.header.rightLink.icon }}
-      <picture><source id="about-card-picture" srcset="{{ .Site.Author.logodesktop | relURL }}" media="(min-width: 800px)"><img id="about-card-picture" src="{{ .Site.Author.logomobile | relURL }}" alt="logo AAMC"></picture>
+      <picture><source id="about-card-picture" srcset="{{ .Site.Params.author.logodesktop | relURL }}" media="(min-width: 800px)"><img id="about-card-picture" src="{{ .Site.Params.author.logomobile | relURL }}" alt="logo AAMC"></picture>
     {{ end }}
     </a>
   {{ end }}

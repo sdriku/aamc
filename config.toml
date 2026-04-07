@@ -226,6 +226,16 @@ unsafe = true
   # Your favicon path, default is "/favicon.png"
   favicon = "assets/img/favicon.png"
 
+  [params.author]
+    name = "Evreux-Arménie"
+    surname = "AAMC"
+    bio = "Association Arménienne Mémoire Culture"
+    job = "Association culturelle"
+    location = "Evreux, France"
+    gravatarEmail = "aamcevreux@gmail.com"
+    logodesktop = "assets/img/logo-aamc-desktop.jpg"
+    logomobile = "assets/img/logo-aamc-mobile.jpg"
+
   # ------------------
   # External resources
   # ------------------

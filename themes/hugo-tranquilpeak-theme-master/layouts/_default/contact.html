@@ -40,7 +40,7 @@
                   <div>
                     {{ .Content }}
                     <ul>
-                      <ul style="display:flex; align-items:center"><img style="margin-right: 5%;" height="60" width="60" src="{{ .Params.iconEmail | relURL }}" alt="{{ .Params.altEmail }}" /><a href="mailto:{{ .Site.Data.contact.email }}">
+                      <ul style="display:flex; align-items:center"><img style="margin-right: 5%;" height="60" width="60" src="{{ .Params.iconEmail | relURL }}" alt="{{ .Params.altEmail }}" /><a href="mailto:{{ hugo.Data.contact.email }}">
                           {{ .Params.email }}</a></ul>
                     </ul>
                   </div>
