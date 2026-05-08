@@ -9,7 +9,7 @@ summary: "L'oeuvre d'Orient (Au service des chrétiens d'orient)  Dans toutes le
   messes des 9 et 10 mai prochain. "
 date: 2026-05-08T21:20:16.514Z
 thumbnailImagePosition: left
-thumbnailImage: assets/img/saint-ignace-maloyan.jpg
+thumbnailImage: assets/img/l-ouvre-d-orient-logo.png
 image: assets/img/saint-ignace-maloyan.jpg
 ---
 ### L'œuvre d'Orient (Au service des chrétiens d'orient)
